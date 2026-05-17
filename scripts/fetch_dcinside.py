@@ -34,6 +34,7 @@ INTEREST_TAGS = {
 }
 
 ROW_RE = re.compile(r'<tr\s+class="ub-content[^"]*"[^>]*>(?P<body>.*?)</tr>', re.DOTALL)
+NUM_RE = re.compile(r'class="gall_num"[^>]*>\s*(\d+)\s*<')
 DATA_NO_RE = re.compile(r'\bdata-no="(\d+)"')
 TITLE_RE = re.compile(
     r'<a[^>]+href="/mgallery/board/view/\?id=' + GALL_ID + r'&(?:amp;)?no=\d+[^"]*"[^>]*>(?P<t>.*?)</a>',
@@ -80,9 +81,9 @@ def parse_list(html: str) -> list[dict]:
             preview = re.sub(r"\s+", " ", body[:400])
             print(f"  DEBUG row#{rows_seen} preview: {preview}", file=sys.stderr)
             debug_first_logged = (rows_seen == 2)
-        no_m = DATA_NO_RE.search(body)
+        no_m = NUM_RE.search(body) or DATA_NO_RE.search(body)
         if not no_m:
-            continue  # notice / survey row
+            continue  # notice / ad / survey row
         title_m = TITLE_RE.search(body)
         if not title_m:
             continue
