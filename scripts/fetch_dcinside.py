@@ -72,9 +72,14 @@ def tag_post(text: str) -> list[str]:
 def parse_list(html: str) -> list[dict]:
     rows: list[dict] = []
     rows_seen = 0
+    debug_first_logged = False
     for m in ROW_RE.finditer(html):
         rows_seen += 1
         body = m.group("body")
+        if rows_seen <= 2 and not debug_first_logged:
+            preview = re.sub(r"\s+", " ", body[:400])
+            print(f"  DEBUG row#{rows_seen} preview: {preview}", file=sys.stderr)
+            debug_first_logged = (rows_seen == 2)
         no_m = DATA_NO_RE.search(body)
         if not no_m:
             continue  # notice / survey row
