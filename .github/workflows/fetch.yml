@@ -1,0 +1,42 @@
+name: Fetch tech-digest sources
+
+on:
+  schedule:
+    # 22:30 UTC daily = 07:30 KST — 30 min before the claude.ai cron at 08:00 KST
+    - cron: '30 22 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Ensure data dir
+        run: mkdir -p data
+
+      - name: Fetch Reddit
+        run: python scripts/fetch_reddit.py
+        continue-on-error: true
+
+      - name: Fetch DCInside
+        run: python scripts/fetch_dcinside.py
+        continue-on-error: true
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "tech-digest-bot"
+          git config user.email "bot@noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
