@@ -1,0 +1,22 @@
+{
+  "source": "reddit",
+  "collected_at": "2026-05-17T04:19:44.077242+00:00",
+  "window": "24h",
+  "items": [],
+  "stats": {
+    "total": 0,
+    "subreddits_attempted": 10,
+    "subreddits_failed": [
+      "singularity",
+      "ClaudeAI",
+      "ClaudeCode",
+      "LocalLLaMA",
+      "OpenAI",
+      "AI_Agents",
+      "MachineLearning",
+      "LLMDevs",
+      "wallstreetbets",
+      "stocks"
+    ]
+  }
+}
