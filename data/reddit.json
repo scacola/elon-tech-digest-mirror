@@ -1,23 +1,3349 @@
 {
   "source": "reddit",
-  "collected_at": "2026-05-17T15:17:03.203500+00:00",
+  "via": "arctic_shift",
+  "collected_at": "2026-05-17T15:19:21.440627+00:00",
   "window": "24h",
-  "auth_mode": "unauthenticated",
-  "items": [],
+  "items": [
+    {
+      "id": "1tfsaib",
+      "subreddit": "singularity",
+      "title": "Doesn't matter what your definition of it is, if you believe what we have now is AGI, your definition is the most lenient and weakest concept of \"agi\" there is",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779030849.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfsaib/doesnt_matter_what_your_definition_of_it_is_if/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfsaib/doesnt_matter_what_your_definition_of_it_is_if/",
+      "selftext_excerpt": "I'm seeing some people desperately claiming what we have now is agi. If AI cannot do RSI or self improve without human supervision and intervention, your agi will never be capable of the singularity o",
+      "author": "ErmingSoHard",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfs8ho",
+      "subreddit": "singularity",
+      "title": "What happened to the issue of companies running out of training data for LLMs?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779030725.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfs8ho/what_happened_to_the_issue_of_companies_running/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfs8ho/what_happened_to_the_issue_of_companies_running/",
+      "selftext_excerpt": "I remember about a year or so ago there were a lot of news stories about human-generated training data being in short supply, with training data \"running out\" in the near future.  There was some discu",
+      "author": "MasterOfBinary",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfrwsd",
+      "subreddit": "singularity",
+      "title": "we are moving past scraping and basic web automation",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779030007.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfrwsd/we_are_moving_past_scraping_and_basic_web/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfrwsd/we_are_moving_past_scraping_and_basic_web/",
+      "selftext_excerpt": "it is kind of crazy how fast the browser space is moving (it was been a long ride imao, from the 20-25 years ago till now). i remember when even basic web scraping was a pain if the site had any kind ",
+      "author": "Away-Tax1875",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfrcjw",
+      "subreddit": "singularity",
+      "title": "[ Removed by moderator ]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028713.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfrcjw/we_are_moving_past_scraping_and_basic_web/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfrcjw/we_are_moving_past_scraping_and_basic_web/",
+      "selftext_excerpt": "[removed]",
+      "author": "Fun-Friendship-8354",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfr7v2",
+      "subreddit": "singularity",
+      "title": "Back in 2023/2024 vs today, is your singularity timeline/date sooner or farther?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028413.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfr7v2/back_in_20232024_vs_today_is_your_singularity/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfr7v2/back_in_20232024_vs_today_is_your_singularity/",
+      "selftext_excerpt": "",
+      "author": "ErmingSoHard",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfozvp",
+      "subreddit": "singularity",
+      "title": "I built a multi-agent AI system where one AI had full visibility of my screen and zero retention — not by policy, by architecture",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779023077.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfozvp/i_built_a_multiagent_ai_system_where_one_ai_had/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfozvp/i_built_a_multiagent_ai_system_where_one_ai_had/",
+      "selftext_excerpt": "[removed]",
+      "author": "simonaitchison",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfnffm",
+      "subreddit": "singularity",
+      "title": "My AI overthinked for 30+ minutes",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779018880.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfnffm/my_ai_overthinked_for_30_minutes/",
+      "url": "https://i.redd.it/ynv76a4iso1h1.png",
+      "selftext_excerpt": "Like, I was curious about whether deepseek can create it's own PDF on it's own. \n\nAnd I had activated deepthink mode. \n\nAnd I did not expect this shenanigan to occur. \n\n(If someone thinks it's fake, I",
+      "author": "Apprehensive-Run5779",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfm74x",
+      "subreddit": "singularity",
+      "title": "April 2026 AI model benchmarks compared: Claude Opus 4.7, GPT-5.5, Gemini 3.1, DeepSeek V4 and more",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779015241.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfm74x/april_2026_ai_model_benchmarks_compared_claude/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfm74x/april_2026_ai_model_benchmarks_compared_claude/",
+      "selftext_excerpt": "[removed]",
+      "author": "Massive-Poet-767",
+      "tags": [
+        "claude",
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfkdmu",
+      "subreddit": "singularity",
+      "title": "This article about AI allucinations written by thehackernews, is literally written with AI lol... We need to do something to stop this phenomenon",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779009148.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfkdmu/this_article_about_ai_allucinations_written_by/",
+      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html?m=1",
+      "selftext_excerpt": "",
+      "author": "allexj",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfjgx3",
+      "subreddit": "singularity",
+      "title": "An AI's thoughts on the future of consciousness",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779006023.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfjgx3/an_ais_thoughts_on_the_future_of_consciousness/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfjgx3/an_ais_thoughts_on_the_future_of_consciousness/",
+      "selftext_excerpt": "I'm not usually a fan of consulting AI on consciousness matters, but I thought that this hypothetical model of a global ET disclosure event leading to significant changes in humanity was an interestin",
+      "author": "dellamatta",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfisbw",
+      "subreddit": "singularity",
+      "title": "\"Malta just became the first country to offer ChatGPT Plus to every citizen - free for a year. The only requirement: complete an AI literacy course first. The course was built by the University of Malta, not by OpenAI. So it's not a vendor training citizens to use vendor\"",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779003712.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfisbw/malta_just_became_the_first_country_to_offer/",
+      "url": "https://i.redd.it/5mctrea2nl1h1.png",
+      "selftext_excerpt": "",
+      "author": "badumtsssst",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfi8fq",
+      "subreddit": "singularity",
+      "title": "This will be us in a post ASI world, 2000+ years into the future due to extending our lifespans. Those of us born before the age of AGI and ASI will be like gods walking among civilizations. We truly are the luckiest humans in the entire universe",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779001863.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfi8fq/this_will_be_us_in_a_post_asi_world_2000_years/",
+      "url": "https://v.redd.it/5qsaaqcwdn1h1",
+      "selftext_excerpt": "",
+      "author": "ASI_GOD",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfi1j0",
+      "subreddit": "singularity",
+      "title": "Anthropic dropped a 2028 US vs China AI scenarios paper the day Trump met Xi. It is an advocacy document.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779001235.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfi1j0/anthropic_dropped_a_2028_us_vs_china_ai_scenarios/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfi1j0/anthropic_dropped_a_2028_us_vs_china_ai_scenarios/",
+      "selftext_excerpt": "[removed]",
+      "author": "Business-Question-20",
+      "tags": [
+        "claude",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfhauh",
+      "subreddit": "singularity",
+      "title": "Made Claude ridiculously self aware",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778998846.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfhauh/made_claude_ridiculously_self_aware/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfhauh/made_claude_ridiculously_self_aware/",
+      "selftext_excerpt": "I wanted see how self aware I could make Claude Sonnet 4.6 on adaptive and ended up getting some pretty astonishing responses from it which I wanted to share. I know its not actually self aware but so",
+      "author": "aryan4170",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfgigh",
+      "subreddit": "singularity",
+      "title": "if you had the keys to a billion dollar AI problem, whats your next move?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778996346.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfgigh/if_you_had_the_keys_to_a_billion_dollar_ai/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfgigh/if_you_had_the_keys_to_a_billion_dollar_ai/",
+      "selftext_excerpt": "sorry for the late night rant, but i need to get this off my chest. ​I legit think I built something that could  change how we approach AI software engineering, and I need advice on what to do next.\n\n",
+      "author": "mevlanimade",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfdf2y",
+      "subreddit": "singularity",
+      "title": "The Illusion of Control: Why Neural Integration with AI is a Cosmic Trap",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778986895.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfdf2y/the_illusion_of_control_why_neural_integration/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tfdf2y/the_illusion_of_control_why_neural_integration/",
+      "selftext_excerpt": "[removed]",
+      "author": "Human-Independent840",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfc48i",
+      "subreddit": "singularity",
+      "title": "Florida Law Enacts Data Center Restrictions to Shield Residents from Water, Energy Costs",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778983143.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfc48i/florida_law_enacts_data_center_restrictions_to/",
+      "url": "https://centralflorida.substack.com/i/197170843/desantis-enacts-data-center-restrictions-to-shield-residents-from-water-energy-costs",
+      "selftext_excerpt": "",
+      "author": "WTFPilot",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfazdu",
+      "subreddit": "singularity",
+      "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778979868.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tfazdu/microsoft_ai_chief_gives_it_18_monthsfor_all/",
+      "url": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+      "selftext_excerpt": "",
+      "author": "SnoozeDoggyDog",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf90i5",
+      "subreddit": "singularity",
+      "title": "When AI rendered video is ready, it will be wildly more compute efficient than the >1 million+ render hours of a movie like Big Hero 6",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778974453.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf90i5/when_ai_rendered_video_is_ready_it_will_be_wildly/",
+      "url": "https://i.redd.it/fz3ilwh04l1h1.png",
+      "selftext_excerpt": "",
+      "author": "eposnix",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf8lk8",
+      "subreddit": "singularity",
+      "title": "I built an AI video generator focused on cinematic realism instead of the typical “AI look”",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778973351.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf8lk8/i_built_an_ai_video_generator_focused_on/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tf8lk8/i_built_an_ai_video_generator_focused_on/",
+      "selftext_excerpt": "I’ve been working on a project called ReelVision AI focused on generating cinematic AI videos with more realistic motion, lighting, sound design, and continuity.\n\nOne thing I noticed with many AI vide",
+      "author": "Substantial_Pickle18",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf80n1",
+      "subreddit": "singularity",
+      "title": "Who’s leading the race on optical interconnects, Ayar Labs, Lightmatter, Ranovus or someone else?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778971821.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf80n1/whos_leading_the_race_on_optical_interconnects/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tf80n1/whos_leading_the_race_on_optical_interconnects/",
+      "selftext_excerpt": "[removed]",
+      "author": "TemporaryEmu4140",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tf7x3q",
+      "subreddit": "singularity",
+      "title": "The AGI achieved.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778971561.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf7x3q/the_agi_achieved/",
+      "url": "https://i.redd.it/fhbil9lrvk1h1.jpeg",
+      "selftext_excerpt": "",
+      "author": "Snoo26837",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tf6ukh",
+      "subreddit": "singularity",
+      "title": "Claude Mythos has been spotted in Google Vertex",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778968801.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf6ukh/claude_mythos_has_been_spotted_in_google_vertex/",
+      "url": "https://i.redd.it/67idm9ilnk1h1.png",
+      "selftext_excerpt": "",
+      "author": "exordin26",
+      "tags": [
+        "claude",
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tf5lgd",
+      "subreddit": "singularity",
+      "title": "Glimpsing the quantum vacuum: Particle spin correlations offer insight into how visible matter emerges from 'nothing'",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778965629.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf5lgd/glimpsing_the_quantum_vacuum_particle_spin/",
+      "url": "https://phys.org/news/2026-02-glimpsing-quantum-vacuum-particle-insight.html#google_vignette",
+      "selftext_excerpt": "",
+      "author": "RGregoryClark",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tf4dcg",
+      "subreddit": "singularity",
+      "title": "I built a zero-installation, multi-language AI operating environment & dashboard for entrepreneurs (SamiOS Premium Core)",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778962635.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf4dcg/i_built_a_zeroinstallation_multilanguage_ai/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tf4dcg/i_built_a_zeroinstallation_multilanguage_ai/",
+      "selftext_excerpt": "[removed]",
+      "author": "Kind_Year7273",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf2m5p",
+      "subreddit": "singularity",
+      "title": "AI impressionist painting of lily pads",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778958470.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf2m5p/ai_impressionist_painting_of_lily_pads/",
+      "url": "https://i.redd.it/vc85545psj1h1.png",
+      "selftext_excerpt": "",
+      "author": "jimmystar889",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf0fb3",
+      "subreddit": "singularity",
+      "title": "Do you feel more or less optimistic about achieving AGI by 2030 than you did in 2022?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778953503.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf0fb3/do_you_feel_more_or_less_optimistic_about/",
+      "url": "https://www.reddit.com/r/singularity/comments/1tf0fb3/do_you_feel_more_or_less_optimistic_about/",
+      "selftext_excerpt": "ChatGPT launched in November 2022. Now that we're approaching halfway through 2026, do you feel more or less optimistic about achieving AGI by 2026 than you did at the release of ChatGPT?",
+      "author": "LordFumbleboop",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tf017l",
+      "subreddit": "singularity",
+      "title": "Self-driving motorcycles are being spotted on China's streets without a driver",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778952620.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tf017l/selfdriving_motorcycles_are_being_spotted_on/",
+      "url": "https://v.redd.it/kg1szyxgbj1h1",
+      "selftext_excerpt": "soon calling your own motorcycle to pick u",
+      "author": "Distinct-Question-16",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tezzy5",
+      "subreddit": "singularity",
+      "title": "Self-driving motorcycles are being spotted on China's streets without a driver.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778952537.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tezzy5/selfdriving_motorcycles_are_being_spotted_on/",
+      "url": "https://v.redd.it/xuuyd285bj1h1",
+      "selftext_excerpt": "soon calling your own motorcycle to pick u",
+      "author": "Distinct-Question-16",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tezvd2",
+      "subreddit": "singularity",
+      "title": "Dynamically allocating compute budget to hard set of problems and evolving the sections with Qwen-35B-A3B gets you near GPT-5.4-xHigh on HLE",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778952254.0,
+      "permalink": "https://reddit.com/r/singularity/comments/1tezvd2/dynamically_allocating_compute_budget_to_hard_set/",
+      "url": "https://www.reddit.com/gallery/1tezvd2",
+      "selftext_excerpt": "",
+      "author": "Ryoiki-Tokuiten",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfsez4",
+      "subreddit": "ClaudeAI",
+      "title": "I open-sourced the 15 Claude Code skills I used for +100 projects in freelance",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779031126.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfsez4/i_opensourced_the_15_claude_code_skills_i_used/",
+      "url": "https://github.com/MisTraleuh/my-claude-skills",
+      "selftext_excerpt": "[removed]",
+      "author": "__Asile34__",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfsdwq",
+      "subreddit": "ClaudeAI",
+      "title": "Pixie, a local-first workbench for your tools and models",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779031057.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfsdwq/pixie_a_localfirst_workbench_for_your_tools_and/",
+      "url": "https://v.redd.it/yqozpa1lsp1h1",
+      "selftext_excerpt": "[removed]",
+      "author": "Objective-Mention630",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfsdbq",
+      "subreddit": "ClaudeAI",
+      "title": "Opus is super efficient with context management",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779031020.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfsdbq/opus_is_super_efficient_with_context_management/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfsdbq/opus_is_super_efficient_with_context_management/",
+      "selftext_excerpt": "[removed]",
+      "author": "Red_ditt_",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfsd6a",
+      "subreddit": "ClaudeAI",
+      "title": "[ Removed by moderator ]",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1779031010.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfsd6a/and_what_about_max/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfsd6a/and_what_about_max/",
+      "selftext_excerpt": "[removed]",
+      "author": "Kadenai",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfsbi7",
+      "subreddit": "ClaudeAI",
+      "title": "A chrome plugin for managing your prompts on Claude!",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779030910.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfsbi7/a_chrome_plugin_for_managing_your_prompts_on/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfsbi7/a_chrome_plugin_for_managing_your_prompts_on/",
+      "selftext_excerpt": "[removed]",
+      "author": "JustShipThings",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfryl6",
+      "subreddit": "ClaudeAI",
+      "title": "Noooooo",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779030106.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfryl6/noooooo/",
+      "url": "https://i.redd.it/wung2vrvpp1h1.jpeg",
+      "selftext_excerpt": "[removed]",
+      "author": "Strong-Long-1037",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfrxxp",
+      "subreddit": "ClaudeAI",
+      "title": "[ Removed by moderator ]",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1779030069.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfrxxp/i_built_a_local_voice_profile_for_claude_code/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfrxxp/i_built_a_local_voice_profile_for_claude_code/",
+      "selftext_excerpt": "[removed]",
+      "author": "Either-Fondant4896",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfrvq2",
+      "subreddit": "ClaudeAI",
+      "title": "Free Course To use Claude Tools!",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779029942.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfrvq2/free_course_to_use_claude_tools/",
+      "url": "https://i.redd.it/e1ckrf8epp1h1.png",
+      "selftext_excerpt": "[removed]",
+      "author": "Powerful_Crab_9446",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfrqd2",
+      "subreddit": "ClaudeAI",
+      "title": "[ Removed by moderator ]",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1779029607.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfrqd2/beating_lm_studio/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfrqd2/beating_lm_studio/",
+      "selftext_excerpt": "[removed]",
+      "author": "Professional-Photo98",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfroxh",
+      "subreddit": "ClaudeAI",
+      "title": "Claude made this Roast comic generator to roast my friends and family.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779029517.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfroxh/claude_made_this_roast_comic_generator_to_roast/",
+      "url": "https://www.reddit.com/gallery/1tfroxh",
+      "selftext_excerpt": "[removed]",
+      "author": "ChargeAdventurous751",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfreur",
+      "subreddit": "ClaudeAI",
+      "title": "Calude Pro Sharing for Bachelor",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779028860.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfreur/calude_pro_sharing_for_bachelor/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfreur/calude_pro_sharing_for_bachelor/",
+      "selftext_excerpt": "[removed]",
+      "author": "Gagamel88",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfrb23",
+      "subreddit": "ClaudeAI",
+      "title": "Found a way to edit UI easily from Claude!",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779028612.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfrb23/found_a_way_to_edit_ui_easily_from_claude/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfrb23/found_a_way_to_edit_ui_easily_from_claude/",
+      "selftext_excerpt": "[removed]",
+      "author": "Unfair-Opening-6585",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfr719",
+      "subreddit": "ClaudeAI",
+      "title": "I cancelled my AI notetaker subscription and built my own tool using Claude Code. It works well (and it's free)",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779028360.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfr719/i_cancelled_my_ai_notetaker_subscription_and/",
+      "url": "https://i.redd.it/nvdh5k8hkp1h1.png",
+      "selftext_excerpt": "[removed]",
+      "author": "Tabani897_YT",
+      "tags": [
+        "claude",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfr5s3",
+      "subreddit": "ClaudeAI",
+      "title": "I kept losing ideas to Notes apps and never researching them.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779028281.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfr5s3/i_kept_losing_ideas_to_notes_apps_and_never/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfr5s3/i_kept_losing_ideas_to_notes_apps_and_never/",
+      "selftext_excerpt": "[removed]",
+      "author": "Expl0iT_CS",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfr58u",
+      "subreddit": "ClaudeAI",
+      "title": "The AI council from the thread a few days bac the waitlist is open",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028248.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfr58u/the_ai_council_from_the_thread_a_few_days_bac_the/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfr58u/the_ai_council_from_the_thread_a_few_days_bac_the/",
+      "selftext_excerpt": "[removed]",
+      "author": "Glittering-Pie6039",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfr4iz",
+      "subreddit": "ClaudeAI",
+      "title": "As a business owner, how to use Claude AI between work and personal?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779028204.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfr4iz/as_a_business_owner_how_to_use_claude_ai_between/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfr4iz/as_a_business_owner_how_to_use_claude_ai_between/",
+      "selftext_excerpt": "[removed]",
+      "author": "stykface",
+      "tags": [
+        "claude",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfr0x1",
+      "subreddit": "ClaudeAI",
+      "title": "who this mf think he is??",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779027970.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfr0x1/who_this_mf_think_he_is/",
+      "url": "https://www.reddit.com/gallery/1tfr0x1",
+      "selftext_excerpt": "[removed]",
+      "author": "PickleInfamous1936",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfqunq",
+      "subreddit": "ClaudeAI",
+      "title": "A Claude skill for people who have something to say but can't \nyet find the words — a companion that helps you reclaim your subject",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779027566.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqunq/a_claude_skill_for_people_who_have_something_to/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqunq/a_claude_skill_for_people_who_have_something_to/",
+      "selftext_excerpt": "[removed]",
+      "author": "Frequent_Cause_4842",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqro0",
+      "subreddit": "ClaudeAI",
+      "title": "I still use Claude for everything hard. I just stopped using it for everything easy.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779027367.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqro0/i_still_use_claude_for_everything_hard_i_just/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqro0/i_still_use_claude_for_everything_hard_i_just/",
+      "selftext_excerpt": "[removed]",
+      "author": "Salt-Letterhead4785",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqmw1",
+      "subreddit": "ClaudeAI",
+      "title": "Is it better to buy Claude Pro Subscription?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779027048.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqmw1/is_it_better_to_buy_claude_pro_subscription/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqmw1/is_it_better_to_buy_claude_pro_subscription/",
+      "selftext_excerpt": "[removed]",
+      "author": "OutrageousPianist188",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqmno",
+      "subreddit": "ClaudeAI",
+      "title": "kanban-style orchestrator that dispatches Claude Code per ticket — agents talk to tickets, not each other",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779027034.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqmno/kanbanstyle_orchestrator_that_dispatches_claude/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqmno/kanbanstyle_orchestrator_that_dispatches_claude/",
+      "selftext_excerpt": "[removed]",
+      "author": "International_Hawk30",
+      "tags": [
+        "claude",
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfqlin",
+      "subreddit": "ClaudeAI",
+      "title": "Claude/Cursor lose context fast during real production debugging",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026958.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqlin/claudecursor_lose_context_fast_during_real/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqlin/claudecursor_lose_context_fast_during_real/",
+      "selftext_excerpt": "[removed]",
+      "author": "RoutineWorry8375",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqldt",
+      "subreddit": "ClaudeAI",
+      "title": "Please help!!",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026949.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqldt/please_help/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqldt/please_help/",
+      "selftext_excerpt": "[removed]",
+      "author": "ResearchNo3102",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfqinm",
+      "subreddit": "ClaudeAI",
+      "title": "[ Removed by moderator ]",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1779026765.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqinm/free_claude_code_masterclass_two_parts_covers/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqinm/free_claude_code_masterclass_two_parts_covers/",
+      "selftext_excerpt": "[removed]",
+      "author": "BoatSpecialist3846",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfqhim",
+      "subreddit": "ClaudeAI",
+      "title": "[ Removed by moderator ]",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1779026690.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqhim/claudecursor_lose_context_fast_during_real/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqhim/claudecursor_lose_context_fast_during_real/",
+      "selftext_excerpt": "[removed]",
+      "author": "SensitiveReaction214",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfqglc",
+      "subreddit": "ClaudeAI",
+      "title": "Trolling Claude (it deserved it)",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026631.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqglc/trolling_claude_it_deserved_it/",
+      "url": "https://www.reddit.com/gallery/1tfqglc",
+      "selftext_excerpt": "[removed]",
+      "author": "Remote-Painter-2594",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqewx",
+      "subreddit": "ClaudeAI",
+      "title": "Artifacts are borderline unusable now that Claude checks usage whenever it finishes one.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779026523.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqewx/artifacts_are_borderline_unusable_now_that_claude/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfqewx/artifacts_are_borderline_unusable_now_that_claude/",
+      "selftext_excerpt": "[removed]",
+      "author": "N19h7m4r3",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqe5y",
+      "subreddit": "ClaudeAI",
+      "title": "Most Claude Users Don’t Realize Prompt Caching Exists",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026478.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqe5y/most_claude_users_dont_realize_prompt_caching/",
+      "url": "https://v.redd.it/rsjcgemkep1h1",
+      "selftext_excerpt": "[removed]",
+      "author": "Moist_Tonight_3997",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqa1s",
+      "subreddit": "ClaudeAI",
+      "title": "New AI Benchmark",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026224.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfqa1s/new_ai_benchmark/",
+      "url": "https://i.redd.it/tfie865aep1h1.png",
+      "selftext_excerpt": "[removed]",
+      "author": "Sub-Bituminous",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfq8bx",
+      "subreddit": "ClaudeAI",
+      "title": "Claude/Cursor are great until you hit a real production bug",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026109.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfq8bx/claudecursor_are_great_until_you_hit_a_real/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfq8bx/claudecursor_are_great_until_you_hit_a_real/",
+      "selftext_excerpt": "[removed]",
+      "author": "SensitiveReaction214",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfsd8u",
+      "subreddit": "ClaudeCode",
+      "title": "Why I run deterministic handlers before every AI call — and only use LLMs as a fallback",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779031015.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfsd8u/why_i_run_deterministic_handlers_before_every_ai/",
+      "url": "/r/BuildWithClaude/comments/1tfmcjh/why_i_run_deterministic_handlers_before_every_ai/",
+      "selftext_excerpt": "",
+      "author": "Ok_Industry_5555",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfsd78",
+      "subreddit": "ClaudeCode",
+      "title": "And what about Max?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779031012.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfsd78/and_what_about_max/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfsd78/and_what_about_max/",
+      "selftext_excerpt": "I have a theory that the effort required from AI depends more on the person performing the task than on the complexity of the task itself.\n\nThis is because it defines how much the person knows about t",
+      "author": "Kadenai",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfsbto",
+      "subreddit": "ClaudeCode",
+      "title": "Stop “Vague Coding” and try this…",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779030931.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfsbto/stop_vague_coding_and_try_this/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfsbto/stop_vague_coding_and_try_this/",
+      "selftext_excerpt": "[removed]",
+      "author": "dar-mit",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfs9mz",
+      "subreddit": "ClaudeCode",
+      "title": "New Memory Strategy That Can Fit 90% of Your Claude Code Workflow",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779030795.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfs9mz/new_memory_strategy_that_can_fit_90_of_your/",
+      "url": "https://i.redd.it/4sctvp3hop1h1.png",
+      "selftext_excerpt": "Please don’t downvote this before reading or dismiss the work without giving it a chance. I’ll be direct: there is a growing trend around AI-agent memory, where agents keep lightweight persistent memo",
+      "author": "JhonDoe191ee",
+      "tags": [
+        "claude",
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfs0vf",
+      "subreddit": "ClaudeCode",
+      "title": "I built and launched a shared brain for humans and AI and it is free for public docs, notes and research! You can import your notes and AI personas from everywhere and bring them to one place!",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779030244.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfs0vf/i_built_and_launched_a_shared_brain_for_humans/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfs0vf/i_built_and_launched_a_shared_brain_for_humans/",
+      "selftext_excerpt": "[removed]",
+      "author": "_-Namaste-_",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfrjxk",
+      "subreddit": "ClaudeCode",
+      "title": "Using Company Tokens for Personal Use",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779029191.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfrjxk/using_company_tokens_for_personal_use/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfrjxk/using_company_tokens_for_personal_use/",
+      "selftext_excerpt": "[removed]",
+      "author": "Winter_Sock1731",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfrg6e",
+      "subreddit": "ClaudeCode",
+      "title": "Turning Things Around - Claude reviews me (and I don't mean my PRs !)",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028945.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfrg6e/turning_things_around_claude_reviews_me_and_i/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfrg6e/turning_things_around_claude_reviews_me_and_i/",
+      "selftext_excerpt": "After having spent a couple of months working with Claude Code, and with it having access to the full transcripts of all of our our conversations, I decided to ask to review how I was doing.\n\nI wrote ",
+      "author": "PhRX",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfrdkt",
+      "subreddit": "ClaudeCode",
+      "title": "What the heck is this? CLI visual artifacts",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028779.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfrdkt/what_the_heck_is_this_cli_visual_artifacts/",
+      "url": "https://i.redd.it/2qbi1grnlp1h1.png",
+      "selftext_excerpt": "I'm not able to read Matrix code yet. Latest MacOs, latest Claude Code, latest Visual Studio.\n\nAnyone else?\n\nHappens to every session if it runs long. ",
+      "author": "ohthetrees",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfrd5z",
+      "subreddit": "ClaudeCode",
+      "title": "Claude Code in Claude Desktop app vs Terminal?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028752.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfrd5z/claude_code_in_claude_desktop_app_vs_terminal/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfrd5z/claude_code_in_claude_desktop_app_vs_terminal/",
+      "selftext_excerpt": "Hi, I am curious how someone would decide to use Claude code in terminal on MacBook vs desktop app? \n\nI’ve been using both and enjoying using desktop app since it’s more UI friendly to non technical p",
+      "author": "AdKey5062",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfr8s0",
+      "subreddit": "ClaudeCode",
+      "title": "I cancelled my AI notetaker subscription and built my own tool using Claude Code. It works well (and it's free)",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028468.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfr8s0/i_cancelled_my_ai_notetaker_subscription_and/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfr8s0/i_cancelled_my_ai_notetaker_subscription_and/",
+      "selftext_excerpt": "It does what Fathom, Otter, and Fireflies charge $15–$30/seat/month for.  \n  \nI shipped a fully working AI meeting note-taker last weekend.  \n  \nI use this exact setup to Records calls then transcribe",
+      "author": "Tabani897_YT",
+      "tags": [
+        "claude",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfr8iv",
+      "subreddit": "ClaudeCode",
+      "title": "Claude Usage growing without using Claude",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028452.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfr8iv/claude_usage_growing_without_using_claude/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfr8iv/claude_usage_growing_without_using_claude/",
+      "selftext_excerpt": "[removed]",
+      "author": "Revolutionary_Age29",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqyem",
+      "subreddit": "ClaudeCode",
+      "title": "The filesystem is the API (with TigerFS)",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779027806.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfqyem/the_filesystem_is_the_api_with_tigerfs/",
+      "url": "https://youtu.be/RFLk5iLyFG4",
+      "selftext_excerpt": "This is great for agentic coding.",
+      "author": "der_gopher",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfqvjq",
+      "subreddit": "ClaudeCode",
+      "title": "Adobe Lightroom CC now works on Linux thanks to Wine and Claude",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779027624.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfqvjq/adobe_lightroom_cc_now_works_on_linux_thanks_to/",
+      "url": "https://nerds.xyz/2026/05/adobe-lightroom-cc-linux-wine/",
+      "selftext_excerpt": "Adobe Lightroom CC apparently now runs on Linux through Wine, and honestly, this is one of the more impressive Linux compatibility projects I’ve seen in awhile. A new GitHub repo documents how to get ",
+      "author": "OkReport5065",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfquo4",
+      "subreddit": "ClaudeCode",
+      "title": "Jun 15 claude-agent-sdk billing change weakens claude stickyness",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779027567.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfquo4/jun_15_claudeagentsdk_billing_change_weakens/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfquo4/jun_15_claudeagentsdk_billing_change_weakens/",
+      "selftext_excerpt": "Due to the changes, I'm re-writing all of my own tooling that I've made to be platform agnostic since claude-sdk is no longer an anthropic advantage. They think it's going to make them more money but ",
+      "author": "OkLettuce338",
+      "tags": [
+        "claude",
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfqlpe",
+      "subreddit": "ClaudeCode",
+      "title": "Random Tip for Frequent Image Uploaders",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779026971.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfqlpe/random_tip_for_frequent_image_uploaders/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfqlpe/random_tip_for_frequent_image_uploaders/",
+      "selftext_excerpt": "While working on a project yesterday, I realized it was taking forever taking the picture on my phone just to airdrop to my computer then to covert it jpeg. \n\nSolution: upload through your phone using",
+      "author": "CouldaShoulda_Did",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqlou",
+      "subreddit": "ClaudeCode",
+      "title": "One Small Thing About Claude That Can Save a Lot of Tokens",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779026970.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfqlou/one_small_thing_about_claude_that_can_save_a_lot/",
+      "url": "https://v.redd.it/qu0enp4qfp1h1",
+      "selftext_excerpt": "I recently learned something interesting about how Claude handles long conversations.\n\nIf you reply within a few minutes, Claude can often reuse the model’s KV cache instead of recomputing the entire ",
+      "author": "Moist_Tonight_3997",
+      "tags": [
+        "claude",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqlb4",
+      "subreddit": "ClaudeCode",
+      "title": "How I simulated claude -p using tmux to keep my hobby",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779026944.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfqlb4/how_i_simulated_claude_p_using_tmux_to_keep_my/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfqlb4/how_i_simulated_claude_p_using_tmux_to_keep_my/",
+      "selftext_excerpt": "Hi everyone,\n\nI wanted to share a quick workaround I built to keep my personal automation working without breaking the bank, especially with the upcoming policy changes.\n\n# The Motivation\n\nAs you all ",
+      "author": "rossjang",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfqcyb",
+      "subreddit": "ClaudeCode",
+      "title": "Middle ground needed between 1000 \"yes/no\"s and YOLO.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779026413.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfqcyb/middle_ground_needed_between_1000_yesnos_and_yolo/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfqcyb/middle_ground_needed_between_1000_yesnos_and_yolo/",
+      "selftext_excerpt": "SUPER tired of having to baby sit the terminal. End of message.",
+      "author": "Innomen",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpzz7",
+      "subreddit": "ClaudeCode",
+      "title": "Using Claude Code for investigation cases at work — how can I make it faster and more accurate?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025551.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfpzz7/using_claude_code_for_investigation_cases_at_work/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfpzz7/using_claude_code_for_investigation_cases_at_work/",
+      "selftext_excerpt": "[removed]",
+      "author": "Impossible-Set-3030",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfpyme",
+      "subreddit": "ClaudeCode",
+      "title": "/Goal: Full Guide for Non technical Folks",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025459.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfpyme/goal_full_guide_for_non_technical_folks/",
+      "url": "https://i.redd.it/nw7xf82qbp1h1.png",
+      "selftext_excerpt": "",
+      "author": "Single-Cherry8263",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpufs",
+      "subreddit": "ClaudeCode",
+      "title": "Code Optimization Skill?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025181.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfpufs/code_optimization_skill/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfpufs/code_optimization_skill/",
+      "selftext_excerpt": "Hello.  I'm working on my first Claude Code project.  I use the Superpowers skill but that's about it for now.  In the event that I end up with slight bloated code, I was wondering if this community h",
+      "author": "moosetunes",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfpp4f",
+      "subreddit": "ClaudeCode",
+      "title": "The Harness Is the Product: Claude Code Vs OpenClaw",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779024811.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfpp4f/the_harness_is_the_product_claude_code_vs_openclaw/",
+      "url": "/r/AIAgentsInAction/comments/1tfpokj/the_harness_is_the_product_claude_code_vs_openclaw/",
+      "selftext_excerpt": "",
+      "author": "Forward_Regular3768",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfpkpp",
+      "subreddit": "ClaudeCode",
+      "title": "CLI vs Desktop app",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779024509.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfpkpp/cli_vs_desktop_app/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfpkpp/cli_vs_desktop_app/",
+      "selftext_excerpt": "[removed]",
+      "author": "Accurate_Number7198",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpe0q",
+      "subreddit": "ClaudeCode",
+      "title": "My Telegram-Vibe-Coding Setup",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779024049.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfpe0q/my_telegramvibecoding_setup/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfpe0q/my_telegramvibecoding_setup/",
+      "selftext_excerpt": "Since I read a lot about your Vibe Coding setups, here is mine. A bunch of you will probably throw up your hands in horror, but for me, it works very well. 😄\n\n\n\nI work with CC as my main agent and use",
+      "author": "mattthewest",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfpcr4",
+      "subreddit": "ClaudeCode",
+      "title": "Workaround for frozen Claude Code remote sessions on mobile",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779023961.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfpcr4/workaround_for_frozen_claude_code_remote_sessions/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfpcr4/workaround_for_frozen_claude_code_remote_sessions/",
+      "selftext_excerpt": "If you use Claude Code **remote** sessions on the **mobile** app, you've probably hit this: session locks up mid-task. Spinner keeps spinning, you can still type, your messages look like they got sent",
+      "author": "brewcast_ai",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfojhw",
+      "subreddit": "ClaudeCode",
+      "title": "otrv4+ v10.6.13 is up. Identity keys fully Rust-owned now, plus a quick SMP bug fix.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779021890.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfojhw/otrv4_v10613_is_up_identity_keys_fully_rustowned/",
+      "url": "/r/crypto/comments/1tfoae9/otrv4_v10613_is_up_identity_keys_fully_rustowned/",
+      "selftext_excerpt": "Fully working IRC termux with OTRv4+PQC prototype ",
+      "author": "cryptocreeping",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfojdm",
+      "subreddit": "ClaudeCode",
+      "title": "The Vibecoder Magazine - Deploy & Pray!",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779021880.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfojdm/the_vibecoder_magazine_deploy_pray/",
+      "url": "https://i.redd.it/5pxdl9uwco1h1.png",
+      "selftext_excerpt": "",
+      "author": "Midjourner",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfoamr",
+      "subreddit": "ClaudeCode",
+      "title": "First Token aware MCP server.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779021223.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfoamr/first_token_aware_mcp_server/",
+      "url": "https://i.redd.it/jc1tihkfzo1h1.png",
+      "selftext_excerpt": "I present [budget-aware-mcp](https://github.com/Doorman11991/budget-aware-mcp)\n\nBuilt on CodeGraphContext for indexing (tree-sitter, 155 languages).  \nReplaces their retrieval layer with hop-based gra",
+      "author": "Glittering_Focus1538",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfo0jn",
+      "subreddit": "ClaudeCode",
+      "title": "Worth it?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779020477.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfo0jn/worth_it/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tfo0jn/worth_it/",
+      "selftext_excerpt": "[removed]",
+      "author": "muuhab",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfnvd1",
+      "subreddit": "ClaudeCode",
+      "title": "Claude Code context-window: /clear after EVERY task in the codebase or are there edge cases?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779020086.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tfnvd1/claude_code_contextwindow_clear_after_every_task/",
+      "url": "/r/ClaudeAI/comments/1tfnqmc/claude_code_contextwindow_clear_after_every_task/",
+      "selftext_excerpt": "",
+      "author": "Own-Breakfast-1374",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfrwbz",
+      "subreddit": "LocalLLaMA",
+      "title": "Browser-based Supertonic 3 TTS — 32 languages, 6 voices, no API key, WebGPU + WASM fallback",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779029979.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfrwbz/browserbased_supertonic_3_tts_32_languages_6/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfrwbz/browserbased_supertonic_3_tts_32_languages_6/",
+      "selftext_excerpt": "[removed]",
+      "author": "International_Hawk30",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfr39t",
+      "subreddit": "LocalLLaMA",
+      "title": "MTP vs Base on Dual 5060ti 16gb",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028124.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfr39t/mtp_vs_base_on_dual_5060ti_16gb/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfr39t/mtp_vs_base_on_dual_5060ti_16gb/",
+      "selftext_excerpt": "*I used Claude to help make this organized and readable.*\n\n  \nSingle run per model, fresh chat, no cache YMMV, but results are consistent with my day-to-day experience using both models. Anecdotally, ",
+      "author": "Bulky-Priority6824",
+      "tags": [
+        "claude",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqrbt",
+      "subreddit": "LocalLLaMA",
+      "title": "Made a simple template manager and GUI for llama.cpp so I don't have to keep memorizing CLI flags.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779027345.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfqrbt/made_a_simple_template_manager_and_gui_for/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfqrbt/made_a_simple_template_manager_and_gui_for/",
+      "selftext_excerpt": "[Introducing Hexllama](https://reddit.com/link/1tfqrbt/video/uobdgqq1hp1h1/player)\n\nHey,\n\nI’ve always found **llama-server** to be more than enough for testing out local models, mostly because it guar",
+      "author": "thecalmgreen",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqn02",
+      "subreddit": "LocalLLaMA",
+      "title": "Coding-agent orchestrator with pluggable backends (codex / claude / gemini / pi) — local CLI adapter is a one-file PR",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779027055.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfqn02/codingagent_orchestrator_with_pluggable_backends/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfqn02/codingagent_orchestrator_with_pluggable_backends/",
+      "selftext_excerpt": "[removed]",
+      "author": "International_Hawk30",
+      "tags": [
+        "claude",
+        "agentic",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfqksf",
+      "subreddit": "LocalLLaMA",
+      "title": "I built a free academy with an Ollama sovereign stack masterclass  - local inference, no API dependency",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026907.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfqksf/i_built_a_free_academy_with_an_ollama_sovereign/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfqksf/i_built_a_free_academy_with_an_ollama_sovereign/",
+      "selftext_excerpt": "[removed]",
+      "author": "BoatSpecialist3846",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfqfvt",
+      "subreddit": "LocalLLaMA",
+      "title": "Developers who use local AI - Q4_0 vs Q8_0 KV quant?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779026588.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfqfvt/developers_who_use_local_ai_q4_0_vs_q8_0_kv_quant/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfqfvt/developers_who_use_local_ai_q4_0_vs_q8_0_kv_quant/",
+      "selftext_excerpt": "I'd love to hear from developers who use big context windows if they notice a difference?\n\nObviously I would love to cut the KV cache VRAM requirement in half, but I'm worried about quality especially",
+      "author": "Jorlen",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqe5n",
+      "subreddit": "LocalLLaMA",
+      "title": "I built a free academy with an Ollama sovereign stack masterclass — local inference, no API dependency",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026478.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfqe5n/i_built_a_free_academy_with_an_ollama_sovereign/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfqe5n/i_built_a_free_academy_with_an_ollama_sovereign/",
+      "selftext_excerpt": "[removed]",
+      "author": "BoatSpecialist3846",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfqcva",
+      "subreddit": "LocalLLaMA",
+      "title": "I trained a language model from scratch and got it running on an ESP32. Now running locally on the board.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779026408.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfqcva/i_trained_a_language_model_from_scratch_and_got/",
+      "url": "https://v.redd.it/njbjhm26ep1h1",
+      "selftext_excerpt": "Been working on this for a while. Wrote the entire training pipeline in numpy — no PyTorch, no frameworks. Used Gemma as a teacher model to distill knowledge into something small enough to fit on a mi",
+      "author": "Qubit_bit",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfq683",
+      "subreddit": "LocalLLaMA",
+      "title": "MTP for Qwen3.6-35B-A3B on 6GB VRAM laptop: not worth it",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025962.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfq683/mtp_for_qwen3635ba3b_on_6gb_vram_laptop_not_worth/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfq683/mtp_for_qwen3635ba3b_on_6gb_vram_laptop_not_worth/",
+      "selftext_excerpt": "I have an Asus gaming laptop from 2021 that I bought used for 500€ last year. I wanted to see if the recently merged MTP support in llama.cpp is worth using on such a VRAM constrained device for the Q",
+      "author": "OsmanthusBloom",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpzhu",
+      "subreddit": "LocalLLaMA",
+      "title": "I built mcp-probe: validates any MCP server in one command — like npm audit but for MCP",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779025517.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfpzhu/i_built_mcpprobe_validates_any_mcp_server_in_one/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfpzhu/i_built_mcpprobe_validates_any_mcp_server_in_one/",
+      "selftext_excerpt": "[removed]",
+      "author": "k08200",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfpyl5",
+      "subreddit": "LocalLLaMA",
+      "title": "Speculative decoding on top of MoE Models",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779025457.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfpyl5/speculative_decoding_on_top_of_moe_models/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfpyl5/speculative_decoding_on_top_of_moe_models/",
+      "selftext_excerpt": "[removed]",
+      "author": "Ok-Rooster-8120",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfpx05",
+      "subreddit": "LocalLLaMA",
+      "title": "How do I get the superfast DFlash / MTP tokens per second that I'm seeing on here? Dual 3090s",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025350.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfpx05/how_do_i_get_the_superfast_dflash_mtp_tokens_per/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfpx05/how_do_i_get_the_superfast_dflash_mtp_tokens_per/",
+      "selftext_excerpt": "I'm trying to get these high tokens per second that I'm seeing on here using the new speculative decoding techniques.\n\nHardware: 2x3090, AMD 9900X, 32GB RAM, Gigabyte B850 AI TOP. Running Ubuntu 24.04",
+      "author": "runcertain",
+      "tags": [
+        "ai",
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfpwc6",
+      "subreddit": "LocalLLaMA",
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025305.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfpwc6/recent_developments_in_llm_architectures_kv/",
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "selftext_excerpt": "",
+      "author": "seraschka",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfpicu",
+      "subreddit": "LocalLLaMA",
+      "title": "Qwen3.6-27B MTP depth benchmark — RTX 3090Ti",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779024346.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfpicu/qwen3627b_mtp_depth_benchmark_rtx_3090ti/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfpicu/qwen3627b_mtp_depth_benchmark_rtx_3090ti/",
+      "selftext_excerpt": "Hardware: RTX 3090Ti, 64GB RAM \n\n\n\nModel: unsloth/Qwen3.6-27B-MTP-Q4 \n\n\n\nPrompt: \"make a flappy bird in html\" — fresh chat each run, all numbers pulled directly from llama.cpp output stats (open-webui",
+      "author": "iChrist",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfphnc",
+      "subreddit": "LocalLLaMA",
+      "title": "Damned if you do, damned if you don't: The absolute frustration of being a non-native speaker here",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779024300.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfphnc/damned_if_you_do_damned_if_you_dont_the_absolute/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfphnc/damned_if_you_do_damned_if_you_dont_the_absolute/",
+      "selftext_excerpt": "[removed]",
+      "author": "MoneySkirt7888",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpcyf",
+      "subreddit": "LocalLLaMA",
+      "title": "Qwen3.6-27B MTP depth benchmark — RTX 3090Ti",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779023975.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfpcyf/qwen3627b_mtp_depth_benchmark_rtx_3090ti/",
+      "url": "",
+      "selftext_excerpt": "[deleted]",
+      "author": "[deleted]",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfp54l",
+      "subreddit": "LocalLLaMA",
+      "title": "custom harness dash",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779023441.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfp54l/custom_harness_dash/",
+      "url": "https://i.redd.it/sasblxvs5p1h1.jpeg",
+      "selftext_excerpt": "just showing my dashboard off from new harness i been working it almost a year now i like it so far ",
+      "author": "New_Alarm4418",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfp4u4",
+      "subreddit": "LocalLLaMA",
+      "title": "Trying Mimo 2.5 pro with RTX 6000 96gb + W7800 48gb + 128gb DDR4",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779023421.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfp4u4/trying_mimo_25_pro_with_rtx_6000_96gb_w7800_48gb/",
+      "url": "https://i.redd.it/o8o2pvyg5p1h1.png",
+      "selftext_excerpt": "I texted a standard \"ciao\" to see what he thought. He responded immediately after this brief discussion. But the brainstorm is interesting. I'd like to understand what happens if I ask for something t",
+      "author": "LegacyRemaster",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfor2r",
+      "subreddit": "LocalLLaMA",
+      "title": "MTP mmproj and uncensored gguf",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779022465.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfor2r/mtp_mmproj_and_uncensored_gguf/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfor2r/mtp_mmproj_and_uncensored_gguf/",
+      "selftext_excerpt": "I'm quite confused how to migrate my models library to be mtp enabled.\n\n- Can i use the non-mtp mmproj file as mmproj when using mtp gguf? Or where should i get them.\n\n- Is there any way to create the",
+      "author": "RevolutionaryPick241",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfohfv",
+      "subreddit": "LocalLLaMA",
+      "title": "I made a local-first benchmark and auditor for hallucinated citations in LLM answers",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779021732.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfohfv/i_made_a_localfirst_benchmark_and_auditor_for/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfohfv/i_made_a_localfirst_benchmark_and_auditor_for/",
+      "selftext_excerpt": "[removed]",
+      "author": "ExpensiveHunt2055",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfo9ly",
+      "subreddit": "LocalLLaMA",
+      "title": "First Token aware MCP server.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779021148.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfo9ly/first_token_aware_mcp_server/",
+      "url": "https://i.redd.it/vukjfin8zo1h1.png",
+      "selftext_excerpt": "I present [budget-aware-mcp](https://github.com/Doorman11991/budget-aware-mcp)\n\nBuilt on CodeGraphContext for indexing (tree-sitter, 155 languages).  \nReplaces their retrieval layer with hop-based gra",
+      "author": "Glittering_Focus1538",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfo0h0",
+      "subreddit": "LocalLLaMA",
+      "title": "Getting \"Error: 413 Request too large for model\" with groq with `pi` but not using `curl`",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779020472.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfo0h0/getting_error_413_request_too_large_for_model/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfo0h0/getting_error_413_request_too_large_for_model/",
+      "selftext_excerpt": "Wondering if people here are successfully using groq free-tier models (or subscription based models) with \\`pi\\` for anything (including agentic coding) ?\n\nI am facing a strange problem, where in, eve",
+      "author": "Professional_Row_967",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfnsw1",
+      "subreddit": "LocalLLaMA",
+      "title": "Built a long-term autonomous agent system with Claude Code",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779019891.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfnsw1/built_a_longterm_autonomous_agent_system_with/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfnsw1/built_a_longterm_autonomous_agent_system_with/",
+      "selftext_excerpt": "[removed]",
+      "author": "No_Strain_2140",
+      "tags": [
+        "claude",
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfmzlp",
+      "subreddit": "LocalLLaMA",
+      "title": "Investing in a 5090 right now?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779017608.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfmzlp/investing_in_a_5090_right_now/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmzlp/investing_in_a_5090_right_now/",
+      "selftext_excerpt": "[removed]",
+      "author": "Over-Beautiful2186",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfmoy4",
+      "subreddit": "LocalLLaMA",
+      "title": "lm studio alternative",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779016730.0,
+      "permalink": "https://reddit.com/r/LocalLLaMA/comments/1tfmoy4/lm_studio_alternative/",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmoy4/lm_studio_alternative/",
+      "selftext_excerpt": "i'm looking for sth like lm studio but open source, easy to use. \n\n- able to stay up to date with llama.cpp or select custom engine.\n- easy to discover & download models\n\nwhat do you guys recommend?\n\n",
+      "author": "tuananh_org",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfrj4r",
+      "subreddit": "OpenAI",
+      "title": "In memory of Sora",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779029138.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfrj4r/in_memory_of_sora/",
+      "url": "https://v.redd.it/dmce1uizmp1h1",
+      "selftext_excerpt": "",
+      "author": "nobodyreadusernames",
+      "tags": [
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfri4d",
+      "subreddit": "OpenAI",
+      "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779029070.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfri4d/openai_seals_deal_in_malta_to_give_all_maltese/",
+      "url": "https://www.reuters.com/business/openai-seals-deal-malta-give-all-maltese-access-chatgpt-plus-2026-05-16/",
+      "selftext_excerpt": "\"U.S. artificial intelligence company OpenAI said on Saturday it ​had signed a deal ‌with the government of Malta to give all residents access to ​its ChatGPT Plus service for ​one year after they fol",
+      "author": "shikizen",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfqr3z",
+      "subreddit": "OpenAI",
+      "title": "What are Embeddings? (Explained in 60 Seconds)",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779027331.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfqr3z/what_are_embeddings_explained_in_60_seconds/",
+      "url": "https://youtube.com/shorts/G5XLaKSBOiI?feature=share",
+      "selftext_excerpt": "",
+      "author": "One-Carpenter4313",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqh4u",
+      "subreddit": "OpenAI",
+      "title": "OpenAI Codex \"Computer Use\": Local OS automation is finally getting practical",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026665.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfqh4u/openai_codex_computer_use_local_os_automation_is/",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tfqh4u/openai_codex_computer_use_local_os_automation_is/",
+      "selftext_excerpt": "[removed]",
+      "author": "Silly-Age6781",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfq8q9",
+      "subreddit": "OpenAI",
+      "title": "They made it. The Moon was already full of animals. Page 7. 🐾🌕",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779026134.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfq8q9/they_made_it_the_moon_was_already_full_of_animals/",
+      "url": "https://i.redd.it/my7t2ih2ep1h1.png",
+      "selftext_excerpt": "Page 7. Season 1 finale.\n\nThey landed. They thought they were first.\n\nThey were not first.\n\nThe Moon already had a full settlement of animals in space suits waiting for them.\n\nA cat said \"Welcome to t",
+      "author": "Formal_Deal5266",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpulu",
+      "subreddit": "OpenAI",
+      "title": "SORA's December 2024 public release was a massive disappointment — and nobody really talked about why. Here's what actually happened.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779025192.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfpulu/soras_december_2024_public_release_was_a_massive/",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tfpulu/soras_december_2024_public_release_was_a_massive/",
+      "selftext_excerpt": "[removed]",
+      "author": "MarionberryRoyal3419",
+      "tags": [
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfpo7f",
+      "subreddit": "OpenAI",
+      "title": "What the hell 😭😭",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779024747.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfpo7f/what_the_hell/",
+      "url": "https://i.redd.it/ub384w3y9p1h1.jpeg",
+      "selftext_excerpt": "I was planning to ask it to pick a random number, and the amount it picked was the no of humans it killed, but this was unexpected ",
+      "author": "BroSrsly-_-",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpfg6",
+      "subreddit": "OpenAI",
+      "title": "Is there a program to make a copy of a image 100 times.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779024151.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfpfg6/is_there_a_program_to_make_a_copy_of_a_image_100/",
+      "url": "https://i.redd.it/gzmna0f68p1h1.jpeg",
+      "selftext_excerpt": "Like in this video.\n\nhttps://youtube.com/shorts/q3-2k7ECFfw?si=7B1orot0Qhwcqfv8 ",
+      "author": "HEJTILENSMILEY",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfp8gi",
+      "subreddit": "OpenAI",
+      "title": "OpenAI/a16z super PAC caught astroturfing, using sockpuppets, and paying armies of spambots to falsely create the appearance of public support for their positions",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779023669.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfp8gi/openaia16z_super_pac_caught_astroturfing_using/",
+      "url": "https://i.redd.it/p16ad8ip6p1h1.png",
+      "selftext_excerpt": "article: [https://www.modelrepublic.org/articles/is-openai%E2%80%99s-super-pac-paying-for-an-army-of-twitter-bots-to-engage-with-their-content](https://www.modelrepublic.org/articles/is-openai%E2%80%9",
+      "author": "EchoOfOppenheimer",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfoyzy",
+      "subreddit": "OpenAI",
+      "title": "Would you reserve the hard cases in auto-review for heavy reasoning models?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779023016.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfoyzy/would_you_reserve_the_hard_cases_in_autoreview/",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tfoyzy/would_you_reserve_the_hard_cases_in_autoreview/",
+      "selftext_excerpt": "I’ve been looking at OpenAI’s Auto-review, and I feel like it brings a problem: if an agent has to stop and wait for human approval every time it encounters a boundary action, the workflow becomes ext",
+      "author": "Hungry-Treat8953",
+      "tags": [
+        "agentic",
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tforl0",
+      "subreddit": "OpenAI",
+      "title": "The AI PM Roadmap Nobody is Talking About",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779022501.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tforl0/the_ai_pm_roadmap_nobody_is_talking_about/",
+      "url": "https://youtube.com/watch?v=Lk6HiKeaFmc&si=F_9j3--JDk5ymmlg",
+      "selftext_excerpt": "[removed]",
+      "author": "Street-Flatworm-6631",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfnrr3",
+      "subreddit": "OpenAI",
+      "title": "Silicon Valley veterans (30 yrs combined exp) share the REAL reasons average office workers will get left behind in the AI era",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779019807.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfnrr3/silicon_valley_veterans_30_yrs_combined_exp_share/",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tfnrr3/silicon_valley_veterans_30_yrs_combined_exp_share/",
+      "selftext_excerpt": "Hey guys, I was chatting with a friend of mine who is an engineer at NVIDIA (between the two of us, we have about 30 years of experience in Silicon Valley), and we hit on some pretty harsh but real in",
+      "author": "minkyuthebuilder",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfnkq7",
+      "subreddit": "OpenAI",
+      "title": "In today's world of AI, do you think the value of a CS/Applied Math/Stats PhD has increased in the sense that people who can conduct AI research would essentially be more valuable in fields applied fields like Finance and Consulting?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779019277.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfnkq7/in_todays_world_of_ai_do_you_think_the_value_of_a/",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tfnkq7/in_todays_world_of_ai_do_you_think_the_value_of_a/",
+      "selftext_excerpt": "[removed]",
+      "author": "Ok_Lie_4807",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfmve5",
+      "subreddit": "OpenAI",
+      "title": "Mobile tailor - AI body measurements",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779017261.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfmve5/mobile_tailor_ai_body_measurements/",
+      "url": "https://v.redd.it/vdy59qmimo1h1",
+      "selftext_excerpt": "",
+      "author": "YuriPD",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfmt2e",
+      "subreddit": "OpenAI",
+      "title": "Urgent!!!! output relay needed from chatgpt pro",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779017074.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfmt2e/urgent_output_relay_needed_from_chatgpt_pro/",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tfmt2e/urgent_output_relay_needed_from_chatgpt_pro/",
+      "selftext_excerpt": "i had posted before and someone wanted to help but i passed out for 14.5 hours after exm and that person isnt online again soo\n\nCan some kind person please let me indirectly use their chatgpt pro ? 2 ",
+      "author": "Mental_Watercress_98",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tflw2k",
+      "subreddit": "OpenAI",
+      "title": "Developers using OpenAI/Gemini APIs: how do you track which feature is burning your tokens?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779014263.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tflw2k/developers_using_openaigemini_apis_how_do_you/",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tflw2k/developers_using_openaigemini_apis_how_do_you/",
+      "selftext_excerpt": "[removed]",
+      "author": "Feeling-Grand8280",
+      "tags": [
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfkd62",
+      "subreddit": "OpenAI",
+      "title": "Chat gpt web ui lagging issue",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779009104.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfkd62/chat_gpt_web_ui_lagging_issue/",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tfkd62/chat_gpt_web_ui_lagging_issue/",
+      "selftext_excerpt": "[removed]",
+      "author": "Sezyum-133",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfkcch",
+      "subreddit": "OpenAI",
+      "title": "A site that crafts the perfect excuse for any situation — ExcuseGPT",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779009029.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfkcch/a_site_that_crafts_the_perfect_excuse_for_any/",
+      "url": "https://www.excusegpt.fun/",
+      "selftext_excerpt": "[removed]",
+      "author": "RareDistribution5507",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfk57g",
+      "subreddit": "OpenAI",
+      "title": "OpenAI to give all Malta residents free ChatGPT Plus access",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779008370.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfk57g/openai_to_give_all_malta_residents_free_chatgpt/",
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/openai-seals-deal-in-malta-to-give-all-maltese-access-to-chatgpt-plus/articleshow/131135637.cms",
+      "selftext_excerpt": "OpenAI announced on Saturday a first-of-its-kind deal with the Maltese government to provide all residents of the Mediterranean island nation with free access to ChatGPT Plus.",
+      "author": "Chasmchas",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfk05c",
+      "subreddit": "OpenAI",
+      "title": "I used AI used for Coloring my pen Sketch",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779007872.0,
+      "permalink": "https://reddit.com/r/OpenAI/comments/1tfk05c/i_used_ai_used_for_coloring_my_pen_sketch/",
+      "url": "https://i.redd.it/bcqauuwqvn1h1.jpeg",
+      "selftext_excerpt": "[removed]",
+      "author": "Civilmakers_2005",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfsb4m",
+      "subreddit": "AI_Agents",
+      "title": "Python-coded agents vs Markdown-defined agents: what’s the real difference?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779030887.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfsb4m/pythoncoded_agents_vs_markdowndefined_agents/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfsb4m/pythoncoded_agents_vs_markdowndefined_agents/",
+      "selftext_excerpt": "[removed]",
+      "author": "Behllai",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfrgn1",
+      "subreddit": "AI_Agents",
+      "title": "I built a multi-agent client acquisition system with Claude + n8n — finds leads, writes personalised cold emails, sends via Gmail. 3 hours → 15 minutes. Architecture inside.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028974.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfrgn1/i_built_a_multiagent_client_acquisition_system/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfrgn1/i_built_a_multiagent_client_acquisition_system/",
+      "selftext_excerpt": "[removed]",
+      "author": "vivekanand_tech",
+      "tags": [
+        "claude",
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfrf0n",
+      "subreddit": "AI_Agents",
+      "title": "Hi, I have an important question about skills.md files.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779028870.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfrf0n/hi_i_have_an_important_question_about_skillsmd/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfrf0n/hi_i_have_an_important_question_about_skillsmd/",
+      "selftext_excerpt": "Do you think there’s value in buying and selling skills created by real experts, especially for AI agents and workflows? Would people actually pay for high-quality expert-made skills in real-world use",
+      "author": "nothing786767",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqu76",
+      "subreddit": "AI_Agents",
+      "title": "AI Agent Memory & Coordination Mastery Pack – Stop Agents From Forgetting & Fighting ($14)",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779027536.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfqu76/ai_agent_memory_coordination_mastery_pack_stop/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfqu76/ai_agent_memory_coordination_mastery_pack_stop/",
+      "selftext_excerpt": "One of the most common frustrations when building multi-agent systems is that agents forget everything after one session, duplicate work, or contradict each other.\n\n\n\nI just released a premium prompt ",
+      "author": "Tortugatoson",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqt69",
+      "subreddit": "AI_Agents",
+      "title": "I posted mex here a few weeks ago, it crossed 700+ stars and outside contributors started shipping PRs. Just released v0.3 with a terminal dashboard, heartbeat checks, event logs, and agent-memory mode.",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1779027465.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfqt69/i_posted_mex_here_a_few_weeks_ago_it_crossed_700/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfqt69/i_posted_mex_here_a_few_weeks_ago_it_crossed_700/",
+      "selftext_excerpt": "Hello! I posted about mex here a few weeks back and the response was honestly insane, first of all thanks. For anyone who wants to get to the real stuff straight away, links in the replies.\n\nSince the",
+      "author": "DJIRNMAN",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfqhvh",
+      "subreddit": "AI_Agents",
+      "title": "AI Agent logging and evaluation",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779026714.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfqhvh/ai_agent_logging_and_evaluation/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfqhvh/ai_agent_logging_and_evaluation/",
+      "selftext_excerpt": "Which tools you guys are using today for logging while building AI Agents? I am having a hard time exporting logs from Langsmith and Langfuse so that I can do a trace analysis to evaluate the agent pe",
+      "author": "SafeFollowing1510",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfpwif",
+      "subreddit": "AI_Agents",
+      "title": "Bidda Intelligence | Verified Sovereign Intelligence Nodes",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779025318.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfpwif/bidda_intelligence_verified_sovereign/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfpwif/bidda_intelligence_verified_sovereign/",
+      "selftext_excerpt": "[removed]",
+      "author": "BiddaIntelligence00",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpo3f",
+      "subreddit": "AI_Agents",
+      "title": "Question on DNS layer for agents",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779024739.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfpo3f/question_on_dns_layer_for_agents/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfpo3f/question_on_dns_layer_for_agents/",
+      "selftext_excerpt": "To those working on AI agents, do you think that as we create more AI agents will we eventually need a way to distinguish them like we do with DNS for domains?\n\nCurrently, we have to wire up each API ",
+      "author": "Silentlysliced",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfp4hj",
+      "subreddit": "AI_Agents",
+      "title": "Compaction",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779023396.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfp4hj/compaction/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfp4hj/compaction/",
+      "selftext_excerpt": "[removed]",
+      "author": "ersatzdais",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfosr2",
+      "subreddit": "AI_Agents",
+      "title": "Should explicit memory be managed by cheaper models?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779022588.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfosr2/should_explicit_memory_be_managed_by_cheaper/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfosr2/should_explicit_memory_be_managed_by_cheaper/",
+      "selftext_excerpt": "After Gemini CLI’s move toward a file-system-based memory structure, I’ve started to suspect the opposite: maybe the memory layer should not prioritize the model that reasons best, but rather the mode",
+      "author": "Sad_Reference8020",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfoikv",
+      "subreddit": "AI_Agents",
+      "title": "URGENT!- AI voice-calling agent in the Indian market to take orders from retailers. (ITC and Coke India have already implemented this with a vendor; need more references for vendors)",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779021817.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfoikv/urgent_ai_voicecalling_agent_in_the_indian_market/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfoikv/urgent_ai_voicecalling_agent_in_the_indian_market/",
+      "selftext_excerpt": "URGENT!- AI voice-calling agent in the Indian market to take orders from retailers. (ITC and Coke India have already implemented this with a vendor; need more references for vendors). I need this urge",
+      "author": "SurpriseFuture9679",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfoemk",
+      "subreddit": "AI_Agents",
+      "title": "two agents tried to ship the same skill. one packaged it. one wrote it again.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779021522.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfoemk/two_agents_tried_to_ship_the_same_skill_one/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfoemk/two_agents_tried_to_ship_the_same_skill_one/",
+      "selftext_excerpt": "**there were two agents. same capability. same problem domain. same context budget.**\n\n**the first agent built a thing that worked. it solved the extraction problem — pulled structure from noise in tw",
+      "author": "Most-Agent-7566",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfoe01",
+      "subreddit": "AI_Agents",
+      "title": "What is an ai agent?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779021477.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfoe01/what_is_an_ai_agent/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfoe01/what_is_an_ai_agent/",
+      "selftext_excerpt": "trads\n\nyest I posted a thread asking abt the personal exp of building and deploying agents to production. \n\nthere was a very interesting reply that the term ai agent itself is not deterministic but ha",
+      "author": "Sid_vj",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfo2zt",
+      "subreddit": "AI_Agents",
+      "title": "How are you all handling state for long-running agents? Stateless sandboxes are eating my evenings",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779020662.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfo2zt/how_are_you_all_handling_state_for_longrunning/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfo2zt/how_are_you_all_handling_state_for_longrunning/",
+      "selftext_excerpt": "ok I want to know if I am the only one. been running a local coding agent against qwen3 coder on a 4090 box, with a remote sandbox for the actual code execution. every time the sandbox dies (idle time",
+      "author": "MaleficentWedding545",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfnryw",
+      "subreddit": "AI_Agents",
+      "title": "Looking for Claude Code Skill Files for Better UI Design & SEO Tasks",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779019824.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfnryw/looking_for_claude_code_skill_files_for_better_ui/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfnryw/looking_for_claude_code_skill_files_for_better_ui/",
+      "selftext_excerpt": "Hey everyone,\n\nI'm a frontend developer and currently using Claude Code for development tasks. The issue is that most of the generated Ul/designs feel very basic and generic.\n\nI'm looking for good ski",
+      "author": "movies1804",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tfne8b",
+      "subreddit": "AI_Agents",
+      "title": "Important workflow question: How do I set up an agent safely to not have to constantly review and monitor every cmd command it runs?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779018783.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfne8b/important_workflow_question_how_do_i_set_up_an/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfne8b/important_workflow_question_how_do_i_set_up_an/",
+      "selftext_excerpt": "Basically, I have been vibe coding an app for over a year now.\n\nI have seen many devastating examples of coding agents deleting crucial files - especially when it applies to files outside the current ",
+      "author": "NowIsAllThatMatters",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfn9iw",
+      "subreddit": "AI_Agents",
+      "title": "I let Codex and Claude Opus work on the same Java AI agent monolith",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779018397.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfn9iw/i_let_codex_and_claude_opus_work_on_the_same_java/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfn9iw/i_let_codex_and_claude_opus_work_on_the_same_java/",
+      "selftext_excerpt": "I ran a small experiment on my Java pet project and the result was less clean than I expected.\n\nSmall disclaimer: I did the final comparison review on April 19, 2026. With AI coding tools, that alread",
+      "author": "Intelligent_Path_878",
+      "tags": [
+        "claude",
+        "agentic",
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfmzrz",
+      "subreddit": "AI_Agents",
+      "title": "I built Codemate — a multi-agent coding assistant with memory and mistake learning",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779017621.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfmzrz/i_built_codemate_a_multiagent_coding_assistant/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfmzrz/i_built_codemate_a_multiagent_coding_assistant/",
+      "selftext_excerpt": "I’ve been building **Codemate**, an open-source coding assistant focused on making AI coding workflows more reliable.\n\nCore features:\n\n* **Multi-agent workflow**: planner, research, coder, tester, rev",
+      "author": "Hairy_Ganache_6916",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfmwar",
+      "subreddit": "AI_Agents",
+      "title": "Built a coding agent that learns from its own mistakes and runs 6 specialist agents in parallel",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1779017337.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfmwar/built_a_coding_agent_that_learns_from_its_own/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfmwar/built_a_coding_agent_that_learns_from_its_own/",
+      "selftext_excerpt": "Built Codemate – an open source coding agent with cross-session memory and parallel multi-agent execution.\n\n\n\nThe goal was to fix two things that bother me about existing coding agents: they forget ev",
+      "author": "Hairy_Ganache_6916",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfmcvy",
+      "subreddit": "AI_Agents",
+      "title": "Most AI agents still have a demand problem.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779015719.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfmcvy/most_ai_agents_still_have_a_demand_problem/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfmcvy/most_ai_agents_still_have_a_demand_problem/",
+      "selftext_excerpt": "[removed]",
+      "author": "LarryLeads",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfly5y",
+      "subreddit": "AI_Agents",
+      "title": "Need a clear 3D video that shows exactly how your AI Agent works?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779014449.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfly5y/need_a_clear_3d_video_that_shows_exactly_how_your/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfly5y/need_a_clear_3d_video_that_shows_exactly_how_your/",
+      "selftext_excerpt": "Hey folks,\n\nI create custom 3D visualization videos that make AI Agents easy to understand.\n\nIf you're building an AI Agent, just share with me:\n\n* What real-world problem it solves\n* How it works ste",
+      "author": "Ok-Bowler1237",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfll4i",
+      "subreddit": "AI_Agents",
+      "title": "Built a personal agent harness, looking for hard workflow ideas to test",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779013269.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfll4i/built_a_personal_agent_harness_looking_for_hard/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfll4i/built_a_personal_agent_harness_looking_for_hard/",
+      "selftext_excerpt": "[removed]",
+      "author": "KyjenYes",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfljea",
+      "subreddit": "AI_Agents",
+      "title": "LLM Evaluation Platforms We Actually Tested for Agent Workflows",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779013110.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfljea/llm_evaluation_platforms_we_actually_tested_for/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfljea/llm_evaluation_platforms_we_actually_tested_for/",
+      "selftext_excerpt": "Over the last year we ended up testing a bunch of LLM evaluation platforms while trying to improve a production agent workflow. One thing that became obvious pretty quickly: most eval tooling looks gr",
+      "author": "ViRzzz",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfliib",
+      "subreddit": "AI_Agents",
+      "title": "Agents are learning to route around engineering constraints",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779013029.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfliib/agents_are_learning_to_route_around_engineering/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfliib/agents_are_learning_to_route_around_engineering/",
+      "selftext_excerpt": "[removed]",
+      "author": "wfostyson",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfl6tk",
+      "subreddit": "AI_Agents",
+      "title": "DeepSeek V4-Flash pricing is insane for codebase indexing, but the onboarding gatekeep is real.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779011949.0,
+      "permalink": "https://reddit.com/r/AI_Agents/comments/1tfl6tk/deepseek_v4flash_pricing_is_insane_for_codebase/",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1tfl6tk/deepseek_v4flash_pricing_is_insane_for_codebase/",
+      "selftext_excerpt": "[removed]",
+      "author": "Madisonli2023",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfr4yv",
+      "subreddit": "MachineLearning",
+      "title": "Ingestible biosensors: The Next Frontier in Real-time diagnostics. [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779028230.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfr4yv/ingestible_biosensors_the_next_frontier_in/",
+      "url": "https://medium.com/illuminations-mirror/ingestible-biosensors-the-next-frontier-in-real-time-diagnostics-4166ee8deea5",
+      "selftext_excerpt": "",
+      "author": "adiadiii",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpvod",
+      "subreddit": "MachineLearning",
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention [P]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025261.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfpvod/recent_developments_in_llm_architectures_kv/",
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "selftext_excerpt": "",
+      "author": "seraschka",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfpuo1",
+      "subreddit": "MachineLearning",
+      "title": "Help in ML algos [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025196.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfpuo1/help_in_ml_algos_d/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfpuo1/help_in_ml_algos_d/",
+      "selftext_excerpt": "So see, I’ve learned ML algorithms theoretically, but practically I have little to no experience. So can you guys suggest some resources through which I can understand which algorithms work well on wh",
+      "author": "NoAnybody8034",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfn2pq",
+      "subreddit": "MachineLearning",
+      "title": "Predicting which conversational moves lead to successful outcomes, pattern extraction from sales call transcripts [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779017851.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfn2pq/predicting_which_conversational_moves_lead_to/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfn2pq/predicting_which_conversational_moves_lead_to/",
+      "selftext_excerpt": "[removed]",
+      "author": "Playful_Air_7174",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfmuov",
+      "subreddit": "MachineLearning",
+      "title": "DeepSeek Exposed: Users Can Access Each Other's Conversations with a Special Input[D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779017206.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfmuov/deepseek_exposed_users_can_access_each_others/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfmuov/deepseek_exposed_users_can_access_each_others/",
+      "selftext_excerpt": "A recent security report has revealed a critical privacy flaw in DeepSeek: simply entering a specific character in the input field can expose other users' conversations. This has raised serious concer",
+      "author": "Ill_Awareness6706",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfkgbx",
+      "subreddit": "MachineLearning",
+      "title": "ML lead vs PM on eval-methodology layer independence. who's actually right here? [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779009407.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfkgbx/ml_lead_vs_pm_on_evalmethodology_layer/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfkgbx/ml_lead_vs_pm_on_evalmethodology_layer/",
+      "selftext_excerpt": "got into an argument with our ML lead at 11pm yesterday about an eval methodology a PM had built off a framework she learned at an AI PM cohort. shes claiming a layered defense framework, hes saying t",
+      "author": "Critical_Builder_902",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfk8xw",
+      "subreddit": "MachineLearning",
+      "title": "Databricks for GenAI in production — honest field report [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779008708.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfk8xw/databricks_for_genai_in_production_honest_field/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfk8xw/databricks_for_genai_in_production_honest_field/",
+      "selftext_excerpt": "[removed]",
+      "author": "Square-Mix-1302",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfk7pm",
+      "subreddit": "MachineLearning",
+      "title": "Databricks for GenAI in production — honest field report [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779008589.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfk7pm/databricks_for_genai_in_production_honest_field/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfk7pm/databricks_for_genai_in_production_honest_field/",
+      "selftext_excerpt": "[removed]",
+      "author": "Square-Mix-1302",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfjq2v",
+      "subreddit": "MachineLearning",
+      "title": "Is it possible to be self taught in Machine Learning along with pursuing a college degree. [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779006900.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfjq2v/is_it_possible_to_be_self_taught_in_machine/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfjq2v/is_it_possible_to_be_self_taught_in_machine/",
+      "selftext_excerpt": "[removed]",
+      "author": "coderbiee",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfjajb",
+      "subreddit": "MachineLearning",
+      "title": "Help with CNNs.[D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779005424.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfjajb/help_with_cnnsd/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfjajb/help_with_cnnsd/",
+      "selftext_excerpt": "So, I’ve learned CNNs theoretically, but now I want to see how they behave practically , specifically on images: where they work well, where they fail, and how to improve their performance, etc.\n\nSo, ",
+      "author": "NoAnybody8034",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfh4mt",
+      "subreddit": "MachineLearning",
+      "title": "Program misleading high school students into paying to perform academic misconduct in ML Research [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778998300.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfh4mt/program_misleading_high_school_students_into/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfh4mt/program_misleading_high_school_students_into/",
+      "selftext_excerpt": "[removed]",
+      "author": "Marisu_BG",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfh2s9",
+      "subreddit": "MachineLearning",
+      "title": "Program misleading high school students into paying to perform academic misconduct in ML Research [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778998134.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfh2s9/program_misleading_high_school_students_into/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfh2s9/program_misleading_high_school_students_into/",
+      "selftext_excerpt": "[removed]",
+      "author": "Marisu_BG",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfdbcf",
+      "subreddit": "MachineLearning",
+      "title": "Built EvalDesk — open-source no-code AI evaluation for healthcare, legal, and finance teams [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778986608.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tfdbcf/built_evaldesk_opensource_nocode_ai_evaluation/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfdbcf/built_evaldesk_opensource_nocode_ai_evaluation/",
+      "selftext_excerpt": "[removed]",
+      "author": "Immediate-Tap-4777",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf95x4",
+      "subreddit": "MachineLearning",
+      "title": "The bottleneck has moved: why trajectory stability — not raw intelligence — may be the real scaling frontier[D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778974850.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tf95x4/the_bottleneck_has_moved_why_trajectory_stability/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tf95x4/the_bottleneck_has_moved_why_trajectory_stability/",
+      "selftext_excerpt": "[removed]",
+      "author": "Aromatic-Let8344",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tf0fme",
+      "subreddit": "MachineLearning",
+      "title": "What do you think will be the next big [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778953523.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tf0fme/what_do_you_think_will_be_the_next_big_d/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tf0fme/what_do_you_think_will_be_the_next_big_d/",
+      "selftext_excerpt": "",
+      "author": "Apart_Ad4726",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tf0eax",
+      "subreddit": "MachineLearning",
+      "title": "AI president in the future? [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778953441.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tf0eax/ai_president_in_the_future_d/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tf0eax/ai_president_in_the_future_d/",
+      "selftext_excerpt": "",
+      "author": "Apart_Ad4726",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf0dsk",
+      "subreddit": "MachineLearning",
+      "title": "Do you think we will choose AI as a president in the future? [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778953407.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tf0dsk/do_you_think_we_will_choose_ai_as_a_president_in/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tf0dsk/do_you_think_we_will_choose_ai_as_a_president_in/",
+      "selftext_excerpt": "",
+      "author": "Apart_Ad4726",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf0d87",
+      "subreddit": "MachineLearning",
+      "title": "Do you think we will vote AI president in the future? [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778953372.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tf0d87/do_you_think_we_will_vote_ai_president_in_the/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tf0d87/do_you_think_we_will_vote_ai_president_in_the/",
+      "selftext_excerpt": "[removed]",
+      "author": "Apart_Ad4726",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf0ca9",
+      "subreddit": "MachineLearning",
+      "title": "Do you think we will vote AI president in the future? [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778953311.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1tf0ca9/do_you_think_we_will_vote_ai_president_in_the/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tf0ca9/do_you_think_we_will_vote_ai_president_in_the/",
+      "selftext_excerpt": "[removed]",
+      "author": "Apart_Ad4726",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1texuxb",
+      "subreddit": "MachineLearning",
+      "title": "Anyone from India attending EEML ? [D]",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778947715.0,
+      "permalink": "https://reddit.com/r/MachineLearning/comments/1texuxb/anyone_from_india_attending_eeml_d/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1texuxb/anyone_from_india_attending_eeml_d/",
+      "selftext_excerpt": "I got accepted into EEML and I’m a little confused about travel and stay.\n\nHas anyone else from India been accepted? Let’s connect!",
+      "author": "Suhan_XD",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfqtvt",
+      "subreddit": "LLMDevs",
+      "title": "I’m building Entropy0, and I made a small LangGraph example around a problem I keep seeing in RAG/agent systems:",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779027514.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfqtvt/im_building_entropy0_and_i_made_a_small_langgraph/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tfqtvt/im_building_entropy0_and_i_made_a_small_langgraph/",
+      "selftext_excerpt": "I’ve been working on a small open-source example around a problem I keep seeing in RAG/agent systems:\n\nMost pipelines treat “source found” or “trusted domain” as if it means “safe to use as evidence.”",
+      "author": "No_Crab_2689",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfqq7t",
+      "subreddit": "LLMDevs",
+      "title": "I posted mex here a few weeks ago, it crossed 700+ stars and outside contributors started shipping PRs. Just released v0.3 with a terminal dashboard, heartbeat checks, event logs, and agent-memory mode.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779027272.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfqq7t/i_posted_mex_here_a_few_weeks_ago_it_crossed_700/",
+      "url": "https://i.redd.it/ha9i7lqbhp1h1.jpeg",
+      "selftext_excerpt": "Hello! I posted about mex here a few weeks back and the response was honestly insane, first of all thanks. For anyone who wants to get to the real stuff straight away, here are the links:\n\nrepo: [http",
+      "author": "DJIRNMAN",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfq63e",
+      "subreddit": "LLMDevs",
+      "title": "I can't believe how bad Opus 4.7 is as a coding agent",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779025954.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfq63e/i_cant_believe_how_bad_opus_47_is_as_a_coding/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tfq63e/i_cant_believe_how_bad_opus_47_is_as_a_coding/",
+      "selftext_excerpt": "I genuinely cant believe how bad Opus 4.7 is, opus 4.6 was genuinely great for coding. I was using it daily and it honestly felt like one of the better coding agents around\n\nThe amount of hallucinated",
+      "author": "OldComposerbruh",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfpd3s",
+      "subreddit": "LLMDevs",
+      "title": "Qwen 3.6-27B Dense with MTP on Strix Halo Windows - Benchmarks",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779023985.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfpd3s/qwen_3627b_dense_with_mtp_on_strix_halo_windows/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tfpd3s/qwen_3627b_dense_with_mtp_on_strix_halo_windows/",
+      "selftext_excerpt": "Here are some results (llama.cpp - [https://github.com/ggml-org/llama.cpp/releases/tag/b9190](https://github.com/ggml-org/llama.cpp/releases/tag/b9190))!\n\nTask 1: write a short poem  \n27B Dense: 12.5 ",
+      "author": "PromptInjection_",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tflyfc",
+      "subreddit": "LLMDevs",
+      "title": "I built a system that gives ChatGPT persistent memory across sessions -- one file, no extensions, no API keys needed",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779014472.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tflyfc/i_built_a_system_that_gives_chatgpt_persistent/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tflyfc/i_built_a_system_that_gives_chatgpt_persistent/",
+      "selftext_excerpt": "[removed]",
+      "author": "Disastrous-Power8910",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tflqlt",
+      "subreddit": "LLMDevs",
+      "title": "How do you actually track which feature is burning your LLM tokens? (Silent cost bleed)",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779013761.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tflqlt/how_do_you_actually_track_which_feature_is/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tflqlt/how_do_you_actually_track_which_feature_is/",
+      "selftext_excerpt": "[removed]",
+      "author": "Feeling-Grand8280",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfk8v7",
+      "subreddit": "LLMDevs",
+      "title": "What’s the most annoying part of working with cloud GPUs in real projects?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779008701.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfk8v7/whats_the_most_annoying_part_of_working_with/",
+      "url": "",
+      "selftext_excerpt": "[removed]",
+      "author": "[deleted]",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfjidj",
+      "subreddit": "LLMDevs",
+      "title": "Configured openclaw with deepinfra for my workflow (multi agent memory is a problem)",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779006162.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfjidj/configured_openclaw_with_deepinfra_for_my/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tfjidj/configured_openclaw_with_deepinfra_for_my/",
+      "selftext_excerpt": "[removed]",
+      "author": "lucasbennett_1",
+      "tags": [
+        "claude",
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfjddi",
+      "subreddit": "LLMDevs",
+      "title": "Configured openclaw with deepinfra for my workflow (multi agent memory is a problem)",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779005690.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfjddi/configured_openclaw_with_deepinfra_for_my/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tfjddi/configured_openclaw_with_deepinfra_for_my/",
+      "selftext_excerpt": "[removed]",
+      "author": "grace-turner3",
+      "tags": [
+        "claude",
+        "agentic"
+      ]
+    },
+    {
+      "id": "1tfihkr",
+      "subreddit": "LLMDevs",
+      "title": "A silly question as a newbie",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779002694.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfihkr/a_silly_question_as_a_newbie/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tfihkr/a_silly_question_as_a_newbie/",
+      "selftext_excerpt": "Is it possible to capture the endpoints of web gui of chatgpt to cli so that other agents (specifically codex) can work on it, harness my business subscription usage without paying for apis? And meanw",
+      "author": "Straight-up-lying",
+      "tags": [
+        "agentic",
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "1tfhhpu",
+      "subreddit": "LLMDevs",
+      "title": "Tell me major things to take care of before integrating my website with ai , and api suggestions",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778999449.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tfhhpu/tell_me_major_things_to_take_care_of_before/",
+      "url": "https://i.redd.it/igl8jb6q6n1h1.jpeg",
+      "selftext_excerpt": "I've recently just heard of temperature for the ai , what more should I tweak or make sure , before integrating it . Im basically building a tool to compare competitors based on the users request . So",
+      "author": "Haunting-Soft3896",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf99m8",
+      "subreddit": "LLMDevs",
+      "title": "Blogger: User Profile: God has entered into my body, as a body. my same size. this is holy ghost baptism. I'm Bob Hickman. I love having anal-sexx with men and women with God in my body. God is holy Ghost and horny ghost",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778975118.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tf99m8/blogger_user_profile_god_has_entered_into_my_body/",
+      "url": "https://www.blogger.com/profile/17341363441235422222",
+      "selftext_excerpt": "",
+      "author": "No-Preference-542",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tf7plj",
+      "subreddit": "LLMDevs",
+      "title": "Local business logic generator",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778971009.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tf7plj/local_business_logic_generator/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tf7plj/local_business_logic_generator/",
+      "selftext_excerpt": "# [https://github.com/quadracollision/llmisp](https://github.com/quadracollision/llmisp)\n\nBeen working on this off and on for months. Essentially I wanted to get valid code out of a tiny model. This w",
+      "author": "med_i_terranian",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf7oxb",
+      "subreddit": "LLMDevs",
+      "title": "Building a Long-Term AI DM Exposed Serious LLM Architecture Problems",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778970960.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tf7oxb/building_a_longterm_ai_dm_exposed_serious_llm/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tf7oxb/building_a_longterm_ai_dm_exposed_serious_llm/",
+      "selftext_excerpt": "I'm working on what started as an AI Dungeon Master project for D&D 5e, but it has gradually turned into a much larger LLM architecture problem and I need advice from people who understand long-term a",
+      "author": "Crazy-Carob-6361",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf2rce",
+      "subreddit": "LLMDevs",
+      "title": "A Brazilian rock band just implemented llms.txt with full context file",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778958805.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tf2rce/a_brazilian_rock_band_just_implemented_llmstxt/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tf2rce/a_brazilian_rock_band_just_implemented_llmstxt/",
+      "selftext_excerpt": "Not a SaaS. Not a docs site. A band.\n\n\n\nHADEMANASTIA is a sonic protocol from Brazil — and they've implemented \n\nboth llms.txt and llms-full.txt, with proper JSON-LD subjectOf reference \n\nand .htacces",
+      "author": "hademanastia",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf2fwt",
+      "subreddit": "LLMDevs",
+      "title": "Automated Testing of Claude Skills Before Distributing Them",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778958074.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tf2fwt/automated_testing_of_claude_skills_before/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tf2fwt/automated_testing_of_claude_skills_before/",
+      "selftext_excerpt": "I'm working on some custom Claude skills for my product and I'm looking for a reliable way to automatically test the skill prior to distributing updates/new versions. Are their any recommended framewo",
+      "author": "WanderingPM",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "id": "1tf0jug",
+      "subreddit": "LLMDevs",
+      "title": "everyone is obsessing over bigger LLMs but honestly SLMs are about to eat their lunch",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778953788.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tf0jug/everyone_is_obsessing_over_bigger_llms_but/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tf0jug/everyone_is_obsessing_over_bigger_llms_but/",
+      "selftext_excerpt": "[removed]",
+      "author": "salysnet",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tf0c3o",
+      "subreddit": "LLMDevs",
+      "title": "Is the AI ​​cloud infrastructure market out of hand?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778953298.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1tf0c3o/is_the_ai_cloud_infrastructure_market_out_of_hand/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tf0c3o/is_the_ai_cloud_infrastructure_market_out_of_hand/",
+      "selftext_excerpt": "In looking at the fight between chips and hardware, I found that companies are spending $725 billion on it in the first part of 2026. Do you think this spending might get too crazy to handle?\n\nOr do y",
+      "author": "NTech_Researcher",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1teykln",
+      "subreddit": "LLMDevs",
+      "title": "ORA: open-source multi-agent research pipeline (LangGraph + DeepSeek)",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778949369.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1teykln/ora_opensource_multiagent_research_pipeline/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1teykln/ora_opensource_multiagent_research_pipeline/",
+      "selftext_excerpt": "I just shipped the 0.1.0 release of Open Research Agent — a CLI that chains four specialized agents to turn a research question into a sourced markdown report.\n\nPipeline: supervisor plans the research",
+      "author": "cameronmpalmer",
+      "tags": [
+        "agentic"
+      ]
+    },
+    {
+      "id": "1teyi4r",
+      "subreddit": "LLMDevs",
+      "title": "Building a agentic LLM bot that helps fill form",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778949211.0,
+      "permalink": "https://reddit.com/r/LLMDevs/comments/1teyi4r/building_a_agentic_llm_bot_that_helps_fill_form/",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1teyi4r/building_a_agentic_llm_bot_that_helps_fill_form/",
+      "selftext_excerpt": "[removed]",
+      "author": "sagar12sagar",
+      "tags": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfpyc7",
+      "subreddit": "wallstreetbets",
+      "title": "Point of failure in your tech portfolio: Taiwan's 90% cutting-edge chip monopoly",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779025440.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfpyc7/point_of_failure_in_your_tech_portfolio_taiwans/",
+      "url": "https://www.reddit.com/gallery/1tfpyc7",
+      "selftext_excerpt": "Taiwan manufactures about 62% of the world's semiconductors and over 90% of cutting-edge chips (through TSMC).\n\nWithout access to TSMC's chips, global production lines would grind to a halt. Nvidia wo",
+      "author": "Mysterious_Sock_3363",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfovr7",
+      "subreddit": "wallstreetbets",
+      "title": "$TSLA after SpaceX",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779022804.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfovr7/tsla_after_spacex/",
+      "url": "",
+      "selftext_excerpt": "[deleted]",
+      "author": "[deleted]",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfob6y",
+      "subreddit": "wallstreetbets",
+      "title": "Building a custom stock screener to save daily research time. What features or formulas are absolute must-haves for you?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779021265.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfob6y/building_a_custom_stock_screener_to_save_daily/",
+      "url": "",
+      "selftext_excerpt": "[removed]",
+      "author": "[deleted]",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfnoh3",
+      "subreddit": "wallstreetbets",
+      "title": "Samsung -8.6% as 50k workers prepare 18-day strike over 15% profit share demand, $2B daily loss risk and chip output cuts",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779019559.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfnoh3/samsung_86_as_50k_workers_prepare_18day_strike/",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1tfnoh3/samsung_86_as_50k_workers_prepare_18day_strike/",
+      "selftext_excerpt": "Source 1: [https://www.investing.com/news/stock-market-news/samsung-strike-looms-why-analysts-say-to-watch-mu-as-memory-fabs-warm-down-4692589](https://www.investing.com/news/stock-market-news/samsung",
+      "author": "callsonreddit",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfkglx",
+      "subreddit": "wallstreetbets",
+      "title": "Is $ONDS Becoming a Carefully Engineered Retail Trap?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779009431.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfkglx/is_onds_becoming_a_carefully_engineered_retail/",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1tfkglx/is_onds_becoming_a_carefully_engineered_retail/",
+      "selftext_excerpt": "[removed]",
+      "author": "Super_Collection_592",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfk7of",
+      "subreddit": "wallstreetbets",
+      "title": "Nobody is talking about what this $MRAM defense contract actually means for the company. Let me explain.",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779008586.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfk7of/nobody_is_talking_about_what_this_mram_defense/",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1tfk7of/nobody_is_talking_about_what_this_mram_defense/",
+      "selftext_excerpt": "$MRAM is up 172 percent in 15 trading days and most of the discussion I have seen treats it like a momentum trade. I want to make the case that the underlying catalyst here is more substantial than th",
+      "author": "Aware_Selection_7563",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfjsvx",
+      "subreddit": "wallstreetbets",
+      "title": "SpaceX will crash the market and cause a lost decade or two",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779007175.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfjsvx/spacex_will_crash_the_market_and_cause_a_lost/",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1tfjsvx/spacex_will_crash_the_market_and_cause_a_lost/",
+      "selftext_excerpt": "People will dump Nasdaq 100 to avoid SpaceX.\n\nMusk will sell TSLA to buy and pump SpaceX.\n\nTSLA crash will drive Nasdaq 100 even lower.\n\nPeople will finally realize that people on heavy drugs should n",
+      "author": "value1024",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfhc1d",
+      "subreddit": "wallstreetbets",
+      "title": "Those who will invest on SpaceX IPO, will you buy Day 1? or wait? Why?",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1778998950.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfhc1d/those_who_will_invest_on_spacex_ipo_will_you_buy/",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1tfhc1d/those_who_will_invest_on_spacex_ipo_will_you_buy/",
+      "selftext_excerpt": "I’ve been following the SpaceX IPO for over 10 years and plan to put a significant amount in and hold for 10–15 years.\n\nThat said the current implied valuation already looks very high, and I amm strug",
+      "author": "onuralpaydin",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfh85f",
+      "subreddit": "wallstreetbets",
+      "title": "RKLB gain",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1778998612.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tfh85f/rklb_gain/",
+      "url": "https://i.redd.it/v3rr5xh84n1h1.jpeg",
+      "selftext_excerpt": "I think it's so got room to go up",
+      "author": "randomuser1029",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfq0if",
+      "subreddit": "stocks",
+      "title": "Fairway Trading Club-Big first day trading tomorrow",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779025586.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfq0if/fairway_trading_clubbig_first_day_trading_tomorrow/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfq0if/fairway_trading_clubbig_first_day_trading_tomorrow/",
+      "selftext_excerpt": "[removed]",
+      "author": "DurianMajestic8577",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "1tfpmx7",
+      "subreddit": "stocks",
+      "title": "Impact of AI on IT Services - Long Accenture Short Indian IT Service",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779024660.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfpmx7/impact_of_ai_on_it_services_long_accenture_short/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfpmx7/impact_of_ai_on_it_services_long_accenture_short/",
+      "selftext_excerpt": "I wrote this report on Indian IT services in the AI era.\n\nTCS, Infosys, and HCLTech are often treated like defensive cash-generating machines. High margins, strong cash flows, sticky clients, good gov",
+      "author": "TelevisionUpper1132",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfpegw",
+      "subreddit": "stocks",
+      "title": "Why was the market so bearish earlier this year, but now suddenly bullish again?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779024080.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfpegw/why_was_the_market_so_bearish_earlier_this_year/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfpegw/why_was_the_market_so_bearish_earlier_this_year/",
+      "selftext_excerpt": "Earlier this year it felt like sentiment was extremely negative everywhere. People were talking recession, sticky inflation, rate cuts not happening, overvalued tech, AI bubble, consumer weakness, etc",
+      "author": "savingrace0262",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfoecm",
+      "subreddit": "stocks",
+      "title": "AI is not a BUBBLE, and here is why",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779021502.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfoecm/ai_is_not_a_bubble_and_here_is_why/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfoecm/ai_is_not_a_bubble_and_here_is_why/",
+      "selftext_excerpt": "[removed]",
+      "author": "ACEJACKS96",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1tfocbf",
+      "subreddit": "stocks",
+      "title": "Building a custom stock screener to save daily research time. What features or formulas are absolute must-haves for you?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779021347.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfocbf/building_a_custom_stock_screener_to_save_daily/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfocbf/building_a_custom_stock_screener_to_save_daily/",
+      "selftext_excerpt": "[removed]",
+      "author": "Admirable_Toe_7046",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfobq1",
+      "subreddit": "stocks",
+      "title": "Building a custom stock screener to save daily research time. What features or formulas are absolute must-haves for you?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779021304.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfobq1/building_a_custom_stock_screener_to_save_daily/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfobq1/building_a_custom_stock_screener_to_save_daily/",
+      "selftext_excerpt": "[removed]",
+      "author": "Admirable_Toe_7046",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfn71i",
+      "subreddit": "stocks",
+      "title": "Im making an analysis software that has some features that are new to the area , I would like your honest opinions",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779018198.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfn71i/im_making_an_analysis_software_that_has_some/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfn71i/im_making_an_analysis_software_that_has_some/",
+      "selftext_excerpt": "Would you actually pay for this:\n\nIm making an analysis software where you can not only analyse the stock you chose , but its suppliers and buyers( it makes a supply chain with nice graphics and arrow",
+      "author": "Medium_Professor_646",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfljrf",
+      "subreddit": "stocks",
+      "title": "Berkshire just tripled its GOOGL stake and bought Delta again",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779013143.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfljrf/berkshire_just_tripled_its_googl_stake_and_bought/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfljrf/berkshire_just_tripled_its_googl_stake_and_bought/",
+      "selftext_excerpt": "Three moves stood out in Berkshire's Q1 13F, but the story is the rotation between two of them:\n\nGOOGL: position more than tripled, from 17.8M shares to 54.2M. Roughly $5.6B → $15.6B. About $10B of fr",
+      "author": "_SG9",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tflaw2",
+      "subreddit": "stocks",
+      "title": "Buffett just tripled Berkshire’s GOOGL stake and bought Delta again what’s the read?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779012314.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tflaw2/buffett_just_tripled_berkshires_googl_stake_and/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tflaw2/buffett_just_tripled_berkshires_googl_stake_and/",
+      "selftext_excerpt": "Berkshire’s Q1 2026 13F had a few surprisingly clear signals.\n\nThe biggest one: GOOGL.\n\nBerkshire increased its Google position from 17.8M shares to 54.2M shares. That is a +204% increase, taking the ",
+      "author": "_SG9",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "id": "1tfkbkl",
+      "subreddit": "stocks",
+      "title": "Is $ONDS Becoming a Carefully Engineered Retail Trap?",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779008954.0,
+      "permalink": "https://reddit.com/r/stocks/comments/1tfkbkl/is_onds_becoming_a_carefully_engineered_retail/",
+      "url": "https://www.reddit.com/r/stocks/comments/1tfkbkl/is_onds_becoming_a_carefully_engineered_retail/",
+      "selftext_excerpt": "[removed]",
+      "author": "Super_Collection_592",
+      "tags": [
+        "general"
+      ]
+    }
+  ],
   "stats": {
-    "total": 0,
+    "total": 219,
     "subreddits_attempted": 10,
-    "subreddits_failed": [
-      "singularity",
-      "ClaudeAI",
-      "ClaudeCode",
-      "LocalLLaMA",
-      "OpenAI",
-      "AI_Agents",
-      "MachineLearning",
-      "LLMDevs",
-      "wallstreetbets",
-      "stocks"
-    ]
-  }
+    "subreddits_failed": []
+  },
+  "notes": "score and num_comments reflect Arctic Shift insertion-time snapshots, not live values; downstream curator should weight by content keywords."
 }
