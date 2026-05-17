@@ -1,7 +1,7 @@
 {
   "source": "reddit",
   "via": "arctic_shift",
-  "collected_at": "2026-05-17T15:19:21.440627+00:00",
+  "collected_at": "2026-05-17T15:21:45.417868+00:00",
   "window": "24h",
   "items": [
     {
@@ -463,6 +463,21 @@
       ]
     },
     {
+      "id": "1tfsfl6",
+      "subreddit": "ClaudeAI",
+      "title": "New Memory Strategy That Can Fit 90% of Your Claude Code Workflow",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779031162.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfsfl6/new_memory_strategy_that_can_fit_90_of_your/",
+      "url": "https://i.redd.it/cxiarutysp1h1.png",
+      "selftext_excerpt": "[removed]",
+      "author": "JhonDoe191ee",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
       "id": "1tfsez4",
       "subreddit": "ClaudeAI",
       "title": "I open-sourced the 15 Claude Code skills I used for +100 projects in freelance",
@@ -898,21 +913,6 @@
       "author": "Sub-Bituminous",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "1tfq8bx",
-      "subreddit": "ClaudeAI",
-      "title": "Claude/Cursor are great until you hit a real production bug",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1779026109.0,
-      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tfq8bx/claudecursor_are_great_until_you_hit_a_real/",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tfq8bx/claudecursor_are_great_until_you_hit_a_real/",
-      "selftext_excerpt": "[removed]",
-      "author": "SensitiveReaction214",
-      "tags": [
-        "claude"
       ]
     },
     {
