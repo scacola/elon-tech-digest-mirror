@@ -1,9 +1,22 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-05-17T15:22:44.237868+00:00",
+  "collected_at": "2026-05-17T23:28:10.599551+00:00",
   "gallery": "thesingularity",
   "window": "24h",
   "items": [
+    {
+      "no": "1189105",
+      "title": "구글 I/O 시간표 나왔네",
+      "recommend": 277,
+      "comments": 23,
+      "author": "Hongcc",
+      "created_at_raw": "00:44",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1189105",
+      "tags": [
+        "general"
+      ]
+    },
     {
       "no": "571617",
       "title": "뉴비 가이드)gpt 뭐 써야 해요? 특이점이 뭐에요? (250818)",
@@ -13,19 +26,6 @@
       "created_at_raw": "24.11.23",
       "body_excerpt": "",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=571617",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1175406",
-      "title": "\"저...왜 대중들에게 GPT가 구리다고 거짓말 한 거죠?\"",
-      "recommend": 97,
-      "comments": 34,
-      "author": "메타인지",
-      "created_at_raw": "05.11",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1175406",
       "tags": [
         "ai"
       ]
@@ -163,7 +163,7 @@
     {
       "no": "1184044",
       "title": "SK특집) \"월급은 AI가 벌어올게, 넌 놀기만 해.\"",
-      "recommend": 62,
+      "recommend": 63,
       "comments": 24,
       "author": "초존도초",
       "created_at_raw": "05.15",
