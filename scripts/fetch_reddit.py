@@ -1,21 +1,25 @@
 #!/usr/bin/env python3
-"""Fetch Reddit hot posts from a fixed subreddit list, filter 24h, emit data/reddit.json.
+"""Fetch Reddit hot posts from a fixed subreddit list, emit data/reddit.json.
 
-Schema matches the reddit-scout agent so the curator can consume the file as-is.
+Auth modes:
+  - REDDIT_CLIENT_ID + REDDIT_CLIENT_SECRET present  → OAuth (script app), uses oauth.reddit.com.
+    Required for GitHub Actions runners; Reddit blocks unauthenticated cloud-IP traffic.
+  - Otherwise → unauthenticated www.reddit.com (works from residential IPs only).
 """
 from __future__ import annotations
 
+import base64
 import json
 import os
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
 SUBS: list[tuple[str, int, bool]] = [
-    # (subreddit, limit, top_day?)
     ("singularity", 25, False),
     ("ClaudeAI", 25, False),
     ("ClaudeCode", 25, False),
@@ -40,11 +44,13 @@ AI_FILTER_KW = [
     "nvda", "tsla", "model", "transformer",
 ]
 
+CLIENT_ID = os.environ.get("REDDIT_CLIENT_ID", "").strip()
+CLIENT_SECRET = os.environ.get("REDDIT_CLIENT_SECRET", "").strip()
 USER_AGENT = os.environ.get(
     "REDDIT_USER_AGENT",
     "tech-digest-mirror/1.0 (by /u/scacola; +https://github.com/scacola/elon-tech-digest-mirror)",
 )
-HEADERS = {"User-Agent": USER_AGENT, "Accept": "application/json"}
+
 WINDOW_SEC = 24 * 60 * 60
 
 
@@ -54,21 +60,54 @@ def tag_post(title: str, selftext: str) -> list[str]:
     return tags or ["general"]
 
 
-def fetch_sub(sub: str, limit: int, top_day: bool, max_retries: int = 3) -> list[dict]:
-    if top_day:
-        url = f"https://www.reddit.com/r/{sub}/top.json?t=day&limit={limit}"
-    else:
-        url = f"https://www.reddit.com/r/{sub}/hot.json?limit={limit}"
+def get_oauth_token() -> str | None:
+    if not (CLIENT_ID and CLIENT_SECRET):
+        return None
+    auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
+    data = urllib.parse.urlencode({"grant_type": "client_credentials"}).encode()
+    req = urllib.request.Request(
+        "https://www.reddit.com/api/v1/access_token",
+        data=data,
+        headers={
+            "Authorization": f"Basic {auth}",
+            "User-Agent": USER_AGENT,
+            "Content-Type": "application/x-www-form-urlencoded",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            payload = json.loads(r.read())
+        token = payload.get("access_token")
+        print(f"OAuth token acquired (expires in {payload.get('expires_in')}s)", file=sys.stderr)
+        return token
+    except Exception as e:
+        print(f"OAuth token request failed: {e}", file=sys.stderr)
+        return None
 
-    for attempt in range(1, max_retries + 1):
+
+def fetch_sub(sub: str, limit: int, top_day: bool, token: str | None) -> list[dict]:
+    if top_day:
+        path = f"/r/{sub}/top.json?t=day&limit={limit}"
+    else:
+        path = f"/r/{sub}/hot.json?limit={limit}"
+
+    if token:
+        url = f"https://oauth.reddit.com{path}"
+        headers = {"Authorization": f"Bearer {token}", "User-Agent": USER_AGENT}
+    else:
+        url = f"https://www.reddit.com{path}"
+        headers = {"User-Agent": USER_AGENT, "Accept": "application/json"}
+
+    for attempt in range(1, 4):
         try:
-            req = urllib.request.Request(url, headers=HEADERS)
+            req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=20) as r:
                 payload = json.loads(r.read())
             break
         except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as e:
-            print(f"  attempt {attempt}/{max_retries} fail: {e}", file=sys.stderr)
-            if attempt == max_retries:
+            print(f"  attempt {attempt}/3 fail: {e}", file=sys.stderr)
+            if attempt == 3:
                 return []
             time.sleep(2 * attempt)
 
@@ -84,8 +123,8 @@ def fetch_sub(sub: str, limit: int, top_day: bool, max_retries: int = 3) -> list
             continue
         title = d.get("title") or ""
         selftext = (d.get("selftext") or "")[:200]
-        body_blob = (title + " " + selftext).lower()
-        if top_day and not any(k in body_blob for k in AI_FILTER_KW):
+        blob = (title + " " + selftext).lower()
+        if top_day and not any(k in blob for k in AI_FILTER_KW):
             continue
         out.append({
             "id": d.get("id"),
@@ -104,20 +143,27 @@ def fetch_sub(sub: str, limit: int, top_day: bool, max_retries: int = 3) -> list
 
 
 def main() -> int:
+    token = get_oauth_token()
+    if token:
+        print(f"Auth mode: OAuth (oauth.reddit.com)", file=sys.stderr)
+    else:
+        print("Auth mode: none (www.reddit.com unauthenticated) — likely to be blocked from cloud IPs", file=sys.stderr)
+
     items: list[dict] = []
     failed: list[str] = []
     for sub, limit, top_day in SUBS:
         print(f"r/{sub} ({'top' if top_day else 'hot'}, limit={limit})", file=sys.stderr)
-        res = fetch_sub(sub, limit, top_day)
+        res = fetch_sub(sub, limit, top_day, token)
         if not res:
             failed.append(sub)
         items.extend(res)
-        time.sleep(2)
+        time.sleep(1)
 
     out = {
         "source": "reddit",
         "collected_at": datetime.now(timezone.utc).isoformat(),
         "window": "24h",
+        "auth_mode": "oauth" if token else "unauthenticated",
         "items": items,
         "stats": {
             "total": len(items),
