@@ -1,7 +1,8 @@
 {
   "source": "reddit",
-  "collected_at": "2026-05-17T04:30:11.397959+00:00",
+  "collected_at": "2026-05-17T04:33:23.567550+00:00",
   "window": "24h",
+  "auth_mode": "unauthenticated",
   "items": [],
   "stats": {
     "total": 0,
