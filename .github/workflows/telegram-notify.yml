@@ -1,0 +1,99 @@
+name: Telegram digest notification
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'notifications/**.json'
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find latest notification file
+        id: find
+        run: |
+          set -e
+          file=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'notifications/' | grep '\.json$' | head -1)
+          if [ -z "$file" ]; then
+            echo "No new notification file. Exiting."
+            echo "file=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "file=$file" >> "$GITHUB_OUTPUT"
+          echo "Notification file: $file"
+
+      - name: Build telegram message
+        id: build
+        if: steps.find.outputs.file != ''
+        run: |
+          set -e
+          f="${{ steps.find.outputs.file }}"
+          status=$(jq -r '.status // "실패"' "$f")
+          date=$(jq -r '.date // ""' "$f")
+          headline=$(jq -r '.headline // ""' "$f")
+          notion=$(jq -r '.notion_url // ""' "$f")
+          archive=$(jq -r '.archive_url // "https://www.notion.so/ea41dcdc49a64291ad1ab30f5cf24dd0"' "$f")
+          h1=$(jq -r '.highlights[0] // ""' "$f")
+          h2=$(jq -r '.highlights[1] // ""' "$f")
+          h3=$(jq -r '.highlights[2] // ""' "$f")
+          n_items=$(jq -r '.n_items // 0' "$f")
+          n_clusters=$(jq -r '.n_clusters // 0' "$f")
+          top_tag=$(jq -r '.top_tag // "ai"' "$f")
+          fail_stage=$(jq -r '.fail_stage // ""' "$f")
+          fail_reason=$(jq -r '.fail_reason // ""' "$f")
+          sources_failed=$(jq -r '.sources_failed // ""' "$f")
+          case "$status" in
+            "발행됨")
+              printf -v text '📰 *테크 다이제스트 %s*\n\n_%s_\n\n📊 %s개 항목 · %s개 클러스터 · 상위태그 #%s\n🔥 오늘의 하이라이트 3개:\n• %s\n• %s\n• %s\n\n⚠️ 텔레그램 직접 발송 차단 → GitHub 우회 라인으로 전달' "$date" "$headline" "$n_items" "$n_clusters" "$top_tag" "$h1" "$h2" "$h3"
+              kb='{"inline_keyboard":[[{"text":"📰 다이제스트 열기","url":"'"$notion"'"},{"text":"📊 아카이브","url":"'"$archive"'"}]]}'
+              ;;
+            "부분실패")
+              printf -v text '⚠️ *테크 다이제스트 %s — 부분실패*\n\n_%s_\n\n📊 %s개 항목 · %s개 클러스터\n누락 소스: %s\n실패 단계: %s\n\n다음 cron에서 자동 재시도. (GitHub 우회 라인)' "$date" "$headline" "$n_items" "$n_clusters" "$sources_failed" "$fail_stage"
+              if [ -n "$notion" ]; then
+                kb='{"inline_keyboard":[[{"text":"📰 부분 다이제스트 열기","url":"'"$notion"'"},{"text":"📊 아카이브","url":"'"$archive"'"}]]}'
+              else
+                kb='{"inline_keyboard":[[{"text":"📊 아카이브","url":"'"$archive"'"}]]}'
+              fi
+              ;;
+            *)
+              printf -v text '🚨 *테크 다이제스트 %s — 발행 실패*\n\n실패 단계: %s\n실패 원인: %s\n\n다음 cron에서 자동 재시도. (GitHub 우회 라인)' "$date" "$fail_stage" "$fail_reason"
+              kb='{"inline_keyboard":[[{"text":"📊 아카이브","url":"'"$archive"'"}]]}'
+              ;;
+          esac
+          {
+            echo "text<<DIGEST_EOF"
+            echo "$text"
+            echo "DIGEST_EOF"
+            echo "kb=$kb"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Send Telegram
+        if: steps.find.outputs.file != ''
+        env:
+          TG_BOT: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TG_TEXT: ${{ steps.build.outputs.text }}
+          TG_KB: ${{ steps.build.outputs.kb }}
+        run: |
+          set -e
+          if [ -z "$TG_BOT" ] || [ -z "$TG_CHAT" ]; then
+            echo "::error::Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID secret"
+            exit 1
+          fi
+          resp=$(curl -sS --max-time 20 -X POST "https://api.telegram.org/bot${TG_BOT}/sendMessage" --data-urlencode "chat_id=${TG_CHAT}" --data-urlencode "parse_mode=Markdown" --data-urlencode "disable_web_page_preview=true" --data-urlencode "text=${TG_TEXT}" --data-urlencode "reply_markup=${TG_KB}")
+          echo "$resp"
+          ok=$(echo "$resp" | jq -r '.ok // false')
+          if [ "$ok" != "true" ]; then
+            echo "::error::Telegram send failed"
+            exit 1
+          fi
+          echo "✅ Telegram delivered"
