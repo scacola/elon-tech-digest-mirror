@@ -1,6 +1,6 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-05-18T09:15:55.779674+00:00",
+  "collected_at": "2026-05-18T09:22:48.115332+00:00",
   "gallery": "thesingularity",
   "window": "24h",
   "items": [
@@ -18,6 +18,19 @@
       ]
     },
     {
+      "no": "1191485",
+      "title": "추천 100개 넘으면 부매니저하기",
+      "recommend": 103,
+      "comments": 37,
+      "author": "행복한천국으로",
+      "created_at_raw": "18:10",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1191485",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "571617",
       "title": "뉴비 가이드)gpt 뭐 써야 해요? 특이점이 뭐에요? (250818)",
       "recommend": 101,
@@ -28,19 +41,6 @@
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=571617",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "no": "1191485",
-      "title": "추천 100개 넘으면 부매니저하기",
-      "recommend": 100,
-      "comments": 24,
-      "author": "행복한천국으로",
-      "created_at_raw": "18:10",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1191485",
-      "tags": [
-        "general"
       ]
     },
     {

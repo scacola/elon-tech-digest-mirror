@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-05-18T09:16:09.034452+00:00",
-  "cutoff": "2026-05-11T09:15:55.921652+00:00",
+  "generated_at": "2026-05-18T09:22:59.945330+00:00",
+  "cutoff": "2026-05-11T09:22:48.552684+00:00",
   "window_days": 7,
   "attempted": [
-    {
-      "source": "blog_anthropic",
-      "url": "https://www.anthropic.com/rss/news.xml",
-      "status": "empty (bozo=1)",
-      "count": 0
-    },
-    {
-      "source": "blog_anthropic2",
-      "url": "https://www.anthropic.com/news.xml",
-      "status": "empty (bozo=1)",
-      "count": 0
-    },
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
@@ -28,22 +16,16 @@
       "count": 0
     },
     {
-      "source": "blog_meta",
-      "url": "https://ai.meta.com/blog/rss/",
-      "status": "empty (bozo=1)",
-      "count": 0
-    },
-    {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
       "count": 3
     },
     {
-      "source": "blog_mistral",
-      "url": "https://mistral.ai/news/rss.xml",
-      "status": "empty (bozo=1)",
-      "count": 0
+      "source": "blog_anthropic",
+      "url": "https://www.anthropic.com/sitemap.xml",
+      "status": "ok (sitemap+og)",
+      "count": 3
     }
   ],
   "items": [
@@ -214,6 +196,30 @@
       "published_at": "2026-05-11T23:18:26+00:00",
       "author": "",
       "lead_paragraph": ""
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "published_at": "2026-05-15T17:32:36+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Introducing Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "published_at": "2026-05-14T16:16:25+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "published_at": "2026-05-14T16:05:24+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ]
 }

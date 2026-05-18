@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T09:16:49.654975+00:00",
-  "cutoff": "2026-05-17T09:16:39.803733+00:00",
+  "generated_at": "2026-05-18T09:24:10.580910+00:00",
+  "cutoff": "2026-05-17T09:24:01.493013+00:00",
   "window_hours": 24,
   "items": [
     {
@@ -18,27 +18,17 @@
       "title": "AI is a technology not a product",
       "score": 406,
       "by": "ch_sm",
-      "comments": 176,
+      "comments": 175,
       "created_at": "2026-05-17T13:11:20+00:00",
       "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
       "discussion_url": "https://news.ycombinator.com/item?id=48168626"
     },
     {
-      "hn_id": 48168056,
-      "title": "AI subscriptions are a ticking time bomb for enterprise",
-      "score": 394,
-      "by": "mooreds",
-      "comments": 387,
-      "created_at": "2026-05-17T11:49:31+00:00",
-      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "discussion_url": "https://news.ycombinator.com/item?id=48168056"
-    },
-    {
       "hn_id": 48169874,
       "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "score": 317,
+      "score": 318,
       "by": "Bibabomas",
-      "comments": 107,
+      "comments": 108,
       "created_at": "2026-05-17T15:37:07+00:00",
       "url": "https://github.com/MinishLab/semble",
       "discussion_url": "https://news.ycombinator.com/item?id=48169874"
@@ -56,7 +46,7 @@
     {
       "hn_id": 48173962,
       "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "score": 124,
+      "score": 125,
       "by": "HellMood",
       "comments": 29,
       "created_at": "2026-05-17T23:10:09+00:00",
@@ -78,7 +68,7 @@
       "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
       "score": 94,
       "by": "bushwart",
-      "comments": 99,
+      "comments": 101,
       "created_at": "2026-05-17T12:03:04+00:00",
       "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
       "discussion_url": "https://news.ycombinator.com/item?id=48168159"
@@ -86,7 +76,7 @@
     {
       "hn_id": 48174808,
       "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
-      "score": 91,
+      "score": 93,
       "by": "cdrnsf",
       "comments": 74,
       "created_at": "2026-05-18T01:39:30+00:00",
@@ -116,7 +106,7 @@
     {
       "hn_id": 48173356,
       "title": "Japan Team Successfully Test Engine for Mach 5 Aircraft, Eyeing 2HR Trip to US",
-      "score": 28,
+      "score": 29,
       "by": "karakoram",
       "comments": 18,
       "created_at": "2026-05-17T21:28:19+00:00",
@@ -132,6 +122,16 @@
       "created_at": "2026-05-17T19:58:27+00:00",
       "url": "https://anarc.at/blog/2026-05-16-four-horsemen/",
       "discussion_url": "https://news.ycombinator.com/item?id=48172680"
+    },
+    {
+      "hn_id": 48177039,
+      "title": "Colombian singer Shakira acquitted of tax fraud in Spain",
+      "score": 5,
+      "by": "fodmap",
+      "comments": 1,
+      "created_at": "2026-05-18T09:00:39+00:00",
+      "url": "https://www.reuters.com/world/americas/colombian-singer-shakira-acquitted-tax-fraud-spain-2026-05-18/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48177039"
     }
   ]
 }

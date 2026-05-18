@@ -1,7 +1,7 @@
 {
   "source": "reddit",
   "via": "arctic_shift",
-  "collected_at": "2026-05-18T09:14:54.085726+00:00",
+  "collected_at": "2026-05-18T09:21:50.950448+00:00",
   "window": "24h",
   "items": [
     {
@@ -430,6 +430,21 @@
       ]
     },
     {
+      "id": "1tgh7n2",
+      "subreddit": "ClaudeAI",
+      "title": "About the Compacting Strategy",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1779095988.0,
+      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tgh7n2/about_the_compacting_strategy/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tgh7n2/about_the_compacting_strategy/",
+      "selftext_excerpt": "[removed]",
+      "author": "heraklets",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "id": "1tgh087",
       "subreddit": "ClaudeAI",
       "title": "Built MCP for image generation",
@@ -855,18 +870,18 @@
       ]
     },
     {
-      "id": "1tgedob",
-      "subreddit": "ClaudeAI",
-      "title": "Claude gives me great plans. I forget them in a week. So I built Nudge with Claude Code.",
+      "id": "1tgh4qj",
+      "subreddit": "ClaudeCode",
+      "title": "Most teams ship prompts like its 2008. I built something better.",
       "score": 1,
-      "num_comments": 1,
-      "created_utc": 1779086376.0,
-      "permalink": "https://reddit.com/r/ClaudeAI/comments/1tgedob/claude_gives_me_great_plans_i_forget_them_in_a/",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tgedob/claude_gives_me_great_plans_i_forget_them_in_a/",
-      "selftext_excerpt": "[removed]",
-      "author": "IDKWUTGW",
+      "num_comments": 0,
+      "created_utc": 1779095715.0,
+      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tgh4qj/most_teams_ship_prompts_like_its_2008_i_built/",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tgh4qj/most_teams_ship_prompts_like_its_2008_i_built/",
+      "selftext_excerpt": "Most teams ship prompts the same way they used to ship CSS in 2008. Tweak, eyeball a few outputs, push to prod, wait for users to complain, repeat. Prompts are production code. They deserve the same t",
+      "author": "No_Skill_8393",
       "tags": [
-        "claude"
+        "general"
       ]
     },
     {
@@ -1316,21 +1331,6 @@
       "tags": [
         "claude",
         "openai"
-      ]
-    },
-    {
-      "id": "1tgedlo",
-      "subreddit": "ClaudeCode",
-      "title": "Claude Code among friends, lets vibe!",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": 1779086369.0,
-      "permalink": "https://reddit.com/r/ClaudeCode/comments/1tgedlo/claude_code_among_friends_lets_vibe/",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1tgedlo/claude_code_among_friends_lets_vibe/",
-      "selftext_excerpt": "https://preview.redd.it/sx1w0a35cu1h1.jpg?width=1864&format=pjpg&auto=webp&s=05bfcdcaf0e22f2477fae3190569b2727aa41773\n\nmade a simple tool to compare your claude code usage with friends — tokens, cost,",
-      "author": "RingoCatKeeper",
-      "tags": [
-        "claude"
       ]
     },
     {
@@ -3029,6 +3029,22 @@
       ]
     },
     {
+      "id": "1tgh73w",
+      "subreddit": "wallstreetbets",
+      "title": "I asked an AI to pick the best WSB stock for the next week. It said $MU.",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1779095940.0,
+      "permalink": "https://reddit.com/r/wallstreetbets/comments/1tgh73w/i_asked_an_ai_to_pick_the_best_wsb_stock_for_the/",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1tgh73w/i_asked_an_ai_to_pick_the_best_wsb_stock_for_the/",
+      "selftext_excerpt": "[removed]",
+      "author": "MidnightApprehensive",
+      "tags": [
+        "ai",
+        "stocks"
+      ]
+    },
+    {
       "id": "1tgf8ja",
       "subreddit": "wallstreetbets",
       "title": "Can someone please explain the Pigeon meme? I spent 987 litters of water on Claude Research to find out, and it didn't find anything.",
@@ -3212,7 +3228,7 @@
     }
   ],
   "stats": {
-    "total": 209,
+    "total": 210,
     "subreddits_attempted": 10,
     "subreddits_failed": []
   },
