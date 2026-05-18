@@ -1,0 +1,27 @@
+{
+  "status": "부분실패",
+  "date": "2026-05-18",
+  "headline": "Anthropic 금융 서비스 리포 GitHub 주간 트렌딩 진입 · Google I/O 2026 시간표 공개 · Claude Code 비개발자 활용 사례 폭증",
+  "notion_url": "https://www.notion.so/364ac13c34e481898da4e2c0174a858c",
+  "archive_url": "https://www.notion.so/ea41dcdc49a64291ad1ab30f5cf24dd0",
+  "highlights": [
+    "anthropics/financial-services GitHub 주간 +5,977 ⭐ — Anthropic 공식 금융 서비스 레포",
+    "구글 I/O 2026 시간표 공개 (DCInside 추천 277) — Gemini 차세대·Astra 후속 예상",
+    "CloakBrowser +9,007 ⭐ — 봇 탐지 우회 스텔스 크로미움, AI 에이전트 웹 자동화용"
+  ],
+  "n_items": 38,
+  "n_clusters": 8,
+  "top_tag": "claude",
+  "fail_stage": "Phase 1 Research-blogs/arxiv/hackernews",
+  "fail_reason": "ccr egress host_not_allowed: blog_*, arxiv.org, hacker-news.firebaseio.com",
+  "sources_failed": "blog_anthropic, blog_openai, blog_deepmind, blog_meta, blog_huggingface, blog_mistral, arxiv, hackernews",
+  "input_cap_applied": {
+    "reddit": 50,
+    "dcinside": 15,
+    "research": 10
+  },
+  "reddit_count": 50,
+  "dcinside_count": 15,
+  "hn_count": 0,
+  "timestamp_utc": "2026-05-18-0722"
+}
