@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install Python deps
+        run: pip install --quiet requests feedparser
+
       - name: Ensure data dir
         run: mkdir -p data
 
@@ -27,6 +30,18 @@ jobs:
 
       - name: Fetch DCInside
         run: python scripts/fetch_dcinside.py
+        continue-on-error: true
+
+      - name: Fetch blogs (Anthropic / OpenAI / DeepMind / Meta / HF / Mistral)
+        run: python scripts/fetch_blogs.py
+        continue-on-error: true
+
+      - name: Fetch ArXiv (cs.AI / cs.LG / cs.CL, 48h)
+        run: python scripts/fetch_arxiv.py
+        continue-on-error: true
+
+      - name: Fetch Hacker News (AI-filtered, 24h)
+        run: python scripts/fetch_hackernews.py
         continue-on-error: true
 
       - name: Commit & push if changed
