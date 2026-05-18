@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install Python deps
-        run: pip install --quiet requests feedparser
+        run: pip install --quiet requests feedparser beautifulsoup4
 
       - name: Ensure data dir
         run: mkdir -p data
