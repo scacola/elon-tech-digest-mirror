@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-18T09:22:59.945330+00:00",
-  "cutoff": "2026-05-11T09:22:48.552684+00:00",
+  "generated_at": "2026-05-18T23:36:07.019586+00:00",
+  "cutoff": "2026-05-11T23:35:45.045269+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 18
+      "count": 16
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,24 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 3
+      "count": 4
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "published_at": "2026-05-18T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+    },
     {
       "source": "blog_openai",
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -36,6 +44,30 @@
       "published_at": "2026-05-16T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     },
     {
       "source": "blog_openai",
@@ -52,30 +84,6 @@
       "published_at": "2026-05-15T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "published_at": "2026-05-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published_at": "2026-05-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "published_at": "2026-05-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
     },
     {
       "source": "blog_openai",
@@ -150,28 +158,28 @@
       "lead_paragraph": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
     },
     {
-      "source": "blog_openai",
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "published_at": "2026-05-11T15:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "published_at": "2026-05-18T16:00:21+00:00",
       "author": "",
-      "lead_paragraph": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published_at": "2026-05-11T10:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "published_at": "2026-05-18T15:12:46+00:00",
       "author": "",
-      "lead_paragraph": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "published_at": "2026-05-11T10:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "published_at": "2026-05-18T14:12:58+00:00",
       "author": "",
-      "lead_paragraph": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -190,12 +198,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "published_at": "2026-05-11T23:18:26+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "published_at": "2026-05-18T18:12:57+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "blog_anthropic",

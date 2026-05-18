@@ -1,6 +1,6 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-05-18T09:22:48.115332+00:00",
+  "collected_at": "2026-05-18T23:35:44.218192+00:00",
   "gallery": "thesingularity",
   "window": "24h",
   "items": [
@@ -10,22 +10,9 @@
       "recommend": 285,
       "comments": 24,
       "author": "Hongcc",
-      "created_at_raw": "00:44",
+      "created_at_raw": "05.18",
       "body_excerpt": "",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1189105",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1191485",
-      "title": "추천 100개 넘으면 부매니저하기",
-      "recommend": 103,
-      "comments": 37,
-      "author": "행복한천국으로",
-      "created_at_raw": "18:10",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1191485",
       "tags": [
         "general"
       ]
@@ -83,35 +70,9 @@
       ]
     },
     {
-      "no": "1179594",
-      "title": "[십덕] 그록쨩의 우월한 능력",
-      "recommend": 70,
-      "comments": 45,
-      "author": "KFree",
-      "created_at_raw": "05.13",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1179594",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1178258",
-      "title": "씹덕)원가절감된 잼짱",
-      "recommend": 69,
-      "comments": 45,
-      "author": "스테비아",
-      "created_at_raw": "05.12",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1178258",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1184044",
       "title": "SK특집) \"월급은 AI가 벌어올게, 넌 놀기만 해.\"",
-      "recommend": 63,
+      "recommend": 64,
       "comments": 24,
       "author": "초존도초",
       "created_at_raw": "05.15",
@@ -119,6 +80,19 @@
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1184044",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "no": "1192520",
+      "title": "그냥 씨발 좀 쉬는게 당연한 세상이 좀 되자고 씨발..",
+      "recommend": 63,
+      "comments": 44,
+      "author": "ㅇㅇ",
+      "created_at_raw": "05.18",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1192520",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -137,7 +111,7 @@
     {
       "no": "1187971",
       "title": "피겨가 감 다 뒤진 이유",
-      "recommend": 56,
+      "recommend": 57,
       "comments": 26,
       "author": "난춘",
       "created_at_raw": "05.17",
@@ -150,7 +124,7 @@
     {
       "no": "1184074",
       "title": "GPT-5.5, 'AI IQ' 테스트서 136으로 1위",
-      "recommend": 56,
+      "recommend": 57,
       "comments": 32,
       "author": "회색",
       "created_at_raw": "05.15",
@@ -163,7 +137,7 @@
     {
       "no": "1184060",
       "title": "앤트로픽, 2026년은 미국 AI의 돌파 분기",
-      "recommend": 56,
+      "recommend": 57,
       "comments": 5,
       "author": "초존도초",
       "created_at_raw": "05.15",
@@ -191,13 +165,39 @@
       "no": "1189015",
       "title": "프롬프트 공유) 정부혜택 길잡이",
       "recommend": 51,
-      "comments": 25,
+      "comments": 27,
       "author": "fewweekslater",
-      "created_at_raw": "00:09",
+      "created_at_raw": "05.18",
       "body_excerpt": "",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1189015",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1188002",
+      "title": "전 Xai 한국인 직원의 후기",
+      "recommend": 51,
+      "comments": 34,
+      "author": "ㅇㅇ",
+      "created_at_raw": "05.17",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1188002",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1181279",
+      "title": "념글 AI그림 반응 ㅈㄴ웃기네 ㅋㅋㅋㅋㅋㅋ",
+      "recommend": 51,
+      "comments": 45,
+      "author": "ㅇㅇ",
+      "created_at_raw": "05.14",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1181279",
+      "tags": [
+        "ai"
       ]
     }
   ],
