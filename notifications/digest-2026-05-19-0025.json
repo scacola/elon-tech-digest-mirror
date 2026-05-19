@@ -1,0 +1,18 @@
+{
+  "status": "발행됨",
+  "date": "2026-05-19",
+  "headline": "Anthropic이 SDK 회사 Stainless 인수. Claude for Small Business 공개. OpenAI×Dell 사내 Codex 파트너십. 머스크 vs OpenAI 소송 패소. GitHub 트렌딩은 Claude Code 생태계가 장악.",
+  "notion_url": "https://www.notion.so/365ac13c34e4818ab083dffba7706d80",
+  "archive_url": "https://www.notion.so/ea41dcdc49a64291ad1ab30f5cf24dd0",
+  "highlights": [
+    "Claude Code용 학술 연구 스킬셋. 조사→집필→리뷰→수정→마무리 흐름을 자동화해요.",
+    "Claude Code/Cursor 등을 위한 로컬 코드 지식그래프. 토큰과 호출 수를 크게 줄여줘요.",
+    "AI 에이전트가 만든 잘못된 React 코드를 자동 진단해주는 도구."
+  ],
+  "n_items": 31,
+  "n_clusters": 7,
+  "top_tag": "ai",
+  "fail_stage": "",
+  "fail_reason": "",
+  "sources_failed": "arxiv"
+}
