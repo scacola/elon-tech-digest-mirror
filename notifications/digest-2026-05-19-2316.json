@@ -1,0 +1,18 @@
+{
+  "status": "부분실패",
+  "date": "2026-05-19",
+  "headline": "오늘의 톱: Anthropic acquires Stainless",
+  "notion_url": "https://www.notion.so/365ac13c34e481a88297c5c56f07138c",
+  "archive_url": "https://www.notion.so/ea41dcdc49a64291ad1ab30f5cf24dd0",
+  "highlights": [
+    "Anthropic acquires Stainless",
+    "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions",
+    "Introducing Claude for Small Business"
+  ],
+  "n_items": 95,
+  "n_clusters": 8,
+  "top_tag": "ai",
+  "fail_stage": "Phase 1 ArXiv",
+  "fail_reason": "mirror items=[] (API rate-limit 추정)",
+  "sources_failed": "arxiv"
+}
