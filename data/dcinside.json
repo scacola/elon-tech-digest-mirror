@@ -1,6 +1,6 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-05-19T23:38:48.610350+00:00",
+  "collected_at": "2026-05-20T03:18:40.923173+00:00",
   "gallery": "thesingularity",
   "window": "24h",
   "items": [
@@ -33,7 +33,7 @@
     {
       "no": "1192520",
       "title": "그냥 씨발 좀 쉬는게 당연한 세상이 좀 되자고 씨발..",
-      "recommend": 78,
+      "recommend": 79,
       "comments": 58,
       "author": "ㅇㅇ",
       "created_at_raw": "05.18",
@@ -59,12 +59,25 @@
     {
       "no": "1195684",
       "title": "시간이 지나면 틀림없이 지능은 싸질 것입니다.",
-      "recommend": 61,
+      "recommend": 63,
       "comments": 15,
       "author": "ㅇㅇ",
       "created_at_raw": "05.19",
       "body_excerpt": "",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1195684",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1196439",
+      "title": "...준비 끝났습니다 박사님.",
+      "recommend": 58,
+      "comments": 44,
+      "author": "Asi",
+      "created_at_raw": "05.19",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1196439",
       "tags": [
         "general"
       ]
@@ -96,33 +109,6 @@
       ]
     },
     {
-      "no": "1184060",
-      "title": "앤트로픽, 2026년은 미국 AI의 돌파 분기",
-      "recommend": 57,
-      "comments": 5,
-      "author": "초존도초",
-      "created_at_raw": "05.15",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1184060",
-      "tags": [
-        "claude",
-        "ai"
-      ]
-    },
-    {
-      "no": "1196439",
-      "title": "...준비 끝났습니다 박사님.",
-      "recommend": 55,
-      "comments": 44,
-      "author": "Asi",
-      "created_at_raw": "05.19",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1196439",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1195557",
       "title": "3.5플 가격 3배 인상",
       "recommend": 53,
@@ -131,6 +117,19 @@
       "created_at_raw": "05.19",
       "body_excerpt": "",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1195557",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1197993",
+      "title": "I/O 끈남. 내용 요약함",
+      "recommend": 52,
+      "comments": 13,
+      "author": "ㅋㅏ붕이",
+      "created_at_raw": "03:53",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1197993",
       "tags": [
         "general"
       ]
@@ -146,6 +145,32 @@
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1189015",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1198659",
+      "title": "젬 3.5 플래시 요약하면 그러니까 이거란거지",
+      "recommend": 51,
+      "comments": 18,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08:52",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1198659",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1190312",
+      "title": "비전문가가 AI 만으로 변호사 상대로 승소.news",
+      "recommend": 51,
+      "comments": 60,
+      "author": "ㅇㅇ",
+      "created_at_raw": "05.18",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1190312",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -172,32 +197,6 @@
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1189560",
       "tags": [
         "general"
-      ]
-    },
-    {
-      "no": "1188002",
-      "title": "전 Xai 한국인 직원의 후기",
-      "recommend": 51,
-      "comments": 34,
-      "author": "ㅇㅇ",
-      "created_at_raw": "05.17",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1188002",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1184766",
-      "title": "\"AI 기본소득?  로마 시대로 회귀할 것이다\" 김대식 교수",
-      "recommend": 51,
-      "comments": 61,
-      "author": "초존도초",
-      "created_at_raw": "05.16",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1184766",
-      "tags": [
-        "ai"
       ]
     }
   ],

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-19T23:39:22.564911+00:00",
-  "cutoff": "2026-05-12T23:38:49.720930+00:00",
+  "generated_at": "2026-05-20T03:19:15.475424+00:00",
+  "cutoff": "2026-05-13T03:18:41.847459+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     {
       "source": "blog_deepmind",
@@ -55,6 +55,30 @@
     },
     {
       "source": "blog_openai",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "source": "blog_openai",
       "title": "How sales teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published_at": "2026-05-15T00:00:00+00:00",
@@ -68,30 +92,6 @@
       "published_at": "2026-05-15T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "published_at": "2026-05-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
-    },
-    {
-      "source": "blog_openai",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "published_at": "2026-05-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published_at": "2026-05-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     },
     {
       "source": "blog_openai",
@@ -124,14 +124,6 @@
       "published_at": "2026-05-13T11:00:00+00:00",
       "author": "",
       "lead_paragraph": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Our response to the TanStack npm supply chain attack",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "published_at": "2026-05-13T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def"
     },
     {
       "source": "blog_deepmind",
@@ -297,7 +289,7 @@
       "source": "blog_anthropic",
       "title": "Widening the conversation on frontier AI",
       "url": "https://www.anthropic.com/news/widening-conversation-ai",
-      "published_at": "2026-05-19T23:28:04+00:00",
+      "published_at": "2026-05-20T00:29:29+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },

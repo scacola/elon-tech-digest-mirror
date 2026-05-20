@@ -1,34 +1,24 @@
 {
-  "generated_at": "2026-05-19T23:39:35.556771+00:00",
-  "cutoff": "2026-05-18T23:39:23.920250+00:00",
+  "generated_at": "2026-05-20T03:19:33.437983+00:00",
+  "cutoff": "2026-05-19T03:19:16.069224+00:00",
   "window_hours": 24,
   "items": [
     {
       "hn_id": 48194352,
       "title": "I’ve joined Anthropic",
-      "score": 1097,
+      "score": 1207,
       "by": "dmarcos",
-      "comments": 456,
+      "comments": 501,
       "created_at": "2026-05-19T15:07:45+00:00",
       "url": "https://twitter.com/karpathy/status/2056753169888334312",
       "discussion_url": "https://news.ycombinator.com/item?id=48194352"
     },
     {
-      "hn_id": 48188183,
-      "title": "The last six months in LLMs in five minutes",
-      "score": 726,
-      "by": "yakkomajuri",
-      "comments": 553,
-      "created_at": "2026-05-19T01:30:42+00:00",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48188183"
-    },
-    {
       "hn_id": 48196570,
       "title": "Gemini 3.5 Flash",
-      "score": 474,
+      "score": 623,
       "by": "spectraldrift",
-      "comments": 369,
+      "comments": 466,
       "created_at": "2026-05-19T17:43:45+00:00",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "discussion_url": "https://news.ycombinator.com/item?id=48196570"
@@ -36,79 +26,99 @@
     {
       "hn_id": 48189368,
       "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "score": 358,
+      "score": 364,
       "by": "theanonymousone",
-      "comments": 275,
+      "comments": 278,
       "created_at": "2026-05-19T05:04:49+00:00",
       "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
       "discussion_url": "https://news.ycombinator.com/item?id=48189368"
     },
     {
-      "hn_id": 48196609,
-      "title": "Gemini Omni",
-      "score": 230,
-      "by": "meetpateltech",
-      "comments": 97,
-      "created_at": "2026-05-19T17:46:19+00:00",
-      "url": "https://deepmind.google/models/gemini-omni/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48196609"
-    },
-    {
       "hn_id": 48192383,
       "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "score": 197,
+      "score": 311,
       "by": "zambelli",
-      "comments": 67,
+      "comments": 114,
       "created_at": "2026-05-19T12:23:07+00:00",
       "url": "https://github.com/antoinezambelli/forge",
       "discussion_url": "https://news.ycombinator.com/item?id=48192383"
     },
     {
+      "hn_id": 48196609,
+      "title": "Gemini Omni",
+      "score": 280,
+      "by": "meetpateltech",
+      "comments": 115,
+      "created_at": "2026-05-19T17:46:19+00:00",
+      "url": "https://deepmind.google/models/gemini-omni/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48196609"
+    },
+    {
+      "hn_id": 48201484,
+      "title": "Railway Blocked by Google Cloud",
+      "score": 226,
+      "by": "aarondf",
+      "comments": 91,
+      "created_at": "2026-05-20T00:23:54+00:00",
+      "url": "https://status.railway.com/?date=20260519",
+      "discussion_url": "https://news.ycombinator.com/item?id=48201484"
+    },
+    {
       "hn_id": 48198291,
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "score": 143,
+      "score": 216,
       "by": "smooke",
-      "comments": 66,
+      "comments": 119,
       "created_at": "2026-05-19T19:34:30+00:00",
       "url": "https://openai.com/index/advancing-content-provenance/",
       "discussion_url": "https://news.ycombinator.com/item?id=48198291"
     },
     {
       "hn_id": 48197995,
-      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-      "score": 139,
+      "title": "Mistral AI acquires Emmi AI",
+      "score": 179,
       "by": "doener",
-      "comments": 35,
+      "comments": 48,
       "created_at": "2026-05-19T19:14:12+00:00",
       "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
       "discussion_url": "https://news.ycombinator.com/item?id=48197995"
     },
     {
-      "hn_id": 48194614,
-      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
-      "score": 102,
-      "by": "akhuettel",
-      "comments": 37,
-      "created_at": "2026-05-19T15:27:53+00:00",
-      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=48194614"
-    },
-    {
       "hn_id": 48200569,
-      "title": "Remove AI Watermarks",
-      "score": 57,
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "score": 145,
       "by": "janalsncm",
-      "comments": 30,
+      "comments": 93,
       "created_at": "2026-05-19T22:30:31+00:00",
       "url": "https://github.com/wiltodelta/remove-ai-watermarks",
       "discussion_url": "https://news.ycombinator.com/item?id=48200569"
     },
     {
+      "hn_id": 48194614,
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "score": 113,
+      "by": "akhuettel",
+      "comments": 42,
+      "created_at": "2026-05-19T15:27:53+00:00",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=48194614"
+    },
+    {
+      "hn_id": 48196867,
+      "title": "Gemini CLI will stop working from June 18, 2026",
+      "score": 80,
+      "by": "primaprashant",
+      "comments": 29,
+      "created_at": "2026-05-19T18:03:10+00:00",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48196867"
+    },
+    {
       "hn_id": 48196229,
       "title": "'Comically bad' datasets used to train clinical models for stroke and diabetes",
-      "score": 44,
+      "score": 53,
       "by": "leephillips",
-      "comments": 9,
+      "comments": 10,
       "created_at": "2026-05-19T17:16:39+00:00",
       "url": "https://retractionwatch.com/2026/05/18/kaggle-dataset-clinical-models-stroke-diabetes/",
       "discussion_url": "https://news.ycombinator.com/item?id=48196229"
@@ -116,7 +126,7 @@
     {
       "hn_id": 48196303,
       "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
-      "score": 34,
+      "score": 41,
       "by": "stalfosknight",
       "comments": 8,
       "created_at": "2026-05-19T17:22:45+00:00",
@@ -126,37 +136,27 @@
     {
       "hn_id": 48191852,
       "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
-      "score": 33,
+      "score": 35,
       "by": "pranshuchittora",
-      "comments": 49,
+      "comments": 50,
       "created_at": "2026-05-19T11:16:56+00:00",
       "url": "https://github.com/vostride/id-agent",
       "discussion_url": "https://news.ycombinator.com/item?id=48191852"
     },
     {
-      "hn_id": 48197116,
-      "title": "Graduates are booing pep talks on AI at college commencements",
-      "score": 25,
-      "by": "1vuio0pswjnm7",
-      "comments": 13,
-      "created_at": "2026-05-19T18:18:02+00:00",
-      "url": "https://www.boston25news.com/news/business/graduates-are-booing/A42H2XSTVQ2ZHHVBCKC3X7P32Y/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48197116"
-    },
-    {
-      "hn_id": 48196867,
-      "title": "Gemini CLI will stop working from June 18, 2026",
-      "score": 23,
-      "by": "primaprashant",
-      "comments": 5,
-      "created_at": "2026-05-19T18:03:10+00:00",
-      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48196867"
+      "hn_id": 48200839,
+      "title": "Google Cloud Auto-Banned Railway.app Account – Major Railway Outage",
+      "score": 21,
+      "by": "kennysmoothx",
+      "comments": 2,
+      "created_at": "2026-05-19T23:02:55+00:00",
+      "url": "https://twitter.com/acgfbr/status/2056866780866351323",
+      "discussion_url": "https://news.ycombinator.com/item?id=48200839"
     },
     {
       "hn_id": 48193539,
       "title": "The Programming Language for Agents",
-      "score": 13,
+      "score": 15,
       "by": "Marius77",
       "comments": 5,
       "created_at": "2026-05-19T14:09:50+00:00",
@@ -164,14 +164,64 @@
       "discussion_url": "https://news.ycombinator.com/item?id=48193539"
     },
     {
-      "hn_id": 48191961,
-      "title": "Tagging Blog Posts with BERTopic and LLMs",
+      "hn_id": 48201330,
+      "title": "Tell HN: Google banned Railway's account. Everything down",
+      "score": 14,
+      "by": "sergiotapia",
+      "comments": 10,
+      "created_at": "2026-05-20T00:03:20+00:00",
+      "url": "https://news.ycombinator.com/item?id=48201330",
+      "discussion_url": "https://news.ycombinator.com/item?id=48201330"
+    },
+    {
+      "hn_id": 48201024,
+      "title": "AI Didn't Break College. It Exposed What College Was",
+      "score": 14,
+      "by": "paulpauper",
+      "comments": 3,
+      "created_at": "2026-05-19T23:24:48+00:00",
+      "url": "https://greyenlightenment.com/2026/05/17/ai-didnt-break-college-it-exposed-what-college-already-was/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48201024"
+    },
+    {
+      "hn_id": 48201602,
+      "title": "Google Cloud has blocked our account, making some Railway services unavailable",
       "score": 11,
-      "by": "mpbart",
-      "comments": 0,
-      "created_at": "2026-05-19T11:30:01+00:00",
-      "url": "https://vickiboykis.com/2026/05/18/tagging-my-blog-posts-with-bertopic-and-llms/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48191961"
+      "by": "bundie",
+      "comments": 3,
+      "created_at": "2026-05-20T00:40:27+00:00",
+      "url": "https://twitter.com/i/status/2056883076496789854",
+      "discussion_url": "https://news.ycombinator.com/item?id=48201602"
+    },
+    {
+      "hn_id": 48200931,
+      "title": "Railway Is Down",
+      "score": 9,
+      "by": "mahmedtan",
+      "comments": 1,
+      "created_at": "2026-05-19T23:14:20+00:00",
+      "url": "https://status.railway.com?resubmit=hn",
+      "discussion_url": "https://news.ycombinator.com/item?id=48200931"
+    },
+    {
+      "hn_id": 48199138,
+      "title": "Java: Rethink Domain Primitives with Valhalla",
+      "score": 8,
+      "by": "dfa11",
+      "comments": 1,
+      "created_at": "2026-05-19T20:31:56+00:00",
+      "url": "https://dfa1.github.io/articles/rethink-domain-primitives-with-valhalla.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=48199138"
+    },
+    {
+      "hn_id": 48201363,
+      "title": "Railway Currently Down",
+      "score": 8,
+      "by": "kristianc",
+      "comments": 1,
+      "created_at": "2026-05-20T00:08:58+00:00",
+      "url": "https://twitter.com/Railway/status/2056873075401007338",
+      "discussion_url": "https://news.ycombinator.com/item?id=48201363"
     },
     {
       "hn_id": 48198301,
@@ -184,24 +234,14 @@
       "discussion_url": "https://news.ycombinator.com/item?id=48198301"
     },
     {
-      "hn_id": 48199756,
-      "title": "Raven Software's Jedi Academy sources, from 2013, had all the crunch rage intact",
-      "score": 6,
-      "by": "perching_aix",
-      "comments": 1,
-      "created_at": "2026-05-19T21:15:03+00:00",
-      "url": "https://old.reddit.com/r/programming/comments/1thewau/raven_software_released_the_jedi_academy_source/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48199756"
-    },
-    {
-      "hn_id": 48199138,
-      "title": "Java: Rethink Domain Primitives with Valhalla",
-      "score": 3,
-      "by": "dfa11",
-      "comments": 1,
-      "created_at": "2026-05-19T20:31:56+00:00",
-      "url": "https://dfa1.github.io/articles/rethink-domain-primitives-with-valhalla.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=48199138"
+      "hn_id": 48201286,
+      "title": "Google Cloud suspends Railway account causing major outage",
+      "score": 7,
+      "by": "sincinnatusc",
+      "comments": 0,
+      "created_at": "2026-05-19T23:58:16+00:00",
+      "url": "https://twitter.com/Railway/status/2056883076496789854",
+      "discussion_url": "https://news.ycombinator.com/item?id=48201286"
     }
   ]
 }
