@@ -1,0 +1,18 @@
+{
+  "status": "실패",
+  "date": "2026-05-21",
+  "headline": "OpenAI·Dell의 Codex 온프레미스, Databricks의 GPT-5.5, Karpathy의 Anthropic 합류 — AI 에이전트 공방 가속",
+  "notion_url": "",
+  "archive_url": "https://www.notion.so/ea41dcdc49a64291ad1ab30f5cf24dd0",
+  "highlights": [
+    "OpenAI·Dell Codex 온프레미스 파트너십",
+    "Databricks가 GPT-5.5를 엔터프라이즈 에이전트 워크플로에 채택",
+    "Karpathy의 Anthropic 합류(HN 1,207pts)"
+  ],
+  "n_items": 95,
+  "n_clusters": 9,
+  "top_tag": "agentic",
+  "fail_stage": "Phase 3 Notion",
+  "fail_reason": "MCP notion-create-pages: requires approval (rejected twice in session)",
+  "sources_failed": ""
+}
