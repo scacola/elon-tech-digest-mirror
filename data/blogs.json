@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-20T03:19:15.475424+00:00",
-  "cutoff": "2026-05-13T03:18:41.847459+00:00",
+  "generated_at": "2026-05-20T23:08:52.897838+00:00",
+  "cutoff": "2026-05-13T23:08:27.255017+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 15
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     {
       "source": "blog_huggingface",
@@ -29,6 +29,38 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+    },
+    {
+      "source": "blog_openai",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "published_at": "2026-05-19T20:30:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
+    },
     {
       "source": "blog_openai",
       "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
@@ -71,6 +103,14 @@
     },
     {
       "source": "blog_openai",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
+    },
+    {
+      "source": "blog_openai",
       "title": "How data science teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published_at": "2026-05-15T00:00:00+00:00",
@@ -84,14 +124,6 @@
       "published_at": "2026-05-15T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "published_at": "2026-05-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
     },
     {
       "source": "blog_openai",
@@ -116,14 +148,6 @@
       "published_at": "2026-05-14T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "published_at": "2026-05-13T11:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
     },
     {
       "source": "blog_deepmind",
@@ -172,6 +196,14 @@
       "published_at": "2026-05-17T13:43:50+00:00",
       "author": "",
       "lead_paragraph": "We're expanding our tools to help you understand how content was created and edited across the web."
+    },
+    {
+      "source": "blog_deepmind",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "published_at": "2026-05-16T09:13:34+00:00",
+      "author": "",
+      "lead_paragraph": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more."
     },
     {
       "source": "blog_deepmind",
@@ -231,7 +263,7 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "published_at": "2026-05-19T18:38:09+00:00",
       "author": "",
