@@ -1,0 +1,68 @@
+name: Publish digest to Notion DB
+
+# Triggered by notification commits from the routine. Reads the latest
+# notifications/digest-*.json file, calls Notion REST API to create a DB row
+# with full markdown content as blocks, and patches the notification JSON
+# with the resulting page URL so the Telegram message gets a working link.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'notifications/digest-*.json'
+  workflow_dispatch:
+    inputs:
+      notification_path:
+        description: 'Path to a notification file (e.g. notifications/digest-2026-05-22-0810.json)'
+        required: false
+        type: string
+
+concurrency:
+  group: publish-notion
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # to patch the notification JSON with the Notion URL
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # to diff the push and find the newly added notification
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install --quiet requests
+
+      - name: Resolve target notification path
+        id: target
+        env:
+          MANUAL_PATH: ${{ github.event.inputs.notification_path }}
+        run: |
+          if [ -n "$MANUAL_PATH" ]; then
+            TARGET="$MANUAL_PATH"
+          else
+            # Find the notification file added/modified in this push (latest one)
+            TARGET=$(git diff --name-only HEAD~1 HEAD -- 'notifications/digest-*.json' | tail -n1)
+          fi
+          if [ -z "$TARGET" ] || [ ! -f "$TARGET" ]; then
+            echo "no target notification file found; exiting"
+            echo "skip=1" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "target=$TARGET" >> "$GITHUB_OUTPUT"
+          echo "Target: $TARGET"
+
+      - name: Publish to Notion
+        id: publish
+        if: steps.target.outputs.skip != '1'
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          DATA_SOURCE_ID: 6c8f171a-b9ce-464e-9795-7ff26c800683
+          TARGET: ${{ steps.target.outputs.target }}
+        run: python scripts/publish_notion.py
