@@ -1,0 +1,18 @@
+{
+  "status": "실패",
+  "date": "2026-05-21",
+  "headline": "OpenAI 모델, 80년 묵은 에르되시 추측 격파 — Anthropic Q2 2026 흑자 임박",
+  "notion_url": "",
+  "archive_url": "https://www.notion.so/ea41dcdc49a64291ad1ab30f5cf24dd0",
+  "highlights": [
+    "OpenAI 모델, 80년 묵은 에르되시 추측 격파",
+    "Anthropic Q2 2026 흑자 임박 + Stainless 인수",
+    "NVIDIA 분기 매출 $81.6B (+85% YoY)"
+  ],
+  "n_items": 40,
+  "n_clusters": 8,
+  "top_tag": "ai",
+  "fail_stage": "Phase 3 Notion",
+  "fail_reason": "MCP notion-create-pages requires approval",
+  "sources_failed": "notion_publish"
+}
