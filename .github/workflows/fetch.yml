@@ -2,10 +2,11 @@ name: Fetch tech-digest sources
 
 on:
   schedule:
-    # 22:00 UTC daily = 07:00 KST — 1h before the claude.ai cron at 08:00 KST.
-    # GHA cron has known delays up to ~30-60 min under load; this gives more buffer
-    # so routine never reads stale data committed the previous day.
-    - cron: '0 22 * * *'
+    # 21:00 UTC daily = 06:00 KST — 2h before the claude.ai cron at 08:00 KST.
+    # GHA cron has been observed to delay scheduled runs by 60-67 min under load,
+    # so the previous 1h buffer (22:00 UTC) was not enough — routine read stale
+    # data on 2026-05-21 because fetch fired 3 min after routine.
+    - cron: '0 21 * * *'
   workflow_dispatch: {}
 
 # Cancel any older queued/running fetch when a new one starts. Prevents an old
