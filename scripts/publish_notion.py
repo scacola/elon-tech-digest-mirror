@@ -218,7 +218,7 @@ def git_push_patch(target, page_url):
     if subprocess.run(["git", "diff", "--staged", "--quiet"]).returncode == 0:
         print("no changes to commit")
         return
-    msg = f"notion-publish: {Path(target).name} -> {page_url}"
+    msg = f"notion-publish: {Path(target).name} -> {page_url} [skip ci]"
     subprocess.run(["git", "commit", "-m", msg], check=True)
     subprocess.run(["git", "pull", "--rebase"], check=True)
     subprocess.run(["git", "push"], check=True)
