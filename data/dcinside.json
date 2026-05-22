@@ -1,18 +1,18 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-05-21T22:23:59.046351+00:00",
+  "collected_at": "2026-05-22T22:12:39.175863+00:00",
   "gallery": "thesingularity",
   "window": "24h",
   "items": [
     {
-      "no": "1189105",
-      "title": "구글 I/O 시간표 나왔네",
-      "recommend": 287,
-      "comments": 24,
-      "author": "Hongcc",
-      "created_at_raw": "05.18",
+      "no": "558071",
+      "title": "\"불이라고 알고 있소?\"",
+      "recommend": 375,
+      "comments": 144,
+      "author": "ㅇㅇ",
+      "created_at_raw": "24.10.31",
       "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1189105",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=558071",
       "tags": [
         "general"
       ]
@@ -31,6 +31,32 @@
       ]
     },
     {
+      "no": "1204401",
+      "title": "“트, 행정명령 서명 거부.. AI 기업들 방해하고 싶지 않아”",
+      "recommend": 93,
+      "comments": 64,
+      "author": "ㅇㅇ",
+      "created_at_raw": "05.22",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1204401",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1204783",
+      "title": "이렇게 보니까 알트만 빼고 다 계급주의자들이네",
+      "recommend": 80,
+      "comments": 36,
+      "author": "Junn",
+      "created_at_raw": "05.22",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1204783",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1192520",
       "title": "그냥 씨발 좀 쉬는게 당연한 세상이 좀 되자고 씨발..",
       "recommend": 80,
@@ -44,6 +70,19 @@
       ]
     },
     {
+      "no": "1202477",
+      "title": "내 맘대로 커스텀하는 로컬 LLM 기반 Live2D AI 만들었다!",
+      "recommend": 74,
+      "comments": 68,
+      "author": "멜리사J",
+      "created_at_raw": "05.21",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1202477",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "no": "1199073",
       "title": "제미나이 3.5 오면서 좋아진 점.real",
       "recommend": 73,
@@ -52,6 +91,32 @@
       "created_at_raw": "05.20",
       "body_excerpt": "",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1199073",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1206167",
+      "title": "샘 알트만은 지금 시험받고있다",
+      "recommend": 72,
+      "comments": 37,
+      "author": "녹색양",
+      "created_at_raw": "05.22",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1206167",
+      "tags": [
+        "openai"
+      ]
+    },
+    {
+      "no": "1199826",
+      "title": "\"하사비스는 3.5 Flash를 만들며 뭔가 행복하지 않았지?\"",
+      "recommend": 72,
+      "comments": 18,
+      "author": "ㅇㅇ",
+      "created_at_raw": "05.20",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1199826",
       "tags": [
         "general"
       ]
@@ -70,32 +135,6 @@
       ]
     },
     {
-      "no": "1199826",
-      "title": "\"하사비스는 3.5 Flash를 만들며 뭔가 행복하지 않았지?\"",
-      "recommend": 71,
-      "comments": 18,
-      "author": "ㅇㅇ",
-      "created_at_raw": "05.20",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1199826",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1202477",
-      "title": "내 맘대로 커스텀하는 로컬 LLM 기반 Live2D AI 만들었다!",
-      "recommend": 67,
-      "comments": 67,
-      "author": "멜리사J",
-      "created_at_raw": "05.21",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1202477",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1195684",
       "title": "시간이 지나면 틀림없이 지능은 싸질 것입니다.",
       "recommend": 67,
@@ -104,6 +143,45 @@
       "created_at_raw": "05.19",
       "body_excerpt": "",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1195684",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1202180",
+      "title": "X 제미나이 글 ㅋㅋㅋㅋㅋ",
+      "recommend": 66,
+      "comments": 32,
+      "author": "ㅇㅇ",
+      "created_at_raw": "05.21",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1202180",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1202056",
+      "title": "개병신.jpg",
+      "recommend": 65,
+      "comments": 28,
+      "author": "얀로롱",
+      "created_at_raw": "05.21",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1202056",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1201920",
+      "title": "결국 이새끼들뿐이면 개추..",
+      "recommend": 65,
+      "comments": 38,
+      "author": "Asi",
+      "created_at_raw": "05.21",
+      "body_excerpt": "",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1201920",
       "tags": [
         "general"
       ]
@@ -119,84 +197,6 @@
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1196439",
       "tags": [
         "general"
-      ]
-    },
-    {
-      "no": "1202180",
-      "title": "X 제미나이 글 ㅋㅋㅋㅋㅋ",
-      "recommend": 63,
-      "comments": 32,
-      "author": "ㅇㅇ",
-      "created_at_raw": "05.21",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1202180",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1199237",
-      "title": "??? : 제미나이 때문에 손해가 극심합니다..! 어서 대책을..!",
-      "recommend": 63,
-      "comments": 17,
-      "author": "녹색양",
-      "created_at_raw": "05.20",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1199237",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1199674",
-      "title": "제미나이 3.5플 오전 내내 써보고 느낀 소감",
-      "recommend": 61,
-      "comments": 11,
-      "author": "ㅇㅇ",
-      "created_at_raw": "05.20",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1199674",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1202056",
-      "title": "개병신.jpg",
-      "recommend": 60,
-      "comments": 28,
-      "author": "얀로롱",
-      "created_at_raw": "05.21",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1202056",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1201920",
-      "title": "결국 이새끼들뿐이면 개추..",
-      "recommend": 60,
-      "comments": 37,
-      "author": "Asi",
-      "created_at_raw": "05.21",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1201920",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1199413",
-      "title": "이와중에 대황OAI, 장기 보장 용량제 공개",
-      "recommend": 59,
-      "comments": 41,
-      "author": "봄바다",
-      "created_at_raw": "05.20",
-      "body_excerpt": "",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1199413",
-      "tags": [
-        "ai"
       ]
     }
   ],
