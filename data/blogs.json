@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T22:12:53.062339+00:00",
-  "cutoff": "2026-05-15T22:12:39.888485+00:00",
+  "generated_at": "2026-05-23T21:59:17.705314+00:00",
+  "cutoff": "2026-05-16T21:59:02.787010+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -13,7 +13,7 @@
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 15
+      "count": 7
     },
     {
       "source": "blog_huggingface",
@@ -39,6 +39,14 @@
     },
     {
       "source": "blog_openai",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "published_at": "2026-05-22T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
+    },
+    {
+      "source": "blog_openai",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
       "published_at": "2026-05-21T12:00:00+00:00",
@@ -47,19 +55,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "published_at": "2026-05-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
-    },
-    {
-      "source": "blog_openai",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "published_at": "2026-05-20T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
+    },
+    {
+      "source": "blog_openai",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
     },
     {
       "source": "blog_openai",
@@ -92,14 +100,6 @@
       "published_at": "2026-05-18T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "published_at": "2026-05-16T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
     },
     {
       "source": "blog_deepmind",
@@ -158,68 +158,12 @@
       "lead_paragraph": "We're expanding our tools to help you understand how content was created and edited across the web."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
-      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-      "published_at": "2026-05-16T09:13:34+00:00",
+      "source": "blog_huggingface",
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "published_at": "2026-05-23T00:02:03+00:00",
       "author": "",
-      "lead_paragraph": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Finding the molecular switches behind new infectious diseases",
-      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
-      "published_at": "2026-05-16T08:16:06+00:00",
-      "author": "",
-      "lead_paragraph": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Opening new paths in aging research",
-      "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
-      "published_at": "2026-05-16T08:08:44+00:00",
-      "author": "",
-      "lead_paragraph": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Accelerating discovery of liver disease mechanisms",
-      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
-      "published_at": "2026-05-16T08:00:15+00:00",
-      "author": "",
-      "lead_paragraph": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Uniting biological toolkits for a new approach to ALS",
-      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
-      "published_at": "2026-05-16T07:53:11+00:00",
-      "author": "",
-      "lead_paragraph": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Uncovering repurposed medicines to fight liver fibrosis",
-      "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
-      "published_at": "2026-05-16T07:40:27+00:00",
-      "author": "",
-      "lead_paragraph": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
-      "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
-      "published_at": "2026-05-16T03:14:17+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
-      "published_at": "2026-05-15T22:50:12+00:00",
-      "author": "",
-      "lead_paragraph": "Gemini 3.5 is built to help you execute complex, agentic workflows."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -242,14 +186,6 @@
       "title": "Introducing the Ettin Reranker Family",
       "url": "https://huggingface.co/blog/ettin-reranker",
       "published_at": "2026-05-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "published_at": "2026-05-18T16:00:21+00:00",
       "author": "",
       "lead_paragraph": ""
     },
