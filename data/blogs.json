@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T09:19:26.431618+00:00",
-  "cutoff": "2026-05-17T09:19:15.824566+00:00",
+  "generated_at": "2026-05-24T22:01:08.332822+00:00",
+  "cutoff": "2026-05-17T22:00:50.127116+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -13,7 +13,7 @@
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 7
+      "count": 2
     },
     {
       "source": "blog_huggingface",
@@ -116,46 +116,6 @@
       "published_at": "2026-05-18T18:21:39+00:00",
       "author": "",
       "lead_paragraph": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Simulate real-world places with Project Genie and Street View",
-      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "published_at": "2026-05-17T19:53:18+00:00",
-      "author": "",
-      "lead_paragraph": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Introducing Gemini Omni",
-      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
-      "published_at": "2026-05-17T19:50:57+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Introducing Google Antigravity 2.0",
-      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-      "published_at": "2026-05-17T19:43:45+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-      "published_at": "2026-05-17T13:50:34+00:00",
-      "author": "",
-      "lead_paragraph": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Making it easier to understand how content was created and edited",
-      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-      "published_at": "2026-05-17T13:43:50+00:00",
-      "author": "",
-      "lead_paragraph": "We're expanding our tools to help you understand how content was created and edited across the web."
     },
     {
       "source": "blog_huggingface",
