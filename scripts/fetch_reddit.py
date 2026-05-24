@@ -1,6 +1,15 @@
 #!/usr/bin/env python3
 """Fetch Reddit posts via Arctic Shift (Pushshift successor), emit data/reddit.json.
 
+Policy (2026-05-24 revision — user requested "fresh + humor heavy"):
+  - Per-sub limits raised so curator has a fatter pool to choose from.
+  - Meme/Humor/Shitpost/Comedy/Satire flairs are NO LONGER blocked. They now
+    carry a `humor` interest-tag so the curator can route them into a 유머·밈
+    section instead of dropping them on the floor.
+  - 24h freshness window unchanged — Arctic Shift's max age is also why we keep it.
+  - Stocks/wallstreetbets AI keyword filter unchanged (user explicitly only wants
+    AI/tech tickers, not e.g. retail/airline plays).
+
 Why Arctic Shift instead of reddit.com/.json:
   - reddit.com unauthenticated → 403 from GitHub Actions IPs.
   - Reddit OAuth app registration has been gated behind the new Devvit/Responsible
@@ -9,11 +18,8 @@ Why Arctic Shift instead of reddit.com/.json:
     over a no-auth HTTP API.
 
 Trade-off:
-  Score and num_comments are captured at insertion time, so popularity signals are
-  effectively (score, num_comments) ≈ (1, 0..2). The downstream curator weights items
-  by interest-tag keywords in the title/body anyway, so this is acceptable for now.
-  Schema (id/title/permalink/url/selftext/author/created_utc/tags) stays identical
-  to the previous direct-Reddit fetcher.
+  Score and num_comments are captured at insertion time (~(1, 0..2)). Downstream
+  curator weights items by interest-tag keywords in title/body anyway.
 """
 from __future__ import annotations
 
@@ -27,17 +33,19 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+# (subreddit, limit, ai_filter)
 SUBS: list[tuple[str, int, bool]] = [
-    ("singularity", 30, False),
-    ("ClaudeAI", 30, False),
-    ("ClaudeCode", 30, False),
-    ("LocalLLaMA", 25, False),
-    ("OpenAI", 20, False),
-    ("AI_Agents", 25, False),
-    ("MachineLearning", 20, False),
-    ("LLMDevs", 20, False),
-    ("wallstreetbets", 40, True),
-    ("stocks", 30, True),
+    ("singularity", 50, False),
+    ("ClaudeAI", 50, False),
+    ("ClaudeCode", 50, False),
+    ("LocalLLaMA", 40, False),
+    ("OpenAI", 35, False),
+    ("AI_Agents", 35, False),
+    ("MachineLearning", 30, False),
+    ("LLMDevs", 30, False),
+    ("ChatGPT", 30, False),
+    ("wallstreetbets", 60, True),
+    ("stocks", 40, True),
 ]
 
 INTEREST_TAGS = {
@@ -47,6 +55,7 @@ INTEREST_TAGS = {
     "openai": ["openai", "chatgpt", "codex", "sora", "gpt-"],
     "stocks": ["nvda", "aapl", "msft", "googl", "amd", "tsla", "stock", "earnings"],
 }
+HUMOR_FLAIRS = {"meme", "memes", "humor", "humour", "shitpost", "comedy", "satire", "funny", "joke"}
 AI_FILTER_KW = [
     "ai", "llm", "gpt", "claude", "anthropic", "openai", "agent", "mcp",
     "nvda", "tsla", "model", "transformer",
@@ -57,12 +66,15 @@ USER_AGENT = os.environ.get(
     "REDDIT_USER_AGENT",
     "tech-digest-mirror/1.0 (by /u/scacola; +https://github.com/scacola/elon-tech-digest-mirror)",
 )
-WINDOW_SEC = 24 * 60 * 60
+WINDOW_SEC = int(os.environ.get("REDDIT_WINDOW_HOURS", "24")) * 60 * 60
 
 
-def tag_post(title: str, selftext: str) -> list[str]:
+def tag_post(title: str, selftext: str, flair: str) -> list[str]:
     text = (title + " " + selftext).lower()
     tags = [tag for tag, kws in INTEREST_TAGS.items() if any(k in text for k in kws)]
+    flair_l = (flair or "").strip().lower()
+    if flair_l in HUMOR_FLAIRS:
+        tags.append("humor")
     return tags or ["general"]
 
 
@@ -87,8 +99,9 @@ def fetch_sub(sub: str, limit: int, ai_filter: bool) -> list[dict]:
     for d in raw:
         if d.get("over_18"):
             continue
-        if (d.get("link_flair_text") or "").lower() == "meme":
-            continue
+        # NOTE: humor / meme / shitpost flairs are deliberately ALLOWED (user wants
+        # humor in the digest). They get tagged via tag_post() so the curator can
+        # route them. The only flair we still suppress is none — keep all.
         created = float(d.get("created_utc") or 0)
         if not created or now - created > WINDOW_SEC:
             continue
@@ -99,6 +112,7 @@ def fetch_sub(sub: str, limit: int, ai_filter: bool) -> list[dict]:
             continue
         post_id = d.get("id") or ""
         permalink = d.get("permalink") or f"/r/{sub}/comments/{post_id}/"
+        flair = d.get("link_flair_text") or ""
         out.append({
             "id": post_id,
             "subreddit": sub,
@@ -112,13 +126,15 @@ def fetch_sub(sub: str, limit: int, ai_filter: bool) -> list[dict]:
             "url": d.get("url") or "",
             "selftext_excerpt": selftext,
             "author": d.get("author"),
-            "tags": tag_post(title, selftext),
+            "flair": flair,
+            "tags": tag_post(title, selftext, flair),
         })
     return out
 
 
 def main() -> int:
     print(f"Source: Arctic Shift ({ARCTIC_SHIFT_BASE})", file=sys.stderr)
+    print(f"Window: {WINDOW_SEC // 3600}h", file=sys.stderr)
     items: list[dict] = []
     failed: list[str] = []
     for sub, limit, ai_filter in SUBS:
@@ -133,16 +149,18 @@ def main() -> int:
         "source": "reddit",
         "via": "arctic_shift",
         "collected_at": datetime.now(timezone.utc).isoformat(),
-        "window": "24h",
+        "window": f"{WINDOW_SEC // 3600}h",
         "items": items,
         "stats": {
             "total": len(items),
             "subreddits_attempted": len(SUBS),
             "subreddits_failed": failed,
+            "humor_tagged": sum(1 for it in items if "humor" in it.get("tags", [])),
         },
         "notes": (
             "score and num_comments reflect Arctic Shift insertion-time snapshots, "
-            "not live values; downstream curator should weight by content keywords."
+            "not live values; downstream curator should weight by content keywords. "
+            "Humor/meme flairs are allowed and tagged `humor`."
         ),
     }
     out_path = Path("data/reddit.json")
