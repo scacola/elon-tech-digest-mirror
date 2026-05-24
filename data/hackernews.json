@@ -1,17 +1,67 @@
 {
-  "generated_at": "2026-05-23T22:00:25.221496+00:00",
-  "cutoff": "2026-05-22T22:00:18.782129+00:00",
+  "generated_at": "2026-05-24T09:19:42.709162+00:00",
+  "cutoff": "2026-05-23T09:19:27.544522+00:00",
   "window_hours": 24,
   "items": [
     {
       "hn_id": 48248775,
       "title": "Italy moves to Airbus A330 tankers",
-      "score": 211,
+      "score": 256,
       "by": "embedding-shape",
-      "comments": 66,
+      "comments": 101,
       "created_at": "2026-05-23T16:02:43+00:00",
       "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
       "discussion_url": "https://news.ycombinator.com/item?id=48248775"
+    },
+    {
+      "hn_id": 48250980,
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "score": 86,
+      "by": "baal80spam",
+      "comments": 58,
+      "created_at": "2026-05-23T20:09:13+00:00",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "discussion_url": "https://news.ycombinator.com/item?id=48250980"
+    },
+    {
+      "hn_id": 48249743,
+      "title": "Iowa to mandate students take Intellectual Freedom classes amid low enrollment",
+      "score": 41,
+      "by": "hn_acker",
+      "comments": 35,
+      "created_at": "2026-05-23T18:02:11+00:00",
+      "url": "https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48249743"
+    },
+    {
+      "hn_id": 48251864,
+      "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
+      "score": 25,
+      "by": "rbanffy",
+      "comments": 15,
+      "created_at": "2026-05-23T21:45:46+00:00",
+      "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48251864"
+    },
+    {
+      "hn_id": 48254993,
+      "title": "Local LLMs perform better when you teach them to ask before they answer",
+      "score": 9,
+      "by": "froh",
+      "comments": 4,
+      "created_at": "2026-05-24T06:40:34+00:00",
+      "url": "https://www.xda-developers.com/local-llm-clarifying-questions-system-prompt/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48254993"
+    },
+    {
+      "hn_id": 48253318,
+      "title": "Show HN: Play nbsdgames to increase your brain (exclamation mark)",
+      "score": 5,
+      "by": "abakh",
+      "comments": 0,
+      "created_at": "2026-05-24T01:13:12+00:00",
+      "url": "https://github.com/abakh/nbsdgames",
+      "discussion_url": "https://news.ycombinator.com/item?id=48253318"
     }
   ]
 }
