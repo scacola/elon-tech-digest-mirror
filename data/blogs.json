@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T22:01:08.332822+00:00",
-  "cutoff": "2026-05-17T22:00:50.127116+00:00",
+  "generated_at": "2026-05-25T22:13:34.411617+00:00",
+  "cutoff": "2026-05-18T22:13:20.062310+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -13,29 +13,29 @@
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 3
+      "count": 4
     }
   ],
   "items": [
     {
       "source": "blog_openai",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "published_at": "2026-05-22T00:00:00+00:00",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "published_at": "2026-05-25T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
+      "lead_paragraph": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
     },
     {
       "source": "blog_openai",
@@ -44,6 +44,14 @@
       "published_at": "2026-05-22T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "published_at": "2026-05-22T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
     },
     {
       "source": "blog_openai",
@@ -63,19 +71,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "published_at": "2026-05-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
-    },
-    {
-      "source": "blog_openai",
       "title": "How Ramp engineers accelerate code review with Codex",
       "url": "https://openai.com/index/ramp",
       "published_at": "2026-05-20T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+    },
+    {
+      "source": "blog_openai",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
     },
     {
       "source": "blog_openai",
@@ -94,14 +102,6 @@
       "lead_paragraph": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "published_at": "2026-05-18T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
-    },
-    {
       "source": "blog_deepmind",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
@@ -110,12 +110,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "published_at": "2026-05-18T18:21:39+00:00",
+      "source": "blog_huggingface",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "published_at": "2026-05-25T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -150,20 +150,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "published_at": "2026-05-18T15:12:46+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "The Open Agent Leaderboard",
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "published_at": "2026-05-18T14:12:58+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "published_at": "2026-05-25T18:41:28+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "The full text of Chris Olah's remarks on the Pope's encyclical on AI"
     },
     {
       "source": "blog_anthropic",

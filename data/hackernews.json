@@ -1,87 +1,57 @@
 {
-  "generated_at": "2026-05-24T22:03:27.531513+00:00",
-  "cutoff": "2026-05-23T22:03:16.787632+00:00",
+  "generated_at": "2026-05-25T22:15:16.782760+00:00",
+  "cutoff": "2026-05-24T22:15:06.714167+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 48256953,
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 353,
-      "by": "Alifatisk",
-      "comments": 171,
-      "created_at": "2026-05-24T13:02:06+00:00",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48256953"
+      "hn_id": 48266906,
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "score": 242,
+      "by": "jruohonen",
+      "comments": 65,
+      "created_at": "2026-05-25T13:56:39+00:00",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48266906"
     },
     {
-      "hn_id": 48258684,
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "score": 231,
-      "by": "intelkishan",
-      "comments": 252,
-      "created_at": "2026-05-24T16:31:29+00:00",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "discussion_url": "https://news.ycombinator.com/item?id=48258684"
+      "hn_id": 48270770,
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "score": 83,
+      "by": "rbanffy",
+      "comments": 51,
+      "created_at": "2026-05-25T19:37:57+00:00",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "discussion_url": "https://news.ycombinator.com/item?id=48270770"
     },
     {
-      "hn_id": 48259784,
-      "title": "Claude is not your architect. Stop letting it pretend",
-      "score": 210,
-      "by": "cdrnsf",
-      "comments": 144,
-      "created_at": "2026-05-24T18:28:11+00:00",
-      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48259784"
+      "hn_id": 48270497,
+      "title": "Anthropic Cofounder Chris Olah's Remarks on Pope Leo XIV's \"Magnifica Humanitas\"",
+      "score": 63,
+      "by": "Philpax",
+      "comments": 82,
+      "created_at": "2026-05-25T19:12:29+00:00",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "discussion_url": "https://news.ycombinator.com/item?id=48270497"
     },
     {
-      "hn_id": 48257410,
-      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-      "score": 180,
-      "by": "moh_maya",
-      "comments": 2,
-      "created_at": "2026-05-24T14:09:33+00:00",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-      "discussion_url": "https://news.ycombinator.com/item?id=48257410"
-    },
-    {
-      "hn_id": 48256912,
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "score": 147,
-      "by": "wek",
-      "comments": 66,
-      "created_at": "2026-05-24T12:55:53+00:00",
-      "url": "https://arxiv.org/abs/2605.06445",
-      "discussion_url": "https://news.ycombinator.com/item?id=48256912"
-    },
-    {
-      "hn_id": 48257980,
-      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "score": 141,
-      "by": "Brajeshwar",
-      "comments": 129,
-      "created_at": "2026-05-24T15:21:28+00:00",
-      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-      "discussion_url": "https://news.ycombinator.com/item?id=48257980"
-    },
-    {
-      "hn_id": 48259158,
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+      "hn_id": 48269588,
+      "title": "I just sequenced a human genome to 30× coverage at home",
       "score": 22,
-      "by": "ckrapu",
-      "comments": 0,
-      "created_at": "2026-05-24T17:18:52+00:00",
-      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48259158"
+      "by": "MrBuddyCasino",
+      "comments": 3,
+      "created_at": "2026-05-25T17:45:54+00:00",
+      "url": "https://twitter.com/SethSHowes/status/2058835208586362913",
+      "discussion_url": "https://news.ycombinator.com/item?id=48269588"
     },
     {
-      "hn_id": 48257534,
-      "title": "Miranda's Rescue was paid to save dogs, but is accused of killing them instead",
-      "score": 11,
-      "by": "ilamont",
-      "comments": 0,
-      "created_at": "2026-05-24T14:27:30+00:00",
-      "url": "https://kymkemp.com/2026/05/22/paid-to-save-them-accused-of-killing-them-the-investigation-of-mirandas-rescue/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48257534"
+      "hn_id": 48271314,
+      "title": "Anthropic to release Mythos-class models to the public",
+      "score": 13,
+      "by": "geox",
+      "comments": 1,
+      "created_at": "2026-05-25T20:29:27+00:00",
+      "url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
+      "discussion_url": "https://news.ycombinator.com/item?id=48271314"
     }
   ]
 }
