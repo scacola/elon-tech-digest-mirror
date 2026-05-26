@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-25T22:13:34.411617+00:00",
-  "cutoff": "2026-05-18T22:13:20.062310+00:00",
+  "generated_at": "2026-05-26T22:25:41.173817+00:00",
+  "cutoff": "2026-05-19T22:25:28.293447+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     {
       "source": "blog_deepmind",
@@ -19,13 +19,13 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 3
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 4
+      "count": 2
     }
   ],
   "items": [
@@ -86,22 +86,6 @@
       "lead_paragraph": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
     },
     {
-      "source": "blog_openai",
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "published_at": "2026-05-19T20:30:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "published_at": "2026-05-19T10:45:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
-    },
-    {
       "source": "blog_deepmind",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
@@ -134,22 +118,6 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "published_at": "2026-05-19T18:38:09+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "published_at": "2026-05-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
       "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
@@ -162,22 +130,6 @@
       "title": "Widening the conversation on frontier AI",
       "url": "https://www.anthropic.com/news/widening-conversation-ai",
       "published_at": "2026-05-20T00:29:29+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "published_at": "2026-05-19T18:06:44+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "url": "https://www.anthropic.com/news/anthropic-kpmg",
-      "published_at": "2026-05-19T13:30:59+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }

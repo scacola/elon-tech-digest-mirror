@@ -1,57 +1,157 @@
 {
-  "generated_at": "2026-05-25T22:15:16.782760+00:00",
-  "cutoff": "2026-05-24T22:15:06.714167+00:00",
+  "generated_at": "2026-05-26T22:27:08.499305+00:00",
+  "cutoff": "2026-05-25T22:26:57.710125+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 48266906,
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "score": 242,
-      "by": "jruohonen",
-      "comments": 65,
-      "created_at": "2026-05-25T13:56:39+00:00",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48266906"
+      "hn_id": 48272984,
+      "title": "Using AI to write better code more slowly",
+      "score": 1125,
+      "by": "signa11",
+      "comments": 415,
+      "created_at": "2026-05-25T23:16:59+00:00",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48272984"
     },
     {
-      "hn_id": 48270770,
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "score": 83,
-      "by": "rbanffy",
-      "comments": 51,
-      "created_at": "2026-05-25T19:37:57+00:00",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "discussion_url": "https://news.ycombinator.com/item?id=48270770"
+      "hn_id": 48279316,
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "score": 669,
+      "by": "thm",
+      "comments": 317,
+      "created_at": "2026-05-26T13:08:13+00:00",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48279316"
     },
     {
-      "hn_id": 48270497,
-      "title": "Anthropic Cofounder Chris Olah's Remarks on Pope Leo XIV's \"Magnifica Humanitas\"",
+      "hn_id": 48277485,
+      "title": "Uber president says AI spending is getting 'harder to justify'",
+      "score": 244,
+      "by": "berlianta",
+      "comments": 131,
+      "created_at": "2026-05-26T10:01:39+00:00",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "discussion_url": "https://news.ycombinator.com/item?id=48277485"
+    },
+    {
+      "hn_id": 48278610,
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "score": 216,
+      "by": "GodelNumbering",
+      "comments": 236,
+      "created_at": "2026-05-26T12:08:33+00:00",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48278610"
+    },
+    {
+      "hn_id": 48281226,
+      "title": "A sleep-like consolidation mechanism for LLMs",
+      "score": 169,
+      "by": "juxtapose",
+      "comments": 122,
+      "created_at": "2026-05-26T15:36:24+00:00",
+      "url": "https://arxiv.org/abs/2605.26099",
+      "discussion_url": "https://news.ycombinator.com/item?id=48281226"
+    },
+    {
+      "hn_id": 48273169,
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "score": 165,
+      "by": "dragonsenseiguy",
+      "comments": 98,
+      "created_at": "2026-05-25T23:40:40+00:00",
+      "url": "https://support.apple.com/en-us/127115",
+      "discussion_url": "https://news.ycombinator.com/item?id=48273169"
+    },
+    {
+      "hn_id": 48277784,
+      "title": "The AI bubble isn't like the internet bubble",
+      "score": 68,
+      "by": "doener",
+      "comments": 87,
+      "created_at": "2026-05-26T10:37:15+00:00",
+      "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
+      "discussion_url": "https://news.ycombinator.com/item?id=48277784"
+    },
+    {
+      "hn_id": 48278407,
+      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
       "score": 63,
-      "by": "Philpax",
-      "comments": 82,
-      "created_at": "2026-05-25T19:12:29+00:00",
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "discussion_url": "https://news.ycombinator.com/item?id=48270497"
+      "by": "berlianta",
+      "comments": 21,
+      "created_at": "2026-05-26T11:46:10+00:00",
+      "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+      "discussion_url": "https://news.ycombinator.com/item?id=48278407"
     },
     {
-      "hn_id": 48269588,
-      "title": "I just sequenced a human genome to 30× coverage at home",
-      "score": 22,
-      "by": "MrBuddyCasino",
+      "hn_id": 48284939,
+      "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+      "score": 16,
+      "by": "ammar_x",
       "comments": 3,
-      "created_at": "2026-05-25T17:45:54+00:00",
-      "url": "https://twitter.com/SethSHowes/status/2058835208586362913",
-      "discussion_url": "https://news.ycombinator.com/item?id=48269588"
+      "created_at": "2026-05-26T19:40:59+00:00",
+      "url": "https://deepswe.datacurve.ai/blog",
+      "discussion_url": "https://news.ycombinator.com/item?id=48284939"
     },
     {
-      "hn_id": 48271314,
-      "title": "Anthropic to release Mythos-class models to the public",
-      "score": 13,
-      "by": "geox",
-      "comments": 1,
-      "created_at": "2026-05-25T20:29:27+00:00",
-      "url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
-      "discussion_url": "https://news.ycombinator.com/item?id=48271314"
+      "hn_id": 48283349,
+      "title": "AltTab.app makes free features paid, drops old releases",
+      "score": 15,
+      "by": "indrora",
+      "comments": 9,
+      "created_at": "2026-05-26T18:01:35+00:00",
+      "url": "https://github.com/lwouis/alt-tab-macos/discussions/5533",
+      "discussion_url": "https://news.ycombinator.com/item?id=48283349"
+    },
+    {
+      "hn_id": 48276432,
+      "title": "The Open/Closed Problem in AI",
+      "score": 12,
+      "by": "vinhnx",
+      "comments": 5,
+      "created_at": "2026-05-26T07:43:33+00:00",
+      "url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48276432"
+    },
+    {
+      "hn_id": 48283830,
+      "title": "The AI Industry Just Walked into the Vatican",
+      "score": 11,
+      "by": "paulpauper",
+      "comments": 3,
+      "created_at": "2026-05-26T18:31:09+00:00",
+      "url": "https://www.driscollglobe.com/p/the-ai-industry-just-walked-into",
+      "discussion_url": "https://news.ycombinator.com/item?id=48283830"
+    },
+    {
+      "hn_id": 48285484,
+      "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+      "score": 10,
+      "by": "arkadiyt",
+      "comments": 0,
+      "created_at": "2026-05-26T20:23:40+00:00",
+      "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48285484"
+    },
+    {
+      "hn_id": 48281606,
+      "title": "Show HN: NeuroFlow 55.8x video inference speedup for Vision Transformers PyTorch",
+      "score": 4,
+      "by": "ynnk",
+      "comments": 0,
+      "created_at": "2026-05-26T16:04:23+00:00",
+      "url": "https://github.com/ynnk-research/-NeuroFlow",
+      "discussion_url": "https://news.ycombinator.com/item?id=48281606"
+    },
+    {
+      "hn_id": 48285727,
+      "title": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
+      "score": 3,
+      "by": "alcray",
+      "comments": 0,
+      "created_at": "2026-05-26T20:45:37+00:00",
+      "url": "https://github.com/Alcray/SlopeAutoAcceptor",
+      "discussion_url": "https://news.ycombinator.com/item?id=48285727"
     }
   ]
 }
