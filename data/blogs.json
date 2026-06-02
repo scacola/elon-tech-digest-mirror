@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-31T22:06:19.905885+00:00",
-  "cutoff": "2026-05-24T22:05:48.386771+00:00",
+  "generated_at": "2026-06-02T23:07:17.281526+00:00",
+  "cutoff": "2026-05-26T23:06:59.491146+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 18
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,72 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 6
+      "count": 7
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "published_at": "2026-06-02T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "published_at": "2026-06-02T09:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "published_at": "2026-06-02T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "published_at": "2026-06-02T02:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "published_at": "2026-06-01T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "published_at": "2026-06-01T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "published_at": "2026-06-01T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production."
+    },
     {
       "source": "blog_openai",
       "title": "Boston Children’s uses AI to unlock new diagnoses",
@@ -118,26 +174,42 @@
       "lead_paragraph": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency"
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "published_at": "2026-05-25T00:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "published_at": "2026-06-02T14:13:23+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "published_at": "2026-06-01T15:45:17+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "published_at": "2026-06-01T13:51:18+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "published_at": "2026-06-01T04:44:55+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
       "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
       "url": "https://huggingface.co/blog/torch-profiler",
       "published_at": "2026-05-29T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "published_at": "2026-05-27T17:20:29+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -158,12 +230,36 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "published_at": "2026-05-25T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "published_at": "2026-06-02T14:03:15+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "published_at": "2026-06-01T15:59:13+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "published_at": "2026-06-01T15:29:46+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Introducing Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published_at": "2026-06-01T10:18:23+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work."
     },
     {
       "source": "blog_anthropic",
@@ -172,22 +268,6 @@
       "published_at": "2026-05-28T19:33:59+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "published_at": "2026-05-28T18:07:20+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "published_at": "2026-05-28T16:53:42+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work."
     },
     {
       "source": "blog_anthropic",
@@ -204,14 +284,6 @@
       "published_at": "2026-05-26T23:11:06+00:00",
       "author": "Anthropic",
       "lead_paragraph": "KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "published_at": "2026-05-25T18:41:28+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "The full text of Chris Olah's remarks on the Pope's encyclical on AI"
     }
   ]
 }
