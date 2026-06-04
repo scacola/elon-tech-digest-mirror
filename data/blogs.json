@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T23:07:17.281526+00:00",
-  "cutoff": "2026-05-26T23:06:59.491146+00:00",
+  "generated_at": "2026-06-04T22:26:28.586365+00:00",
+  "cutoff": "2026-05-28T22:26:15.667071+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -19,16 +19,72 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 9
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 7
+      "count": 6
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "published_at": "2026-06-04T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "published_at": "2026-06-04T09:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Biodefense in the Intelligence Age",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "published_at": "2026-06-04T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "An action plan for AI-powered biological resilience"
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "published_at": "2026-06-03T13:15:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "published_at": "2026-06-03T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
+    },
+    {
+      "source": "blog_openai",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "published_at": "2026-06-03T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "published_at": "2026-06-03T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+    },
     {
       "source": "blog_openai",
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -118,60 +174,44 @@
       "lead_paragraph": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
     },
     {
-      "source": "blog_openai",
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
-      "published_at": "2026-05-28T12:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "published_at": "2026-06-04T18:57:45+00:00",
       "author": "",
-      "lead_paragraph": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "published_at": "2026-05-28T00:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "published_at": "2026-06-04T12:24:58+00:00",
       "author": "",
-      "lead_paragraph": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "published_at": "2026-05-28T00:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "published_at": "2026-06-04T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "published_at": "2026-05-27T11:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "published_at": "2026-06-03T12:55:11+00:00",
       "author": "",
-      "lead_paragraph": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "published_at": "2026-05-27T07:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "published_at": "2026-06-03T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "published_at": "2026-05-27T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "published_at": "2026-05-27T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency"
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -199,14 +239,6 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "published_at": "2026-06-01T04:44:55+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
       "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
       "url": "https://huggingface.co/blog/torch-profiler",
       "published_at": "2026-05-29T00:00:00+00:00",
@@ -214,20 +246,20 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "published_at": "2026-05-27T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "published_at": "2026-06-03T16:18:23+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "published_at": "2026-05-27T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "published_at": "2026-06-03T15:30:11+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we’re announcing two new components that make this ecosystem easier for customers to navigate."
     },
     {
       "source": "blog_anthropic",
@@ -260,30 +292,6 @@
       "published_at": "2026-06-01T10:18:23+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "published_at": "2026-05-28T19:33:59+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "url": "https://www.anthropic.com/news/milan-office-opening",
-      "published_at": "2026-05-28T13:00:32+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We're opening a new office in Milan, our sixth in Europe."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
-      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-      "published_at": "2026-05-26T23:11:06+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office."
     }
   ]
 }

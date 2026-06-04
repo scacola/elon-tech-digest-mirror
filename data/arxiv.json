@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T23:09:19.770841+00:00",
-  "cutoff": "2026-05-30T23:07:17.459039+00:00",
+  "generated_at": "2026-06-04T22:29:01.725208+00:00",
+  "cutoff": "2026-06-01T22:26:28.761977+00:00",
   "window_hours": 72,
   "items": [],
-  "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.LG+OR+cat%3Acs.CL&sortBy=lastUpdatedDate&sortOrder=descending&max_resu"
+  "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.LG+OR+cat%3Acs.CL&sortBy=lastUpdatedDate&sortOrder=descending&max_results=12"
 }
