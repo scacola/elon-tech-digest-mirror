@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-04T22:26:28.586365+00:00",
-  "cutoff": "2026-05-28T22:26:15.667071+00:00",
+  "generated_at": "2026-06-05T22:20:46.284154+00:00",
+  "cutoff": "2026-05-29T22:19:53.344887+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 18
+      "count": 14
     },
     {
       "source": "blog_deepmind",
@@ -25,7 +25,7 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 6
+      "count": 8
     }
   ],
   "items": [
@@ -71,19 +71,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "published_at": "2026-06-03T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
-    },
-    {
-      "source": "blog_openai",
       "title": "OpenAI public policy agenda",
       "url": "https://openai.com/index/public-policy-agenda",
       "published_at": "2026-06-03T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+    },
+    {
+      "source": "blog_openai",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "published_at": "2026-06-03T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
     },
     {
       "source": "blog_openai",
@@ -142,36 +142,12 @@
       "lead_paragraph": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production."
     },
     {
-      "source": "blog_openai",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "published_at": "2026-05-29T12:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "published_at": "2026-06-05T22:18:46+00:00",
       "author": "",
-      "lead_paragraph": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "url": "https://openai.com/index/braintrust",
-      "published_at": "2026-05-29T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "published_at": "2026-05-29T03:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI."
-    },
-    {
-      "source": "blog_openai",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "published_at": "2026-05-29T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -238,12 +214,20 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "published_at": "2026-05-29T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "published_at": "2026-06-05T14:58:47+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "The full text of Chris Olah's remarks on the Pope's encyclical on AI."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Widening the conversation on frontier AI",
+      "url": "https://www.anthropic.com/news/widening-conversation-ai",
+      "published_at": "2026-06-05T14:40:24+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI."
     },
     {
       "source": "blog_anthropic",
