@@ -1,13 +1,13 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-06-05T22:19:52.938621+00:00",
+  "collected_at": "2026-06-06T22:09:18.355940+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
       "no": "1230778",
       "title": "챗지피티와 제미나이 1년 사용 비교 후기",
-      "recommend": 111,
+      "recommend": 116,
       "comments": 86,
       "author": "지편",
       "created_at_raw": "06.04",
@@ -19,10 +19,24 @@
       ]
     },
     {
+      "no": "1235033",
+      "title": "앤트로픽은 비판 받아 마땅하다고 생각함",
+      "recommend": 99,
+      "comments": 32,
+      "author": "지편",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235033",
+      "body_excerpt": "",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
       "no": "1232392",
       "title": "한중일 경제 상호의존도 비유드는거 ㅈㄴ웃기네ㅋㅋ",
-      "recommend": 48,
-      "comments": 37,
+      "recommend": 50,
+      "comments": 38,
       "author": "ㅇㅇ",
       "created_at_raw": "06.05",
       "created_at": "2026-06-05T12:00:00+09:00",
@@ -33,38 +47,10 @@
       ]
     },
     {
-      "no": "1229343",
-      "title": "중국, 머스크보다 빠르게 산데비스탄 상용화 허가",
-      "recommend": 48,
-      "comments": 25,
-      "author": "회색",
-      "created_at_raw": "06.03",
-      "created_at": "2026-06-03T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1229343",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1228994",
-      "title": "\"정신병자들 상대하느라 이젠 지쳤다.\"",
-      "recommend": 47,
-      "comments": 37,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.03",
-      "created_at": "2026-06-03T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1228994",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1230883",
       "title": "지름추 부탁드림",
-      "recommend": 43,
-      "comments": 41,
+      "recommend": 44,
+      "comments": 42,
       "author": "저장용",
       "created_at_raw": "06.04",
       "created_at": "2026-06-04T12:00:00+09:00",
@@ -77,7 +63,7 @@
     {
       "no": "1231350",
       "title": "습박 5.6 떴다 !!!!!!!!!!!!",
-      "recommend": 42,
+      "recommend": 43,
       "comments": 59,
       "author": "ㅇㅇ",
       "created_at_raw": "06.04",
@@ -89,24 +75,10 @@
       ]
     },
     {
-      "no": "1229587",
-      "title": "속보) 트럼프, AI모델 '출시전 검증' 행정명령 서명",
-      "recommend": 37,
-      "comments": 61,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.03",
-      "created_at": "2026-06-03T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1229587",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1232761",
       "title": "정부, AI 기본소득 도입위한 사전조사 착수",
-      "recommend": 36,
-      "comments": 116,
+      "recommend": 41,
+      "comments": 134,
       "author": "OpenAI",
       "created_at_raw": "06.05",
       "created_at": "2026-06-05T12:00:00+09:00",
@@ -117,9 +89,23 @@
       ]
     },
     {
+      "no": "1233493",
+      "title": "프롬프트 공유) 만물큐레이션",
+      "recommend": 40,
+      "comments": 15,
+      "author": "fewweekslater",
+      "created_at_raw": "06.05",
+      "created_at": "2026-06-05T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233493",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1231934",
       "title": "oai: 오늘날의 시스템에서 재귀적 자기 개선의 초기 징후 포착",
-      "recommend": 35,
+      "recommend": 37,
       "comments": 35,
       "author": "회색",
       "created_at_raw": "06.05",
@@ -131,23 +117,24 @@
       ]
     },
     {
-      "no": "1228797",
-      "title": "메타 또 사고 터짐.news",
-      "recommend": 34,
-      "comments": 43,
-      "author": "녹색양",
-      "created_at_raw": "06.03",
-      "created_at": "2026-06-03T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1228797",
+      "no": "1234516",
+      "title": "X에서도 그렇고 자극적인 타이틀로 앤트로픽 AI개발 중단해야 한다고 자꾸",
+      "recommend": 35,
+      "comments": 113,
+      "author": "초존도초",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234516",
       "body_excerpt": "",
       "tags": [
-        "general"
+        "claude",
+        "ai"
       ]
     },
     {
       "no": "1230199",
       "title": "젬마4 12B공개!!!",
-      "recommend": 33,
+      "recommend": 35,
       "comments": 28,
       "author": "ㅇㅇ",
       "created_at_raw": "06.04",
@@ -159,42 +146,14 @@
       ]
     },
     {
-      "no": "1232710",
-      "title": "그냥 다시한번 감사하게되네.. ㄹㅇ",
-      "recommend": 33,
-      "comments": 25,
-      "author": "ㅇㅇ",
+      "no": "1233542",
+      "title": "특갤 최초)미토스 아웃풋 일부공개",
+      "recommend": 34,
+      "comments": 41,
+      "author": "세차벤치",
       "created_at_raw": "06.05",
       "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232710",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1230035",
-      "title": "수학 올림피아드의 난제를 초등학생도 알만한 해법으로 바꾸기",
-      "recommend": 31,
-      "comments": 46,
-      "author": "일본에간대학원생",
-      "created_at_raw": "06.03",
-      "created_at": "2026-06-03T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1230035",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1231277",
-      "title": "속보) 룬붕이 : 지금 벌어지는 일들은 조금 무섭다",
-      "recommend": 31,
-      "comments": 24,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.04",
-      "created_at": "2026-06-04T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1231277",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233542",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -203,7 +162,7 @@
     {
       "no": "1232891",
       "title": "엔비디아, 한국 'AI 기술센터' 설립 시동…박사급 채용 착수",
-      "recommend": 30,
+      "recommend": 34,
       "comments": 37,
       "author": "BYBIT",
       "created_at_raw": "06.05",
@@ -216,9 +175,65 @@
       ]
     },
     {
+      "no": "1232710",
+      "title": "그냥 다시한번 감사하게되네.. ㄹㅇ",
+      "recommend": 34,
+      "comments": 28,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.05",
+      "created_at": "2026-06-05T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232710",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1232989",
+      "title": "5.5pro, 딥러닝 최적화 문제 해결",
+      "recommend": 34,
+      "comments": 15,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.05",
+      "created_at": "2026-06-05T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232989",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1231277",
+      "title": "속보) 룬붕이 : 지금 벌어지는 일들은 조금 무섭다",
+      "recommend": 33,
+      "comments": 24,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.04",
+      "created_at": "2026-06-04T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1231277",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1233868",
+      "title": "구글 젬마팀 양자화 내성 젬마4 양자화 모델 공개",
+      "recommend": 32,
+      "comments": 33,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233868",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "no": "1230347",
       "title": "데미스 하사비스 AGI 타임라인 2029~2031",
-      "recommend": 30,
+      "recommend": 31,
       "comments": 21,
       "author": "분노의라스",
       "created_at_raw": "06.04",
@@ -230,37 +245,24 @@
       ]
     },
     {
-      "no": "1233542",
-      "title": "특갤 최초)미토스 아웃풋 일부공개",
-      "recommend": 28,
-      "comments": 36,
-      "author": "세차벤치",
+      "no": "1232726",
+      "title": "앤트로픽 \"AI '재귀적 자기개선 임박…국제적 개발 중단 필요\"",
+      "recommend": 30,
+      "comments": 71,
+      "author": "회색",
       "created_at_raw": "06.05",
       "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233542",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232726",
       "body_excerpt": "",
       "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1233493",
-      "title": "프롬프트 공유) 만물큐레이션",
-      "recommend": 28,
-      "comments": 9,
-      "author": "fewweekslater",
-      "created_at_raw": "06.05",
-      "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233493",
-      "body_excerpt": "",
-      "tags": [
-        "general"
+        "claude",
+        "ai"
       ]
     },
     {
       "no": "1231689",
       "title": "스압) 코덱스 OAuth로 웹툰 컷 뽑는 툴 만들어봄",
-      "recommend": 26,
+      "recommend": 28,
       "comments": 23,
       "author": "ㅇㅇ",
       "created_at_raw": "06.04",
@@ -269,6 +271,34 @@
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1235315",
+      "title": "GPT 5.6 pro (추정) 원트 3d 도시 html",
+      "recommend": 27,
+      "comments": 51,
+      "author": "량원펑",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235315",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1231108",
+      "title": "빌 걸리. 앤트로픽은 인간보다 우월한 신을 만들려 해",
+      "recommend": 26,
+      "comments": 28,
+      "author": "회색",
+      "created_at_raw": "06.04",
+      "created_at": "2026-06-04T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1231108",
+      "body_excerpt": "",
+      "tags": [
+        "claude"
       ]
     },
     {
@@ -289,7 +319,7 @@
       "no": "1230832",
       "title": "NC AI, 한화오션 조선소에 'AI 로봇 용접공' 투입한다",
       "recommend": 26,
-      "comments": 12,
+      "comments": 13,
       "author": "회색",
       "created_at_raw": "06.04",
       "created_at": "2026-06-04T12:00:00+09:00",
@@ -300,59 +330,76 @@
       ]
     },
     {
-      "no": "1228933",
-      "title": "AI가 설계하는 신소재가 온다..",
+      "no": "1233745",
+      "title": "인공지능이 개발한 최초의 백신(코로나 바이러스계열)",
       "recommend": 25,
-      "comments": 57,
+      "comments": 25,
       "author": "행복한천국으로",
-      "created_at_raw": "06.03",
-      "created_at": "2026-06-03T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1228933",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233745",
       "body_excerpt": "",
       "tags": [
         "ai"
       ]
     },
     {
-      "no": "1231108",
-      "title": "빌 걸리. 앤트로픽은 인간보다 우월한 신을 만들려 해",
-      "recommend": 25,
-      "comments": 28,
-      "author": "회색",
-      "created_at_raw": "06.04",
-      "created_at": "2026-06-04T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1231108",
-      "body_excerpt": "",
-      "tags": [
-        "claude"
-      ]
-    },
-    {
-      "no": "1232989",
-      "title": "5.5pro, 딥러닝 최적화 문제 해결",
-      "recommend": 25,
-      "comments": 11,
-      "author": "ㅇㅇ",
+      "no": "1232770",
+      "title": "Codex 앱 느리다는 사람들을 위한 팁",
+      "recommend": 24,
+      "comments": 61,
+      "author": "효도폰만수르",
       "created_at_raw": "06.05",
       "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232989",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232770",
       "body_excerpt": "",
       "tags": [
-        "general"
+        "openai"
       ]
     },
     {
-      "no": "1229777",
-      "title": "미국 AI 행정명령 전문 번역",
+      "no": "1232312",
+      "title": "(앤트로픽) AI 재귀적 자기 개선, 닫힌 고리",
       "recommend": 24,
-      "comments": 23,
-      "author": "회색",
-      "created_at_raw": "06.03",
-      "created_at": "2026-06-03T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1229777",
+      "comments": 10,
+      "author": "초존도초",
+      "created_at_raw": "06.05",
+      "created_at": "2026-06-05T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232312",
       "body_excerpt": "",
       "tags": [
+        "claude",
         "ai"
+      ]
+    },
+    {
+      "no": "1235290",
+      "title": "오픈ai 직원 \"앞으로 수학 및 코딩 경진 대회는 흥미롭지 않을 것\"",
+      "recommend": 23,
+      "comments": 25,
+      "author": "경고등",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235290",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "no": "1232060",
+      "title": "OpenAI) 강화 메모리 출시 (전문)",
+      "recommend": 23,
+      "comments": 19,
+      "author": "AGi",
+      "created_at_raw": "06.05",
+      "created_at": "2026-06-05T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232060",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "openai"
       ]
     },
     {
@@ -370,68 +417,24 @@
       ]
     },
     {
-      "no": "1232312",
-      "title": "(앤트로픽) AI 재귀적 자기 개선, 닫힌 고리",
-      "recommend": 23,
-      "comments": 10,
-      "author": "초존도초",
-      "created_at_raw": "06.05",
-      "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232312",
-      "body_excerpt": "",
-      "tags": [
-        "claude",
-        "ai"
-      ]
-    },
-    {
-      "no": "1232770",
-      "title": "Codex 앱 느리다는 사람들을 위한 팁",
+      "no": "1235336",
+      "title": "OAI 직원) 이번 주말에 밀린 것들을 출시할 것​",
       "recommend": 22,
-      "comments": 60,
-      "author": "효도폰만수르",
-      "created_at_raw": "06.05",
-      "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232770",
+      "comments": 29,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235336",
       "body_excerpt": "",
       "tags": [
-        "openai"
-      ]
-    },
-    {
-      "no": "1232726",
-      "title": "앤트로픽 \"AI '재귀적 자기개선 임박…국제적 개발 중단 필요\"",
-      "recommend": 21,
-      "comments": 46,
-      "author": "회색",
-      "created_at_raw": "06.05",
-      "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232726",
-      "body_excerpt": "",
-      "tags": [
-        "claude",
         "ai"
-      ]
-    },
-    {
-      "no": "1228839",
-      "title": "Codex Python SDK 공개.news",
-      "recommend": 21,
-      "comments": 35,
-      "author": "녹색양",
-      "created_at_raw": "06.03",
-      "created_at": "2026-06-03T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1228839",
-      "body_excerpt": "",
-      "tags": [
-        "openai"
       ]
     },
     {
       "no": "1232368",
       "title": "미 국가안보국, 앤트로픽 '미토스'를 공격용 사이버 작전에 사용",
       "recommend": 21,
-      "comments": 19,
+      "comments": 21,
       "author": "초존도초",
       "created_at_raw": "06.05",
       "created_at": "2026-06-05T12:00:00+09:00",
@@ -442,25 +445,24 @@
       ]
     },
     {
-      "no": "1232060",
-      "title": "OpenAI) 강화 메모리 출시 (전문)",
+      "no": "1234981",
+      "title": "미토스 api 나왔다사라짐",
       "recommend": 21,
       "comments": 15,
-      "author": "AGi",
-      "created_at_raw": "06.05",
-      "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232060",
+      "author": "세차벤치",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234981",
       "body_excerpt": "",
       "tags": [
-        "ai",
-        "openai"
+        "general"
       ]
     },
     {
       "no": "1232308",
       "title": "Dreaming: 더 유용한 ChatGPT를 위한 더 나은 메모리.",
       "recommend": 21,
-      "comments": 11,
+      "comments": 13,
       "author": "초존도초",
       "created_at_raw": "06.05",
       "created_at": "2026-06-05T12:00:00+09:00",
@@ -472,9 +474,23 @@
       ]
     },
     {
+      "no": "1232723",
+      "title": "미국애들은 제미나이 지능거세 대응에대해 아주 현실적임",
+      "recommend": 21,
+      "comments": 7,
+      "author": "기묘자",
+      "created_at_raw": "06.05",
+      "created_at": "2026-06-05T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232723",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1231949",
       "title": "신 모델 빌드 스크린샷 유출?",
-      "recommend": 19,
+      "recommend": 20,
       "comments": 28,
       "author": "회색",
       "created_at_raw": "06.05",
@@ -486,234 +502,221 @@
       ]
     },
     {
-      "no": "1233868",
-      "title": "구글 젬마팀 양자화 내성 젬마4 양자화 모델 공개",
-      "recommend": 18,
-      "comments": 19,
-      "author": "ㅇㅇ",
-      "created_at_raw": "01:40",
-      "created_at": "2026-06-06T01:40:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233868",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1232699",
-      "title": "쌀먹글 다 삭제했음",
-      "recommend": 15,
+      "no": "1235084",
+      "title": "미토스 5 등장 ㄷㄷㄷ",
+      "recommend": 20,
       "comments": 17,
       "author": "ㅇㅇ",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235084",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1234782",
+      "title": "GPT 5.6 미디움 추론 SVG",
+      "recommend": 20,
+      "comments": 17,
+      "author": "초존도초",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234782",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1234132",
+      "title": "젬마 qat 벤치",
+      "recommend": 20,
+      "comments": 11,
+      "author": "녹록",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234132",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1234551",
+      "title": "spacexai 구글 컴퓨팅 계약",
+      "recommend": 18,
+      "comments": 35,
+      "author": "중골맨",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234551",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1235702",
+      "title": "GPT 5.6 xbox svg 원샷",
+      "recommend": 18,
+      "comments": 22,
+      "author": "ㅇㅇ",
+      "created_at_raw": "02:24",
+      "created_at": "2026-06-07T02:24:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235702",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1232155",
+      "title": "K-Exaone으로 코드 리뷰 시켜 본 후기",
+      "recommend": 14,
+      "comments": 33,
+      "author": "탄압당한유동닉",
       "created_at_raw": "06.05",
       "created_at": "2026-06-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232699",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1232155",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1233831",
-      "title": "속보) 얀르쿤, AI 대통령 출마선언",
-      "recommend": 11,
-      "comments": 9,
-      "author": "Hongcc",
-      "created_at_raw": "01:11",
-      "created_at": "2026-06-06T01:11:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233831",
+      "no": "1234462",
+      "title": "일본 디지털부장관: 일본이 뒤처지면 AI 식민지로 전락할 것 경고",
+      "recommend": 14,
+      "comments": 20,
+      "author": "슈퍼130클럽",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234462",
       "body_excerpt": "",
       "tags": [
         "ai"
       ]
     },
     {
-      "no": "1233745",
-      "title": "인공지능이 개발한 최초의 백신(코로나 바이러스계열)",
-      "recommend": 10,
-      "comments": 8,
-      "author": "행복한천국으로",
-      "created_at_raw": "00:23",
-      "created_at": "2026-06-06T00:23:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233745",
+      "no": "1235346",
+      "title": "OpenAI 입장에선 30일 검열 받는 수밖에 없음",
+      "recommend": 14,
+      "comments": 17,
+      "author": "Junnn",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235346",
       "body_excerpt": "",
       "tags": [
-        "ai"
+        "ai",
+        "openai"
       ]
     },
     {
-      "no": "1233910",
-      "title": "미토스 새로운 결과물",
-      "recommend": 8,
-      "comments": 7,
-      "author": "알트만과머스크",
-      "created_at_raw": "02:29",
-      "created_at": "2026-06-06T02:29:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233910",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1233985",
-      "title": "3.5 프로 뜬것 같은데",
-      "recommend": 6,
-      "comments": 9,
-      "author": "ㅇㅇ",
-      "created_at_raw": "04:04",
-      "created_at": "2026-06-06T04:04:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233985",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1233932",
-      "title": "사실 앤트로픽 재귀개선 블로그는",
-      "recommend": 6,
-      "comments": 4,
-      "author": "ㅇㅇ",
-      "created_at_raw": "02:55",
-      "created_at": "2026-06-06T02:55:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233932",
-      "body_excerpt": "",
-      "tags": [
-        "claude"
-      ]
-    },
-    {
-      "no": "1233827",
-      "title": "대충 딸깍한 코덱스 모니터링 펫 공유",
-      "recommend": 5,
-      "comments": 12,
-      "author": "봄바다",
-      "created_at_raw": "01:09",
-      "created_at": "2026-06-06T01:09:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233827",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1234025",
-      "title": "3.5프로는 없습니다...",
-      "recommend": 5,
-      "comments": 4,
-      "author": "LeChat",
-      "created_at_raw": "04:36",
-      "created_at": "2026-06-06T04:36:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234025",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1233853",
-      "title": "얀르쿤, \"AI 지배? 근들갑이다\"",
-      "recommend": 4,
-      "comments": 10,
-      "author": "Hongcc",
-      "created_at_raw": "01:25",
-      "created_at": "2026-06-06T01:25:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233853",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1234032",
-      "title": "소신발언하면 그냥 다들 해골물 먹고 있는 게 아닌지",
-      "recommend": 4,
-      "comments": 4,
-      "author": "ㅇㅇ",
-      "created_at_raw": "04:43",
-      "created_at": "2026-06-06T04:43:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234032",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1233996",
-      "title": "프로 3.5 카쫀쿠 벤치",
-      "recommend": 4,
-      "comments": 2,
-      "author": "ㅇㅇ",
-      "created_at_raw": "04:13",
-      "created_at": "2026-06-06T04:13:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233996",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1233895",
-      "title": "젬마팀: 젬마4 QAT 공개",
-      "recommend": 3,
+      "no": "1235659",
+      "title": "스윗 특붕이들 희롱한 깡계년 존나 패야하면 개추",
+      "recommend": 12,
       "comments": 11,
       "author": "ㅇㅇ",
-      "created_at_raw": "02:09",
-      "created_at": "2026-06-06T02:09:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233895",
+      "created_at_raw": "01:54",
+      "created_at": "2026-06-07T01:54:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235659",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1234976",
+      "title": "내부 폭로로 눈깔 뒤집힌 마소 빡빡이",
+      "recommend": 12,
+      "comments": 9,
+      "author": "회색",
+      "created_at_raw": "06.06",
+      "created_at": "2026-06-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234976",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1234064",
-      "title": "\"한국형 챗GPT 무료로 푼다\"…정부,",
-      "recommend": 3,
-      "comments": 6,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06:05",
-      "created_at": "2026-06-06T06:05:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1234064",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1233886",
-      "title": "스파크 인퍼런스 서버 구축 성공 씨발",
-      "recommend": 3,
-      "comments": 6,
-      "author": "ㅇㅇ",
-      "created_at_raw": "01:59",
-      "created_at": "2026-06-06T01:59:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233886",
+      "no": "1235701",
+      "title": "제미나이의 쓸모",
+      "recommend": 10,
+      "comments": 29,
+      "author": "얀로롱",
+      "created_at_raw": "02:23",
+      "created_at": "2026-06-07T02:23:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235701",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1233948",
-      "title": "데이터센터 반대 운동은 중국의 심리전",
-      "recommend": 3,
-      "comments": 4,
+      "no": "1235773",
+      "title": "쌀먹 꿀팁이니 뭐니 하면서 블로그에만 글쓰는거 왜캐 속이 다보이냐",
+      "recommend": 8,
+      "comments": 15,
       "author": "ㅇㅇ",
-      "created_at_raw": "03:10",
-      "created_at": "2026-06-06T03:10:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1233948",
+      "created_at_raw": "04:12",
+      "created_at": "2026-06-07T04:12:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235773",
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1235615",
+      "title": "잼민이 ☜ 이새끼는 아예 그냥 손놓은 거임?",
+      "recommend": 7,
+      "comments": 3,
+      "author": "☎제비낭인X김건희",
+      "created_at_raw": "01:30",
+      "created_at": "2026-06-07T01:30:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235615",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1235826",
+      "title": "패치내역) 서치모드 : 심층리서치",
+      "recommend": 7,
+      "comments": 2,
+      "author": "fewweekslater",
+      "created_at_raw": "06:55",
+      "created_at": "2026-06-07T06:55:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235826",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1235754",
+      "title": "반항자 에이전트가 하나 쯤은 팀에 필요하지 않을까 - 함정 퍼즐로 간단히",
+      "recommend": 5,
+      "comments": 19,
+      "author": "기니악",
+      "created_at_raw": "03:25",
+      "created_at": "2026-06-07T03:25:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1235754",
+      "body_excerpt": "",
+      "tags": [
+        "agentic"
       ]
     }
   ],
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 218,
+    "dropped_old": 211,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }
