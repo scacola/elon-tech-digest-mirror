@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T22:09:52.745238+00:00",
-  "cutoff": "2026-05-30T22:09:19.304020+00:00",
+  "generated_at": "2026-06-07T22:10:49.256809+00:00",
+  "cutoff": "2026-05-31T22:09:55.913509+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -143,9 +143,9 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "published_at": "2026-06-06T19:02:33+00:00",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "published_at": "2026-06-07T19:44:27+00:00",
       "author": "",
       "lead_paragraph": ""
     },
