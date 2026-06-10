@@ -1,34 +1,66 @@
 {
-  "generated_at": "2026-06-09T22:28:42.841347+00:00",
-  "cutoff": "2026-06-02T22:28:19.707772+00:00",
+  "generated_at": "2026-06-10T22:55:49.595892+00:00",
+  "cutoff": "2026-06-03T22:55:36.491846+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 5
+      "count": 3
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "published_at": "2026-06-10T20:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
+    },
+    {
+      "source": "blog_openai",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "published_at": "2026-06-10T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
+    },
+    {
+      "source": "blog_openai",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "published_at": "2026-06-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
+    },
     {
       "source": "blog_openai",
       "title": "How engineers at Nextdoor use Codex to build without limits",
@@ -44,6 +76,14 @@
       "published_at": "2026-06-09T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "published_at": "2026-06-09T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
     },
     {
       "source": "blog_openai",
@@ -94,36 +134,12 @@
       "lead_paragraph": "An action plan for AI-powered biological resilience"
     },
     {
-      "source": "blog_openai",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "published_at": "2026-06-03T13:15:00+00:00",
+      "source": "blog_deepmind",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "published_at": "2026-06-10T16:24:11+00:00",
       "author": "",
-      "lead_paragraph": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
-      "published_at": "2026-06-03T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
-    },
-    {
-      "source": "blog_openai",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "published_at": "2026-06-03T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
-    },
-    {
-      "source": "blog_openai",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "published_at": "2026-06-03T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_deepmind",
@@ -214,22 +230,6 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "published_at": "2026-06-03T12:55:11+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "published_at": "2026-06-03T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Claude Fable 5 and Claude Mythos 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
@@ -252,22 +252,6 @@
       "published_at": "2026-06-05T14:40:24+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "published_at": "2026-06-03T16:18:23+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "url": "https://www.anthropic.com/news/services-track-partner-hub",
-      "published_at": "2026-06-03T15:30:11+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we’re announcing two new components that make this ecosystem easier for customers to navigate."
     }
   ]
 }

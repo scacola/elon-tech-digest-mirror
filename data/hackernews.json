@@ -1,237 +1,167 @@
 {
-  "generated_at": "2026-06-09T22:28:52.138592+00:00",
-  "cutoff": "2026-06-08T22:28:43.874835+00:00",
+  "generated_at": "2026-06-10T22:56:01.883416+00:00",
+  "cutoff": "2026-06-09T22:55:50.517411+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 48463808,
-      "title": "Claude Fable 5",
-      "score": 1520,
-      "by": "Philpax",
-      "comments": 1201,
-      "created_at": "2026-06-09T16:58:01+00:00",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "discussion_url": "https://news.ycombinator.com/item?id=48463808"
+      "hn_id": 48469658,
+      "title": "macOS Container Machines",
+      "score": 1181,
+      "by": "timsneath",
+      "comments": 416,
+      "created_at": "2026-06-10T00:29:01+00:00",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "discussion_url": "https://news.ycombinator.com/item?id=48469658"
     },
     {
-      "hn_id": 48457830,
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "score": 517,
-      "by": "raffael_de",
-      "comments": 176,
-      "created_at": "2026-06-09T07:33:16+00:00",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48457830"
+      "hn_id": 48470248,
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "score": 956,
+      "by": "ahlCVA",
+      "comments": 508,
+      "created_at": "2026-06-10T01:44:13+00:00",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48470248"
     },
     {
-      "hn_id": 48458586,
-      "title": "Cleaning up after AI rockstar developers",
-      "score": 435,
-      "by": "BrunoBernardino",
-      "comments": 314,
-      "created_at": "2026-06-09T09:10:10+00:00",
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48458586"
+      "hn_id": 48473166,
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "score": 385,
+      "by": "TomAnthony",
+      "comments": 225,
+      "created_at": "2026-06-10T08:21:38+00:00",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "discussion_url": "https://news.ycombinator.com/item?id=48473166"
     },
     {
-      "hn_id": 48465675,
-      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "hn_id": 48479452,
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "score": 302,
+      "by": "tonyrice",
+      "comments": 209,
+      "created_at": "2026-06-10T17:11:56+00:00",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "discussion_url": "https://news.ycombinator.com/item?id=48479452"
+    },
+    {
+      "hn_id": 48478471,
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "score": 259,
+      "by": "meetpateltech",
+      "comments": 67,
+      "created_at": "2026-06-10T16:09:37+00:00",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48478471"
+    },
+    {
+      "hn_id": 48480852,
+      "title": "Anthropic's model naming, extrapolated",
       "score": 247,
+      "by": "sammycdubs",
+      "comments": 70,
+      "created_at": "2026-06-10T18:45:20+00:00",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "discussion_url": "https://news.ycombinator.com/item?id=48480852"
+    },
+    {
+      "hn_id": 48470581,
+      "title": "Rich Sutton on AI creativity and discovery",
+      "score": 196,
+      "by": "yimby",
+      "comments": 112,
+      "created_at": "2026-06-10T02:25:24+00:00",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "discussion_url": "https://news.ycombinator.com/item?id=48470581"
+    },
+    {
+      "hn_id": 48475100,
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "score": 176,
+      "by": "momentmaker",
+      "comments": 60,
+      "created_at": "2026-06-10T12:11:28+00:00",
+      "url": "https://jivx.com/eki",
+      "discussion_url": "https://news.ycombinator.com/item?id=48475100"
+    },
+    {
+      "hn_id": 48477400,
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "score": 157,
+      "by": "anhldbk",
+      "comments": 86,
+      "created_at": "2026-06-10T15:01:06+00:00",
+      "url": "https://burr.apache.org/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48477400"
+    },
+    {
+      "hn_id": 48476136,
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "score": 154,
+      "by": "tvissers",
+      "comments": 143,
+      "created_at": "2026-06-10T13:39:11+00:00",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48476136"
+    },
+    {
+      "hn_id": 48480719,
+      "title": "Policy on the AI Exponential",
+      "score": 107,
+      "by": "yjp20",
+      "comments": 162,
+      "created_at": "2026-06-10T18:36:04+00:00",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "discussion_url": "https://news.ycombinator.com/item?id=48480719"
+    },
+    {
+      "hn_id": 48478148,
+      "title": "Show HN: HelixDB – A graph database built on object storage",
+      "score": 78,
+      "by": "GeorgeCurtis",
+      "comments": 29,
+      "created_at": "2026-06-10T15:47:31+00:00",
+      "url": "https://github.com/HelixDB/helix-db/tree/main",
+      "discussion_url": "https://news.ycombinator.com/item?id=48478148"
+    },
+    {
+      "hn_id": 48477589,
+      "title": "The iPad was on Tailscale: a WebRTC debugging story",
+      "score": 58,
+      "by": "syllogistic",
+      "comments": 26,
+      "created_at": "2026-06-10T15:13:16+00:00",
+      "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48477589"
+    },
+    {
+      "hn_id": 48473845,
+      "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+      "score": 58,
+      "by": "grzracz",
+      "comments": 37,
+      "created_at": "2026-06-10T09:43:16+00:00",
+      "url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+      "discussion_url": "https://news.ycombinator.com/item?id=48473845"
+    },
+    {
+      "hn_id": 48478969,
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "score": 30,
       "by": "speckx",
-      "comments": 111,
-      "created_at": "2026-06-09T18:45:59+00:00",
-      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48465675"
+      "comments": 25,
+      "created_at": "2026-06-10T16:42:00+00:00",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48478969"
     },
     {
-      "hn_id": 48465269,
-      "title": "GPT-2: Too Dangerous To Release (2019)",
-      "score": 241,
-      "by": "AbuAssar",
-      "comments": 93,
-      "created_at": "2026-06-09T18:21:43+00:00",
-      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48465269"
-    },
-    {
-      "hn_id": 48462823,
-      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-      "score": 174,
-      "by": "doener",
-      "comments": 91,
-      "created_at": "2026-06-09T15:59:41+00:00",
-      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48462823"
-    },
-    {
-      "hn_id": 48467896,
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "score": 129,
-      "by": "mips_avatar",
-      "comments": 49,
-      "created_at": "2026-06-09T21:19:11+00:00",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=48467896"
-    },
-    {
-      "hn_id": 48464333,
-      "title": "Where is the AI jobs crisis?",
-      "score": 121,
-      "by": "bwestergard",
-      "comments": 178,
-      "created_at": "2026-06-09T17:29:17+00:00",
-      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
-      "discussion_url": "https://news.ycombinator.com/item?id=48464333"
-    },
-    {
-      "hn_id": 48460863,
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "score": 105,
-      "by": "Anon84",
-      "comments": 48,
-      "created_at": "2026-06-09T13:27:03+00:00",
-      "url": "https://arxiv.org/abs/2605.15184",
-      "discussion_url": "https://news.ycombinator.com/item?id=48460863"
-    },
-    {
-      "hn_id": 48462062,
-      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-      "score": 89,
-      "by": "galsapir",
-      "comments": 15,
-      "created_at": "2026-06-09T15:01:15+00:00",
-      "url": "https://arxiv.org/abs/2603.24647",
-      "discussion_url": "https://news.ycombinator.com/item?id=48462062"
-    },
-    {
-      "hn_id": 48462428,
-      "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
-      "score": 65,
-      "by": "arto",
-      "comments": 15,
-      "created_at": "2026-06-09T15:30:19+00:00",
-      "url": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48462428"
-    },
-    {
-      "hn_id": 48461311,
-      "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
-      "score": 56,
-      "by": "PaulHoule",
-      "comments": 18,
-      "created_at": "2026-06-09T14:04:54+00:00",
-      "url": "https://arxiv.org/abs/2604.19773",
-      "discussion_url": "https://news.ycombinator.com/item?id=48461311"
-    },
-    {
-      "hn_id": 48467712,
-      "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
-      "score": 38,
-      "by": "Cider9986",
-      "comments": 12,
-      "created_at": "2026-06-09T21:01:40+00:00",
-      "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48467712"
-    },
-    {
-      "hn_id": 48466812,
-      "title": "Grit: Rewriting Git in Rust with Agents",
-      "score": 23,
-      "by": "cbrewster",
-      "comments": 0,
-      "created_at": "2026-06-09T19:58:21+00:00",
-      "url": "https://blog.gitbutler.com/true-grit",
-      "discussion_url": "https://news.ycombinator.com/item?id=48466812"
-    },
-    {
-      "hn_id": 48465980,
-      "title": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free",
-      "score": 20,
-      "by": "onemoresoop",
-      "comments": 5,
-      "created_at": "2026-06-09T19:05:08+00:00",
-      "url": "https://www.reuters.com/world/eu-regulators-order-meta-allow-rival-ai-chatbots-free-access-whatsapp-2026-06-09/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48465980"
-    },
-    {
-      "hn_id": 48464305,
-      "title": "AI profitability is mathematically impossible",
-      "score": 18,
-      "by": "droptablemain",
-      "comments": 21,
-      "created_at": "2026-06-09T17:27:23+00:00",
-      "url": "https://old.reddit.com/r/BetterOffline/comments/1tzwnhi/ai_profitability_is_mathematically_impossible/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48464305"
-    },
-    {
-      "hn_id": 48465029,
-      "title": "Anthropic Kept Every Promise It Could Afford",
-      "score": 15,
-      "by": "pavel_lishin",
-      "comments": 1,
-      "created_at": "2026-06-09T18:06:32+00:00",
-      "url": "https://techtrenches.dev/p/anthropic-kept-every-promise-it-could",
-      "discussion_url": "https://news.ycombinator.com/item?id=48465029"
-    },
-    {
-      "hn_id": 48467245,
-      "title": "Donut Lab's solid-state battery claim debunked by Ziroth",
-      "score": 12,
-      "by": "rbanffy",
-      "comments": 1,
-      "created_at": "2026-06-09T20:28:33+00:00",
-      "url": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
-      "discussion_url": "https://news.ycombinator.com/item?id=48467245"
-    },
-    {
-      "hn_id": 48467865,
-      "title": "Claude Fable 5 will sabotage \"frontier LLM research\" tasks",
-      "score": 8,
-      "by": "qwertyforce",
-      "comments": 1,
-      "created_at": "2026-06-09T21:16:20+00:00",
-      "url": "https://twitter.com/i/status/2064399902684139852",
-      "discussion_url": "https://news.ycombinator.com/item?id=48467865"
-    },
-    {
-      "hn_id": 48463102,
-      "title": "Show HN: Open-source version of Anthropic's internal analytics engine",
-      "score": 8,
-      "by": "lucamrtl",
-      "comments": 2,
-      "created_at": "2026-06-09T16:17:36+00:00",
-      "url": "https://github.com/Kaelio/ktx",
-      "discussion_url": "https://news.ycombinator.com/item?id=48463102"
-    },
-    {
-      "hn_id": 48467835,
-      "title": "Flathub disallows LLM-based submissions",
-      "score": 5,
-      "by": "birdculture",
-      "comments": 0,
-      "created_at": "2026-06-09T21:12:37+00:00",
-      "url": "https://social.treehouse.systems/@barthalion/116657011366876079",
-      "discussion_url": "https://news.ycombinator.com/item?id=48467835"
-    },
-    {
-      "hn_id": 48467192,
-      "title": "Show HN: Maillune – Embeddable drag-and-drop email editor as a single component",
-      "score": 3,
-      "by": "gustavssondev",
-      "comments": 0,
-      "created_at": "2026-06-09T20:25:25+00:00",
-      "url": "https://www.maillune.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48467192"
-    },
-    {
-      "hn_id": 48468169,
-      "title": "Mythos/Fable intentionally hinders requests involving AI Research Development",
-      "score": 3,
-      "by": "behnamoh",
-      "comments": 0,
-      "created_at": "2026-06-09T21:42:07+00:00",
-      "url": "https://twitter.com/eliebakouch/status/2064399902684139852",
-      "discussion_url": "https://news.ycombinator.com/item?id=48468169"
+      "hn_id": 48482124,
+      "title": "American capitalism is run by millionaires, not billionaires",
+      "score": 9,
+      "by": "andsoitis",
+      "comments": 4,
+      "created_at": "2026-06-10T20:23:37+00:00",
+      "url": "https://www.economist.com/business/2026/06/10/american-capitalism-is-run-by-millionaires-not-billionaires",
+      "discussion_url": "https://news.ycombinator.com/item?id=48482124"
     }
   ]
 }
