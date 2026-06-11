@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T22:55:49.595892+00:00",
-  "cutoff": "2026-06-03T22:55:36.491846+00:00",
+  "generated_at": "2026-06-11T22:53:25.598228+00:00",
+  "cutoff": "2026-06-04T22:53:08.490303+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -13,22 +13,38 @@
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 5
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 3
+      "count": 5
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+    },
     {
       "source": "blog_openai",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
@@ -36,6 +52,14 @@
       "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
+    {
+      "source": "blog_openai",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
     },
     {
       "source": "blog_openai",
@@ -110,36 +134,20 @@
       "lead_paragraph": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects."
     },
     {
-      "source": "blog_openai",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "published_at": "2026-06-04T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "published_at": "2026-06-04T09:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Biodefense in the Intelligence Age",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "published_at": "2026-06-04T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "An action plan for AI-powered biological resilience"
-    },
-    {
       "source": "blog_deepmind",
       "title": "DiffusionGemma: 4x faster text generation",
       "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "published_at": "2026-06-10T16:24:11+00:00",
       "author": "",
       "lead_paragraph": ""
+    },
+    {
+      "source": "blog_deepmind",
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "published_at": "2026-06-10T10:21:19+00:00",
+      "author": "",
+      "lead_paragraph": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
     },
     {
       "source": "blog_deepmind",
@@ -175,9 +183,9 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-      "published_at": "2026-06-09T19:38:28+00:00",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -214,20 +222,20 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "published_at": "2026-06-04T18:57:45+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "published_at": "2026-06-11T18:00:23+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "published_at": "2026-06-04T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Introducing Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "published_at": "2026-06-11T13:36:07+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America."
     },
     {
       "source": "blog_anthropic",
