@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-11T22:53:25.598228+00:00",
-  "cutoff": "2026-06-04T22:53:08.490303+00:00",
+  "generated_at": "2026-06-12T22:28:46.280523+00:00",
+  "cutoff": "2026-06-05T22:28:23.579349+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 15
     },
     {
       "source": "blog_deepmind",
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     {
       "source": "blog_anthropic",
@@ -31,19 +31,27 @@
   "items": [
     {
       "source": "blog_openai",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "published_at": "2026-06-12T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "published_at": "2026-06-12T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+    },
+    {
+      "source": "blog_openai",
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "blog_openai",
@@ -60,6 +68,14 @@
       "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "blog_openai",
@@ -183,6 +199,14 @@
     },
     {
       "source": "blog_huggingface",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "published_at": "2026-06-12T15:56:10+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
       "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "published_at": "2026-06-11T00:00:00+00:00",
@@ -223,6 +247,22 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "published_at": "2026-06-12T17:59:27+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Results from first Anthropic Public Record",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "published_at": "2026-06-12T16:24:44+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic Public Record is a national survey of attitudes and opinions towards AI."
+    },
+    {
+      "source": "blog_anthropic",
       "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
       "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
       "published_at": "2026-06-11T18:00:23+00:00",
@@ -244,22 +284,6 @@
       "published_at": "2026-06-09T20:27:50+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "published_at": "2026-06-05T14:58:47+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "The full text of Chris Olah's remarks on the Pope's encyclical on AI."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Widening the conversation on frontier AI",
-      "url": "https://www.anthropic.com/news/widening-conversation-ai",
-      "published_at": "2026-06-05T14:40:24+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI."
     }
   ]
 }
