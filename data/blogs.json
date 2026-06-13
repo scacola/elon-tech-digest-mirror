@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T22:28:46.280523+00:00",
-  "cutoff": "2026-06-05T22:28:23.579349+00:00",
+  "generated_at": "2026-06-13T22:09:51.783581+00:00",
+  "cutoff": "2026-06-06T22:09:39.306487+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -25,7 +25,7 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 5
+      "count": 6
     }
   ],
   "items": [
@@ -47,6 +47,22 @@
     },
     {
       "source": "blog_openai",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+    },
+    {
+      "source": "blog_openai",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+    },
+    {
+      "source": "blog_openai",
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "published_at": "2026-06-11T00:00:00+00:00",
@@ -60,22 +76,6 @@
       "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
-    },
-    {
-      "source": "blog_openai",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "blog_openai",
@@ -247,6 +247,22 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "published_at": "2026-06-13T02:30:15+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "published_at": "2026-06-13T01:13:41+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States."
+    },
+    {
+      "source": "blog_anthropic",
       "title": "TCS and Anthropic partner to bring Claude to regulated industries",
       "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
       "published_at": "2026-06-12T17:59:27+00:00",
@@ -276,14 +292,6 @@
       "published_at": "2026-06-11T13:36:07+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "published_at": "2026-06-09T20:27:50+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use."
     }
   ]
 }
