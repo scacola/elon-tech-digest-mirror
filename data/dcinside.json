@@ -1,28 +1,14 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-06-13T22:09:37.631184+00:00",
+  "collected_at": "2026-06-14T22:17:49.075336+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
-      "no": "1246538",
-      "title": "선의로 포장된 권력의 위험성",
-      "recommend": 115,
-      "comments": 39,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246538",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1252748",
       "title": "페이블 사태 요약",
-      "recommend": 86,
-      "comments": 21,
+      "recommend": 99,
+      "comments": 22,
       "author": "rtOS",
       "created_at_raw": "06.13",
       "created_at": "2026-06-13T12:00:00+09:00",
@@ -33,9 +19,23 @@
       ]
     },
     {
+      "no": "1253599",
+      "title": "딥시크 개발자 한마디 함",
+      "recommend": 94,
+      "comments": 79,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1253599",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1250223",
       "title": "??? : 이이잉~ 앤트로픽아 그러지마아~",
-      "recommend": 84,
+      "recommend": 87,
       "comments": 41,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -47,14 +47,28 @@
       ]
     },
     {
-      "no": "1246792",
-      "title": "지리네",
-      "recommend": 79,
-      "comments": 34,
+      "no": "1251556",
+      "title": "소버린 AI 연구는 이제 석유 정제 기술이나 다름없음.",
+      "recommend": 77,
+      "comments": 106,
+      "author": "하늘바라기",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251556",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1254295",
+      "title": "다른 부족들은 불의 위험을 너무 과소평가하는 중임",
+      "recommend": 77,
+      "comments": 20,
       "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246792",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1254295",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -63,7 +77,7 @@
     {
       "no": "1252731",
       "title": "신규벤치마크, 안트로픽 독주",
-      "recommend": 71,
+      "recommend": 74,
       "comments": 28,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -77,7 +91,7 @@
     {
       "no": "1250959",
       "title": "아모데이 얘는 진짜 이상한 새끼같음",
-      "recommend": 71,
+      "recommend": 74,
       "comments": 12,
       "author": "모근찾아삼만리",
       "created_at_raw": "06.13",
@@ -89,23 +103,9 @@
       ]
     },
     {
-      "no": "1251556",
-      "title": "소버린 AI 연구는 이제 석유 정제 기술이나 다름없음.",
-      "recommend": 70,
-      "comments": 104,
-      "author": "하늘바라기",
-      "created_at_raw": "06.13",
-      "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251556",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1250981",
       "title": "아들들아... 내가 말했지? llm은 확률적 앵무새일 뿐이야...",
-      "recommend": 70,
+      "recommend": 73,
       "comments": 31,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -117,9 +117,23 @@
       ]
     },
     {
+      "no": "1249081",
+      "title": "바이브코딩으로 과거로 돌아가 투자하는 게임 만들어봄",
+      "recommend": 71,
+      "comments": 89,
+      "author": "thoth",
+      "created_at_raw": "06.12",
+      "created_at": "2026-06-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1249081",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1251051",
       "title": "아니 시발 트럼프는 AI에게 나쁜 일은 하기 싫다, AI 이즈 굿",
-      "recommend": 69,
+      "recommend": 71,
       "comments": 10,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -131,9 +145,51 @@
       ]
     },
     {
+      "no": "1253939",
+      "title": "짱깨 씹덕프사 일침 ㅋㅋㅋㅋ",
+      "recommend": 70,
+      "comments": 43,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1253939",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1254660",
+      "title": "얀르쿤 앤트로픽 관련발언",
+      "recommend": 69,
+      "comments": 30,
+      "author": "우비소년",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1254660",
+      "body_excerpt": "",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "no": "1254338",
+      "title": "엔트로픽 이 멘트가 제일 부메랑이긴 하노 ㅋㅋㅋ",
+      "recommend": 68,
+      "comments": 9,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1254338",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
       "no": "1250796",
       "title": "아모데이 욕하지 말자는것도 밴 때리는걸 건의합니다",
-      "recommend": 65,
+      "recommend": 67,
       "comments": 6,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -145,23 +201,9 @@
       ]
     },
     {
-      "no": "1246079",
-      "title": "gpt 가격 대폭적 인하 검토중",
-      "recommend": 64,
-      "comments": 56,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246079",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1250837",
       "title": "백악관 욕은 진짜 이해 안됨",
-      "recommend": 64,
+      "recommend": 66,
       "comments": 11,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -175,7 +217,7 @@
     {
       "no": "1250997",
       "title": "속보) 애니프사 선형타락중 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "recommend": 64,
+      "recommend": 65,
       "comments": 10,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -190,7 +232,7 @@
       "no": "1250035",
       "title": "속보) Anthropic 물귀신 작전 시작",
       "recommend": 63,
-      "comments": 68,
+      "comments": 69,
       "author": "Junnn",
       "created_at_raw": "06.13",
       "created_at": "2026-06-13T12:00:00+09:00",
@@ -201,14 +243,14 @@
       ]
     },
     {
-      "no": "1246997",
-      "title": "외쿡 특붕이들도 이제 슬슬 눈을 뜨는구나",
-      "recommend": 59,
-      "comments": 30,
+      "no": "1252740",
+      "title": "아모쩌둥의 주체사상 교육ㄷㄷ",
+      "recommend": 61,
+      "comments": 48,
       "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246997",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1252740",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -229,51 +271,37 @@
       ]
     },
     {
-      "no": "1247566",
-      "title": "영국, 모든 폰 스캔 법안 초안중",
-      "recommend": 57,
-      "comments": 67,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1247566",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1252740",
-      "title": "아모쩌둥의 주체사상 교육ㄷㄷ",
-      "recommend": 56,
-      "comments": 44,
+      "no": "1250624",
+      "title": "아모데이 진짜 인간적으로 싫어지면 개추",
+      "recommend": 58,
+      "comments": 8,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
       "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1252740",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1250624",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1253599",
-      "title": "딥시크 개발자 한마디 함",
-      "recommend": 55,
-      "comments": 49,
+      "no": "1250894",
+      "title": "근데 솔직히 개구라아님? ㅋㅋㅋㅋ",
+      "recommend": 56,
+      "comments": 16,
       "author": "ㅇㅇ",
-      "created_at_raw": "01:36",
-      "created_at": "2026-06-14T01:36:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1253599",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1250894",
       "body_excerpt": "",
       "tags": [
-        "general"
+        "humor"
       ]
     },
     {
       "no": "1251535",
       "title": "민심테스트",
-      "recommend": 55,
+      "recommend": 56,
       "comments": 11,
       "author": "우비소년",
       "created_at_raw": "06.13",
@@ -299,65 +327,9 @@
       ]
     },
     {
-      "no": "1250624",
-      "title": "아모데이 진짜 인간적으로 싫어지면 개추",
-      "recommend": 55,
-      "comments": 8,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.13",
-      "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1250624",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1249081",
-      "title": "바이브코딩으로 과거로 돌아가 투자하는 게임 만들어봄",
-      "recommend": 54,
-      "comments": 66,
-      "author": "thoth",
-      "created_at_raw": "06.12",
-      "created_at": "2026-06-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1249081",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1246944",
-      "title": "아모데이가 뭘 잘못했냐",
-      "recommend": 54,
-      "comments": 18,
-      "author": "규나나",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246944",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1250894",
-      "title": "근데 솔직히 개구라아님? ㅋㅋㅋㅋ",
-      "recommend": 53,
-      "comments": 16,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.13",
-      "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1250894",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1250867",
       "title": "다리오 아모데이의 정신 교육",
-      "recommend": 52,
+      "recommend": 53,
       "comments": 25,
       "author": "알트만과머스크",
       "created_at_raw": "06.13",
@@ -369,31 +341,17 @@
       ]
     },
     {
-      "no": "1246616",
-      "title": "ㅋㅋㅋㅋㅋ",
-      "recommend": 52,
-      "comments": 13,
-      "author": "찌끄레기",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246616",
+      "no": "1251129",
+      "title": "ㅋㅋㅋㅋㅋ 념글 존나 웃기네 ㅋㅋㅋㅋ",
+      "recommend": 53,
+      "comments": 6,
+      "author": "지편",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251129",
       "body_excerpt": "",
       "tags": [
         "humor"
-      ]
-    },
-    {
-      "no": "1247489",
-      "title": "앤트로픽 페이블 순수 후기",
-      "recommend": 51,
-      "comments": 48,
-      "author": "초존도초",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1247489",
-      "body_excerpt": "",
-      "tags": [
-        "claude"
       ]
     },
     {
@@ -412,37 +370,9 @@
       ]
     },
     {
-      "no": "1246747",
-      "title": "앤트로픽이 욕먹는 이유를 모르겠다고?",
-      "recommend": 49,
-      "comments": 10,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246747",
-      "body_excerpt": "",
-      "tags": [
-        "claude"
-      ]
-    },
-    {
-      "no": "1251129",
-      "title": "ㅋㅋㅋㅋㅋ 념글 존나 웃기네 ㅋㅋㅋㅋ",
-      "recommend": 49,
-      "comments": 6,
-      "author": "지편",
-      "created_at_raw": "06.13",
-      "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251129",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1251537",
       "title": "빨아야겠지?",
-      "recommend": 48,
+      "recommend": 49,
       "comments": 21,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -454,28 +384,57 @@
       ]
     },
     {
-      "no": "1246620",
-      "title": "\"어이 거기 페이블 이쁜이~\"",
+      "no": "1252549",
+      "title": "중국 GLM 5.2 완전 오픈소스 정식 출시 성명",
       "recommend": 48,
-      "comments": 20,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246620",
+      "comments": 58,
+      "author": "초존도초",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1252549",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1252549",
-      "title": "중국 GLM 5.2 완전 오픈소스 정식 출시 성명",
-      "recommend": 46,
-      "comments": 57,
-      "author": "초존도초",
+      "no": "1251242",
+      "title": "??? : 어 다 알고 있었어 ㅇㅇ",
+      "recommend": 48,
+      "comments": 26,
+      "author": "00",
       "created_at_raw": "06.13",
       "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1252549",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251242",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1253553",
+      "title": "앤트로픽 최고과학자 모델 접근 차단됨",
+      "recommend": 48,
+      "comments": 14,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1253553",
+      "body_excerpt": "",
+      "tags": [
+        "claude",
+        "ai"
+      ]
+    },
+    {
+      "no": "1251653",
+      "title": "역시 체스를 잘해서 상대의 수를 모두 꿰뚫어보는 사람",
+      "recommend": 47,
+      "comments": 24,
+      "author": "량원펑",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251653",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -496,51 +455,9 @@
       ]
     },
     {
-      "no": "1248450",
-      "title": "미국 태양광, 월간 발전량 첫 석탄 추월",
-      "recommend": 45,
-      "comments": 35,
-      "author": "회색",
-      "created_at_raw": "06.12",
-      "created_at": "2026-06-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1248450",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1251242",
-      "title": "??? : 어 다 알고 있었어 ㅇㅇ",
-      "recommend": 45,
-      "comments": 26,
-      "author": "00",
-      "created_at_raw": "06.13",
-      "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251242",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1251653",
-      "title": "역시 체스를 잘해서 상대의 수를 모두 꿰뚫어보는 사람",
-      "recommend": 45,
-      "comments": 24,
-      "author": "량원펑",
-      "created_at_raw": "06.13",
-      "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251653",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1250702",
       "title": "아모데이 ㅈㄴ웃기긴하네 ㅋㅋㅋ",
-      "recommend": 45,
+      "recommend": 46,
       "comments": 20,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -554,7 +471,7 @@
     {
       "no": "1251013",
       "title": "갑자기 이새끼들 존나 응원하면 개추",
-      "recommend": 45,
+      "recommend": 46,
       "comments": 11,
       "author": "CRBS",
       "created_at_raw": "06.13",
@@ -566,14 +483,28 @@
       ]
     },
     {
-      "no": "1247029",
-      "title": "얀 르쿤이 생각하는 AGI",
-      "recommend": 44,
-      "comments": 110,
-      "author": "행복한천국으로",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1247029",
+      "no": "1253867",
+      "title": "페이블-앤트로픽 사태 구체적 정황 떴네",
+      "recommend": 45,
+      "comments": 55,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1253867",
+      "body_excerpt": "",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "no": "1248450",
+      "title": "미국 태양광, 월간 발전량 첫 석탄 추월",
+      "recommend": 45,
+      "comments": 38,
+      "author": "회색",
+      "created_at_raw": "06.12",
+      "created_at": "2026-06-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1248450",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -582,7 +513,7 @@
     {
       "no": "1250922",
       "title": "속보) 오픈AI 직원 리트윗 ON",
-      "recommend": 44,
+      "recommend": 45,
       "comments": 19,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -592,6 +523,20 @@
       "tags": [
         "ai",
         "openai"
+      ]
+    },
+    {
+      "no": "1253065",
+      "title": "짚카콜라의 아모데이 평가",
+      "recommend": 45,
+      "comments": 15,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1253065",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -609,14 +554,14 @@
       ]
     },
     {
-      "no": "1247019",
-      "title": "5.5 프로도 병신이네",
-      "recommend": 41,
-      "comments": 42,
-      "author": "한대남가리뚝스딱스",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1247019",
+      "no": "1251256",
+      "title": "속보) 딥시크 팬보이 : 페이블 사용해본 후 항복선언",
+      "recommend": 40,
+      "comments": 37,
+      "author": "ㅇㅇ",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251256",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -637,14 +582,14 @@
       ]
     },
     {
-      "no": "1251256",
-      "title": "속보) 딥시크 팬보이 : 페이블 사용해본 후 항복선언",
-      "recommend": 39,
-      "comments": 37,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.13",
-      "created_at": "2026-06-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1251256",
+      "no": "1254440",
+      "title": "로켓 쏠 때 가장 멋있는 새끼",
+      "recommend": 40,
+      "comments": 16,
+      "author": "Junnn",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1254440",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -653,7 +598,7 @@
     {
       "no": "1250896",
       "title": "속보) 로건 입갤 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "recommend": 38,
+      "recommend": 39,
       "comments": 18,
       "author": "ㅇㅇ",
       "created_at_raw": "06.13",
@@ -667,7 +612,7 @@
     {
       "no": "1249171",
       "title": "얀르쿤 다리오 비판 글 게시",
-      "recommend": 38,
+      "recommend": 39,
       "comments": 16,
       "author": "알트만과머스크",
       "created_at_raw": "06.12",
@@ -679,38 +624,94 @@
       ]
     },
     {
-      "no": "1245922",
-      "title": "오늘 나온 디퓨전 젬마는 한국에서 나온 논문기반으로 만들어진 모델ㄷㄷ",
-      "recommend": 38,
-      "comments": 9,
-      "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1245922",
+      "no": "1254704",
+      "title": "???: 암호화 통제는 시작일뿐이다. 일반인은 끝났어",
+      "recommend": 37,
+      "comments": 27,
+      "author": "라치치",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1254704",
       "body_excerpt": "",
       "tags": [
-        "ai"
+        "general"
       ]
     },
     {
-      "no": "1246128",
-      "title": "제미니 플래시 근황....jpg",
+      "no": "1254239",
+      "title": "속보) 백악관은 협력을 요청한 적이 없다",
       "recommend": 37,
-      "comments": 57,
+      "comments": 27,
       "author": "ㅇㅇ",
-      "created_at_raw": "06.11",
-      "created_at": "2026-06-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1246128",
+      "created_at_raw": "06.14",
+      "created_at": "2026-06-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1254239",
       "body_excerpt": "",
       "tags": [
-        "humor"
+        "general"
+      ]
+    },
+    {
+      "no": "1250855",
+      "title": ".",
+      "recommend": 37,
+      "comments": 15,
+      "author": "얀르쿤",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1250855",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1249276",
+      "title": "지리긴 하네",
+      "recommend": 35,
+      "comments": 44,
+      "author": "찌끄레기",
+      "created_at_raw": "06.12",
+      "created_at": "2026-06-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1249276",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1249351",
+      "title": "프론트엔드 웹개발 잘하기 꿀통 (바이브코더 전용)",
+      "recommend": 35,
+      "comments": 35,
+      "author": "효도폰만수르",
+      "created_at_raw": "06.12",
+      "created_at": "2026-06-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1249351",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1252743",
+      "title": "구글, AI 환각 잡는 ‘메타인지’ 제시",
+      "recommend": 35,
+      "comments": 26,
+      "author": "회색",
+      "created_at_raw": "06.13",
+      "created_at": "2026-06-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1252743",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
       ]
     }
   ],
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 155,
+    "dropped_old": 164,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }

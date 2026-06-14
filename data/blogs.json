@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T22:09:51.783581+00:00",
-  "cutoff": "2026-06-06T22:09:39.306487+00:00",
+  "generated_at": "2026-06-14T22:18:00.165292+00:00",
+  "cutoff": "2026-06-07T22:17:49.535229+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -55,6 +55,14 @@
     },
     {
       "source": "blog_openai",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
+    {
+      "source": "blog_openai",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
       "published_at": "2026-06-11T00:00:00+00:00",
@@ -68,14 +76,6 @@
       "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
     },
     {
       "source": "blog_openai",
