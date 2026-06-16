@@ -1,34 +1,42 @@
 {
-  "generated_at": "2026-06-15T23:06:57.592022+00:00",
-  "cutoff": "2026-06-08T23:06:46.239521+00:00",
+  "generated_at": "2026-06-16T22:57:16.597334+00:00",
+  "cutoff": "2026-06-09T22:56:40.842585+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 11
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 5
+      "count": 3
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 4
+      "count": 2
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 6
+      "count": 7
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "published_at": "2026-06-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+    },
     {
       "source": "blog_openai",
       "title": "Introducing the OpenAI Partner Network",
@@ -63,11 +71,11 @@
     },
     {
       "source": "blog_openai",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "blog_openai",
@@ -79,11 +87,11 @@
     },
     {
       "source": "blog_openai",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+      "lead_paragraph": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
     },
     {
       "source": "blog_openai",
@@ -110,28 +118,12 @@
       "lead_paragraph": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
     },
     {
-      "source": "blog_openai",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "url": "https://openai.com/index/nextdoor",
-      "published_at": "2026-06-09T12:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published_at": "2026-06-16T21:29:50+00:00",
       "author": "",
-      "lead_paragraph": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
-    },
-    {
-      "source": "blog_openai",
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
-      "published_at": "2026-06-09T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "published_at": "2026-06-09T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
+      "lead_paragraph": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     },
     {
       "source": "blog_deepmind",
@@ -150,30 +142,6 @@
       "lead_paragraph": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "published_at": "2026-06-09T15:16:25+00:00",
-      "author": "",
-      "lead_paragraph": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "published_at": "2026-06-09T14:10:19+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Powering the future of robotics in Europe",
-      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-      "published_at": "2026-06-09T14:02:33+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_huggingface",
       "title": "olmo-eval: An evaluation workbench for the model development loop",
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
@@ -190,20 +158,20 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "published_at": "2026-06-09T10:46:19+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "published_at": "2026-06-16T14:35:47+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner"
     },
     {
-      "source": "blog_huggingface",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "published_at": "2026-06-09T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Core views on AI safety: When, why, what, and how",
+      "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+      "published_at": "2026-06-16T09:51:16+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety of research directions aimed at better understanding, evaluating, and aligning AI systems."
     },
     {
       "source": "blog_anthropic",
@@ -220,14 +188,6 @@
       "published_at": "2026-06-13T01:13:41+00:00",
       "author": "Anthropic",
       "lead_paragraph": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-      "published_at": "2026-06-12T17:59:27+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner"
     },
     {
       "source": "blog_anthropic",
