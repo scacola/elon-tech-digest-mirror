@@ -1,34 +1,50 @@
 {
-  "generated_at": "2026-06-16T22:57:16.597334+00:00",
-  "cutoff": "2026-06-09T22:56:40.842585+00:00",
+  "generated_at": "2026-06-17T22:49:16.584621+00:00",
+  "cutoff": "2026-06-10T22:48:50.082166+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 11
+      "count": 10
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 3
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 2
+      "count": 5
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 7
+      "count": 9
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "published_at": "2026-06-17T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "published_at": "2026-06-17T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+    },
     {
       "source": "blog_openai",
       "title": "Predicting model behavior before release by simulating deployment",
@@ -63,22 +79,6 @@
     },
     {
       "source": "blog_openai",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-    },
-    {
-      "source": "blog_openai",
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "published_at": "2026-06-11T00:00:00+00:00",
@@ -95,27 +95,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "published_at": "2026-06-10T20:00:00+00:00",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
+      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "blog_openai",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "published_at": "2026-06-10T12:00:00+00:00",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
-    },
-    {
-      "source": "blog_openai",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://openai.com/index/lseg",
-      "published_at": "2026-06-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
+      "lead_paragraph": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
     },
     {
       "source": "blog_deepmind",
@@ -126,26 +118,34 @@
       "lead_paragraph": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     },
     {
-      "source": "blog_deepmind",
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "published_at": "2026-06-10T16:24:11+00:00",
+      "source": "blog_huggingface",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "published_at": "2026-06-17T15:26:44+00:00",
       "author": "",
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "published_at": "2026-06-10T10:21:19+00:00",
+      "source": "blog_huggingface",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "published_at": "2026-06-17T10:18:05+00:00",
       "author": "",
-      "lead_paragraph": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "published_at": "2026-06-12T15:56:10+00:00",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "published_at": "2026-06-17T09:01:25+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "published_at": "2026-06-17T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -156,6 +156,22 @@
       "published_at": "2026-06-11T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "published_at": "2026-06-17T17:20:14+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem—with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Developing nuclear safeguards for AI through public-private partnership",
+      "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
+      "published_at": "2026-06-17T16:48:41+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an AI system that automatically categorizes content—that distinguishes between concerning and benign nuclear-related conversations with 96% accuracy in preliminary testing."
     },
     {
       "source": "blog_anthropic",
