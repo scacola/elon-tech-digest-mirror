@@ -1,34 +1,58 @@
 {
-  "generated_at": "2026-06-17T22:49:16.584621+00:00",
-  "cutoff": "2026-06-10T22:48:50.082166+00:00",
+  "generated_at": "2026-06-18T22:59:42.989504+00:00",
+  "cutoff": "2026-06-11T22:59:20.881124+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 9
+      "count": 7
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "published_at": "2026-06-18T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "published_at": "2026-06-18T11:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "published_at": "2026-06-18T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
+    },
     {
       "source": "blog_openai",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
@@ -78,44 +102,44 @@
       "lead_paragraph": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-    },
-    {
-      "source": "blog_openai",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Unlocking UK house-building with AI-accelerated planning",
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
       "published_at": "2026-06-16T21:29:50+00:00",
       "author": "",
       "lead_paragraph": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    },
+    {
+      "source": "blog_deepmind",
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "published_at": "2026-06-16T15:46:31+00:00",
+      "author": "",
+      "lead_paragraph": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "published_at": "2026-06-18T18:13:13+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "published_at": "2026-06-18T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "published_at": "2026-06-18T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -150,18 +174,10 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
       "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "published_at": "2026-06-17T17:20:14+00:00",
+      "published_at": "2026-06-18T03:57:50+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem—with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude."
     },
@@ -212,22 +228,6 @@
       "published_at": "2026-06-12T16:24:44+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic Public Record is a national survey of attitudes and opinions towards AI."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "published_at": "2026-06-11T18:00:23+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "published_at": "2026-06-11T13:36:07+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America."
     }
   ]
 }
