@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-18T22:59:42.989504+00:00",
-  "cutoff": "2026-06-11T22:59:20.881124+00:00",
+  "generated_at": "2026-06-19T22:19:21.030972+00:00",
+  "cutoff": "2026-06-12T22:18:57.125487+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     {
       "source": "blog_deepmind",
@@ -25,7 +25,7 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 7
+      "count": 6
     }
   ],
   "items": [
@@ -84,22 +84,6 @@
       "published_at": "2026-06-14T17:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
-    },
-    {
-      "source": "blog_openai",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "published_at": "2026-06-12T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "published_at": "2026-06-12T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
     },
     {
       "source": "blog_deepmind",
@@ -220,14 +204,6 @@
       "published_at": "2026-06-13T01:13:41+00:00",
       "author": "Anthropic",
       "lead_paragraph": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Results from first Anthropic Public Record",
-      "url": "https://www.anthropic.com/news/anthropic-public-record",
-      "published_at": "2026-06-12T16:24:44+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic Public Record is a national survey of attitudes and opinions towards AI."
     }
   ]
 }
