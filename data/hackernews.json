@@ -1,127 +1,187 @@
 {
-  "generated_at": "2026-06-20T22:15:44.643549+00:00",
-  "cutoff": "2026-06-19T22:15:35.605653+00:00",
+  "generated_at": "2026-06-21T22:19:29.102610+00:00",
+  "cutoff": "2026-06-20T22:19:21.778765+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 48605355,
-      "title": "LLMs Are Complicated Now",
-      "score": 155,
-      "by": "matt_d",
+      "hn_id": 48618455,
+      "title": "Identity verification on Claude",
+      "score": 465,
+      "by": "bathory",
+      "comments": 425,
+      "created_at": "2026-06-21T12:44:13+00:00",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "discussion_url": "https://news.ycombinator.com/item?id=48618455"
+    },
+    {
+      "hn_id": 48613555,
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "score": 373,
+      "by": "croes",
+      "comments": 103,
+      "created_at": "2026-06-20T22:22:52+00:00",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "discussion_url": "https://news.ycombinator.com/item?id=48613555"
+    },
+    {
+      "hn_id": 48615569,
+      "title": "The brain was not designed for this much bad news",
+      "score": 362,
+      "by": "colinprince",
+      "comments": 300,
+      "created_at": "2026-06-21T04:02:08+00:00",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "discussion_url": "https://news.ycombinator.com/item?id=48615569"
+    },
+    {
+      "hn_id": 48615680,
+      "title": "Building reliable agentic AI systems",
+      "score": 177,
+      "by": "sarangk90",
+      "comments": 45,
+      "created_at": "2026-06-21T04:28:39+00:00",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=48615680"
+    },
+    {
+      "hn_id": 48616017,
+      "title": "The 100k whys of AI",
+      "score": 162,
+      "by": "surprisetalk",
+      "comments": 96,
+      "created_at": "2026-06-21T05:45:21+00:00",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "discussion_url": "https://news.ycombinator.com/item?id=48616017"
+    },
+    {
+      "hn_id": 48621517,
+      "title": "JSON-LD Explained for Personal Websites",
+      "score": 121,
+      "by": "ethanhawksley",
+      "comments": 31,
+      "created_at": "2026-06-21T18:51:47+00:00",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48621517"
+    },
+    {
+      "hn_id": 48617782,
+      "title": "The case against geometric algebra (2024)",
+      "score": 115,
+      "by": "Hbruz0",
+      "comments": 111,
+      "created_at": "2026-06-21T11:06:55+00:00",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=48617782"
+    },
+    {
+      "hn_id": 48620462,
+      "title": "Burnout is real for open source maintainers",
+      "score": 112,
+      "by": "theanonymousone",
       "comments": 56,
-      "created_at": "2026-06-20T01:25:14+00:00",
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48605355"
+      "created_at": "2026-06-21T16:56:18+00:00",
+      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "discussion_url": "https://news.ycombinator.com/item?id=48620462"
     },
     {
-      "hn_id": 48609373,
-      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "score": 142,
-      "by": "drayfield",
-      "comments": 84,
-      "created_at": "2026-06-20T14:12:50+00:00",
-      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48609373"
+      "hn_id": 48615776,
+      "title": "Don’t use AI to write things that you present as your own work",
+      "score": 61,
+      "by": "satisfice",
+      "comments": 61,
+      "created_at": "2026-06-21T04:50:46+00:00",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "discussion_url": "https://news.ycombinator.com/item?id=48615776"
     },
     {
-      "hn_id": 48608394,
-      "title": "Temporary Cloudflare accounts for AI agents",
-      "score": 133,
-      "by": "farhadhf",
-      "comments": 83,
-      "created_at": "2026-06-20T11:19:05+00:00",
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48608394"
-    },
-    {
-      "hn_id": 48608255,
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "score": 98,
-      "by": "car",
-      "comments": 36,
-      "created_at": "2026-06-20T10:55:18+00:00",
-      "url": "https://bootimus.com",
-      "discussion_url": "https://news.ycombinator.com/item?id=48608255"
-    },
-    {
-      "hn_id": 48609506,
-      "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-      "score": 63,
-      "by": "karakoram",
+      "hn_id": 48622778,
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "score": 48,
+      "by": "T-A",
       "comments": 8,
-      "created_at": "2026-06-20T14:32:15+00:00",
-      "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48609506"
+      "created_at": "2026-06-21T21:29:43+00:00",
+      "url": "https://apertvs.ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48622778"
     },
     {
-      "hn_id": 48609231,
-      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-      "score": 52,
-      "by": "dk189",
-      "comments": 25,
-      "created_at": "2026-06-20T13:49:03+00:00",
-      "url": "https://www.argusred.com/cli",
-      "discussion_url": "https://news.ycombinator.com/item?id=48609231"
+      "hn_id": 48622590,
+      "title": "Stop wasting tokens and re explaining your project between sessions",
+      "score": 24,
+      "by": "mateenah",
+      "comments": 17,
+      "created_at": "2026-06-21T21:05:37+00:00",
+      "url": "https://github.com/raiyanyahya/recall",
+      "discussion_url": "https://news.ycombinator.com/item?id=48622590"
     },
     {
-      "hn_id": 48612877,
-      "title": "Trump says he no longer views Anthropic as a threat after G7 meeting",
-      "score": 19,
-      "by": "billybuckwheat",
-      "comments": 2,
-      "created_at": "2026-06-20T20:50:59+00:00",
-      "url": "https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview",
-      "discussion_url": "https://news.ycombinator.com/item?id=48612877"
-    },
-    {
-      "hn_id": 48608611,
-      "title": "Race Against Time to Save Brixton Market from Private Equity",
+      "hn_id": 48621157,
+      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
       "score": 16,
-      "by": "vincvinc",
-      "comments": 1,
-      "created_at": "2026-06-20T12:01:50+00:00",
-      "url": "https://novaramedia.com/2026/06/19/race-against-time-to-save-brixton-market-from-private-equity/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48608611"
-    },
-    {
-      "hn_id": 48607303,
-      "title": "\"Career coaches\" are fear-farming the Stanford AI hiring study [debunk]",
-      "score": 16,
-      "by": "nikkotyze",
-      "comments": 1,
-      "created_at": "2026-06-20T08:06:17+00:00",
-      "url": "https://placementist.com/insights/fear-farming-the-stanford-ai-hiring-study-debunk",
-      "discussion_url": "https://news.ycombinator.com/item?id=48607303"
-    },
-    {
-      "hn_id": 48610195,
-      "title": "Lobsters Bug Allows Unauthorized Email Access",
-      "score": 15,
-      "by": "RandomGerm4n",
-      "comments": 6,
-      "created_at": "2026-06-20T15:55:56+00:00",
-      "url": "https://lobste.rs/s/7heurd",
-      "discussion_url": "https://news.ycombinator.com/item?id=48610195"
-    },
-    {
-      "hn_id": 48613328,
-      "title": "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
-      "score": 7,
-      "by": "logickkk1",
+      "by": "thm",
       "comments": 0,
-      "created_at": "2026-06-20T21:50:42+00:00",
-      "url": "https://www.phoronix.com/news/systemd-261",
-      "discussion_url": "https://news.ycombinator.com/item?id=48613328"
+      "created_at": "2026-06-21T18:11:26+00:00",
+      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "discussion_url": "https://news.ycombinator.com/item?id=48621157"
     },
     {
-      "hn_id": 48612716,
-      "title": "AutoJack: A single page can RCE the host running your AI agent",
-      "score": 5,
-      "by": "p_stuart82",
+      "hn_id": 48621706,
+      "title": "Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight",
+      "score": 10,
+      "by": "bookofjoe",
+      "comments": 1,
+      "created_at": "2026-06-21T19:12:07+00:00",
+      "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
+      "discussion_url": "https://news.ycombinator.com/item?id=48621706"
+    },
+    {
+      "hn_id": 48622833,
+      "title": "Jonathan Blow on why LLMs cannot program [video]",
+      "score": 8,
+      "by": "andy99",
+      "comments": 1,
+      "created_at": "2026-06-21T21:36:28+00:00",
+      "url": "https://www.youtube.com/watch?v=DdjUDpU-as0",
+      "discussion_url": "https://news.ycombinator.com/item?id=48622833"
+    },
+    {
+      "hn_id": 48619100,
+      "title": "Refloow Photo Studio – A local, offline photo editor with on-device AI",
+      "score": 8,
+      "by": "refloow",
       "comments": 0,
-      "created_at": "2026-06-20T20:30:16+00:00",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48612716"
+      "created_at": "2026-06-21T14:04:34+00:00",
+      "url": "https://github.com/Refloow/Refloow-Photo-Studio",
+      "discussion_url": "https://news.ycombinator.com/item?id=48619100"
+    },
+    {
+      "hn_id": 48619147,
+      "title": "Daily_stock_analysis: LLM-powered multi-market stock analysis system",
+      "score": 6,
+      "by": "vantareed",
+      "comments": 0,
+      "created_at": "2026-06-21T14:10:12+00:00",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "discussion_url": "https://news.ycombinator.com/item?id=48619147"
+    },
+    {
+      "hn_id": 48622061,
+      "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
+      "score": 4,
+      "by": "itshkrishna",
+      "comments": 1,
+      "created_at": "2026-06-21T19:57:54+00:00",
+      "url": "https://github.com/harihkk/Debug-Brief",
+      "discussion_url": "https://news.ycombinator.com/item?id=48622061"
+    },
+    {
+      "hn_id": 48619310,
+      "title": "Scion: A next-generation inter-domain routing architecture",
+      "score": 4,
+      "by": "dgellow",
+      "comments": 0,
+      "created_at": "2026-06-21T14:32:25+00:00",
+      "url": "https://docs.scion.org/en/latest/index.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=48619310"
     }
   ]
 }

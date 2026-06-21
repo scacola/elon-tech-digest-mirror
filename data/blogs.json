@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-20T22:15:34.773967+00:00",
-  "cutoff": "2026-06-13T22:15:21.233068+00:00",
+  "generated_at": "2026-06-21T22:19:20.880489+00:00",
+  "cutoff": "2026-06-14T22:19:00.056821+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     {
       "source": "blog_deepmind",
@@ -76,14 +76,6 @@
       "published_at": "2026-06-16T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "published_at": "2026-06-14T17:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
     },
     {
       "source": "blog_deepmind",
