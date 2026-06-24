@@ -1,34 +1,42 @@
 {
-  "generated_at": "2026-06-23T22:19:50.713708+00:00",
-  "cutoff": "2026-06-16T22:19:45.272438+00:00",
+  "generated_at": "2026-06-24T22:23:31.844116+00:00",
+  "cutoff": "2026-06-17T22:23:21.847204+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 11
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 12
+      "count": 10
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 4
+      "count": 3
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "published_at": "2026-06-24T06:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
+    },
     {
       "source": "blog_openai",
       "title": "Helping build shared standards for advanced AI",
@@ -55,19 +63,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "published_at": "2026-06-22T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
-    },
-    {
-      "source": "blog_openai",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "published_at": "2026-06-22T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "published_at": "2026-06-22T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
     },
     {
       "source": "blog_openai",
@@ -110,20 +118,28 @@
       "lead_paragraph": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
     },
     {
-      "source": "blog_openai",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "published_at": "2026-06-17T10:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "published_at": "2026-06-24T16:30:01+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "published_at": "2026-06-17T00:00:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "published_at": "2026-06-24T16:00:13+00:00",
       "author": "",
-      "lead_paragraph": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "published_at": "2026-06-24T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -190,38 +206,6 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "published_at": "2026-06-17T15:26:44+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "published_at": "2026-06-17T10:18:05+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "published_at": "2026-06-17T09:01:25+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "published_at": "2026-06-17T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Introducing Claude Tag",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
@@ -244,14 +228,6 @@
       "published_at": "2026-06-18T03:57:50+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem—with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Developing nuclear safeguards for AI through public-private partnership",
-      "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
-      "published_at": "2026-06-17T16:48:41+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an AI system that automatically categorizes content—that distinguishes between concerning and benign nuclear-related conversations with 96% accuracy in preliminary testing."
     }
   ]
 }
