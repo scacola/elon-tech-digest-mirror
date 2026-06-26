@@ -1,117 +1,137 @@
 {
-  "generated_at": "2026-06-25T22:25:30.724086+00:00",
-  "cutoff": "2026-06-24T22:25:21.534264+00:00",
+  "generated_at": "2026-06-26T22:19:55.730699+00:00",
+  "cutoff": "2026-06-25T22:19:46.591683+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 48674446,
-      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "score": 560,
-      "by": "alanwreath",
-      "comments": 295,
-      "created_at": "2026-06-25T14:58:50+00:00",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "discussion_url": "https://news.ycombinator.com/item?id=48674446"
+      "hn_id": 48689028,
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "score": 699,
+      "by": "minimaxir",
+      "comments": 423,
+      "created_at": "2026-06-26T17:06:55+00:00",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48689028"
     },
     {
-      "hn_id": 48672732,
-      "title": "Apple raises prices of MacBooks, iPads",
-      "score": 550,
-      "by": "virgildotcodes",
-      "comments": 803,
-      "created_at": "2026-06-25T13:02:56+00:00",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48672732"
+      "hn_id": 48690101,
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "score": 606,
+      "by": "alain94040",
+      "comments": 757,
+      "created_at": "2026-06-26T18:23:14+00:00",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48690101"
     },
     {
-      "hn_id": 48673787,
-      "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
-      "score": 167,
-      "by": "coloneltcb",
-      "comments": 76,
-      "created_at": "2026-06-25T14:16:17+00:00",
-      "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=48673787"
+      "hn_id": 48681687,
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "score": 347,
+      "by": "cuchoi",
+      "comments": 156,
+      "created_at": "2026-06-26T02:29:23+00:00",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48681687"
     },
     {
-      "hn_id": 48675435,
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "score": 143,
-      "by": "engomez",
-      "comments": 66,
-      "created_at": "2026-06-25T16:04:46+00:00",
-      "url": "https://github.com/inkeep/open-knowledge",
-      "discussion_url": "https://news.ycombinator.com/item?id=48675435"
+      "hn_id": 48685558,
+      "title": "Ultrasound imaging of the brain",
+      "score": 209,
+      "by": "rossant",
+      "comments": 79,
+      "created_at": "2026-06-26T11:51:11+00:00",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "discussion_url": "https://news.ycombinator.com/item?id=48685558"
     },
     {
-      "hn_id": 48668255,
-      "title": "The unbearable cheapness of open weight models",
-      "score": 136,
-      "by": "ddxv",
-      "comments": 127,
-      "created_at": "2026-06-25T02:51:29+00:00",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48668255"
+      "hn_id": 48688700,
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "score": 116,
+      "by": "adchurch",
+      "comments": 81,
+      "created_at": "2026-06-26T16:40:11+00:00",
+      "url": "https://github.com/workweave/router",
+      "discussion_url": "https://news.ycombinator.com/item?id=48688700"
     },
     {
-      "hn_id": 48667807,
-      "title": "Show HN: Bible as RAG Database",
-      "score": 120,
-      "by": "jacksonastone",
-      "comments": 74,
-      "created_at": "2026-06-25T01:42:55+00:00",
-      "url": "https://www.crosscanon.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48667807"
-    },
-    {
-      "hn_id": 48672779,
-      "title": "Political bias in AI: Where the AI models stand",
-      "score": 87,
-      "by": "mektrik",
-      "comments": 186,
-      "created_at": "2026-06-25T13:08:31+00:00",
-      "url": "https://trakkr.ai/bias",
-      "discussion_url": "https://news.ycombinator.com/item?id=48672779"
-    },
-    {
-      "hn_id": 48678873,
-      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+      "hn_id": 48692058,
+      "title": "The gap between open weights LLMs and closed source LLMs",
       "score": 40,
-      "by": "mfiguiere",
-      "comments": 24,
-      "created_at": "2026-06-25T20:36:05+00:00",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=48678873"
+      "by": "kkm",
+      "comments": 20,
+      "created_at": "2026-06-26T21:14:47+00:00",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "discussion_url": "https://news.ycombinator.com/item?id=48692058"
     },
     {
-      "hn_id": 48678494,
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "score": 22,
-      "by": "Quinner",
-      "comments": 18,
-      "created_at": "2026-06-25T20:00:35+00:00",
-      "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48678494"
+      "hn_id": 48690635,
+      "title": "The French are painting their windows with chalk to beat the heat",
+      "score": 15,
+      "by": "geox",
+      "comments": 7,
+      "created_at": "2026-06-26T19:05:57+00:00",
+      "url": "https://www.bbc.com/future/article/20260625-why-the-french-are-painting-chalk-on-their-windows",
+      "discussion_url": "https://news.ycombinator.com/item?id=48690635"
     },
     {
-      "hn_id": 48678671,
-      "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
-      "score": 17,
-      "by": "ilamont",
+      "hn_id": 48688202,
+      "title": "South Korea to Train All Active-Duty Soldiers to Operate Drones",
+      "score": 15,
+      "by": "bookofjoe",
       "comments": 4,
-      "created_at": "2026-06-25T20:17:48+00:00",
-      "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48678671"
+      "created_at": "2026-06-26T16:03:13+00:00",
+      "url": "https://www.wsj.com/world/asia/south-korea-to-train-all-active-duty-soldiers-to-operate-drones-28ddcceb",
+      "discussion_url": "https://news.ycombinator.com/item?id=48688202"
     },
     {
-      "hn_id": 48677039,
-      "title": "The AI Data-Center Boom Is Sparking a Third Wave of Inflation",
-      "score": 16,
-      "by": "gmays",
+      "hn_id": 48690074,
+      "title": "Murmur: Shared communication bus for your coding agents",
+      "score": 9,
+      "by": "handfuloflight",
+      "comments": 1,
+      "created_at": "2026-06-26T18:20:42+00:00",
+      "url": "https://github.com/instavm/murmur",
+      "discussion_url": "https://news.ycombinator.com/item?id=48690074"
+    },
+    {
+      "hn_id": 48689986,
+      "title": "Malware Insights: macOS Phexia Campaign",
+      "score": 7,
+      "by": "speckx",
       "comments": 0,
-      "created_at": "2026-06-25T17:58:44+00:00",
-      "url": "https://www.wsj.com/economy/the-data-center-boom-is-sparking-a-third-wave-of-inflation-926adc6e",
-      "discussion_url": "https://news.ycombinator.com/item?id=48677039"
+      "created_at": "2026-06-26T18:13:33+00:00",
+      "url": "https://cookie.engineer/weblog/articles/malware-insights-macos-phexia-campaign.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=48689986"
+    },
+    {
+      "hn_id": 48692157,
+      "title": "The Nationwide Backlash Against Cameras Watching Your Car",
+      "score": 7,
+      "by": "JumpCrisscross",
+      "comments": 1,
+      "created_at": "2026-06-26T21:23:56+00:00",
+      "url": "https://www.wsj.com/us-news/the-nationwide-backlash-against-cameras-watching-your-car-401a656a",
+      "discussion_url": "https://news.ycombinator.com/item?id=48692157"
+    },
+    {
+      "hn_id": 48689606,
+      "title": "ActPlane: Programmable OS-Level Policy Enforcement for Agent Harnesses",
+      "score": 4,
+      "by": "matt_d",
+      "comments": 0,
+      "created_at": "2026-06-26T17:46:39+00:00",
+      "url": "https://arxiv.org/abs/2606.25189",
+      "discussion_url": "https://news.ycombinator.com/item?id=48689606"
+    },
+    {
+      "hn_id": 48691358,
+      "title": "Chronic Pain: The Science of Unlearning Pain",
+      "score": 4,
+      "by": "Tomte",
+      "comments": 2,
+      "created_at": "2026-06-26T20:08:38+00:00",
+      "url": "https://www.zeit.de/gesundheit/2025-11/chronic-pain-causes-treatments-pain-perception-english",
+      "discussion_url": "https://news.ycombinator.com/item?id=48691358"
     }
   ]
 }
