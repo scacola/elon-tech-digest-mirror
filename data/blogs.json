@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-30T22:19:53.729975+00:00",
-  "cutoff": "2026-06-23T22:19:33.055543+00:00",
+  "generated_at": "2026-07-01T22:24:26.209306+00:00",
+  "cutoff": "2026-06-24T22:23:52.548486+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 9
+      "count": 11
     }
   ],
   "items": [
@@ -36,6 +36,14 @@
       "published_at": "2026-06-30T09:00:00+00:00",
       "author": "",
       "lead_paragraph": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_openai",
@@ -52,14 +60,6 @@
       "published_at": "2026-06-30T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
     },
     {
       "source": "blog_openai",
@@ -94,14 +94,6 @@
       "lead_paragraph": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "published_at": "2026-06-24T06:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -110,10 +102,10 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "published_at": "2026-06-24T16:30:01+00:00",
+      "source": "blog_huggingface",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "published_at": "2026-07-01T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -158,20 +150,28 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "published_at": "2026-06-24T16:00:13+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Redeploying Claude Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "published_at": "2026-07-01T19:40:52+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "published_at": "2026-06-24T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "published_at": "2026-07-01T19:34:43+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Claude Science, an AI workbench for scientists",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "published_at": "2026-07-01T17:37:46+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources."
     },
     {
       "source": "blog_anthropic",
@@ -180,14 +180,6 @@
       "published_at": "2026-06-30T21:20:30+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude Science, an AI workbench for scientists",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "published_at": "2026-06-30T18:43:57+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources."
     },
     {
       "source": "blog_anthropic",
