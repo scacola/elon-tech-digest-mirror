@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-01T22:24:26.209306+00:00",
-  "cutoff": "2026-06-24T22:23:52.548486+00:00",
+  "generated_at": "2026-07-02T22:14:02.344286+00:00",
+  "cutoff": "2026-06-25T22:13:13.917009+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     {
       "source": "blog_deepmind",
@@ -86,14 +86,6 @@
       "lead_paragraph": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
     },
     {
-      "source": "blog_openai",
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "published_at": "2026-06-25T02:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -151,6 +143,14 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published_at": "2026-07-02T21:43:49+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Redeploying Claude Fable 5",
       "url": "https://www.anthropic.com/news/redeploying-fable-5",
       "published_at": "2026-07-01T19:40:52+00:00",
@@ -172,14 +172,6 @@
       "published_at": "2026-07-01T17:37:46+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "published_at": "2026-06-30T21:20:30+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
     },
     {
       "source": "blog_anthropic",
