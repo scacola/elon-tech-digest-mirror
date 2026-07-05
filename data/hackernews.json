@@ -1,157 +1,187 @@
 {
-  "generated_at": "2026-07-04T22:04:43.641341+00:00",
-  "cutoff": "2026-07-03T22:04:33.340716+00:00",
+  "generated_at": "2026-07-05T22:07:28.734597+00:00",
+  "cutoff": "2026-07-04T22:07:17.601592+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 48783117,
-      "title": "The bottleneck might be the air in the room",
-      "score": 720,
-      "by": "gslin",
-      "comments": 415,
-      "created_at": "2026-07-04T06:32:28+00:00",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48783117"
-    },
-    {
-      "hn_id": 48782671,
-      "title": "Agentic coding notes from Galapagos Island",
-      "score": 158,
-      "by": "gm678",
-      "comments": 78,
-      "created_at": "2026-07-04T04:37:15+00:00",
-      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "discussion_url": "https://news.ycombinator.com/item?id=48782671"
-    },
-    {
-      "hn_id": 48781688,
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "score": 137,
-      "by": "MrBruh",
-      "comments": 57,
-      "created_at": "2026-07-04T00:57:44+00:00",
-      "url": "https://mrbruh.com/msicenter/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48781688"
-    },
-    {
-      "hn_id": 48781597,
-      "title": "Soatok's Informal Guide to Threat Models",
-      "score": 120,
-      "by": "zdw",
-      "comments": 41,
-      "created_at": "2026-07-04T00:35:49+00:00",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48781597"
-    },
-    {
-      "hn_id": 48787042,
-      "title": "No more than 100 000 faint satellites should orbit Earth",
+      "hn_id": 48790912,
+      "title": "The Log is the Agent",
       "score": 101,
-      "by": "Breadmaker",
-      "comments": 173,
-      "created_at": "2026-07-04T17:17:28+00:00",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48787042"
+      "by": "iacguy",
+      "comments": 45,
+      "created_at": "2026-07-05T02:57:38+00:00",
+      "url": "https://arxiv.org/abs/2605.21997",
+      "discussion_url": "https://news.ycombinator.com/item?id=48790912"
     },
     {
-      "hn_id": 48788361,
-      "title": "AI has torched the market for junior programmers",
-      "score": 76,
-      "by": "cdrnsf",
-      "comments": 134,
-      "created_at": "2026-07-04T19:50:08+00:00",
-      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48788361"
+      "hn_id": 48796817,
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "score": 95,
+      "by": "jonahbard",
+      "comments": 58,
+      "created_at": "2026-07-05T18:47:43+00:00",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "discussion_url": "https://news.ycombinator.com/item?id=48796817"
     },
     {
-      "hn_id": 48782890,
-      "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "score": 59,
-      "by": "networked",
-      "comments": 139,
-      "created_at": "2026-07-04T05:37:25+00:00",
-      "url": "https://www.hyperstitionai.com/unslop-results",
-      "discussion_url": "https://news.ycombinator.com/item?id=48782890"
-    },
-    {
-      "hn_id": 48786880,
-      "title": "Plein Air",
-      "score": 50,
-      "by": "bookofjoe",
-      "comments": 6,
-      "created_at": "2026-07-04T16:55:29+00:00",
-      "url": "https://art.joonas.wtf/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48786880"
-    },
-    {
-      "hn_id": 48780826,
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "score": 42,
-      "by": "E-Reverance",
+      "hn_id": 48790512,
+      "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+      "score": 87,
+      "by": "MaysonL",
       "comments": 8,
-      "created_at": "2026-07-03T22:35:47+00:00",
-      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48780826"
+      "created_at": "2026-07-05T01:23:11+00:00",
+      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48790512"
     },
     {
-      "hn_id": 48784662,
-      "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
-      "score": 39,
-      "by": "taubek",
-      "comments": 28,
-      "created_at": "2026-07-04T11:39:01+00:00",
-      "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48784662"
+      "hn_id": 48797916,
+      "title": "Reparaible and open source paper printer",
+      "score": 84,
+      "by": "bouh",
+      "comments": 24,
+      "created_at": "2026-07-05T21:03:06+00:00",
+      "url": "https://www.opentools.studio/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48797916"
     },
     {
-      "hn_id": 48788599,
-      "title": "Better Models: Worse Tools",
-      "score": 25,
-      "by": "leemoore",
-      "comments": 11,
-      "created_at": "2026-07-04T20:16:22+00:00",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48788599"
+      "hn_id": 48795174,
+      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "score": 81,
+      "by": "amichail",
+      "comments": 34,
+      "created_at": "2026-07-05T15:49:18+00:00",
+      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48795174"
     },
     {
-      "hn_id": 48787000,
-      "title": "Shipping post-quantum cryptography to Python – The Trail of Bits Blog",
-      "score": 4,
-      "by": "rbanffy",
+      "hn_id": 48795830,
+      "title": "A sociotechnical threat model for AI-driven smart home devices",
+      "score": 78,
+      "by": "dijksterhuis",
+      "comments": 58,
+      "created_at": "2026-07-05T17:05:57+00:00",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "discussion_url": "https://news.ycombinator.com/item?id=48795830"
+    },
+    {
+      "hn_id": 48794788,
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "score": 40,
+      "by": "matteocontrini",
+      "comments": 16,
+      "created_at": "2026-07-05T15:00:21+00:00",
+      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+      "discussion_url": "https://news.ycombinator.com/item?id=48794788"
+    },
+    {
+      "hn_id": 48797529,
+      "title": "Tripadvisor AI summaries give glowing reviews to dangerous hotels",
+      "score": 18,
+      "by": "jethronethro",
+      "comments": 7,
+      "created_at": "2026-07-05T20:09:34+00:00",
+      "url": "https://www.euronews.com/travel/2026/07/03/tripadvisor-ai-summaries-give-glowing-reviews-to-dangerous-hotels-consumer-watchdog-finds",
+      "discussion_url": "https://news.ycombinator.com/item?id=48797529"
+    },
+    {
+      "hn_id": 48797656,
+      "title": "Show HN: Osint tool that finds exposed files on domains",
+      "score": 14,
+      "by": "PatchRequest",
       "comments": 0,
-      "created_at": "2026-07-04T17:11:52+00:00",
-      "url": "https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48787000"
+      "created_at": "2026-07-05T20:24:37+00:00",
+      "url": "https://search.cerast-intelligence.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48797656"
     },
     {
-      "hn_id": 48786827,
-      "title": "OpenScience: Workbench for scientific research using custom LLMs",
-      "score": 4,
-      "by": "ignoramous",
+      "hn_id": 48797333,
+      "title": "The Mental Models I Use to Work with AI",
+      "score": 10,
+      "by": "young_mete",
       "comments": 0,
-      "created_at": "2026-07-04T16:50:25+00:00",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "discussion_url": "https://news.ycombinator.com/item?id=48786827"
+      "created_at": "2026-07-05T19:45:26+00:00",
+      "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
+      "discussion_url": "https://news.ycombinator.com/item?id=48797333"
     },
     {
-      "hn_id": 48789428,
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "score": 3,
-      "by": "maille",
+      "hn_id": 48796631,
+      "title": "Claude Played Me for a Fool",
+      "score": 7,
+      "by": "paulpauper",
+      "comments": 7,
+      "created_at": "2026-07-05T18:29:45+00:00",
+      "url": "https://ramblingafter.substack.com/p/claude-played-me-for-a-fool",
+      "discussion_url": "https://news.ycombinator.com/item?id=48796631"
+    },
+    {
+      "hn_id": 48797214,
+      "title": "The full stack of terminals explained",
+      "score": 6,
+      "by": "ludicrousdispla",
+      "comments": 0,
+      "created_at": "2026-07-05T19:31:22+00:00",
+      "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48797214"
+    },
+    {
+      "hn_id": 48797141,
+      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+      "score": 6,
+      "by": "randycupertino",
+      "comments": 0,
+      "created_at": "2026-07-05T19:22:51+00:00",
+      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48797141"
+    },
+    {
+      "hn_id": 48795956,
+      "title": "Show HN: Handoff – a verified context bridge between Claude Code sessions",
+      "score": 6,
+      "by": "ostik",
       "comments": 1,
-      "created_at": "2026-07-04T21:51:09+00:00",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "discussion_url": "https://news.ycombinator.com/item?id=48789428"
+      "created_at": "2026-07-05T17:18:16+00:00",
+      "url": "https://github.com/ostikwhy-blip/claude-code-handoff-skill",
+      "discussion_url": "https://news.ycombinator.com/item?id=48795956"
     },
     {
-      "hn_id": 48788613,
-      "title": "Possible evidence of literal prompt injection by Anthropic",
-      "score": 3,
-      "by": "theanonymousone",
+      "hn_id": 48797860,
+      "title": "The new Teddy Roosevelt library is a gorgeous extension of the prairie",
+      "score": 5,
+      "by": "eatonphil",
       "comments": 0,
-      "created_at": "2026-07-04T20:17:41+00:00",
-      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1unif51/possible_evidence_of_literal_prompt_injection_by/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48788613"
+      "created_at": "2026-07-05T20:55:17+00:00",
+      "url": "https://www.fastcompany.com/91568422/theodore-roosevelt-presidential-library",
+      "discussion_url": "https://news.ycombinator.com/item?id=48797860"
+    },
+    {
+      "hn_id": 48797756,
+      "title": "OpenAI is fast-tracking its own \"AI Agent Phone\" for 2027 to challenge iPhone",
+      "score": 5,
+      "by": "rmason",
+      "comments": 2,
+      "created_at": "2026-07-05T20:41:35+00:00",
+      "url": "https://old.reddit.com/r/OpenAI/comments/1unbqyd/openai_is_fasttracking_its_own_ai_agent_phone_for/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48797756"
+    },
+    {
+      "hn_id": 48796556,
+      "title": "The first programmer I know who was murdered in a targeted strike was Haitham",
+      "score": 3,
+      "by": "bhouston",
+      "comments": 0,
+      "created_at": "2026-07-05T18:22:27+00:00",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him",
+      "discussion_url": "https://news.ycombinator.com/item?id=48796556"
+    },
+    {
+      "hn_id": 48795611,
+      "title": "Hypernet – The Agent-First Web",
+      "score": 3,
+      "by": "akasuv",
+      "comments": 0,
+      "created_at": "2026-07-05T16:41:50+00:00",
+      "url": "https://hypernet.sh/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48795611"
     }
   ]
 }

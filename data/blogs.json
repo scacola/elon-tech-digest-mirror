@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-04T22:04:32.495226+00:00",
-  "cutoff": "2026-06-27T22:04:18.773437+00:00",
+  "generated_at": "2026-07-05T22:07:16.904496+00:00",
+  "cutoff": "2026-06-28T22:06:59.000093+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     {
       "source": "blog_deepmind",
@@ -68,14 +68,6 @@
       "published_at": "2026-06-29T07:00:00+00:00",
       "author": "",
       "lead_paragraph": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
-    },
-    {
-      "source": "blog_openai",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "published_at": "2026-06-28T17:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
     },
     {
       "source": "blog_deepmind",
