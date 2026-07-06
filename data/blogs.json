@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-05T22:07:16.904496+00:00",
-  "cutoff": "2026-06-28T22:06:59.000093+00:00",
+  "generated_at": "2026-07-06T22:19:05.932596+00:00",
+  "cutoff": "2026-06-29T22:18:29.510984+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     {
       "source": "blog_deepmind",
@@ -19,13 +19,13 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 7
+      "count": 8
     }
   ],
   "items": [
@@ -62,14 +62,6 @@
       "lead_paragraph": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
     },
     {
-      "source": "blog_openai",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "published_at": "2026-06-29T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
@@ -82,6 +74,30 @@
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "published_at": "2026-06-30T16:02:40+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "published_at": "2026-07-06T15:30:55+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "published_at": "2026-07-06T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -118,12 +134,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "published_at": "2026-06-29T18:02:48+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "published_at": "2026-07-06T19:00:35+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them."
     },
     {
       "source": "blog_anthropic",

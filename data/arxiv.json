@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T22:07:17.434813+00:00",
-  "cutoff": "2026-07-02T22:07:17.083604+00:00",
+  "generated_at": "2026-07-06T22:19:06.612847+00:00",
+  "cutoff": "2026-07-03T22:19:06.082550+00:00",
   "window_hours": 72,
   "items": [],
-  "error": "empty-after-filter: api_entries=120 dropped_old=120 cutoff=2026-07-02T22:07:17.083604+00:00"
+  "error": "empty-after-filter: api_entries=120 dropped_old=120 cutoff=2026-07-03T22:19:06.082550+00:00"
 }
