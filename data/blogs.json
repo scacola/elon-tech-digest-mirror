@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-07T22:15:52.414049+00:00",
-  "cutoff": "2026-06-30T22:15:18.972989+00:00",
+  "generated_at": "2026-07-08T22:14:06.197971+00:00",
+  "cutoff": "2026-07-01T22:13:41.489948+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 1
+      "count": 6
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,48 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 9
+      "count": 7
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "published_at": "2026-07-08T13:30:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "published_at": "2026-07-08T13:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "published_at": "2026-07-08T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "published_at": "2026-07-08T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+    },
     {
       "source": "blog_openai",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
@@ -38,10 +70,34 @@
       "lead_paragraph": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
     },
     {
+      "source": "blog_openai",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+    },
+    {
       "source": "blog_deepmind",
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
       "published_at": "2026-07-03T14:25:43+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "published_at": "2026-07-08T17:16:05+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "published_at": "2026-07-08T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -94,12 +150,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "published_at": "2026-07-01T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Golden Gate Claude",
+      "url": "https://www.anthropic.com/news/golden-gate-claude",
+      "published_at": "2026-07-08T20:08:28+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "When we turn up the strength of the “Golden Gate Bridge” feature, Claude’s responses begin to focus on the Golden Gate Bridge. For a short time, we’re making this model available for everyone to interact with."
     },
     {
       "source": "blog_anthropic",
@@ -148,30 +204,6 @@
       "published_at": "2026-07-03T10:14:45+00:00",
       "author": "Anthropic",
       "lead_paragraph": "What is and isn't blocked by our cyber classifiers, and a first draft of our jailbreak severity framework"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Redeploying Claude Fable 5",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "published_at": "2026-07-01T19:40:52+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "published_at": "2026-07-01T19:34:43+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude Science, an AI workbench for scientists",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "published_at": "2026-07-01T17:37:46+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources."
     }
   ]
 }
