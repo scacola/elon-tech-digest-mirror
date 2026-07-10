@@ -1,34 +1,42 @@
 {
-  "generated_at": "2026-07-09T22:29:23.388801+00:00",
-  "cutoff": "2026-07-02T22:28:17.015378+00:00",
+  "generated_at": "2026-07-10T22:11:17.985136+00:00",
+  "cutoff": "2026-07-03T22:10:19.824676+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 15
+      "count": 13
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "published_at": "2026-07-10T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
+    },
     {
       "source": "blog_openai",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -36,6 +44,14 @@
       "published_at": "2026-07-09T13:00:00+00:00",
       "author": "",
       "lead_paragraph": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
+    },
+    {
+      "source": "blog_openai",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
     },
     {
       "source": "blog_openai",
@@ -52,14 +68,6 @@
       "published_at": "2026-07-09T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "Details about the OpenAI Bio Bounty program"
-    },
-    {
-      "source": "blog_openai",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
     },
     {
       "source": "blog_openai",
@@ -110,10 +118,10 @@
       "lead_paragraph": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "published_at": "2026-07-03T14:25:43+00:00",
+      "source": "blog_huggingface",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "published_at": "2026-07-10T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -180,6 +188,14 @@
       "published_at": "2026-07-06T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "published_at": "2026-07-10T00:37:25+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "blog_anthropic",
@@ -276,30 +292,6 @@
       "published_at": "2026-07-06T19:00:35+00:00",
       "author": "Anthropic",
       "lead_paragraph": "The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude's extended thinking",
-      "url": "https://www.anthropic.com/news/visible-extended-thinking",
-      "published_at": "2026-07-03T10:15:42+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Discussing Claude's new thought process"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Announcing Anthropic's Responsible Scaling Policy",
-      "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
-      "published_at": "2026-07-03T10:15:38+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re publishing our Responsible Scaling Policy—a series of technical and organizational protocols that we’re adopting to help us manage the risks of developing increasingly capable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "published_at": "2026-07-03T10:14:45+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "What is and isn't blocked by our cyber classifiers, and a first draft of our jailbreak severity framework"
     }
   ]
 }
