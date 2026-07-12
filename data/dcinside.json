@@ -1,14 +1,14 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-07-11T21:55:44.214367+00:00",
+  "collected_at": "2026-07-12T21:57:47.212520+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
       "no": "1309047",
       "title": "페이블 유저는 '퐁퐁남'이다",
-      "recommend": 210,
-      "comments": 59,
+      "recommend": 217,
+      "comments": 60,
       "author": "ㅇㅇ",
       "created_at_raw": "07.11",
       "created_at": "2026-07-11T12:00:00+09:00",
@@ -21,7 +21,7 @@
     {
       "no": "1304550",
       "title": "시발 할말이없다",
-      "recommend": 125,
+      "recommend": 126,
       "comments": 60,
       "author": "ㅇㅇ",
       "created_at_raw": "07.10",
@@ -33,9 +33,23 @@
       ]
     },
     {
+      "no": "1311723",
+      "title": "속보) 알트만 : GPT 5.6 Sol이 세계 최고 모델인 이유",
+      "recommend": 116,
+      "comments": 64,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311723",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "no": "1307560",
       "title": "덧셈 벤치마크.....JPG",
-      "recommend": 96,
+      "recommend": 99,
       "comments": 70,
       "author": "ㅇㅇ",
       "created_at_raw": "07.10",
@@ -63,7 +77,7 @@
     {
       "no": "1303385",
       "title": "기습 민심테스트",
-      "recommend": 92,
+      "recommend": 93,
       "comments": 15,
       "author": "ㅇㅇ",
       "created_at_raw": "07.10",
@@ -89,23 +103,9 @@
       ]
     },
     {
-      "no": "1302308",
-      "title": "이씹년때문에 특이점 한달 밀린 것 같으면 개추 ㅋㅋ",
-      "recommend": 81,
-      "comments": 31,
-      "author": "StarChild",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1302308",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1308287",
       "title": "보빔 벤치",
-      "recommend": 78,
+      "recommend": 81,
       "comments": 44,
       "author": "ㅇㅇ",
       "created_at_raw": "07.10",
@@ -117,17 +117,31 @@
       ]
     },
     {
-      "no": "1301698",
-      "title": "AI 대부 오늘도 규제 여론에 맞써 싸우는 중",
-      "recommend": 76,
-      "comments": 53,
-      "author": "ㅇㅇ",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1301698",
+      "no": "1311601",
+      "title": "이미지 프롬프트 공유함 (내용 김)",
+      "recommend": 77,
+      "comments": 43,
+      "author": "봄바다",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311601",
       "body_excerpt": "",
       "tags": [
-        "ai"
+        "general"
+      ]
+    },
+    {
+      "no": "1303671",
+      "title": "오피셜) 병신",
+      "recommend": 66,
+      "comments": 16,
+      "author": "Al",
+      "created_at_raw": "07.10",
+      "created_at": "2026-07-10T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1303671",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -146,14 +160,28 @@
       ]
     },
     {
-      "no": "1303671",
-      "title": "오피셜) 병신",
+      "no": "1311696",
+      "title": "지금이야 코딩갤이지",
       "recommend": 65,
-      "comments": 16,
-      "author": "Al",
-      "created_at_raw": "07.10",
-      "created_at": "2026-07-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1303671",
+      "comments": 26,
+      "author": "배도기",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311696",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1310823",
+      "title": "지피티 6 유출 정보",
+      "recommend": 63,
+      "comments": 69,
+      "author": "영원히맑음",
+      "created_at_raw": "07.11",
+      "created_at": "2026-07-11T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1310823",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -176,7 +204,7 @@
     {
       "no": "1306956",
       "title": "5.6은 걍 시발 집념<<<이게 미침 끝까지 하려고 함",
-      "recommend": 60,
+      "recommend": 61,
       "comments": 22,
       "author": "ㅇㅇ",
       "created_at_raw": "07.10",
@@ -202,52 +230,10 @@
       ]
     },
     {
-      "no": "1310823",
-      "title": "지피티 6 유출 정보",
-      "recommend": 57,
-      "comments": 66,
-      "author": "영원히맑음",
-      "created_at_raw": "07.11",
-      "created_at": "2026-07-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1310823",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1311723",
-      "title": "속보) 알트만 : GPT 5.6 Sol이 세계 최고 모델인 이유",
-      "recommend": 56,
-      "comments": 43,
-      "author": "ㅇㅇ",
-      "created_at_raw": "01:40",
-      "created_at": "2026-07-12T01:40:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311723",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1302290",
-      "title": "ㅋㅋ 5.6 가지고 좋아하는거봐라",
-      "recommend": 56,
-      "comments": 32,
-      "author": "StarChild",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1302290",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1310099",
       "title": "존나 멋진 oai 연구원 트윗",
-      "recommend": 55,
-      "comments": 23,
+      "recommend": 56,
+      "comments": 24,
       "author": "ㅇㅇ",
       "created_at_raw": "07.11",
       "created_at": "2026-07-11T12:00:00+09:00",
@@ -261,12 +247,40 @@
     {
       "no": "1307775",
       "title": "데이터센터 속 천재들의 나라.twt",
-      "recommend": 54,
+      "recommend": 55,
       "comments": 19,
       "author": "ㅇㅇ",
       "created_at_raw": "07.10",
       "created_at": "2026-07-10T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1307775",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1313186",
+      "title": "항공게이 개발 근황",
+      "recommend": 52,
+      "comments": 40,
+      "author": "TMF대장",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1313186",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1310122",
+      "title": "한국 연구진이 1억도에서 핵융합 102초 성공",
+      "recommend": 50,
+      "comments": 47,
+      "author": "영원히맑음",
+      "created_at_raw": "07.11",
+      "created_at": "2026-07-11T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1310122",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -287,24 +301,10 @@
       ]
     },
     {
-      "no": "1311601",
-      "title": "이미지 프롬프트 공유함 (내용 김)",
-      "recommend": 48,
-      "comments": 26,
-      "author": "봄바다",
-      "created_at_raw": "00:48",
-      "created_at": "2026-07-12T00:48:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311601",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1308076",
       "title": "1.5억짜리 하나 계약함 오늘",
-      "recommend": 47,
-      "comments": 74,
+      "recommend": 49,
+      "comments": 76,
       "author": "capybara",
       "created_at_raw": "07.10",
       "created_at": "2026-07-10T12:00:00+09:00",
@@ -315,42 +315,28 @@
       ]
     },
     {
-      "no": "1310122",
-      "title": "한국 연구진이 1억도에서 핵융합 102초 성공",
-      "recommend": 47,
-      "comments": 43,
-      "author": "영원히맑음",
-      "created_at_raw": "07.11",
-      "created_at": "2026-07-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1310122",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1301256",
-      "title": "\"신\"",
-      "recommend": 46,
-      "comments": 5,
-      "author": "203847년걸리겠죠",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1301256",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1308196",
       "title": "무료모델 기준 벤치박치기 벤치마크 비교해봄",
-      "recommend": 45,
+      "recommend": 47,
       "comments": 24,
       "author": "ㅇㅇ",
       "created_at_raw": "07.10",
       "created_at": "2026-07-10T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1308196",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1306067",
+      "title": "GPT 보이스모드 5시간 사용 후 후기.",
+      "recommend": 45,
+      "comments": 21,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.10",
+      "created_at": "2026-07-10T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1306067",
       "body_excerpt": "",
       "tags": [
         "ai"
@@ -371,42 +357,42 @@
       ]
     },
     {
-      "no": "1300992",
-      "title": "갓본인의 앳코더 문제 비유법...jpg",
+      "no": "1310284",
+      "title": "GPT-5.6 3종 수능 일반/고난도 결과",
       "recommend": 44,
-      "comments": 31,
-      "author": "ㅇㅇ",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1300992",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1306067",
-      "title": "GPT 보이스모드 5시간 사용 후 후기.",
-      "recommend": 44,
-      "comments": 21,
-      "author": "ㅇㅇ",
-      "created_at_raw": "07.10",
-      "created_at": "2026-07-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1306067",
+      "comments": 36,
+      "author": "hehee9",
+      "created_at_raw": "07.11",
+      "created_at": "2026-07-11T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1310284",
       "body_excerpt": "",
       "tags": [
         "ai"
       ]
     },
     {
-      "no": "1300476",
-      "title": "타율 좋은 유출자 \"GPT-6 곧 나온다는 말 맞다\"",
+      "no": "1311560",
+      "title": "딸깍 시켜놓고 돌아오니까 이새끼 게임하고있네ㅋㅋㅋ",
+      "recommend": 44,
+      "comments": 19,
+      "author": "봄바다",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311560",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1309522",
+      "title": "속보) 룬붕이 : GPT 5.6은 초라한 장난감이 될 것",
       "recommend": 43,
-      "comments": 49,
-      "author": "초존도초",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1300476",
+      "comments": 43,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.11",
+      "created_at": "2026-07-11T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1309522",
       "body_excerpt": "",
       "tags": [
         "ai"
@@ -441,65 +427,9 @@
       ]
     },
     {
-      "no": "1310284",
-      "title": "GPT-5.6 3종 수능 일반/고난도 결과",
-      "recommend": 42,
-      "comments": 35,
-      "author": "hehee9",
-      "created_at_raw": "07.11",
-      "created_at": "2026-07-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1310284",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1301989",
-      "title": "KDI \"4년 뒤. 일자리 90%의 업무 90% AI로 대체 가능\"",
-      "recommend": 41,
-      "comments": 86,
-      "author": "행복한천국으로",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1301989",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1309522",
-      "title": "속보) 룬붕이 : GPT 5.6은 초라한 장난감이 될 것",
-      "recommend": 41,
-      "comments": 43,
-      "author": "ㅇㅇ",
-      "created_at_raw": "07.11",
-      "created_at": "2026-07-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1309522",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1301746",
-      "title": "대식좌 명언이나 보고 가라",
-      "recommend": 41,
-      "comments": 43,
-      "author": "XC",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1301746",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1309114",
       "title": "GPT 5.6 Sol Ultra, 1시간만에, 50년 수학 추측 풀다",
-      "recommend": 41,
+      "recommend": 42,
       "comments": 29,
       "author": "일본에간대학원생",
       "created_at_raw": "07.11",
@@ -511,17 +441,60 @@
       ]
     },
     {
-      "no": "1301418",
-      "title": "속보) 한명 그냥 게임하는중 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "no": "1311592",
+      "title": "드디어 내일 씹큰거온다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
       "recommend": 41,
-      "comments": 25,
+      "comments": 9,
       "author": "ㅇㅇ",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1301418",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311592",
       "body_excerpt": "",
       "tags": [
         "humor"
+      ]
+    },
+    {
+      "no": "1308187",
+      "title": "앤트로픽 정렬팀 리더의 GPT 5.6 출시 반응",
+      "recommend": 40,
+      "comments": 31,
+      "author": "늒네",
+      "created_at_raw": "07.10",
+      "created_at": "2026-07-10T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1308187",
+      "body_excerpt": "",
+      "tags": [
+        "claude",
+        "ai"
+      ]
+    },
+    {
+      "no": "1308651",
+      "title": "GPT 5.6 sol로 어릴적 햇던 플래시게임 한글화함",
+      "recommend": 40,
+      "comments": 24,
+      "author": "D4C서부",
+      "created_at_raw": "07.11",
+      "created_at": "2026-07-11T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1308651",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1302611",
+      "title": "내가 진짜 다른건 다 참겠는데",
+      "recommend": 40,
+      "comments": 10,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.10",
+      "created_at": "2026-07-10T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1302611",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -536,35 +509,6 @@
       "body_excerpt": "",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "no": "1308187",
-      "title": "앤트로픽 정렬팀 리더의 GPT 5.6 출시 반응",
-      "recommend": 39,
-      "comments": 31,
-      "author": "늒네",
-      "created_at_raw": "07.10",
-      "created_at": "2026-07-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1308187",
-      "body_excerpt": "",
-      "tags": [
-        "claude",
-        "ai"
-      ]
-    },
-    {
-      "no": "1301361",
-      "title": "E 문제 실제로는 더 빨리 풀은 상태였다함",
-      "recommend": 39,
-      "comments": 29,
-      "author": "늒네",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1301361",
-      "body_excerpt": "",
-      "tags": [
-        "general"
       ]
     },
     {
@@ -583,20 +527,6 @@
       ]
     },
     {
-      "no": "1302611",
-      "title": "내가 진짜 다른건 다 참겠는데",
-      "recommend": 39,
-      "comments": 10,
-      "author": "ㅇㅇ",
-      "created_at_raw": "07.10",
-      "created_at": "2026-07-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1302611",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1303096",
       "title": "5.6 sol 울트라 벤치",
       "recommend": 38,
@@ -605,20 +535,6 @@
       "created_at_raw": "07.10",
       "created_at": "2026-07-10T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1303096",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1301327",
-      "title": "근데 진짜 최고의 마케팅이다 인간 코딩1등 이기고",
-      "recommend": 38,
-      "comments": 14,
-      "author": "한남",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1301327",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -639,23 +555,9 @@
       ]
     },
     {
-      "no": "1308651",
-      "title": "GPT 5.6 sol로 어릴적 햇던 플래시게임 한글화함",
-      "recommend": 37,
-      "comments": 24,
-      "author": "D4C서부",
-      "created_at_raw": "07.11",
-      "created_at": "2026-07-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1308651",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1305969",
       "title": "속보) 세레브한 Sol 추정 영상",
-      "recommend": 36,
+      "recommend": 37,
       "comments": 28,
       "author": "ㅇㅇ",
       "created_at_raw": "07.10",
@@ -667,31 +569,101 @@
       ]
     },
     {
-      "no": "1301533",
-      "title": "이번 알고리즘 대회 결과 & 참가자 정보 간단 요약",
-      "recommend": 35,
-      "comments": 20,
-      "author": "hehee9",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1301533",
+      "no": "1313775",
+      "title": "개인적인 모델 체감 (7월)",
+      "recommend": 36,
+      "comments": 67,
+      "author": "일본에간대학원생",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1313775",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1312737",
+      "title": "게임에 썻던 돈들이 너무너무 아깝다",
+      "recommend": 36,
+      "comments": 56,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1312737",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1300110",
-      "title": "그록 4.5 총정리",
-      "recommend": 35,
-      "comments": 16,
-      "author": "초존도초",
-      "created_at_raw": "07.09",
-      "created_at": "2026-07-09T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1300110",
+      "no": "1311544",
+      "title": "5.6 솔, 슬더슬2 일일챌린지 클리어",
+      "recommend": 36,
+      "comments": 44,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311544",
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1311936",
+      "title": "안티 그래비티 사용중 영상이 전부 사라졌습니다",
+      "recommend": 35,
+      "comments": 71,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311936",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1311511",
+      "title": "5.6 코덱스 사용후기 (좋음)",
+      "recommend": 35,
+      "comments": 20,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311511",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1313505",
+      "title": "grok build 백도어 의심",
+      "recommend": 35,
+      "comments": 16,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.12",
+      "created_at": "2026-07-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1313505",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1310447",
+      "title": "속보) 티보 : 클로드 코드 꿀통 공유좀",
+      "recommend": 35,
+      "comments": 10,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.11",
+      "created_at": "2026-07-11T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1310447",
+      "body_excerpt": "",
+      "tags": [
+        "claude"
       ]
     },
     {
@@ -707,12 +679,41 @@
       "tags": [
         "general"
       ]
+    },
+    {
+      "no": "1311432",
+      "title": "찌라시) 올해 더 쩌는 모델들이 나올것",
+      "recommend": 34,
+      "comments": 23,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.11",
+      "created_at": "2026-07-11T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1311432",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1302481",
+      "title": "속보) 오픈AI 직원 트윗 ON",
+      "recommend": 33,
+      "comments": 14,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07.10",
+      "created_at": "2026-07-10T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1302481",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "openai"
+      ]
     }
   ],
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 172,
+    "dropped_old": 186,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }
