@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-12T21:58:21.587923+00:00",
-  "cutoff": "2026-07-05T21:57:47.576395+00:00",
+  "generated_at": "2026-07-13T22:03:00.649290+00:00",
+  "cutoff": "2026-07-06T22:02:12.380222+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 11
+      "count": 12
     },
     {
       "source": "blog_deepmind",
@@ -19,13 +19,13 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 13
+      "count": 15
     }
   ],
   "items": [
@@ -39,11 +39,27 @@
     },
     {
       "source": "blog_openai",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "published_at": "2026-07-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+    },
+    {
+      "source": "blog_openai",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "published_at": "2026-07-09T13:00:00+00:00",
       "author": "",
       "lead_paragraph": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
+    },
+    {
+      "source": "blog_openai",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Details about the OpenAI Bio Bounty program"
     },
     {
       "source": "blog_openai",
@@ -60,14 +76,6 @@
       "published_at": "2026-07-09T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Details about the OpenAI Bio Bounty program"
     },
     {
       "source": "blog_openai",
@@ -174,20 +182,28 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "published_at": "2026-07-06T15:30:55+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "published_at": "2026-07-13T15:46:07+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "blog_huggingface",
-      "title": "🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "published_at": "2026-07-06T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic Sydney office",
+      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "published_at": "2026-07-13T15:41:50+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published_at": "2026-07-13T15:41:00+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
     },
     {
       "source": "blog_anthropic",
@@ -284,14 +300,6 @@
       "published_at": "2026-07-06T23:32:01+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
-      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-      "published_at": "2026-07-06T19:00:35+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them."
     }
   ]
 }
