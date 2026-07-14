@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-13T22:03:00.649290+00:00",
-  "cutoff": "2026-07-06T22:02:12.380222+00:00",
+  "generated_at": "2026-07-14T22:04:23.779716+00:00",
+  "cutoff": "2026-07-07T22:03:48.888532+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 3
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,30 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "published_at": "2026-07-14T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+    },
     {
       "source": "blog_openai",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
@@ -55,14 +79,6 @@
     },
     {
       "source": "blog_openai",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Details about the OpenAI Bio Bounty program"
-    },
-    {
-      "source": "blog_openai",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "url": "https://openai.com/index/gpt-5-6",
       "published_at": "2026-07-09T10:00:00+00:00",
@@ -76,6 +92,14 @@
       "published_at": "2026-07-09T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
+    },
+    {
+      "source": "blog_openai",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Details about the OpenAI Bio Bounty program"
     },
     {
       "source": "blog_openai",
@@ -110,20 +134,12 @@
       "lead_paragraph": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
     },
     {
-      "source": "blog_openai",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "published_at": "2026-07-07T00:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "published_at": "2026-07-13T12:37:28+00:00",
       "author": "",
-      "lead_paragraph": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "published_at": "2026-07-07T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+      "lead_paragraph": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
     },
     {
       "source": "blog_huggingface",
@@ -150,36 +166,20 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "published_at": "2026-07-07T21:15:33+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "published_at": "2026-07-14T17:50:04+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "published_at": "2026-07-07T15:20:06+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "published_at": "2026-07-07T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "published_at": "2026-07-07T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "published_at": "2026-07-14T16:33:29+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
     },
     {
       "source": "blog_anthropic",
@@ -284,22 +284,6 @@
       "published_at": "2026-07-08T22:23:46+00:00",
       "author": "Anthropic",
       "lead_paragraph": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety of research directions aimed at better understanding, evaluating, and aligning AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "published_at": "2026-07-07T17:07:52+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Building safeguards for Claude",
-      "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
-      "published_at": "2026-07-06T23:32:01+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ]
 }
