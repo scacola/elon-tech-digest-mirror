@@ -1,34 +1,50 @@
 {
-  "generated_at": "2026-07-15T22:07:46.052068+00:00",
-  "cutoff": "2026-07-08T22:07:19.942910+00:00",
+  "generated_at": "2026-07-16T22:08:57.858747+00:00",
+  "cutoff": "2026-07-09T22:08:15.372128+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 11
+      "count": 9
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 8
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 15
+      "count": 8
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published_at": "2026-07-16T16:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+    },
     {
       "source": "blog_openai",
       "title": "The US is advancing AI safety through state and federal action",
@@ -86,36 +102,12 @@
       "lead_paragraph": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
     },
     {
-      "source": "blog_openai",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "published_at": "2026-07-09T13:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published_at": "2026-07-16T09:30:42+00:00",
       "author": "",
-      "lead_paragraph": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Details about the OpenAI Bio Bounty program"
+      "lead_paragraph": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
     },
     {
       "source": "blog_deepmind",
@@ -124,6 +116,30 @@
       "published_at": "2026-07-13T12:37:28+00:00",
       "author": "",
       "lead_paragraph": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "published_at": "2026-07-16T16:01:21+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "published_at": "2026-07-16T11:49:48+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -164,6 +180,14 @@
       "published_at": "2026-07-10T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Introducing Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "published_at": "2026-07-15T22:12:10+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Claude Tag is a new way for teams to work with Claude."
     },
     {
       "source": "blog_anthropic",
@@ -218,70 +242,6 @@
       "title": "UST is bringing Claude to physical AI",
       "url": "https://www.anthropic.com/news/ust-claude",
       "published_at": "2026-07-10T00:37:25+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Golden Gate Claude",
-      "url": "https://www.anthropic.com/news/golden-gate-claude",
-      "published_at": "2026-07-09T20:02:16+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "When we turn up the strength of the “Golden Gate Bridge” feature, Claude’s responses begin to focus on the Golden Gate Bridge. For a short time, we’re making this model available for everyone to interact with."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "The Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
-      "published_at": "2026-07-09T19:21:35+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "published_at": "2026-07-09T18:07:20+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "published_at": "2026-07-09T17:28:23+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We're asking the public for their hardest questions about AI, and committing to show our work as we address them."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "A new way to reflect on how you use Claude",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "published_at": "2026-07-09T14:22:03+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Progress from our Frontier Red Team",
-      "url": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
-      "published_at": "2026-07-08T22:43:38+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "In this post, we are sharing what we have learned about the trajectory of potential national security risks from frontier AI models, along with some of our thoughts about challenges and best practices in evaluating these risks."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Frontier threats red teaming for AI safety",
-      "url": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
-      "published_at": "2026-07-08T22:42:17+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Charting a path to AI accountability",
-      "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
-      "published_at": "2026-07-08T22:41:45+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
