@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T22:08:57.858747+00:00",
-  "cutoff": "2026-07-09T22:08:15.372128+00:00",
+  "generated_at": "2026-07-17T21:59:09.100851+00:00",
+  "cutoff": "2026-07-10T21:58:39.278374+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,24 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 8
+      "count": 7
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published_at": "2026-07-17T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+    },
     {
       "source": "blog_openai",
       "title": "Why teens deserve access to safe AI",
@@ -86,22 +94,6 @@
       "lead_paragraph": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     },
     {
-      "source": "blog_openai",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "published_at": "2026-07-10T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "published_at": "2026-07-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Our approach to bioresilience",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
@@ -119,9 +111,9 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "published_at": "2026-07-16T16:01:21+00:00",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published_at": "2026-07-17T15:57:54+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -170,14 +162,6 @@
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
       "url": "https://huggingface.co/blog/real-world-voiceeq",
       "published_at": "2026-07-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "published_at": "2026-07-10T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -236,14 +220,6 @@
       "published_at": "2026-07-13T15:41:00+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "UST is bringing Claude to physical AI",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "published_at": "2026-07-10T00:37:25+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ]
 }
