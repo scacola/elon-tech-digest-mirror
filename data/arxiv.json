@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T21:59:09.848867+00:00",
-  "cutoff": "2026-07-14T21:59:09.229907+00:00",
+  "generated_at": "2026-07-18T21:57:40.616587+00:00",
+  "cutoff": "2026-07-15T21:57:40.191224+00:00",
   "window_hours": 72,
   "items": [
     {
@@ -825,7 +825,7 @@
       "authors": [
         "Emmanuel Jeannot"
       ],
-      "abstract": "Artificial intelligence is transforming scientific research - not merely as a more powerful instrument, but as an autonomous participant in the research cycle itself. This transition constitutes, in the most precise sense of the term, the industrialization of research: a shift from a craft model, in which knowledge, method, and judgment are embedded in the researcher, to a pipeline model, in which these steps are decomposed, automated, and supervised. The US Department of Energy's Genesis Mission is the most ambitious current instantiation of this shift, but the fundamental questions it raises extend far beyond any single program. This essay examines seven such questions: the erosion of the intergenerational transmission of scientific competence; the growing opacity of AI-generated theorie",
+      "abstract": "Artificial intelligence is transforming scientific research -- not merely as a more powerful instrument, but as an autonomous participant in the research cycle itself. This transition constitutes, in the most precise sense of the term, the industrialization of research: a shift from a craft model, in which knowledge, method, and judgment are embedded in the researcher, to a pipeline model, in which these steps are decomposed, automated, and supervised. The US Department of Energy's Genesis Mission is the most ambitious current instantiation of this shift, but the fundamental questions it raises extend far beyond any single program. This essay examines seven such questions: the erosion of the intergenerational transmission of scientific competence; the growing opacity of AI-generated theori",
       "primary_category": "cs.AI",
       "submitted_at": "2026-07-16T16:14:12Z",
       "updated_at": "2026-07-16T16:14:12Z",
