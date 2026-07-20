@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-19T21:59:56.872366+00:00",
-  "cutoff": "2026-07-12T21:59:16.456029+00:00",
+  "generated_at": "2026-07-20T22:06:30.844251+00:00",
+  "cutoff": "2026-07-13T22:06:08.271384+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "source": "blog_huggingface",
@@ -25,10 +25,18 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 7
+      "count": 5
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published_at": "2026-07-20T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+    },
     {
       "source": "blog_openai",
       "title": "A scorecard for the AI age",
@@ -102,18 +110,10 @@
       "lead_paragraph": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "published_at": "2026-07-13T12:37:28+00:00",
-      "author": "",
-      "lead_paragraph": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
-    },
-    {
       "source": "blog_huggingface",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "published_at": "2026-07-17T15:57:54+00:00",
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "published_at": "2026-07-20T15:58:51+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -167,6 +167,14 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "published_at": "2026-07-20T17:36:28+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding"
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Introducing Claude Tag",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
       "published_at": "2026-07-15T22:12:10+00:00",
@@ -196,30 +204,6 @@
       "published_at": "2026-07-15T09:21:26+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude for Creative Work",
-      "url": "https://www.anthropic.com/news/claude-for-creative-work",
-      "published_at": "2026-07-13T15:46:07+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic Sydney office",
-      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-      "published_at": "2026-07-13T15:41:50+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "published_at": "2026-07-13T15:41:00+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
     }
   ]
 }
