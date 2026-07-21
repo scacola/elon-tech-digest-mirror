@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T22:06:30.844251+00:00",
-  "cutoff": "2026-07-13T22:06:08.271384+00:00",
+  "generated_at": "2026-07-21T22:08:00.906221+00:00",
+  "cutoff": "2026-07-14T22:07:42.968370+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -13,13 +13,13 @@
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 1
+      "count": 3
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,30 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "published_at": "2026-07-21T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "published_at": "2026-07-21T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+    },
+    {
+      "source": "blog_openai",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "published_at": "2026-07-21T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+    },
     {
       "source": "blog_openai",
       "title": "Safety and alignment in an era of long-horizon models",
@@ -78,28 +102,20 @@
       "lead_paragraph": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
     },
     {
-      "source": "blog_openai",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "published_at": "2026-07-14T10:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "published_at": "2026-07-21T15:16:30+00:00",
       "author": "",
-      "lead_paragraph": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+      "lead_paragraph": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
     },
     {
-      "source": "blog_openai",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published_at": "2026-07-14T00:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "published_at": "2026-07-17T15:00:11+00:00",
       "author": "",
-      "lead_paragraph": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+      "lead_paragraph": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
     },
     {
       "source": "blog_deepmind",
@@ -111,9 +127,17 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "published_at": "2026-07-20T15:58:51+00:00",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "published_at": "2026-07-21T20:00:27+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "published_at": "2026-07-21T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },

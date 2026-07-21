@@ -1,257 +1,277 @@
 {
-  "generated_at": "2026-07-20T22:06:47.635871+00:00",
-  "cutoff": "2026-07-19T22:06:31.792889+00:00",
+  "generated_at": "2026-07-21T22:08:11.896599+00:00",
+  "cutoff": "2026-07-20T22:08:01.597571+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 48979269,
-      "title": "China’s open-weights AI strategy is winning",
-      "score": 811,
-      "by": "benwerd",
-      "comments": 666,
-      "created_at": "2026-07-20T14:21:47+00:00",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48979269"
+      "hn_id": 48993414,
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "score": 543,
+      "by": "logickkk1",
+      "comments": 436,
+      "created_at": "2026-07-21T15:17:16+00:00",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48993414"
     },
     {
-      "hn_id": 48973869,
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "score": 643,
-      "by": "loubbrad",
-      "comments": 409,
-      "created_at": "2026-07-20T02:51:16+00:00",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "discussion_url": "https://news.ycombinator.com/item?id=48973869"
+      "hn_id": 48989701,
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "score": 521,
+      "by": "ilreb",
+      "comments": 207,
+      "created_at": "2026-07-21T08:44:23+00:00",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "discussion_url": "https://news.ycombinator.com/item?id=48989701"
     },
     {
-      "hn_id": 48976846,
-      "title": "Airport Simulator",
-      "score": 616,
-      "by": "apunen",
-      "comments": 119,
-      "created_at": "2026-07-20T10:30:40+00:00",
-      "url": "https://airport.apunen.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48976846"
-    },
-    {
-      "hn_id": 48975665,
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "score": 365,
-      "by": "infosecau",
-      "comments": 206,
-      "created_at": "2026-07-20T08:13:36+00:00",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48975665"
-    },
-    {
-      "hn_id": 48980019,
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "score": 250,
-      "by": "cl42",
-      "comments": 247,
-      "created_at": "2026-07-20T15:13:42+00:00",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48980019"
-    },
-    {
-      "hn_id": 48978835,
-      "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
-      "score": 220,
-      "by": "DemiGuru",
-      "comments": 52,
-      "created_at": "2026-07-20T13:47:13+00:00",
-      "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
-      "discussion_url": "https://news.ycombinator.com/item?id=48978835"
-    },
-    {
-      "hn_id": 48976682,
-      "title": "Airbus Takes Flight from AWS",
-      "score": 184,
-      "by": "bbg2401",
-      "comments": 157,
-      "created_at": "2026-07-20T10:12:22+00:00",
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "discussion_url": "https://news.ycombinator.com/item?id=48976682"
-    },
-    {
-      "hn_id": 48981206,
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "score": 177,
-      "by": "dopamine_daddy",
-      "comments": 129,
-      "created_at": "2026-07-20T16:36:36+00:00",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "discussion_url": "https://news.ycombinator.com/item?id=48981206"
-    },
-    {
-      "hn_id": 48974325,
-      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-      "score": 138,
-      "by": "Vineeth147",
-      "comments": 28,
-      "created_at": "2026-07-20T04:24:48+00:00",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "discussion_url": "https://news.ycombinator.com/item?id=48974325"
-    },
-    {
-      "hn_id": 48982681,
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "score": 113,
-      "by": "aratahikaru5",
-      "comments": 44,
-      "created_at": "2026-07-20T18:16:08+00:00",
-      "url": "https://blaizzy.github.io/nativ/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48982681"
-    },
-    {
-      "hn_id": 48982535,
-      "title": "Agent swarms and the new model economics",
-      "score": 71,
-      "by": "jlaneve",
-      "comments": 32,
-      "created_at": "2026-07-20T18:06:13+00:00",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "discussion_url": "https://news.ycombinator.com/item?id=48982535"
-    },
-    {
-      "hn_id": 48979475,
-      "title": "Controlling Reasoning Effort in LLMs",
-      "score": 58,
-      "by": "ibobev",
-      "comments": 3,
-      "created_at": "2026-07-20T14:35:19+00:00",
-      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-      "discussion_url": "https://news.ycombinator.com/item?id=48979475"
-    },
-    {
-      "hn_id": 48980238,
-      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "score": 51,
-      "by": "simonebrunozzi",
-      "comments": 87,
-      "created_at": "2026-07-20T15:28:32+00:00",
-      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-      "discussion_url": "https://news.ycombinator.com/item?id=48980238"
-    },
-    {
-      "hn_id": 48981136,
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "score": 46,
-      "by": "alexsouthmayd",
-      "comments": 71,
-      "created_at": "2026-07-20T16:32:10+00:00",
-      "url": "https://news.ycombinator.com/item?id=48981136",
-      "discussion_url": "https://news.ycombinator.com/item?id=48981136"
-    },
-    {
-      "hn_id": 48978192,
-      "title": "Soofi – Sovereign Open Source Foundation Models",
-      "score": 46,
-      "by": "Fake4d",
-      "comments": 14,
-      "created_at": "2026-07-20T12:52:03+00:00",
-      "url": "https://www.soofi.info/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48978192"
-    },
-    {
-      "hn_id": 48978388,
-      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-      "score": 45,
-      "by": "hasheddan",
-      "comments": 1,
-      "created_at": "2026-07-20T13:11:12+00:00",
-      "url": "https://yang-ai-lab.github.io/Inertia-1/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48978388"
-    },
-    {
-      "hn_id": 48977128,
-      "title": "Who's Afraid of Chinese Models?",
-      "score": 29,
+      "hn_id": 48997548,
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "score": 375,
       "by": "mfiguiere",
+      "comments": 235,
+      "created_at": "2026-07-21T20:09:52+00:00",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48997548"
+    },
+    {
+      "hn_id": 48996571,
+      "title": "Advertise in ChatGPT",
+      "score": 220,
+      "by": "montecarl",
+      "comments": 229,
+      "created_at": "2026-07-21T18:58:44+00:00",
+      "url": "https://ads.openai.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48996571"
+    },
+    {
+      "hn_id": 48995213,
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "score": 173,
+      "by": "ryanmerket",
+      "comments": 162,
+      "created_at": "2026-07-21T17:14:06+00:00",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "discussion_url": "https://news.ycombinator.com/item?id=48995213"
+    },
+    {
+      "hn_id": 48993059,
+      "title": "Claude Is Not a Compiler",
+      "score": 138,
+      "by": "bryanmikaelian",
+      "comments": 150,
+      "created_at": "2026-07-21T14:49:18+00:00",
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "discussion_url": "https://news.ycombinator.com/item?id=48993059"
+    },
+    {
+      "hn_id": 48996197,
+      "title": "AI makes programming differently difficult",
+      "score": 129,
+      "by": "tchalla",
+      "comments": 107,
+      "created_at": "2026-07-21T18:30:21+00:00",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48996197"
+    },
+    {
+      "hn_id": 48995409,
+      "title": "Firefox Containers Preview",
+      "score": 116,
+      "by": "twapi",
+      "comments": 44,
+      "created_at": "2026-07-21T17:27:59+00:00",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48995409"
+    },
+    {
+      "hn_id": 48993637,
+      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "score": 108,
+      "by": "arto",
+      "comments": 20,
+      "created_at": "2026-07-21T15:31:41+00:00",
+      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48993637"
+    },
+    {
+      "hn_id": 48995074,
+      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+      "score": 84,
+      "by": "surprisetalk",
+      "comments": 56,
+      "created_at": "2026-07-21T17:03:18+00:00",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "discussion_url": "https://news.ycombinator.com/item?id=48995074"
+    },
+    {
+      "hn_id": 48987831,
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "score": 69,
+      "by": "sudo_cowsay",
+      "comments": 53,
+      "created_at": "2026-07-21T03:52:05+00:00",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48987831"
+    },
+    {
+      "hn_id": 48996652,
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "score": 59,
+      "by": "BeetleB",
+      "comments": 45,
+      "created_at": "2026-07-21T19:04:39+00:00",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "discussion_url": "https://news.ycombinator.com/item?id=48996652"
+    },
+    {
+      "hn_id": 48996760,
+      "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+      "score": 38,
+      "by": "arto",
       "comments": 9,
-      "created_at": "2026-07-20T11:05:58+00:00",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48977128"
+      "created_at": "2026-07-21T19:11:27+00:00",
+      "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+      "discussion_url": "https://news.ycombinator.com/item?id=48996760"
     },
     {
-      "hn_id": 48982155,
-      "title": "Inhaling high-dose CO2 clears Alzheimer's proteins from the brain",
-      "score": 27,
-      "by": "leumon",
-      "comments": 10,
-      "created_at": "2026-07-20T17:43:42+00:00",
-      "url": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48982155"
+      "hn_id": 48996236,
+      "title": "AI Agent – TRMNL",
+      "score": 32,
+      "by": "joeyespo",
+      "comments": 18,
+      "created_at": "2026-07-21T18:32:21+00:00",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "discussion_url": "https://news.ycombinator.com/item?id=48996236"
     },
     {
-      "hn_id": 48983108,
-      "title": "Safety and alignment in an era of long-horizon models",
+      "hn_id": 48995134,
+      "title": "I built a page that tells you what AI model your laptop can run",
+      "score": 23,
+      "by": "kumarski",
+      "comments": 20,
+      "created_at": "2026-07-21T17:08:40+00:00",
+      "url": "https://localsotabenchmark.engineersf.dev/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48995134"
+    },
+    {
+      "hn_id": 48994984,
+      "title": "Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
       "score": 18,
-      "by": "Wingy",
-      "comments": 4,
-      "created_at": "2026-07-20T18:43:55+00:00",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48983108"
-    },
-    {
-      "hn_id": 48982411,
-      "title": "AI, Vim, and the Illusion of Flow",
-      "score": 14,
-      "by": "speckx",
-      "comments": 2,
-      "created_at": "2026-07-20T17:59:42+00:00",
-      "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
-      "discussion_url": "https://news.ycombinator.com/item?id=48982411"
-    },
-    {
-      "hn_id": 48978961,
-      "title": "Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
-      "score": 11,
-      "by": "dawndrain",
-      "comments": 2,
-      "created_at": "2026-07-20T13:57:44+00:00",
-      "url": "https://github.com/dawndrain/movie-gen",
-      "discussion_url": "https://news.ycombinator.com/item?id=48978961"
-    },
-    {
-      "hn_id": 48979263,
-      "title": "Model 4: Our best model yet for local dictation and cleanup on Mac",
-      "score": 10,
-      "by": "oakst",
+      "by": "haz3-jolt",
       "comments": 1,
-      "created_at": "2026-07-20T14:21:29+00:00",
-      "url": "https://www.epilude.com/news/introducing-model-4",
-      "discussion_url": "https://news.ycombinator.com/item?id=48979263"
+      "created_at": "2026-07-21T16:57:30+00:00",
+      "url": "https://github.com/Observal/Observal",
+      "discussion_url": "https://news.ycombinator.com/item?id=48994984"
     },
     {
-      "hn_id": 48980678,
-      "title": "I loved my AI assistant. My friends did not",
-      "score": 6,
-      "by": "mnky9800n",
-      "comments": 7,
-      "created_at": "2026-07-20T15:59:21+00:00",
-      "url": "https://www.lowimpactfruit.com/p/i-loved-my-ai-assistant-my-friends",
-      "discussion_url": "https://news.ycombinator.com/item?id=48980678"
+      "hn_id": 48998404,
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "score": 17,
+      "by": "hershyb_",
+      "comments": 5,
+      "created_at": "2026-07-21T21:13:20+00:00",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "discussion_url": "https://news.ycombinator.com/item?id=48998404"
     },
     {
-      "hn_id": 48984591,
-      "title": "South Korean SMR-powered container ship design certified",
-      "score": 4,
-      "by": "eatonphil",
-      "comments": 0,
-      "created_at": "2026-07-20T20:39:22+00:00",
-      "url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified",
-      "discussion_url": "https://news.ycombinator.com/item?id=48984591"
+      "hn_id": 48997495,
+      "title": "It was OpenAI that accidentally breached Hugging Face",
+      "score": 17,
+      "by": "seatac76",
+      "comments": 5,
+      "created_at": "2026-07-21T20:06:14+00:00",
+      "url": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
+      "discussion_url": "https://news.ycombinator.com/item?id=48997495"
     },
     {
-      "hn_id": 48984725,
-      "title": "Potential AI futures would play out in the current tax system",
-      "score": 3,
-      "by": "atlasunshrugged",
+      "hn_id": 48995030,
+      "title": "Yubikey 5.8: Verified Authorization for the New Era of Identity and AI",
+      "score": 16,
+      "by": "dblitt",
+      "comments": 9,
+      "created_at": "2026-07-21T17:00:03+00:00",
+      "url": "https://www.yubico.com/resource/whats-new-yubikey-5-8/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48995030"
+    },
+    {
+      "hn_id": 48994611,
+      "title": "Oh-my-pi: A coding agent with the IDE wired in",
+      "score": 12,
+      "by": "lwhsiao",
+      "comments": 1,
+      "created_at": "2026-07-21T16:32:45+00:00",
+      "url": "https://omp.sh/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48994611"
+    },
+    {
+      "hn_id": 48995671,
+      "title": "Show HN: Language Model Builder (an app to learn about and build models)",
+      "score": 11,
+      "by": "felixrieseberg",
       "comments": 2,
-      "created_at": "2026-07-20T20:52:09+00:00",
-      "url": "https://budgetlab.yale.edu/research/how-potential-ai-futures-would-play-out-current-tax-system",
-      "discussion_url": "https://news.ycombinator.com/item?id=48984725"
+      "created_at": "2026-07-21T17:48:35+00:00",
+      "url": "https://languagemodelbuilder.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48995671"
+    },
+    {
+      "hn_id": 48996972,
+      "title": "Judge approves $1.5B Anthropic settlement, reduces class counsel fees to 6.8% [pdf]",
+      "score": 9,
+      "by": "ilamont",
+      "comments": 0,
+      "created_at": "2026-07-21T19:25:50+00:00",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.434709/gov.uscourts.cand.434709.680.0_4.pdf",
+      "discussion_url": "https://news.ycombinator.com/item?id=48996972"
+    },
+    {
+      "hn_id": 48992699,
+      "title": "Show HN: Anypost – transactional and broadcast email API, 8¢ per 1k",
+      "score": 8,
+      "by": "dancablam",
+      "comments": 2,
+      "created_at": "2026-07-21T14:18:01+00:00",
+      "url": "https://anypost.com",
+      "discussion_url": "https://news.ycombinator.com/item?id=48992699"
+    },
+    {
+      "hn_id": 48998173,
+      "title": "Cisco Antares: A New Family of Cheap, Open-Source, Compact Security AI Models",
+      "score": 7,
+      "by": "CrankyBear",
+      "comments": 0,
+      "created_at": "2026-07-21T20:55:28+00:00",
+      "url": "https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/",
+      "discussion_url": "https://news.ycombinator.com/item?id=48998173"
+    },
+    {
+      "hn_id": 48995203,
+      "title": "Where people and agents work together",
+      "score": 6,
+      "by": "TimCTRL",
+      "comments": 2,
+      "created_at": "2026-07-21T17:13:38+00:00",
+      "url": "https://buzz.xyz",
+      "discussion_url": "https://news.ycombinator.com/item?id=48995203"
+    },
+    {
+      "hn_id": 48994508,
+      "title": "LLM-Based Hierarchical Topic Modeling Tool",
+      "score": 5,
+      "by": "Tryhard3141",
+      "comments": 0,
+      "created_at": "2026-07-21T16:26:11+00:00",
+      "url": "https://github.com/Tryhard-cs/LLM-Hierarchical-Topic-Modeling",
+      "discussion_url": "https://news.ycombinator.com/item?id=48994508"
+    },
+    {
+      "hn_id": 48994561,
+      "title": "We scanned 1,868 AI-built apps for production readiness, and audited our scanner",
+      "score": 5,
+      "by": "nathanghart",
+      "comments": 0,
+      "created_at": "2026-07-21T16:29:22+00:00",
+      "url": "https://pathtoship.com/blog/state-of-ai-built-code",
+      "discussion_url": "https://news.ycombinator.com/item?id=48994561"
     }
   ]
 }
