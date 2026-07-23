@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T22:09:27.563401+00:00",
-  "cutoff": "2026-07-15T22:08:33.974127+00:00",
+  "generated_at": "2026-07-23T22:11:04.183416+00:00",
+  "cutoff": "2026-07-16T22:09:48.239476+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -13,13 +13,13 @@
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,14 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+    },
     {
       "source": "blog_openai",
       "title": "Building AI infrastructure with the Effingham County community",
@@ -60,6 +68,14 @@
       "published_at": "2026-07-22T05:30:00+00:00",
       "author": "",
       "lead_paragraph": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+    },
+    {
+      "source": "blog_openai",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
     },
     {
       "source": "blog_openai",
@@ -102,22 +118,6 @@
       "lead_paragraph": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
     },
     {
-      "source": "blog_openai",
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "published_at": "2026-07-16T16:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "published_at": "2026-07-16T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -142,12 +142,12 @@
       "lead_paragraph": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "published_at": "2026-07-16T09:30:42+00:00",
+      "source": "blog_huggingface",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "published_at": "2026-07-23T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -166,20 +166,28 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "published_at": "2026-07-16T11:49:48+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "[dev] Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work-dev",
+      "published_at": "2026-07-23T20:11:00+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "published_at": "2026-07-16T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Introducing Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published_at": "2026-07-23T04:19:56+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Introducing Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "published_at": "2026-07-23T04:09:31+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "blog_anthropic",
@@ -212,22 +220,6 @@
       "published_at": "2026-07-22T01:28:45+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Opus 4.5",
-      "url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "published_at": "2026-07-22T01:28:08+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "published_at": "2026-07-22T01:26:31+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
     },
     {
       "source": "blog_anthropic",
@@ -292,14 +284,6 @@
       "published_at": "2026-07-21T23:52:43+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude for Teachers",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "published_at": "2026-07-21T23:43:25+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ]
 }
