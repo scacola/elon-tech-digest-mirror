@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T22:07:07.504104+00:00",
-  "cutoff": "2026-07-23T22:04:20.828272+00:00",
+  "generated_at": "2026-07-27T22:13:01.695344+00:00",
+  "cutoff": "2026-07-24T22:13:01.168847+00:00",
   "window_hours": 72,
   "items": [],
-  "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.LG+OR+cat%3Acs.CL&sortBy=lastUpdatedDate&sortOrder=descending&max_resu"
+  "error": "empty-after-filter: api_entries=120 dropped_old=120 cutoff=2026-07-24T22:13:01.168847+00:00"
 }
