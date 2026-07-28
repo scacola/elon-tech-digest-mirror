@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-27T22:13:00.996224+00:00",
-  "cutoff": "2026-07-20T22:12:54.796489+00:00",
+  "generated_at": "2026-07-28T22:09:11.293131+00:00",
+  "cutoff": "2026-07-21T22:09:04.325573+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 10
+      "count": 8
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,14 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "published_at": "2026-07-28T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+    },
     {
       "source": "blog_openai",
       "title": "How AI is expanding what people do at work",
@@ -86,30 +94,6 @@
       "lead_paragraph": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
     },
     {
-      "source": "blog_openai",
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "published_at": "2026-07-21T17:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "published_at": "2026-07-21T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
-    },
-    {
-      "source": "blog_openai",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "published_at": "2026-07-21T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -118,18 +102,34 @@
       "lead_paragraph": "Google commits $40M in AI tokens and credits for the Genesis Mission"
     },
     {
-      "source": "blog_deepmind",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "published_at": "2026-07-21T15:16:30+00:00",
+      "source": "blog_huggingface",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "published_at": "2026-07-28T16:27:42+00:00",
       "author": "",
-      "lead_paragraph": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "published_at": "2026-07-28T15:01:45+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "published_at": "2026-07-27T09:32:20+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "published_at": "2026-07-27T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -142,18 +142,10 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "published_at": "2026-07-21T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "published_at": "2026-07-27T21:55:20+00:00",
+      "published_at": "2026-07-28T15:25:50+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic CEO Dario Amodei on open-weights models"
     },
