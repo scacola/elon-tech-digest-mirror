@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T22:09:11.293131+00:00",
-  "cutoff": "2026-07-21T22:09:04.325573+00:00",
+  "generated_at": "2026-07-29T22:05:37.514391+00:00",
+  "cutoff": "2026-07-22T22:05:32.580712+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 8
+      "count": 5
     },
     {
       "source": "blog_deepmind",
@@ -25,10 +25,26 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 15
+      "count": 6
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "published_at": "2026-07-29T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+    },
     {
       "source": "blog_openai",
       "title": "Scientific computing in the age of agentic AI",
@@ -54,52 +70,12 @@
       "lead_paragraph": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
     },
     {
-      "source": "blog_openai",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "published_at": "2026-07-22T13:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "published_at": "2026-07-22T13:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "published_at": "2026-07-22T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "published_at": "2026-07-22T05:30:00+00:00",
-      "author": "",
-      "lead_paragraph": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "published_at": "2026-07-22T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
-    },
-    {
       "source": "blog_deepmind",
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "published_at": "2026-07-22T13:38:54+00:00",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "published_at": "2026-07-29T16:02:10+00:00",
       "author": "",
-      "lead_paragraph": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -188,78 +164,6 @@
       "published_at": "2026-07-23T04:09:31+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "The Anthropic Economic Index connector",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "published_at": "2026-07-22T17:35:48+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore the data directly."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Donating another $20 million to Public First Action",
-      "url": "https://www.anthropic.com/news/donation-public-first-action",
-      "published_at": "2026-07-22T10:14:58+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "published_at": "2026-07-22T01:28:45+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "published_at": "2026-07-22T01:20:28+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Agent Skills | Claude by Anthropic",
-      "url": "https://www.anthropic.com/news/skills",
-      "published_at": "2026-07-22T01:16:15+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Sonnet 4.5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
-      "published_at": "2026-07-22T01:13:43+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude Sonnet 4.5 is the best coding model in the world, strongest model for building complex agents, and best model at using computers."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Haiku 4.5",
-      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
-      "published_at": "2026-07-22T01:05:15+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude Haiku 4.5, our latest small model, is available today to all users."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "published_at": "2026-07-22T01:02:08+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "published_at": "2026-07-22T00:59:47+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
     }
   ]
 }
