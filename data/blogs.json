@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-29T22:05:37.514391+00:00",
-  "cutoff": "2026-07-22T22:05:32.580712+00:00",
+  "generated_at": "2026-07-30T22:10:50.131278+00:00",
+  "cutoff": "2026-07-23T22:10:47.139300+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 1
+      "count": 3
     },
     {
       "source": "blog_huggingface",
@@ -25,10 +25,26 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 6
+      "count": 4
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "published_at": "2026-07-30T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published_at": "2026-07-29T15:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+    },
     {
       "source": "blog_openai",
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -62,18 +78,34 @@
       "lead_paragraph": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
     },
     {
-      "source": "blog_openai",
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "published_at": "2026-07-23T00:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "published_at": "2026-07-30T15:00:59+00:00",
       "author": "",
-      "lead_paragraph": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+      "lead_paragraph": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
     },
     {
       "source": "blog_deepmind",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "published_at": "2026-07-29T16:02:10+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_deepmind",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "published_at": "2026-07-28T13:21:37+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "published_at": "2026-07-30T15:09:09+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -110,14 +142,6 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "published_at": "2026-07-23T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
@@ -148,22 +172,6 @@
       "published_at": "2026-07-24T18:46:48+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "published_at": "2026-07-23T04:19:56+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Opus 4.5",
-      "url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "published_at": "2026-07-23T04:09:31+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ]
 }
