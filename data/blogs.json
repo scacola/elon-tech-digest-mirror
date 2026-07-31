@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T22:10:50.131278+00:00",
-  "cutoff": "2026-07-23T22:10:47.139300+00:00",
+  "generated_at": "2026-07-31T22:10:11.339462+00:00",
+  "cutoff": "2026-07-24T22:10:08.423613+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 6
+      "count": 11
     },
     {
       "source": "blog_deepmind",
@@ -31,11 +31,51 @@
   "items": [
     {
       "source": "blog_openai",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+    },
+    {
+      "source": "blog_openai",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "published_at": "2026-07-30T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
     },
     {
       "source": "blog_openai",
@@ -143,6 +183,14 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "published_at": "2026-07-30T23:14:55+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below "
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "published_at": "2026-07-28T15:25:50+00:00",
@@ -164,14 +212,6 @@
       "published_at": "2026-07-25T02:03:36+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
-      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "published_at": "2026-07-24T18:46:48+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
     }
   ]
 }
