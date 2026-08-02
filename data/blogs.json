@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T22:01:34.342622+00:00",
-  "cutoff": "2026-07-25T22:01:32.168795+00:00",
+  "generated_at": "2026-08-02T22:00:14.139459+00:00",
+  "cutoff": "2026-07-26T22:00:01.667796+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -25,7 +25,7 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 3
+      "count": 0
     }
   ],
   "items": [
@@ -188,30 +188,6 @@
       "published_at": "2026-07-27T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "published_at": "2026-07-30T23:14:55+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below "
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "published_at": "2026-07-28T15:25:50+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic CEO Dario Amodei on open-weights models"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Expanding our partnership with Cognizant | Anthropic",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "published_at": "2026-07-27T15:34:00+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network."
     }
   ]
 }
