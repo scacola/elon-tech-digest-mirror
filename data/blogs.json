@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T22:00:14.139459+00:00",
-  "cutoff": "2026-07-26T22:00:01.667796+00:00",
+  "generated_at": "2026-08-03T22:12:52.247226+00:00",
+  "cutoff": "2026-07-27T22:12:49.377229+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -19,16 +19,24 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 3
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 0
+      "count": 3
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+    },
     {
       "source": "blog_openai",
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -118,14 +126,6 @@
       "lead_paragraph": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
     },
     {
-      "source": "blog_openai",
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "published_at": "2026-07-27T03:30:00+00:00",
-      "author": "",
-      "lead_paragraph": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -174,20 +174,28 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "published_at": "2026-07-27T09:32:20+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Introducing Claude for Nonprofits",
+      "url": "https://www.anthropic.com/news/claude-for-nonprofits",
+      "published_at": "2026-08-03T16:00:43+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "published_at": "2026-07-27T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "published_at": "2026-08-03T14:36:32+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below "
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "published_at": "2026-07-28T15:25:50+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic CEO Dario Amodei on open-weights models"
     }
   ]
 }

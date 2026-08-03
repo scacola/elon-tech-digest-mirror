@@ -1,107 +1,217 @@
 {
-  "generated_at": "2026-08-02T22:00:33.665283+00:00",
-  "cutoff": "2026-08-01T22:00:16.228717+00:00",
+  "generated_at": "2026-08-03T22:13:09.731357+00:00",
+  "cutoff": "2026-08-02T22:12:53.278110+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49147435,
-      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "score": 90,
-      "by": "JumpCrisscross",
-      "comments": 33,
-      "created_at": "2026-08-02T19:19:24+00:00",
-      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-      "discussion_url": "https://news.ycombinator.com/item?id=49147435"
+      "hn_id": 49154332,
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "score": 686,
+      "by": "ymir_e",
+      "comments": 338,
+      "created_at": "2026-08-03T11:28:54+00:00",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49154332"
     },
     {
-      "hn_id": 49147622,
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "score": 55,
-      "by": "thebigship",
-      "comments": 28,
-      "created_at": "2026-08-02T19:42:08+00:00",
-      "url": "https://frogs.vaguespac.es/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49147622"
+      "hn_id": 49153374,
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "score": 346,
+      "by": "mpweiher",
+      "comments": 286,
+      "created_at": "2026-08-03T09:32:07+00:00",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49153374"
     },
     {
-      "hn_id": 49147606,
-      "title": "EU rules on AI models become enforceable. What's going to change?",
+      "hn_id": 49152842,
+      "title": "Bonsai: Janestreet's UI Library",
+      "score": 275,
+      "by": "KolmogorovComp",
+      "comments": 103,
+      "created_at": "2026-08-03T08:29:57+00:00",
+      "url": "https://github.com/janestreet/bonsai",
+      "discussion_url": "https://news.ycombinator.com/item?id=49152842"
+    },
+    {
+      "hn_id": 49154228,
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "score": 174,
+      "by": "Anon84",
+      "comments": 64,
+      "created_at": "2026-08-03T11:15:48+00:00",
+      "url": "https://github.com/lyogavin/airllm",
+      "discussion_url": "https://news.ycombinator.com/item?id=49154228"
+    },
+    {
+      "hn_id": 49161518,
+      "title": "LLMs reward expertise",
+      "score": 134,
+      "by": "MaxMussio",
+      "comments": 49,
+      "created_at": "2026-08-03T21:13:53+00:00",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49161518"
+    },
+    {
+      "hn_id": 49152640,
+      "title": "Octane – React’s programming model, compiled",
+      "score": 116,
+      "by": "nnx",
+      "comments": 42,
+      "created_at": "2026-08-03T08:04:04+00:00",
+      "url": "https://octanejs.dev",
+      "discussion_url": "https://news.ycombinator.com/item?id=49152640"
+    },
+    {
+      "hn_id": 49152222,
+      "title": "The AI Productivity Gap",
+      "score": 102,
+      "by": "kiyanwang",
+      "comments": 95,
+      "created_at": "2026-08-03T07:07:20+00:00",
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49152222"
+    },
+    {
+      "hn_id": 49154127,
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "score": 97,
+      "by": "NickySlicks",
+      "comments": 30,
+      "created_at": "2026-08-03T11:06:15+00:00",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49154127"
+    },
+    {
+      "hn_id": 49160699,
+      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+      "score": 88,
+      "by": "mapping365",
+      "comments": 83,
+      "created_at": "2026-08-03T20:02:21+00:00",
+      "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49160699"
+    },
+    {
+      "hn_id": 49156299,
+      "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
+      "score": 76,
+      "by": "cdrnsf",
+      "comments": 46,
+      "created_at": "2026-08-03T14:29:51+00:00",
+      "url": "https://lapcatsoftware.com/articles/2026/8/2.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49156299"
+    },
+    {
+      "hn_id": 49160631,
+      "title": "DDoS against Norwegian government IT infrastructure – status",
+      "score": 72,
+      "by": "e12e",
+      "comments": 50,
+      "created_at": "2026-08-03T19:56:27+00:00",
+      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+      "discussion_url": "https://news.ycombinator.com/item?id=49160631"
+    },
+    {
+      "hn_id": 49154441,
+      "title": "The Potomac River Midair Collision",
+      "score": 45,
+      "by": "mplanchard",
+      "comments": 9,
+      "created_at": "2026-08-03T11:41:26+00:00",
+      "url": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f",
+      "discussion_url": "https://news.ycombinator.com/item?id=49154441"
+    },
+    {
+      "hn_id": 49157997,
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
       "score": 40,
-      "by": "devonnull",
-      "comments": 51,
-      "created_at": "2026-08-02T19:40:19+00:00",
-      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "discussion_url": "https://news.ycombinator.com/item?id=49147606"
+      "by": "BenceRed",
+      "comments": 46,
+      "created_at": "2026-08-03T16:32:06+00:00",
+      "url": "https://hoplite.sh",
+      "discussion_url": "https://news.ycombinator.com/item?id=49157997"
     },
     {
-      "hn_id": 49148159,
-      "title": "AI Mania: From Tulips to Tokens",
-      "score": 35,
-      "by": "Lambda11",
-      "comments": 27,
-      "created_at": "2026-08-02T20:48:28+00:00",
-      "url": "https://seanhelvey.com/tools-and-their-tools/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49148159"
-    },
-    {
-      "hn_id": 49139232,
-      "title": "AI opens new era in cognitive studies of wild primates",
-      "score": 30,
-      "by": "hhs",
+      "hn_id": 49159018,
+      "title": "Show HN: Hacker News with AI stories filtered out",
+      "score": 37,
+      "by": "postalcoder",
       "comments": 8,
-      "created_at": "2026-08-01T22:40:22+00:00",
-      "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-      "discussion_url": "https://news.ycombinator.com/item?id=49139232"
+      "created_at": "2026-08-03T17:39:56+00:00",
+      "url": "https://hcker.news/?view=frontpage&ai=exclude",
+      "discussion_url": "https://news.ycombinator.com/item?id=49159018"
     },
     {
-      "hn_id": 49145463,
-      "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
-      "score": 10,
-      "by": "flashblaze",
-      "comments": 3,
-      "created_at": "2026-08-02T15:23:59+00:00",
-      "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49145463"
+      "hn_id": 49157807,
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "score": 33,
+      "by": "screm",
+      "comments": 1,
+      "created_at": "2026-08-03T16:17:59+00:00",
+      "url": "https://armature.tech/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49157807"
     },
     {
-      "hn_id": 49147842,
-      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-      "score": 7,
-      "by": "paoloanzn",
+      "hn_id": 49155579,
+      "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+      "score": 30,
+      "by": "aofeisheng",
+      "comments": 0,
+      "created_at": "2026-08-03T13:30:53+00:00",
+      "url": "https://blog.cloudflare.com/grpc-workers/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49155579"
+    },
+    {
+      "hn_id": 49159902,
+      "title": "The AI Bailout Could Be Baked into the AI Bubble",
+      "score": 26,
+      "by": "Ambolia",
       "comments": 2,
-      "created_at": "2026-08-02T20:11:35+00:00",
-      "url": "https://github.com/paoloanzn/microcodex",
-      "discussion_url": "https://news.ycombinator.com/item?id=49147842"
+      "created_at": "2026-08-03T18:51:23+00:00",
+      "url": "https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49159902"
     },
     {
-      "hn_id": 49146991,
-      "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
-      "score": 5,
-      "by": "sygma",
-      "comments": 0,
-      "created_at": "2026-08-02T18:25:19+00:00",
-      "url": "https://github.com/gakonst/nanocodex",
-      "discussion_url": "https://news.ycombinator.com/item?id=49146991"
+      "hn_id": 49158646,
+      "title": "White House's new upcoming model-testing framework",
+      "score": 20,
+      "by": "freakynit",
+      "comments": 5,
+      "created_at": "2026-08-03T17:13:40+00:00",
+      "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49158646"
     },
     {
-      "hn_id": 49147170,
-      "title": "KotlinLLM",
-      "score": 5,
-      "by": "saikatsg",
+      "hn_id": 49159251,
+      "title": "Stanford CS329A: Self-Improving AI Agents",
+      "score": 16,
+      "by": "matt_d",
       "comments": 0,
-      "created_at": "2026-08-02T18:45:30+00:00",
-      "url": "https://github.com/JetBrains-Research/kotlinllm-plugin",
-      "discussion_url": "https://news.ycombinator.com/item?id=49147170"
+      "created_at": "2026-08-03T17:57:25+00:00",
+      "url": "https://www.youtube.com/playlist?list=PLangBM27OtEA",
+      "discussion_url": "https://news.ycombinator.com/item?id=49159251"
     },
     {
-      "hn_id": 49147219,
-      "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
-      "score": 3,
-      "by": "rbanffy",
-      "comments": 0,
-      "created_at": "2026-08-02T18:53:30+00:00",
-      "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
-      "discussion_url": "https://news.ycombinator.com/item?id=49147219"
+      "hn_id": 49160081,
+      "title": "OpenAI's Unreleased Model Astra Solves Ten Major Open Mathematics Problems",
+      "score": 8,
+      "by": "7777777phil",
+      "comments": 1,
+      "created_at": "2026-08-03T19:06:19+00:00",
+      "url": "https://thezvi.substack.com/p/openais-unreleased-model-astra-solves",
+      "discussion_url": "https://news.ycombinator.com/item?id=49160081"
+    },
+    {
+      "hn_id": 49161353,
+      "title": "Demand from AI data centers drives up computer memory prices",
+      "score": 4,
+      "by": "Jimmc414",
+      "comments": 1,
+      "created_at": "2026-08-03T20:58:28+00:00",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5909318/massive-demand-from-ai-data-centers-drives-up-computer-memory-prices",
+      "discussion_url": "https://news.ycombinator.com/item?id=49161353"
     }
   ]
 }
