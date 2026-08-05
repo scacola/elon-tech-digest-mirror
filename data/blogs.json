@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-04T22:17:34.313831+00:00",
-  "cutoff": "2026-07-28T22:17:31.253046+00:00",
+  "generated_at": "2026-08-05T22:16:26.529609+00:00",
+  "cutoff": "2026-07-29T22:16:24.187517+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 15
+      "count": 12
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "source": "blog_huggingface",
@@ -126,44 +126,12 @@
       "lead_paragraph": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
     },
     {
-      "source": "blog_openai",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "published_at": "2026-07-29T15:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "published_at": "2026-07-29T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "published_at": "2026-07-29T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
       "published_at": "2026-07-30T15:00:59+00:00",
       "author": "",
       "lead_paragraph": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "published_at": "2026-07-29T16:02:10+00:00",
-      "author": "",
-      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
