@@ -1,297 +1,157 @@
 {
-  "generated_at": "2026-08-05T22:16:38.445598+00:00",
-  "cutoff": "2026-08-04T22:16:27.382433+00:00",
+  "generated_at": "2026-08-07T01:04:20.013817+00:00",
+  "cutoff": "2026-08-06T01:04:04.440875+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49182996,
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "score": 413,
+      "hn_id": 49200652,
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "score": 420,
+      "by": "apitman",
+      "comments": 270,
+      "created_at": "2026-08-06T18:44:49+00:00",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "discussion_url": "https://news.ycombinator.com/item?id=49200652"
+    },
+    {
+      "hn_id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "score": 331,
+      "by": "itvision",
+      "comments": 262,
+      "created_at": "2026-08-06T20:23:11+00:00",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "discussion_url": "https://news.ycombinator.com/item?id=49201970"
+    },
+    {
+      "hn_id": 49198302,
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "score": 313,
+      "by": "Footkerchief",
+      "comments": 265,
+      "created_at": "2026-08-06T15:49:38+00:00",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "discussion_url": "https://news.ycombinator.com/item?id=49198302"
+    },
+    {
+      "hn_id": 49195468,
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "score": 248,
+      "by": "Wirbelwind",
+      "comments": 190,
+      "created_at": "2026-08-06T11:58:07+00:00",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49195468"
+    },
+    {
+      "hn_id": 49193173,
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "score": 210,
+      "by": "microtonal",
+      "comments": 171,
+      "created_at": "2026-08-06T06:24:42+00:00",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+      "discussion_url": "https://news.ycombinator.com/item?id=49193173"
+    },
+    {
+      "hn_id": 49199357,
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "score": 142,
+      "by": "tedsanders",
+      "comments": 100,
+      "created_at": "2026-08-06T17:02:04+00:00",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49199357"
+    },
+    {
+      "hn_id": 49201342,
+      "title": "xAI, SpaceX, and the Race for AI Buildout",
+      "score": 132,
       "by": "speckx",
-      "comments": 218,
-      "created_at": "2026-08-05T13:58:53+00:00",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49182996"
+      "comments": 109,
+      "created_at": "2026-08-06T19:38:45+00:00",
+      "url": "https://illegal.solutions/posts/xai_pollution",
+      "discussion_url": "https://news.ycombinator.com/item?id=49201342"
     },
     {
-      "hn_id": 49184755,
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "score": 347,
-      "by": "colesantiago",
-      "comments": 490,
-      "created_at": "2026-08-05T16:05:31+00:00",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49184755"
-    },
-    {
-      "hn_id": 49176830,
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "score": 279,
-      "by": "tchalla",
-      "comments": 237,
-      "created_at": "2026-08-04T23:50:52+00:00",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "discussion_url": "https://news.ycombinator.com/item?id=49176830"
-    },
-    {
-      "hn_id": 49181083,
-      "title": "Position: LLMs Can't Jump",
-      "score": 225,
-      "by": "theanonymousone",
-      "comments": 155,
-      "created_at": "2026-08-05T11:01:37+00:00",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "discussion_url": "https://news.ycombinator.com/item?id=49181083"
-    },
-    {
-      "hn_id": 49182041,
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "score": 224,
-      "by": "vincent_s",
-      "comments": 92,
-      "created_at": "2026-08-05T12:41:47+00:00",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49182041"
-    },
-    {
-      "hn_id": 49187977,
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "score": 167,
-      "by": "malshe",
-      "comments": 126,
-      "created_at": "2026-08-05T19:47:26+00:00",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49187977"
-    },
-    {
-      "hn_id": 49186762,
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "score": 153,
-      "by": "moonikakiss",
-      "comments": 29,
-      "created_at": "2026-08-05T18:18:56+00:00",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "discussion_url": "https://news.ycombinator.com/item?id=49186762"
-    },
-    {
-      "hn_id": 49181519,
-      "title": "Why Erdős Problems Are Falling to AI",
-      "score": 125,
-      "by": "pseudolus",
-      "comments": 121,
-      "created_at": "2026-08-05T11:49:34+00:00",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49181519"
-    },
-    {
-      "hn_id": 49187061,
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "score": 108,
-      "by": "lladnar",
-      "comments": 121,
-      "created_at": "2026-08-05T18:37:49+00:00",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49187061"
-    },
-    {
-      "hn_id": 49185370,
-      "title": "I’m leaving OpenAI to build telepathy",
-      "score": 98,
-      "by": "devanshp",
-      "comments": 157,
-      "created_at": "2026-08-05T16:45:33+00:00",
-      "url": "https://naomibashkansky.com/blog/telepathy/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49185370"
-    },
-    {
-      "hn_id": 49182946,
-      "title": "Building an Advanced Agentic Harness",
-      "score": 93,
-      "by": "Anon84",
-      "comments": 40,
-      "created_at": "2026-08-05T13:54:12+00:00",
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "discussion_url": "https://news.ycombinator.com/item?id=49182946"
-    },
-    {
-      "hn_id": 49183017,
-      "title": "The Entropy of a Markov Chain",
-      "score": 92,
-      "by": "surprisetalk",
-      "comments": 7,
-      "created_at": "2026-08-05T14:00:10+00:00",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "discussion_url": "https://news.ycombinator.com/item?id=49183017"
-    },
-    {
-      "hn_id": 49178608,
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "score": 89,
-      "by": "theanonymousone",
-      "comments": 12,
-      "created_at": "2026-08-05T04:36:44+00:00",
-      "url": "https://arxiv.org/abs/2607.29377",
-      "discussion_url": "https://news.ycombinator.com/item?id=49178608"
-    },
-    {
-      "hn_id": 49182695,
-      "title": "Painting with Gaussians",
-      "score": 85,
-      "by": "yogthos",
-      "comments": 14,
-      "created_at": "2026-08-05T13:34:32+00:00",
-      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49182695"
-    },
-    {
-      "hn_id": 49178464,
-      "title": "An SLM trained on $8 ESP32-S3",
-      "score": 64,
-      "by": "pavelai",
+      "hn_id": 49198583,
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "score": 84,
+      "by": "davidmckayv",
       "comments": 20,
-      "created_at": "2026-08-05T04:07:27+00:00",
-      "url": "https://github.com/Carloscodix/qapla",
-      "discussion_url": "https://news.ycombinator.com/item?id=49178464"
+      "created_at": "2026-08-06T16:05:51+00:00",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "discussion_url": "https://news.ycombinator.com/item?id=49198583"
     },
     {
-      "hn_id": 49186720,
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "score": 62,
-      "by": "robin_reala",
-      "comments": 50,
-      "created_at": "2026-08-05T18:17:03+00:00",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "discussion_url": "https://news.ycombinator.com/item?id=49186720"
-    },
-    {
-      "hn_id": 49186766,
-      "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-      "score": 58,
-      "by": "mapping365",
-      "comments": 15,
-      "created_at": "2026-08-05T18:19:10+00:00",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
-      "discussion_url": "https://news.ycombinator.com/item?id=49186766"
-    },
-    {
-      "hn_id": 49183714,
-      "title": "Proxmox VE now available for ARM64",
-      "score": 36,
-      "by": "geerlingguy",
-      "comments": 10,
-      "created_at": "2026-08-05T14:42:09+00:00",
-      "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49183714"
-    },
-    {
-      "hn_id": 49185389,
-      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-      "score": 34,
-      "by": "shailendraht",
-      "comments": 24,
-      "created_at": "2026-08-05T16:47:15+00:00",
-      "url": "https://www.hyperprobe.co",
-      "discussion_url": "https://news.ycombinator.com/item?id=49185389"
-    },
-    {
-      "hn_id": 49187259,
-      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-      "score": 27,
-      "by": "triska",
-      "comments": 1,
-      "created_at": "2026-08-05T18:52:58+00:00",
-      "url": "https://sagredo.dev/projects/sula/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49187259"
-    },
-    {
-      "hn_id": 49181916,
-      "title": "Proxmox Virtual Environment now available for 64-bit ARM (ARM64)",
-      "score": 26,
-      "by": "tlamponi",
-      "comments": 4,
-      "created_at": "2026-08-05T12:30:13+00:00",
-      "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185526/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49181916"
-    },
-    {
-      "hn_id": 49189075,
-      "title": "Prime Agent: A self-improving RLM agent",
-      "score": 25,
-      "by": "Xeophon",
-      "comments": 0,
-      "created_at": "2026-08-05T21:11:57+00:00",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "discussion_url": "https://news.ycombinator.com/item?id=49189075"
-    },
-    {
-      "hn_id": 49187421,
-      "title": "\"AI\" will never become conscious",
-      "score": 25,
+      "hn_id": 49199051,
+      "title": "Dress made of living mycelium can renew and repair itself",
+      "score": 80,
       "by": "speckx",
-      "comments": 8,
-      "created_at": "2026-08-05T19:03:28+00:00",
-      "url": "https://mattbee.mataroa.blog/p/no-ai-will-never-become-conscious/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49187421"
+      "comments": 48,
+      "created_at": "2026-08-06T16:39:26+00:00",
+      "url": "https://www.dezeen.com/2026/08/05/dress-living-mycelium-renew-repair/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49199051"
     },
     {
-      "hn_id": 49184355,
-      "title": "See the Sun like never before with most detailed images yet",
-      "score": 23,
-      "by": "neversaydie",
+      "hn_id": 49191365,
+      "title": "LLMs won't break symmetric crypto",
+      "score": 73,
+      "by": "rowbin",
+      "comments": 95,
+      "created_at": "2026-08-06T01:39:06+00:00",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "discussion_url": "https://news.ycombinator.com/item?id=49191365"
+    },
+    {
+      "hn_id": 49202852,
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "score": 51,
+      "by": "sebg",
       "comments": 2,
-      "created_at": "2026-08-05T15:33:23+00:00",
-      "url": "https://www.bbc.com/news/articles/c36d4376nd2o",
-      "discussion_url": "https://news.ycombinator.com/item?id=49184355"
+      "created_at": "2026-08-06T21:30:21+00:00",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "discussion_url": "https://news.ycombinator.com/item?id=49202852"
     },
     {
-      "hn_id": 49186116,
-      "title": "Anthropic Is Building Its Own Chip",
-      "score": 20,
-      "by": "closetheloopdev",
-      "comments": 11,
-      "created_at": "2026-08-05T17:32:51+00:00",
-      "url": "https://www.businessinsider.com/anthropic-in-house-silicon-chip-team-claude-2026-8",
-      "discussion_url": "https://news.ycombinator.com/item?id=49186116"
-    },
-    {
-      "hn_id": 49185536,
-      "title": "Your model already knows the answer: how benchmark answers leak into LLMs",
-      "score": 12,
-      "by": "fran-mora",
-      "comments": 0,
-      "created_at": "2026-08-05T16:56:56+00:00",
-      "url": "https://elman.ai/news/your-model-already-knows-the-answer/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49185536"
-    },
-    {
-      "hn_id": 49182263,
-      "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
-      "score": 11,
-      "by": "henryzhangpku",
-      "comments": 3,
-      "created_at": "2026-08-05T13:01:29+00:00",
-      "url": "https://quantsignals.xyz/fst",
-      "discussion_url": "https://news.ycombinator.com/item?id=49182263"
-    },
-    {
-      "hn_id": 49184388,
-      "title": "Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode",
-      "score": 8,
-      "by": "adam_rida",
+      "hn_id": 49204046,
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "score": 26,
+      "by": "samaysharma",
       "comments": 1,
-      "created_at": "2026-08-05T15:36:20+00:00",
-      "url": "https://github.com/adrida/hud-mode",
-      "discussion_url": "https://news.ycombinator.com/item?id=49184388"
+      "created_at": "2026-08-06T23:29:15+00:00",
+      "url": "https://www.bbc.com/news/articles/cj63966j95yo",
+      "discussion_url": "https://news.ycombinator.com/item?id=49204046"
     },
     {
-      "hn_id": 49189030,
-      "title": "A Fed official is asking whether AI is becoming 'too big to fail'",
-      "score": 7,
-      "by": "cdrnsf",
-      "comments": 0,
-      "created_at": "2026-08-05T21:08:25+00:00",
-      "url": "https://thenextweb.com/news/a-fed-official-is-asking-whether-ai-is-becoming-too-big-to-fail",
-      "discussion_url": "https://news.ycombinator.com/item?id=49189030"
+      "hn_id": 49202980,
+      "title": "OpenAI's latest math breakthroughs commit research misconduct, experts say",
+      "score": 21,
+      "by": "beardyw",
+      "comments": 7,
+      "created_at": "2026-08-06T21:40:55+00:00",
+      "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49202980"
+    },
+    {
+      "hn_id": 49203443,
+      "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+      "score": 15,
+      "by": "FireBeyond",
+      "comments": 2,
+      "created_at": "2026-08-06T22:21:32+00:00",
+      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+      "discussion_url": "https://news.ycombinator.com/item?id=49203443"
+    },
+    {
+      "hn_id": 49203507,
+      "title": "Blasting the Air in Front of Hypersonic Vehicles with Lasers Reduces Drag",
+      "score": 10,
+      "by": "delichon",
+      "comments": 2,
+      "created_at": "2026-08-06T22:28:44+00:00",
+      "url": "https://www.twz.com/33859/blasting-the-air-in-front-of-hypersonic-vehicles-with-lasers-could-unlock-unprecedented-speeds",
+      "discussion_url": "https://news.ycombinator.com/item?id=49203507"
     }
   ]
 }

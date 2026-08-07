@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T22:16:26.529609+00:00",
-  "cutoff": "2026-07-29T22:16:24.187517+00:00",
+  "generated_at": "2026-08-07T01:02:47.669602+00:00",
+  "cutoff": "2026-07-31T01:02:44.894318+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -29,6 +29,30 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "published_at": "2026-08-06T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "published_at": "2026-08-06T06:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+    },
+    {
+      "source": "blog_openai",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "published_at": "2026-08-06T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+    },
     {
       "source": "blog_openai",
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -102,50 +126,26 @@
       "lead_paragraph": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
     },
     {
-      "source": "blog_openai",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "published_at": "2026-07-30T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "published_at": "2026-07-30T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
-    },
-    {
       "source": "blog_deepmind",
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "published_at": "2026-07-30T15:00:59+00:00",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "published_at": "2026-08-06T15:06:15+00:00",
       "author": "",
-      "lead_paragraph": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "published_at": "2026-08-06T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "published_at": "2026-08-04T13:58:29+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "published_at": "2026-07-30T15:09:09+00:00",
       "author": "",
       "lead_paragraph": ""
     },
