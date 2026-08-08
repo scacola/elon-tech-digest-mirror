@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T21:43:43.126059+00:00",
-  "cutoff": "2026-07-31T21:43:40.184464+00:00",
+  "generated_at": "2026-08-08T21:35:27.976778+00:00",
+  "cutoff": "2026-08-01T21:35:25.272787+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 11
+      "count": 10
     },
     {
       "source": "blog_deepmind",
@@ -108,14 +108,6 @@
       "published_at": "2026-08-03T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "published_at": "2026-08-01T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
     },
     {
       "source": "blog_deepmind",
