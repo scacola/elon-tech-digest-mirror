@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T21:46:50.479973+00:00",
-  "cutoff": "2026-08-03T21:46:47.633121+00:00",
+  "generated_at": "2026-08-11T21:54:34.071714+00:00",
+  "cutoff": "2026-08-04T21:54:32.026070+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     {
       "source": "blog_deepmind",
@@ -25,10 +25,26 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 3
+      "count": 2
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
+    },
     {
       "source": "blog_openai",
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -79,6 +95,22 @@
     },
     {
       "source": "blog_openai",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
+    },
+    {
+      "source": "blog_openai",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "published_at": "2026-08-07T15:20:00+00:00",
@@ -118,34 +150,18 @@
       "lead_paragraph": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
     },
     {
-      "source": "blog_openai",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "published_at": "2026-08-04T19:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
-    },
-    {
-      "source": "blog_openai",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published_at": "2026-08-03T22:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
-    },
-    {
       "source": "blog_deepmind",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "published_at": "2026-08-06T15:06:15+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "published_at": "2026-08-11T13:37:10+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -190,14 +206,6 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "published_at": "2026-08-04T13:58:29+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Introducing Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
@@ -212,14 +220,6 @@
       "published_at": "2026-08-07T03:05:42+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "published_at": "2026-08-04T17:40:15+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ]
 }
