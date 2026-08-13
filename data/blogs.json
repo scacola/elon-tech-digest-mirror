@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T21:52:21.600565+00:00",
-  "cutoff": "2026-08-05T21:52:19.256697+00:00",
+  "generated_at": "2026-08-13T21:52:42.934015+00:00",
+  "cutoff": "2026-08-06T21:52:40.936165+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,30 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published_at": "2026-08-13T11:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "published_at": "2026-08-13T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "published_at": "2026-08-13T09:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
+    },
     {
       "source": "blog_openai",
       "title": "From assistance to execution: How enterprises put AI to work",
@@ -111,19 +135,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
-    },
-    {
-      "source": "blog_openai",
       "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
       "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "published_at": "2026-08-10T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
     },
     {
       "source": "blog_openai",
@@ -142,28 +166,12 @@
       "lead_paragraph": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
     },
     {
-      "source": "blog_openai",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "published_at": "2026-08-06T10:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "published_at": "2026-08-13T17:04:18+00:00",
       "author": "",
-      "lead_paragraph": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "published_at": "2026-08-06T06:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
-    },
-    {
-      "source": "blog_openai",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "published_at": "2026-08-06T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_deepmind",
@@ -174,10 +182,18 @@
       "lead_paragraph": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
     },
     {
-      "source": "blog_deepmind",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "published_at": "2026-08-06T15:06:15+00:00",
+      "source": "blog_huggingface",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "published_at": "2026-08-13T17:16:04+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "published_at": "2026-08-13T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -226,14 +242,6 @@
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "url": "https://huggingface.co/blog/muse-glimmer",
       "published_at": "2026-08-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/baseten",
-      "published_at": "2026-08-06T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
