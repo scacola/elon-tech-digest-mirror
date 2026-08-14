@@ -1,267 +1,207 @@
 {
-  "generated_at": "2026-08-13T21:52:55.302674+00:00",
-  "cutoff": "2026-08-12T21:52:43.784393+00:00",
+  "generated_at": "2026-08-14T21:33:33.720841+00:00",
+  "cutoff": "2026-08-13T21:33:23.710102+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49289112,
-      "title": "Gemini 3.7 Flash",
-      "score": 475,
-      "by": "thisisauserid",
-      "comments": 290,
-      "created_at": "2026-08-13T17:23:22+00:00",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49289112"
+      "hn_id": 49300314,
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "score": 191,
+      "by": "u1hcw9nx",
+      "comments": 125,
+      "created_at": "2026-08-14T15:43:10+00:00",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49300314"
     },
     {
-      "hn_id": 49281916,
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "score": 436,
-      "by": "allanrbo",
-      "comments": 295,
-      "created_at": "2026-08-13T04:53:41+00:00",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "discussion_url": "https://news.ycombinator.com/item?id=49281916"
-    },
-    {
-      "hn_id": 49289844,
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "score": 301,
-      "by": "pr337h4m",
-      "comments": 118,
-      "created_at": "2026-08-13T18:10:02+00:00",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "discussion_url": "https://news.ycombinator.com/item?id=49289844"
-    },
-    {
-      "hn_id": 49288889,
-      "title": "Mistral OCR 4.1",
-      "score": 204,
-      "by": "spelk",
-      "comments": 78,
-      "created_at": "2026-08-13T17:05:12+00:00",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "discussion_url": "https://news.ycombinator.com/item?id=49288889"
-    },
-    {
-      "hn_id": 49285418,
-      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "score": 162,
-      "by": "vinayakborkar",
-      "comments": 77,
-      "created_at": "2026-08-13T13:14:12+00:00",
-      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49285418"
-    },
-    {
-      "hn_id": 49285327,
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "score": 157,
-      "by": "toddmorey",
-      "comments": 67,
-      "created_at": "2026-08-13T13:05:29+00:00",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49285327"
-    },
-    {
-      "hn_id": 49285718,
-      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-      "score": 123,
-      "by": "dreamforever",
-      "comments": 68,
-      "created_at": "2026-08-13T13:36:19+00:00",
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49285718"
-    },
-    {
-      "hn_id": 49280103,
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "score": 114,
-      "by": "tart-lemonade",
-      "comments": 48,
-      "created_at": "2026-08-12T23:50:33+00:00",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "discussion_url": "https://news.ycombinator.com/item?id=49280103"
-    },
-    {
-      "hn_id": 49288293,
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "score": 68,
-      "by": "timmmmmmay",
-      "comments": 35,
-      "created_at": "2026-08-13T16:22:05+00:00",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49288293"
-    },
-    {
-      "hn_id": 49283063,
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "score": 67,
-      "by": "adi1",
-      "comments": 41,
-      "created_at": "2026-08-13T08:14:30+00:00",
-      "url": "https://www.codewithbullet.com",
-      "discussion_url": "https://news.ycombinator.com/item?id=49283063"
-    },
-    {
-      "hn_id": 49286357,
-      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "score": 64,
-      "by": "omrimaya",
-      "comments": 41,
-      "created_at": "2026-08-13T14:18:34+00:00",
-      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-      "discussion_url": "https://news.ycombinator.com/item?id=49286357"
-    },
-    {
-      "hn_id": 49286073,
-      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-      "score": 53,
-      "by": "pcbmaker20",
-      "comments": 31,
-      "created_at": "2026-08-13T13:57:47+00:00",
-      "url": "https://github.com/fellowgeek/mcp-memory",
-      "discussion_url": "https://news.ycombinator.com/item?id=49286073"
-    },
-    {
-      "hn_id": 49286424,
-      "title": "Graduate student proves a quantum uncertainty principle for fractals",
-      "score": 52,
-      "by": "bookofjoe",
-      "comments": 10,
-      "created_at": "2026-08-13T14:22:54+00:00",
-      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49286424"
-    },
-    {
-      "hn_id": 49285414,
-      "title": "Three years after police raid on Kansas newspaper, reporter settles for $850K",
-      "score": 43,
-      "by": "giuliomagnifico",
-      "comments": 2,
-      "created_at": "2026-08-13T13:13:49+00:00",
-      "url": "https://kansasreflector.com/2026/08/11/three-years-after-police-raid-on-kansas-newspaper-reporter-settles-lawsuit-for-850k/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49285414"
-    },
-    {
-      "hn_id": 49289424,
-      "title": "Flock (Again) Activates a Camera System a Town Had Voted to Shut Down",
-      "score": 36,
-      "by": "hn_acker",
-      "comments": 4,
-      "created_at": "2026-08-13T17:42:49+00:00",
-      "url": "https://www.techdirt.com/2026/08/13/flock-again-activates-a-camera-system-a-town-had-voted-to-shut-down/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49289424"
-    },
-    {
-      "hn_id": 49290768,
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "score": 31,
-      "by": "malshe",
-      "comments": 15,
-      "created_at": "2026-08-13T19:25:38+00:00",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "discussion_url": "https://news.ycombinator.com/item?id=49290768"
-    },
-    {
-      "hn_id": 49290521,
-      "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "score": 31,
-      "by": "hampelm",
-      "comments": 10,
-      "created_at": "2026-08-13T19:04:52+00:00",
-      "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49290521"
-    },
-    {
-      "hn_id": 49288051,
-      "title": "Samsung is using Claude to verify chip designs. It's not going smoothly",
-      "score": 29,
-      "by": "bundie",
-      "comments": 8,
-      "created_at": "2026-08-13T16:05:58+00:00",
-      "url": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49288051"
-    },
-    {
-      "hn_id": 49289304,
-      "title": "Amazon will train on Twitch streamers' content by default, unless they opt out",
-      "score": 26,
-      "by": "ilamont",
+      "hn_id": 49300568,
+      "title": "AI by Hand",
+      "score": 126,
+      "by": "sans_souse",
       "comments": 11,
-      "created_at": "2026-08-13T17:35:07+00:00",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49289304"
+      "created_at": "2026-08-14T15:58:59+00:00",
+      "url": "https://www.byhand.ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49300568"
     },
     {
-      "hn_id": 49291782,
-      "title": "Terabytes of credentials leaked in supply-chain attack",
-      "score": 11,
-      "by": "RattlesnakeJake",
+      "hn_id": 49300800,
+      "title": "Maximizing the value of your Claude Code sessions",
+      "score": 96,
+      "by": "twapi",
+      "comments": 65,
+      "created_at": "2026-08-14T16:15:21+00:00",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "discussion_url": "https://news.ycombinator.com/item?id=49300800"
+    },
+    {
+      "hn_id": 49295238,
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "score": 72,
+      "by": "pentestercrab",
+      "comments": 22,
+      "created_at": "2026-08-14T06:09:04+00:00",
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "discussion_url": "https://news.ycombinator.com/item?id=49295238"
+    },
+    {
+      "hn_id": 49299102,
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "score": 47,
+      "by": "bj-rn",
+      "comments": 8,
+      "created_at": "2026-08-14T14:22:39+00:00",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "discussion_url": "https://news.ycombinator.com/item?id=49299102"
+    },
+    {
+      "hn_id": 49303540,
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "score": 45,
+      "by": "artninja1988",
+      "comments": 38,
+      "created_at": "2026-08-14T19:32:15+00:00",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "discussion_url": "https://news.ycombinator.com/item?id=49303540"
+    },
+    {
+      "hn_id": 49293523,
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "score": 44,
+      "by": "vforno",
+      "comments": 18,
+      "created_at": "2026-08-14T00:47:04+00:00",
+      "url": "https://github.com/JustVugg/lumabri",
+      "discussion_url": "https://news.ycombinator.com/item?id=49293523"
+    },
+    {
+      "hn_id": 49298088,
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "score": 41,
+      "by": "masonhsu",
+      "comments": 5,
+      "created_at": "2026-08-14T12:57:02+00:00",
+      "url": "https://hashagent.pages.dev/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49298088"
+    },
+    {
+      "hn_id": 49299985,
+      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "score": 37,
+      "by": "shrishdwi",
+      "comments": 37,
+      "created_at": "2026-08-14T15:22:02+00:00",
+      "url": "https://github.com/NanoNets/Graft",
+      "discussion_url": "https://news.ycombinator.com/item?id=49299985"
+    },
+    {
+      "hn_id": 49303046,
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "score": 26,
+      "by": "lajosdeme",
+      "comments": 6,
+      "created_at": "2026-08-14T18:52:48+00:00",
+      "url": "https://github.com/lajosdeme/mole",
+      "discussion_url": "https://news.ycombinator.com/item?id=49303046"
+    },
+    {
+      "hn_id": 49301417,
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "score": 24,
+      "by": "Jimmc414",
       "comments": 0,
-      "created_at": "2026-08-13T20:59:15+00:00",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49291782"
+      "created_at": "2026-08-14T16:57:14+00:00",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "discussion_url": "https://news.ycombinator.com/item?id=49301417"
     },
     {
-      "hn_id": 49288664,
-      "title": "Cloudflare Durable Objects, Ported to Rails",
-      "score": 11,
-      "by": "necrodome",
-      "comments": 0,
-      "created_at": "2026-08-13T16:49:13+00:00",
-      "url": "https://solidobjects.dev/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49288664"
+      "hn_id": 49303452,
+      "title": "YouTuber Davie504 slapped with ridiculous copyright claim [video]",
+      "score": 22,
+      "by": "Panoramix",
+      "comments": 1,
+      "created_at": "2026-08-14T19:24:08+00:00",
+      "url": "https://www.youtube.com/watch?v=fIs2JNOUWeU",
+      "discussion_url": "https://news.ycombinator.com/item?id=49303452"
     },
     {
-      "hn_id": 49290785,
-      "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
-      "score": 8,
-      "by": "sebg",
+      "hn_id": 49303405,
+      "title": "What You Gain by Building Your Own Game Engine",
+      "score": 19,
+      "by": "kwakwa_cat",
+      "comments": 15,
+      "created_at": "2026-08-14T19:20:20+00:00",
+      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49303405"
+    },
+    {
+      "hn_id": 49300129,
+      "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
+      "score": 15,
+      "by": "helba-ai",
       "comments": 3,
-      "created_at": "2026-08-13T19:26:58+00:00",
-      "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
-      "discussion_url": "https://news.ycombinator.com/item?id=49290785"
+      "created_at": "2026-08-14T15:30:29+00:00",
+      "url": "https://mininote.ink/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49300129"
     },
     {
-      "hn_id": 49288011,
-      "title": "Frontier LLMs know more facts than they can recall",
-      "score": 7,
-      "by": "MarcoDewey",
-      "comments": 1,
-      "created_at": "2026-08-13T16:03:12+00:00",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49288011"
+      "hn_id": 49298674,
+      "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
+      "score": 11,
+      "by": "schafberg",
+      "comments": 4,
+      "created_at": "2026-08-14T13:50:46+00:00",
+      "url": "https://isaidumber.today/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49298674"
     },
     {
-      "hn_id": 49288138,
-      "title": "OpenCV AI Competition 2026",
-      "score": 7,
-      "by": "Hussain04",
+      "hn_id": 49303230,
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "score": 8,
+      "by": "DGAP",
       "comments": 0,
-      "created_at": "2026-08-13T16:12:26+00:00",
-      "url": "https://opencv.org/opencv-ai-competition-2026/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49288138"
+      "created_at": "2026-08-14T19:05:21+00:00",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49303230"
     },
     {
-      "hn_id": 49290713,
-      "title": "Ask HN: How much money do you spend monthly on subscriptions for AI models?",
-      "score": 6,
-      "by": "marko-djuric",
-      "comments": 13,
-      "created_at": "2026-08-13T19:21:36+00:00",
-      "url": "https://news.ycombinator.com/item?id=49290713",
-      "discussion_url": "https://news.ycombinator.com/item?id=49290713"
-    },
-    {
-      "hn_id": 49289133,
-      "title": "Surfil On-device control plane for AI coding agents",
+      "hn_id": 49303035,
+      "title": "Being Against LLMs Is Against the Spirit of Floss",
       "score": 5,
-      "by": "Samaradam",
+      "by": "joarxpablo",
+      "comments": 2,
+      "created_at": "2026-08-14T18:52:12+00:00",
+      "url": "https://joarvarndt.se/free-vibes-2",
+      "discussion_url": "https://news.ycombinator.com/item?id=49303035"
+    },
+    {
+      "hn_id": 49303645,
+      "title": "Satellite Will Breathe Air to Stay in Orbit",
+      "score": 5,
+      "by": "bilsbie",
+      "comments": 3,
+      "created_at": "2026-08-14T19:41:13+00:00",
+      "url": "https://gizmodo.com/this-satellite-will-literally-breathe-air-to-stay-in-orbit-2000796713",
+      "discussion_url": "https://news.ycombinator.com/item?id=49303645"
+    },
+    {
+      "hn_id": 49303499,
+      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "score": 3,
+      "by": "felipemayamuniz",
+      "comments": 0,
+      "created_at": "2026-08-14T19:28:17+00:00",
+      "url": "https://www.aletheionagi.com",
+      "discussion_url": "https://news.ycombinator.com/item?id=49303499"
+    },
+    {
+      "hn_id": 49300988,
+      "title": "WakeAI – an AI assistant that tells you when to leave so you're never late",
+      "score": 3,
+      "by": "Abzino",
       "comments": 1,
-      "created_at": "2026-08-13T17:24:30+00:00",
-      "url": "https://surfil.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49289133"
+      "created_at": "2026-08-14T16:27:46+00:00",
+      "url": "https://apps.apple.com/us/app/wakeai/id6755909459",
+      "discussion_url": "https://news.ycombinator.com/item?id=49300988"
     }
   ]
 }

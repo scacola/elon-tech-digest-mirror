@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T21:52:42.934015+00:00",
-  "cutoff": "2026-08-06T21:52:40.936165+00:00",
+  "generated_at": "2026-08-14T21:30:06.865626+00:00",
+  "cutoff": "2026-08-07T21:30:04.987347+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 17
+      "count": 15
     },
     {
       "source": "blog_deepmind",
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     {
       "source": "blog_anthropic",
@@ -150,22 +150,6 @@
       "lead_paragraph": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
     },
     {
-      "source": "blog_openai",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published_at": "2026-08-07T15:20:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "published_at": "2026-08-07T09:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 3.7 Flash",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -180,6 +164,14 @@
       "published_at": "2026-08-12T14:01:59+00:00",
       "author": "",
       "lead_paragraph": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -247,19 +239,19 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "published_at": "2026-08-14T20:06:43+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answ"
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Introducing Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "published_at": "2026-08-10T19:00:15+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Improving Fable 5 Safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "published_at": "2026-08-07T03:05:42+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks."
     }
   ]
 }
