@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T21:25:56.554873+00:00",
-  "cutoff": "2026-08-09T21:25:53.726383+00:00",
+  "generated_at": "2026-08-17T21:31:17.510179+00:00",
+  "cutoff": "2026-08-10T21:31:15.822868+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 15
+      "count": 10
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,40 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 2
+      "count": 1
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "published_at": "2026-08-17T05:30:00+00:00",
+      "author": "",
+      "lead_paragraph": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "published_at": "2026-08-17T05:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
+    },
+    {
+      "source": "blog_openai",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
+    },
     {
       "source": "blog_openai",
       "title": "The builder’s guide to GPT‑5.6",
@@ -86,70 +110,6 @@
       "lead_paragraph": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "published_at": "2026-08-10T14:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "published_at": "2026-08-10T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
-    },
-    {
-      "source": "blog_openai",
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "published_at": "2026-08-10T17:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 3.7 Flash",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -164,6 +124,14 @@
       "published_at": "2026-08-12T14:01:59+00:00",
       "author": "",
       "lead_paragraph": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "published_at": "2026-08-17T19:46:21+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -214,44 +182,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "published_at": "2026-08-10T16:25:36+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "published_at": "2026-08-10T10:05:36+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "How Claude's text watermarking works",
       "url": "https://www.anthropic.com/news/claude-text-watermark",
       "published_at": "2026-08-15T05:53:01+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answ"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "published_at": "2026-08-10T19:00:15+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
     }
   ]
 }
