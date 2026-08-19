@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-18T21:30:40.269919+00:00",
-  "cutoff": "2026-08-11T21:30:38.587097+00:00",
+  "generated_at": "2026-08-19T21:30:41.437096+00:00",
+  "cutoff": "2026-08-12T21:30:39.803820+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 15
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,30 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "published_at": "2026-08-19T19:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+    },
+    {
+      "source": "blog_openai",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "published_at": "2026-08-18T22:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+    },
     {
       "source": "blog_openai",
       "title": "Strengthening democratic oversight in national security",
@@ -60,6 +84,14 @@
       "published_at": "2026-08-18T11:00:00+00:00",
       "author": "",
       "lead_paragraph": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "published_at": "2026-08-18T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
     },
     {
       "source": "blog_openai",
@@ -118,22 +150,6 @@
       "lead_paragraph": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
     },
     {
-      "source": "blog_openai",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "published_at": "2026-08-12T06:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "published_at": "2026-08-12T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 3.7 Flash",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -142,12 +158,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "published_at": "2026-08-12T14:01:59+00:00",
+      "source": "blog_huggingface",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "published_at": "2026-08-19T13:48:49+00:00",
       "author": "",
-      "lead_paragraph": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -194,22 +210,6 @@
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
       "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
       "published_at": "2026-08-13T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "published_at": "2026-08-12T16:14:36+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "published_at": "2026-08-12T14:00:51+00:00",
       "author": "",
       "lead_paragraph": ""
     },
