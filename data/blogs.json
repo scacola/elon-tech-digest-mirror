@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-19T21:30:41.437096+00:00",
-  "cutoff": "2026-08-12T21:30:39.803820+00:00",
+  "generated_at": "2026-08-20T21:32:45.521593+00:00",
+  "cutoff": "2026-08-13T21:32:43.408334+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 5
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,22 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "published_at": "2026-08-20T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "published_at": "2026-08-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+    },
     {
       "source": "blog_openai",
       "title": "Offering Zero Data Retention for frontier models",
@@ -126,42 +142,10 @@
       "lead_paragraph": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
     },
     {
-      "source": "blog_openai",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "published_at": "2026-08-13T11:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "published_at": "2026-08-13T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
-    },
-    {
-      "source": "blog_openai",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "published_at": "2026-08-13T09:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "published_at": "2026-08-13T17:04:18+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_huggingface",
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "published_at": "2026-08-19T13:48:49+00:00",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "published_at": "2026-08-20T16:52:57+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -194,22 +178,6 @@
       "title": "State of Open Models: Summer 2026 Observations",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "published_at": "2026-08-14T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "published_at": "2026-08-13T17:16:04+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "published_at": "2026-08-13T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },

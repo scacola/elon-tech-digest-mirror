@@ -1,69 +1,13 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-08-19T21:30:39.589874+00:00",
+  "collected_at": "2026-08-20T21:32:43.164927+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
-      "no": "1369761",
-      "title": "AI개발 반대하는사람은 쓰레기들이다 진짜",
-      "recommend": 161,
-      "comments": 47,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.19",
-      "created_at": "2026-08-19T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369761",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1366767",
-      "title": "AI 관련자들 말이 너무 양치기 소년이 되어버렸음",
-      "recommend": 72,
-      "comments": 47,
-      "author": "바다기린",
-      "created_at_raw": "08.17",
-      "created_at": "2026-08-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366767",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1366914",
-      "title": "판사 AI 대체 논리가 너무 단단한 이유",
-      "recommend": 67,
-      "comments": 57,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.17",
-      "created_at": "2026-08-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366914",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1366633",
-      "title": "과도기 코리아",
-      "recommend": 63,
-      "comments": 37,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.17",
-      "created_at": "2026-08-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366633",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1369171",
       "title": "트위터에서 화제되기 시작하네",
-      "recommend": 54,
+      "recommend": 55,
       "comments": 14,
       "author": "ㅇㅇ",
       "created_at_raw": "08.19",
@@ -75,14 +19,28 @@
       ]
     },
     {
-      "no": "1366698",
-      "title": "빅테크 내부상황 요약",
-      "recommend": 53,
-      "comments": 22,
+      "no": "1369166",
+      "title": "독파모 사건도 헬조선식 흐지부지 엔딩 될 가능성 높다",
+      "recommend": 54,
+      "comments": 28,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.17",
-      "created_at": "2026-08-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366698",
+      "created_at_raw": "08.19",
+      "created_at": "2026-08-19T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369166",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1369996",
+      "title": "독파모 벤치마크 무용론 주장하는 교수님들",
+      "recommend": 54,
+      "comments": 17,
+      "author": "AI축협",
+      "created_at_raw": "08.20",
+      "created_at": "2026-08-20T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369996",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -105,7 +63,7 @@
     {
       "no": "1368472",
       "title": "애초에 블라인드 평가가 아니었네???",
-      "recommend": 51,
+      "recommend": 52,
       "comments": 13,
       "author": "량비츄비",
       "created_at_raw": "08.18",
@@ -131,23 +89,9 @@
       ]
     },
     {
-      "no": "1369166",
-      "title": "독파모 사건도 헬조선식 흐지부지 엔딩 될 가능성 높다",
-      "recommend": 50,
-      "comments": 27,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.19",
-      "created_at": "2026-08-19T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369166",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1368333",
       "title": "독파모 정보공개청구 때렸다",
-      "recommend": 49,
+      "recommend": 51,
       "comments": 8,
       "author": "ㅇㅇ",
       "created_at_raw": "08.18",
@@ -159,14 +103,71 @@
       ]
     },
     {
+      "no": "1370265",
+      "title": "트럼프 AI 뽕맞은 계기 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "recommend": 50,
+      "comments": 28,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.20",
+      "created_at": "2026-08-20T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1370265",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "humor"
+      ]
+    },
+    {
       "no": "1368252",
       "title": "독파모 우리가 한번 바꿔보자",
-      "recommend": 47,
+      "recommend": 48,
       "comments": 7,
       "author": "ㅇㅇ",
       "created_at_raw": "08.18",
       "created_at": "2026-08-18T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368252",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1369960",
+      "title": "단독] 과기정통부,  믹스벤치 입장떴다",
+      "recommend": 47,
+      "comments": 45,
+      "author": "chatgpt4o",
+      "created_at_raw": "08.20",
+      "created_at": "2026-08-20T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369960",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1370164",
+      "title": "모티프 중국에 팔리면 일어날 일",
+      "recommend": 47,
+      "comments": 17,
+      "author": "XI",
+      "created_at_raw": "08.20",
+      "created_at": "2026-08-20T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1370164",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1368348",
+      "title": "국가과제는 대기업이 해야한다고?",
+      "recommend": 47,
+      "comments": 6,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.18",
+      "created_at": "2026-08-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368348",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -187,14 +188,56 @@
       ]
     },
     {
-      "no": "1368348",
-      "title": "국가과제는 대기업이 해야한다고?",
+      "no": "1369718",
+      "title": "모더나 CEO 발언 이제야 이해되면 개추 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
       "recommend": 46,
-      "comments": 6,
+      "comments": 5,
+      "author": "데이터센터속천재들의나라",
+      "created_at_raw": "08.19",
+      "created_at": "2026-08-19T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369718",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1368294",
+      "title": "사람들이 모르는 모티프 개쩌는 점",
+      "recommend": 45,
+      "comments": 16,
       "author": "ㅇㅇ",
       "created_at_raw": "08.18",
       "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368348",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368294",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1368221",
+      "title": "..한국이 모티프를 탈락시켰답니다.",
+      "recommend": 45,
+      "comments": 13,
+      "author": "EventHorizon",
+      "created_at_raw": "08.18",
+      "created_at": "2026-08-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368221",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1368213",
+      "title": "테크좆소가 디씨 갤 민심 주작을 어케해 씨발놈아",
+      "recommend": 45,
+      "comments": 4,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.18",
+      "created_at": "2026-08-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368213",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -215,28 +258,14 @@
       ]
     },
     {
-      "no": "1368294",
-      "title": "사람들이 모르는 모티프 개쩌는 점",
+      "no": "1370602",
+      "title": "AA 벤치마크가 그 무엇보다 중요한 이유",
       "recommend": 44,
       "comments": 16,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.18",
-      "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368294",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1368221",
-      "title": "..한국이 모티프를 탈락시켰답니다.",
-      "recommend": 44,
-      "comments": 13,
-      "author": "EventHorizon",
-      "created_at_raw": "08.18",
-      "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368221",
+      "author": "약팔이아님",
+      "created_at_raw": "08.20",
+      "created_at": "2026-08-20T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1370602",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -245,7 +274,7 @@
     {
       "no": "1368538",
       "title": "특갤툰) 합격은 성적순이 아니잖아요?!",
-      "recommend": 43,
+      "recommend": 44,
       "comments": 12,
       "author": "ㅇㅇ",
       "created_at_raw": "08.18",
@@ -257,14 +286,14 @@
       ]
     },
     {
-      "no": "1368213",
-      "title": "테크좆소가 디씨 갤 민심 주작을 어케해 씨발놈아",
+      "no": "1368574",
+      "title": "모티프 연구원들 혹시 특갤 보면 충고한다",
       "recommend": 43,
-      "comments": 4,
+      "comments": 18,
       "author": "ㅇㅇ",
       "created_at_raw": "08.18",
       "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368213",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368574",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -286,20 +315,6 @@
       ]
     },
     {
-      "no": "1368574",
-      "title": "모티프 연구원들 혹시 특갤 보면 충고한다",
-      "recommend": 42,
-      "comments": 17,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.18",
-      "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368574",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1369031",
       "title": "JTBC에 모티프 관련 유튜브 영상 떴네",
       "recommend": 42,
@@ -314,23 +329,9 @@
       ]
     },
     {
-      "no": "1366460",
-      "title": "블루칼라도 얄짤없다",
-      "recommend": 41,
-      "comments": 42,
-      "author": "하이선",
-      "created_at_raw": "08.17",
-      "created_at": "2026-08-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366460",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1367767",
       "title": "진지하게 AI 실력 키우려면 무조건 '젬황' 써야 하는 이유",
-      "recommend": 40,
+      "recommend": 41,
       "comments": 32,
       "author": "ㅇㅇ",
       "created_at_raw": "08.18",
@@ -344,12 +345,54 @@
     {
       "no": "1368648",
       "title": "걍 아스트라 기다리고 있으면 개추",
-      "recommend": 40,
+      "recommend": 41,
       "comments": 6,
       "author": "ㅇㅇ",
       "created_at_raw": "08.18",
       "created_at": "2026-08-18T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368648",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1368480",
+      "title": "메일 보냄",
+      "recommend": 40,
+      "comments": 10,
+      "author": "영원히맑음",
+      "created_at_raw": "08.18",
+      "created_at": "2026-08-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368480",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1368789",
+      "title": "대기업뽑아서 까이는게아니라",
+      "recommend": 40,
+      "comments": 2,
+      "author": "멍청이1",
+      "created_at_raw": "08.19",
+      "created_at": "2026-08-19T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368789",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1369464",
+      "title": "영원히 살수있는 기술은 이미 개발됐음",
+      "recommend": 39,
+      "comments": 19,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.19",
+      "created_at": "2026-08-19T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369464",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -370,45 +413,45 @@
       ]
     },
     {
-      "no": "1368480",
-      "title": "메일 보냄",
-      "recommend": 39,
-      "comments": 10,
-      "author": "영원히맑음",
-      "created_at_raw": "08.18",
-      "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368480",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1366950",
-      "title": "코덱스 대대적 개편 예고…속도 94%·메모리 88% 감축",
+      "no": "1369918",
+      "title": "제미니3.7 이번에 벤치 좀 극단적으로 나왔네",
       "recommend": 38,
       "comments": 41,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.17",
-      "created_at": "2026-08-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366950",
+      "created_at_raw": "08.20",
+      "created_at": "2026-08-20T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369918",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1366552",
-      "title": "GTA 인도 버전",
+      "no": "1368257",
+      "title": "방금 갤켰는데 그니까 지금 상황이 이거임?",
       "recommend": 38,
-      "comments": 27,
-      "author": "초존도초",
-      "created_at_raw": "08.17",
-      "created_at": "2026-08-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366552",
+      "comments": 35,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.18",
+      "created_at": "2026-08-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368257",
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1369502",
+      "title": "헬지 이 마케팅 존나미네 ㅋㅋ",
+      "recommend": 38,
+      "comments": 17,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.19",
+      "created_at": "2026-08-19T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369502",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
       ]
     },
     {
@@ -426,45 +469,45 @@
       ]
     },
     {
-      "no": "1368789",
-      "title": "대기업뽑아서 까이는게아니라",
+      "no": "1368779",
+      "title": "특붕이 청원올렸어",
       "recommend": 38,
-      "comments": 2,
-      "author": "멍청이1",
+      "comments": 5,
+      "author": "ㅇㅇ",
       "created_at_raw": "08.19",
       "created_at": "2026-08-19T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368789",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368779",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1368257",
-      "title": "방금 갤켰는데 그니까 지금 상황이 이거임?",
+      "no": "1370321",
+      "title": "한국에서 이제 폴리마켓 못들어감 ㅋㅋㅋㅋㅋㅋ",
       "recommend": 37,
-      "comments": 35,
+      "comments": 42,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.18",
-      "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368257",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1369502",
-      "title": "헬지 이 마케팅 존나미네 ㅋㅋ",
-      "recommend": 37,
-      "comments": 16,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.19",
-      "created_at": "2026-08-19T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369502",
+      "created_at_raw": "08.20",
+      "created_at": "2026-08-20T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1370321",
       "body_excerpt": "",
       "tags": [
         "humor"
+      ]
+    },
+    {
+      "no": "1369449",
+      "title": "엑사원 벤치맥싱 기사 싹 내려버렸네",
+      "recommend": 37,
+      "comments": 13,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.19",
+      "created_at": "2026-08-19T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369449",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -482,28 +525,14 @@
       ]
     },
     {
-      "no": "1369718",
-      "title": "모더나 CEO 발언 이제야 이해되면 개추 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
+      "no": "1370006",
+      "title": "설마설마 했는데 진짜 카르텔이었노",
       "recommend": 37,
-      "comments": 5,
-      "author": "데이터센터속천재들의나라",
-      "created_at_raw": "08.19",
-      "created_at": "2026-08-19T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369718",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1368779",
-      "title": "특붕이 청원올렸어",
-      "recommend": 37,
-      "comments": 5,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.19",
-      "created_at": "2026-08-19T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368779",
+      "comments": 3,
+      "author": "Luthenium",
+      "created_at_raw": "08.20",
+      "created_at": "2026-08-20T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1370006",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -524,17 +553,31 @@
       ]
     },
     {
-      "no": "1366947",
-      "title": "딥시크 초사이어인 모드 (페이블 이김)",
-      "recommend": 36,
-      "comments": 26,
-      "author": "량비츄비",
-      "created_at_raw": "08.17",
-      "created_at": "2026-08-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366947",
+      "no": "1368488",
+      "title": "모티프 캬",
+      "recommend": 35,
+      "comments": 37,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.18",
+      "created_at": "2026-08-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368488",
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1368128",
+      "title": "국가대표급 ai 개발 사업 독파모",
+      "recommend": 35,
+      "comments": 16,
+      "author": "POKUDONS",
+      "created_at_raw": "08.18",
+      "created_at": "2026-08-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368128",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -546,20 +589,6 @@
       "created_at_raw": "08.18",
       "created_at": "2026-08-18T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1367614",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1369449",
-      "title": "엑사원 벤치맥싱 기사 싹 내려버렸네",
-      "recommend": 35,
-      "comments": 13,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.19",
-      "created_at": "2026-08-19T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369449",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -580,6 +609,20 @@
       ]
     },
     {
+      "no": "1368588",
+      "title": "걍 Arena한테 외주주라고ㅋㅋㅋㅋ",
+      "recommend": 35,
+      "comments": 11,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.18",
+      "created_at": "2026-08-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368588",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
       "no": "1368439",
       "title": "취재요청 메일 보냄",
       "recommend": 35,
@@ -594,14 +637,14 @@
       ]
     },
     {
-      "no": "1368488",
-      "title": "모티프 캬",
-      "recommend": 34,
-      "comments": 34,
-      "author": "ㅇㅇ",
+      "no": "1368599",
+      "title": "국민신문고 공개제안 신청했습니다.",
+      "recommend": 35,
+      "comments": 5,
+      "author": "사이언스2.0",
       "created_at_raw": "08.18",
       "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368488",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368599",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -622,6 +665,21 @@
       ]
     },
     {
+      "no": "1369591",
+      "title": "AI가 빛인 이유 ㅋㅋㅋ",
+      "recommend": 34,
+      "comments": 21,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.19",
+      "created_at": "2026-08-19T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369591",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "humor"
+      ]
+    },
+    {
       "no": "1367531",
       "title": "LLM때문에 이제 수학학계 떠난다는 수학자..png",
       "recommend": 34,
@@ -637,70 +695,14 @@
       ]
     },
     {
-      "no": "1368128",
-      "title": "국가대표급 ai 개발 사업 독파모",
-      "recommend": 34,
-      "comments": 16,
-      "author": "POKUDONS",
-      "created_at_raw": "08.18",
-      "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368128",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1369561",
       "title": "모더나 암백신 임상3상 성공했네?",
       "recommend": 34,
-      "comments": 15,
+      "comments": 17,
       "author": "ㅇㅇ",
       "created_at_raw": "08.19",
       "created_at": "2026-08-19T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369561",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1368588",
-      "title": "걍 Arena한테 외주주라고ㅋㅋㅋㅋ",
-      "recommend": 34,
-      "comments": 11,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.18",
-      "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368588",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1368599",
-      "title": "국민신문고 공개제안 신청했습니다.",
-      "recommend": 34,
-      "comments": 5,
-      "author": "사이언스2.0",
-      "created_at_raw": "08.18",
-      "created_at": "2026-08-18T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1368599",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1369464",
-      "title": "영원히 살수있는 기술은 이미 개발됐음",
-      "recommend": 33,
-      "comments": 16,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.19",
-      "created_at": "2026-08-19T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1369464",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -710,7 +712,7 @@
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 84,
+    "dropped_old": 70,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }

@@ -1,217 +1,147 @@
 {
-  "generated_at": "2026-08-19T21:30:52.648653+00:00",
-  "cutoff": "2026-08-18T21:30:43.069838+00:00",
+  "generated_at": "2026-08-20T21:33:01.539844+00:00",
+  "cutoff": "2026-08-19T21:32:46.388320+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49360015,
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "score": 640,
-      "by": "kareiva",
-      "comments": 84,
-      "created_at": "2026-08-19T11:21:50+00:00",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49360015"
+      "hn_id": 49371857,
+      "title": "Don't paste the AI, please",
+      "score": 976,
+      "by": "pjerem",
+      "comments": 528,
+      "created_at": "2026-08-20T08:20:44+00:00",
+      "url": "https://dontpastetheai.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49371857"
     },
     {
-      "hn_id": 49360242,
-      "title": "Devices with GrapheneOS support should be available in 2027",
-      "score": 554,
-      "by": "exceptione",
-      "comments": 349,
-      "created_at": "2026-08-19T11:46:58+00:00",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "discussion_url": "https://news.ycombinator.com/item?id=49360242"
+      "hn_id": 49373456,
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "score": 444,
+      "by": "simedw",
+      "comments": 99,
+      "created_at": "2026-08-20T12:04:38+00:00",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49373456"
     },
     {
-      "hn_id": 49359425,
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-      "score": 220,
-      "by": "gurov",
-      "comments": 78,
-      "created_at": "2026-08-19T10:15:00+00:00",
-      "url": "https://theremin.bizibah.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49359425"
+      "hn_id": 49375996,
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "score": 138,
+      "by": "Bluestein",
+      "comments": 145,
+      "created_at": "2026-08-20T15:26:02+00:00",
+      "url": "https://github.com/zachahn/vomit",
+      "discussion_url": "https://news.ycombinator.com/item?id=49375996"
     },
     {
-      "hn_id": 49353432,
-      "title": "AI usage patterns in software teams",
-      "score": 177,
-      "by": "giuliomagnifico",
-      "comments": 110,
-      "created_at": "2026-08-18T22:08:07+00:00",
-      "url": "https://linear.app/data",
-      "discussion_url": "https://news.ycombinator.com/item?id=49353432"
+      "hn_id": 49378768,
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "score": 132,
+      "by": "danielvaughn",
+      "comments": 68,
+      "created_at": "2026-08-20T19:05:36+00:00",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49378768"
     },
     {
-      "hn_id": 49353339,
-      "title": "fx :Tiny, open, native coding agent.",
-      "score": 135,
-      "by": "handfuloflight",
-      "comments": 64,
-      "created_at": "2026-08-18T22:00:21+00:00",
-      "url": "https://fx.sh",
-      "discussion_url": "https://news.ycombinator.com/item?id=49353339"
+      "hn_id": 49374287,
+      "title": "DiffusionGemma Technical Report",
+      "score": 122,
+      "by": "gmays",
+      "comments": 31,
+      "created_at": "2026-08-20T13:24:32+00:00",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "discussion_url": "https://news.ycombinator.com/item?id=49374287"
     },
     {
-      "hn_id": 49364745,
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "score": 118,
-      "by": "Animux",
-      "comments": 29,
-      "created_at": "2026-08-19T17:47:29+00:00",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "discussion_url": "https://news.ycombinator.com/item?id=49364745"
-    },
-    {
-      "hn_id": 49354664,
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "score": 105,
-      "by": "lizhaoliu",
-      "comments": 11,
-      "created_at": "2026-08-18T23:57:36+00:00",
-      "url": "https://modelmap.cc",
-      "discussion_url": "https://news.ycombinator.com/item?id=49354664"
-    },
-    {
-      "hn_id": 49363668,
-      "title": "Extensible Software in the age of LLMs",
-      "score": 83,
-      "by": "coloneltcb",
-      "comments": 36,
-      "created_at": "2026-08-19T16:26:05+00:00",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49363668"
-    },
-    {
-      "hn_id": 49362728,
-      "title": "Mathematics in the age of AI",
-      "score": 82,
-      "by": "jonbaer",
-      "comments": 61,
-      "created_at": "2026-08-19T15:14:25+00:00",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "discussion_url": "https://news.ycombinator.com/item?id=49362728"
-    },
-    {
-      "hn_id": 49363587,
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025)",
-      "score": 54,
-      "by": "florianherrengt",
-      "comments": 33,
-      "created_at": "2026-08-19T16:18:57+00:00",
-      "url": "https://arxiv.org/abs/2503.08679",
-      "discussion_url": "https://news.ycombinator.com/item?id=49363587"
-    },
-    {
-      "hn_id": 49364789,
-      "title": "Cop Explains Why He Used License Plate Reader to Stalk Woman",
-      "score": 50,
-      "by": "cdrnsf",
-      "comments": 39,
-      "created_at": "2026-08-19T17:50:35+00:00",
-      "url": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49364789"
-    },
-    {
-      "hn_id": 49363710,
-      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "score": 41,
-      "by": "guyb3",
-      "comments": 13,
-      "created_at": "2026-08-19T16:29:02+00:00",
-      "url": "https://github.com/onecli/onecli",
-      "discussion_url": "https://news.ycombinator.com/item?id=49363710"
-    },
-    {
-      "hn_id": 49364371,
-      "title": "Best Buy 'Repaired' a 64GB Laptop by Making It 32GB",
-      "score": 25,
+      "hn_id": 49375719,
+      "title": "Anti-AI fonts are useless and harmful",
+      "score": 78,
       "by": "speckx",
-      "comments": 3,
-      "created_at": "2026-08-19T17:17:44+00:00",
-      "url": "https://www.extremetech.com/computing/best-buy-repaired-a-64gb-laptop-by-making-it-32gb",
-      "discussion_url": "https://news.ycombinator.com/item?id=49364371"
+      "comments": 60,
+      "created_at": "2026-08-20T15:06:53+00:00",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49375719"
     },
     {
-      "hn_id": 49364223,
-      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-      "score": 23,
-      "by": "dpc94",
-      "comments": 6,
-      "created_at": "2026-08-19T17:07:35+00:00",
-      "url": "https://demo.frugaltokens.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49364223"
+      "hn_id": 49373269,
+      "title": "AI didn't erase the junior engineer's value, it increased it it",
+      "score": 71,
+      "by": "franciscomt",
+      "comments": 129,
+      "created_at": "2026-08-20T11:42:20+00:00",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49373269"
     },
     {
-      "hn_id": 49367165,
-      "title": "OpenAI's Unraveling Has Begun",
-      "score": 12,
-      "by": "7777777phil",
-      "comments": 1,
-      "created_at": "2026-08-19T21:00:57+00:00",
-      "url": "https://garymarcus.substack.com/p/breaking-openais-unraveling-has-begun",
-      "discussion_url": "https://news.ycombinator.com/item?id=49367165"
-    },
-    {
-      "hn_id": 49366519,
-      "title": "Human brain organoids record the passage of time over multiple years",
-      "score": 8,
-      "by": "sbulaev",
-      "comments": 1,
-      "created_at": "2026-08-19T20:07:06+00:00",
-      "url": "https://www.nature.com/articles/s41586-026-10877-x",
-      "discussion_url": "https://news.ycombinator.com/item?id=49366519"
-    },
-    {
-      "hn_id": 49366252,
-      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-      "score": 7,
-      "by": "thm",
-      "comments": 2,
-      "created_at": "2026-08-19T19:42:35+00:00",
-      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49366252"
-    },
-    {
-      "hn_id": 49366416,
-      "title": "AI was supposed to win people over by now – it hasn't",
-      "score": 7,
+      "hn_id": 49374772,
+      "title": "Hacking with Claude on a $27 smart watch",
+      "score": 66,
       "by": "speckx",
+      "comments": 41,
+      "created_at": "2026-08-20T14:08:09+00:00",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49374772"
+    },
+    {
+      "hn_id": 49374635,
+      "title": "Every Model Cheats",
+      "score": 63,
+      "by": "vga805",
+      "comments": 45,
+      "created_at": "2026-08-20T13:56:59+00:00",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49374635"
+    },
+    {
+      "hn_id": 49375237,
+      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+      "score": 55,
+      "by": "knaught",
+      "comments": 35,
+      "created_at": "2026-08-20T14:38:28+00:00",
+      "url": "https://pub.doub.ly/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49375237"
+    },
+    {
+      "hn_id": 49375390,
+      "title": "Could AIs Become Conscious?",
+      "score": 17,
+      "by": "andsoitis",
+      "comments": 52,
+      "created_at": "2026-08-20T14:47:12+00:00",
+      "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
+      "discussion_url": "https://news.ycombinator.com/item?id=49375390"
+    },
+    {
+      "hn_id": 49377155,
+      "title": "AI at Home Part 2: Multi-GPU Drifting",
+      "score": 14,
+      "by": "timmmmmmay",
+      "comments": 1,
+      "created_at": "2026-08-20T16:53:55+00:00",
+      "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49377155"
+    },
+    {
+      "hn_id": 49374729,
+      "title": "Guess which of these LLM outputs is watermarked",
+      "score": 11,
+      "by": "gfysfm",
+      "comments": 5,
+      "created_at": "2026-08-20T14:03:58+00:00",
+      "url": "https://sgoedecke.github.io/watermark-quiz/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49374729"
+    },
+    {
+      "hn_id": 49378419,
+      "title": "TrueForge – The open-source agent harness",
+      "score": 10,
+      "by": "qiasl2",
       "comments": 2,
-      "created_at": "2026-08-19T19:58:01+00:00",
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49366416"
-    },
-    {
-      "hn_id": 49366355,
-      "title": "Waymo Ojai available for all riders in SF, LA, PHX",
-      "score": 5,
-      "by": "sdhillon",
-      "comments": 0,
-      "created_at": "2026-08-19T19:52:38+00:00",
-      "url": "https://twitter.com/waymo/status/2090142263099773046",
-      "discussion_url": "https://news.ycombinator.com/item?id=49366355"
-    },
-    {
-      "hn_id": 49362983,
-      "title": "The job ain't quite the same",
-      "score": 4,
-      "by": "mangoman",
-      "comments": 2,
-      "created_at": "2026-08-19T15:36:15+00:00",
-      "url": "https://prashanth.world/the-job-aint-the-same/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49362983"
-    },
-    {
-      "hn_id": 49367180,
-      "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
-      "score": 3,
-      "by": "50kIters",
-      "comments": 0,
-      "created_at": "2026-08-19T21:02:31+00:00",
-      "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49367180"
+      "created_at": "2026-08-20T18:36:07+00:00",
+      "url": "https://github.com/truefoundry/trueforge",
+      "discussion_url": "https://news.ycombinator.com/item?id=49378419"
     }
   ]
 }
