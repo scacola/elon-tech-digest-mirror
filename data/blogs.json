@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T21:32:45.521593+00:00",
-  "cutoff": "2026-08-13T21:32:43.408334+00:00",
+  "generated_at": "2026-08-21T21:29:32.682963+00:00",
+  "cutoff": "2026-08-14T21:29:30.906013+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -13,7 +13,7 @@
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     {
       "source": "blog_huggingface",
@@ -39,7 +39,7 @@
     },
     {
       "source": "blog_openai",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "url": "https://openai.com/index/stampli",
       "published_at": "2026-08-20T00:00:00+00:00",
       "author": "",
@@ -142,6 +142,22 @@
       "lead_paragraph": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
     },
     {
+      "source": "blog_deepmind",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "published_at": "2026-08-21T11:59:48+00:00",
+      "author": "",
+      "lead_paragraph": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published_at": "2026-08-21T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
       "source": "blog_huggingface",
       "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
@@ -170,14 +186,6 @@
       "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
       "published_at": "2026-08-17T19:46:21+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "published_at": "2026-08-14T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
