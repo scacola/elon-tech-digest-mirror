@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T21:29:32.682963+00:00",
-  "cutoff": "2026-08-14T21:29:30.906013+00:00",
+  "generated_at": "2026-08-22T21:26:47.415470+00:00",
+  "cutoff": "2026-08-15T21:26:46.312534+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -25,7 +25,7 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 1
+      "count": 0
     }
   ],
   "items": [
@@ -188,14 +188,6 @@
       "published_at": "2026-08-17T19:46:21+00:00",
       "author": "",
       "lead_paragraph": ""
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "How Claude's text watermarking works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "published_at": "2026-08-15T05:53:01+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answ"
     }
   ]
 }

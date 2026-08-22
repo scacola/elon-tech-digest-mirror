@@ -1,167 +1,77 @@
 {
-  "generated_at": "2026-08-21T21:29:44.544331+00:00",
-  "cutoff": "2026-08-20T21:29:33.671778+00:00",
+  "generated_at": "2026-08-22T21:26:57.205623+00:00",
+  "cutoff": "2026-08-21T21:26:48.209952+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49383026,
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "score": 459,
-      "by": "Cider9986",
-      "comments": 810,
-      "created_at": "2026-08-21T02:37:47+00:00",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49383026"
+      "hn_id": 49398152,
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "score": 232,
+      "by": "simonpure",
+      "comments": 107,
+      "created_at": "2026-08-22T09:49:14+00:00",
+      "url": "https://munderdiffl.in/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49398152"
     },
     {
-      "hn_id": 49386699,
-      "title": "I'm becoming AI-blind",
-      "score": 194,
-      "by": "rcymerys",
-      "comments": 195,
-      "created_at": "2026-08-21T11:48:05+00:00",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "discussion_url": "https://news.ycombinator.com/item?id=49386699"
+      "hn_id": 49398904,
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "score": 195,
+      "by": "sbulaev",
+      "comments": 158,
+      "created_at": "2026-08-22T12:07:06+00:00",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "discussion_url": "https://news.ycombinator.com/item?id=49398904"
     },
     {
-      "hn_id": 49388752,
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "score": 140,
-      "by": "aakil",
-      "comments": 103,
-      "created_at": "2026-08-21T14:31:52+00:00",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "discussion_url": "https://news.ycombinator.com/item?id=49388752"
+      "hn_id": 49399591,
+      "title": "New MCP Roadmap",
+      "score": 157,
+      "by": "pentagrama",
+      "comments": 118,
+      "created_at": "2026-08-22T13:31:34+00:00",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49399591"
     },
     {
-      "hn_id": 49389952,
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "score": 69,
-      "by": "toebee",
-      "comments": 13,
-      "created_at": "2026-08-21T15:51:10+00:00",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49389952"
+      "hn_id": 49401549,
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "score": 111,
+      "by": "matthieu_bl",
+      "comments": 118,
+      "created_at": "2026-08-22T16:58:49+00:00",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "discussion_url": "https://news.ycombinator.com/item?id=49401549"
     },
     {
-      "hn_id": 49390463,
-      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "score": 58,
-      "by": "jakelsaunders94",
-      "comments": 39,
-      "created_at": "2026-08-21T16:27:52+00:00",
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49390463"
+      "hn_id": 49399642,
+      "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+      "score": 53,
+      "by": "bookofjoe",
+      "comments": 66,
+      "created_at": "2026-08-22T13:39:07+00:00",
+      "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+      "discussion_url": "https://news.ycombinator.com/item?id=49399642"
     },
     {
-      "hn_id": 49393051,
-      "title": "Quick impressions: A week of using Codex more than Claude",
-      "score": 49,
-      "by": "speckx",
-      "comments": 47,
-      "created_at": "2026-08-21T19:51:48+00:00",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49393051"
+      "hn_id": 49402232,
+      "title": "Why your local LLM feels dumber than it is",
+      "score": 45,
+      "by": "felineflock",
+      "comments": 15,
+      "created_at": "2026-08-22T18:14:16+00:00",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "discussion_url": "https://news.ycombinator.com/item?id=49402232"
     },
     {
-      "hn_id": 49390739,
-      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "hn_id": 49397947,
+      "title": "Embedded AI",
       "score": 33,
-      "by": "pablo24602",
-      "comments": 14,
-      "created_at": "2026-08-21T16:47:15+00:00",
-      "url": "https://github.com/proliferate-ai/proliferate",
-      "discussion_url": "https://news.ycombinator.com/item?id=49390739"
-    },
-    {
-      "hn_id": 49392331,
-      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "score": 28,
-      "by": "garo-pro",
-      "comments": 22,
-      "created_at": "2026-08-21T18:48:28+00:00",
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "discussion_url": "https://news.ycombinator.com/item?id=49392331"
-    },
-    {
-      "hn_id": 49387099,
-      "title": "The Prague of Deus Ex: Mankind Divided",
-      "score": 22,
-      "by": "keiferski",
-      "comments": 7,
-      "created_at": "2026-08-21T12:29:20+00:00",
-      "url": "https://www.killscreen.com/disjointed-prague-deus-ex-mankind-divided/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49387099"
-    },
-    {
-      "hn_id": 49391469,
-      "title": "Show HN: Declarative-forms – await an object the way prompt() awaits a string",
-      "score": 10,
-      "by": "WolfOliver",
-      "comments": 1,
-      "created_at": "2026-08-21T17:40:07+00:00",
-      "url": "https://wolfoo2931.github.io/declarative-forms/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49391469"
-    },
-    {
-      "hn_id": 49392479,
-      "title": "I'm Sick of Reading AI-Written Posts",
-      "score": 10,
-      "by": "gurjeet",
-      "comments": 4,
-      "created_at": "2026-08-21T19:01:21+00:00",
-      "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf",
-      "discussion_url": "https://news.ycombinator.com/item?id=49392479"
-    },
-    {
-      "hn_id": 49392099,
-      "title": "How Thailand Resisted Colonization",
-      "score": 9,
-      "by": "karakoram",
-      "comments": 0,
-      "created_at": "2026-08-21T18:28:42+00:00",
-      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49392099"
-    },
-    {
-      "hn_id": 49389846,
-      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-      "score": 8,
-      "by": "jardy",
-      "comments": 0,
-      "created_at": "2026-08-21T15:44:40+00:00",
-      "url": "https://www.pianoify.net/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49389846"
-    },
-    {
-      "hn_id": 49393647,
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "score": 7,
-      "by": "dthread3",
-      "comments": 0,
-      "created_at": "2026-08-21T20:52:10+00:00",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49393647"
-    },
-    {
-      "hn_id": 49392819,
-      "title": "Readers can't identify watermarked AI text",
-      "score": 6,
-      "by": "dmarto",
-      "comments": 0,
-      "created_at": "2026-08-21T19:30:09+00:00",
-      "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49392819"
-    },
-    {
-      "hn_id": 49392727,
-      "title": "The Agent Access Model",
-      "score": 3,
-      "by": "gmays",
-      "comments": 0,
-      "created_at": "2026-08-21T19:22:15+00:00",
-      "url": "https://blog.cloudflare.com/the-agent-access-model/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49392727"
+      "by": "0x54MUR41",
+      "comments": 9,
+      "created_at": "2026-08-22T09:07:26+00:00",
+      "url": "https://nostarch.com/embedded-ai",
+      "discussion_url": "https://news.ycombinator.com/item?id=49397947"
     }
   ]
 }
