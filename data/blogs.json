@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-23T21:26:26.276700+00:00",
-  "cutoff": "2026-08-16T21:26:24.621876+00:00",
+  "generated_at": "2026-08-24T21:34:41.006825+00:00",
+  "cutoff": "2026-08-17T21:34:39.010324+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 14
+      "count": 12
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,24 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 0
+      "count": 2
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "published_at": "2026-08-24T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+    },
     {
       "source": "blog_openai",
       "title": "Introducing AI Futures",
@@ -118,30 +126,6 @@
       "lead_paragraph": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
     },
     {
-      "source": "blog_openai",
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "published_at": "2026-08-17T05:30:00+00:00",
-      "author": "",
-      "lead_paragraph": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
-    },
-    {
-      "source": "blog_openai",
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "published_at": "2026-08-17T05:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
-    },
-    {
-      "source": "blog_openai",
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
-    },
-    {
       "source": "blog_deepmind",
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
@@ -182,12 +166,20 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "published_at": "2026-08-17T19:46:21+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Improving Fable 5 Safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "published_at": "2026-08-24T15:42:06+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "published_at": "2026-08-24T15:41:58+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answ"
     }
   ]
 }
