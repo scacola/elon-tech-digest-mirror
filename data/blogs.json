@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T21:34:41.006825+00:00",
-  "cutoff": "2026-08-17T21:34:39.010324+00:00",
+  "generated_at": "2026-08-25T21:33:45.892021+00:00",
+  "cutoff": "2026-08-18T21:33:41.570321+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 10
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,48 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 4
+      "count": 6
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 2
+      "count": 8
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "published_at": "2026-08-25T07:05:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+    },
     {
       "source": "blog_openai",
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -78,60 +110,44 @@
       "lead_paragraph": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
     },
     {
-      "source": "blog_openai",
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "published_at": "2026-08-18T19:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "published_at": "2026-08-18T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
-    },
-    {
       "source": "blog_deepmind",
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "published_at": "2026-08-21T11:59:48+00:00",
       "author": "",
       "lead_paragraph": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "published_at": "2026-08-25T15:14:14+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "published_at": "2026-08-25T11:39:24+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "published_at": "2026-08-21T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -150,20 +166,52 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "published_at": "2026-08-18T18:09:38+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "published_at": "2026-08-25T16:20:57+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "published_at": "2026-08-18T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Introducing the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
+      "published_at": "2026-08-25T16:13:14+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Announcement of the new Anthropic Economic Index and description of the new data on AI use in occupations"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+      "url": "https://www.anthropic.com/news/economic-futures-uk-europe",
+      "published_at": "2026-08-25T16:13:14+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic's support for economic research comes to the UK and Europe"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "published_at": "2026-08-25T16:13:14+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
+      "published_at": "2026-08-25T16:13:14+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "The second update from the Anthropic Economic Index"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "The Anthropic Economic Index connector",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "published_at": "2026-08-25T16:13:14+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore the data directly."
     },
     {
       "source": "blog_anthropic",
