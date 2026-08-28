@@ -1,247 +1,207 @@
 {
-  "generated_at": "2026-08-27T00:35:43.497961+00:00",
-  "cutoff": "2026-08-26T00:35:28.213906+00:00",
+  "generated_at": "2026-08-28T05:11:41.748622+00:00",
+  "cutoff": "2026-08-27T05:11:32.860749+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49452990,
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "score": 455,
-      "by": "nderjung",
-      "comments": 89,
-      "created_at": "2026-08-26T17:42:22+00:00",
-      "url": "https://github.com/tailscale/tailcat",
-      "discussion_url": "https://news.ycombinator.com/item?id=49452990"
+      "hn_id": 49466917,
+      "title": "Small Models Have Arrived",
+      "score": 556,
+      "by": "tosh",
+      "comments": 250,
+      "created_at": "2026-08-27T15:56:58+00:00",
+      "url": "https://calv.info/small-models-have-arrived",
+      "discussion_url": "https://news.ycombinator.com/item?id=49466917"
     },
     {
-      "hn_id": 49445727,
-      "title": "RAG Is Simpler Than You Think",
-      "score": 426,
-      "by": "j0selit0",
-      "comments": 176,
-      "created_at": "2026-08-26T08:39:17+00:00",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "discussion_url": "https://news.ycombinator.com/item?id=49445727"
+      "hn_id": 49461817,
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "score": 414,
+      "by": "Labo333",
+      "comments": 191,
+      "created_at": "2026-08-27T08:59:49+00:00",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49461817"
     },
     {
-      "hn_id": 49446422,
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "score": 417,
-      "by": "garo-pro",
-      "comments": 141,
-      "created_at": "2026-08-26T10:04:55+00:00",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "discussion_url": "https://news.ycombinator.com/item?id=49446422"
+      "hn_id": 49467922,
+      "title": "Gemini Omni 1.1 Flash",
+      "score": 215,
+      "by": "saretup",
+      "comments": 151,
+      "created_at": "2026-08-27T17:06:32+00:00",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49467922"
     },
     {
-      "hn_id": 49450898,
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "score": 164,
-      "by": "zazuke",
-      "comments": 90,
-      "created_at": "2026-08-26T15:30:05+00:00",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49450898"
-    },
-    {
-      "hn_id": 49451313,
-      "title": "The turbulent AI era is here",
-      "score": 152,
-      "by": "LVB",
-      "comments": 135,
-      "created_at": "2026-08-26T15:55:15+00:00",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "discussion_url": "https://news.ycombinator.com/item?id=49451313"
-    },
-    {
-      "hn_id": 49450188,
-      "title": "VMs won't contain cyber-capable agents",
-      "score": 138,
-      "by": "polyrand",
-      "comments": 112,
-      "created_at": "2026-08-26T14:49:30+00:00",
-      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49450188"
-    },
-    {
-      "hn_id": 49449888,
-      "title": "PageRank explained",
-      "score": 114,
-      "by": "pkoird",
-      "comments": 81,
-      "created_at": "2026-08-26T14:29:05+00:00",
-      "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49449888"
-    },
-    {
-      "hn_id": 49454764,
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "score": 75,
-      "by": "tilt",
-      "comments": 42,
-      "created_at": "2026-08-26T19:45:59+00:00",
-      "url": "https://acceptmarkdown.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49454764"
-    },
-    {
-      "hn_id": 49451495,
-      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-      "score": 43,
-      "by": "AlexRisio",
-      "comments": 17,
-      "created_at": "2026-08-26T16:06:01+00:00",
-      "url": "https://www.risklytics.ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49451495"
-    },
-    {
-      "hn_id": 49454742,
-      "title": "The risks of AI are real but manageable (2023)",
-      "score": 31,
-      "by": "ckastner",
-      "comments": 29,
-      "created_at": "2026-08-26T19:44:33+00:00",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
-      "discussion_url": "https://news.ycombinator.com/item?id=49454742"
-    },
-    {
-      "hn_id": 49454542,
-      "title": "Haiku R1/Beta6 Released",
-      "score": 30,
-      "by": "birdculture",
-      "comments": 4,
-      "created_at": "2026-08-26T19:30:49+00:00",
-      "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes",
-      "discussion_url": "https://news.ycombinator.com/item?id=49454542"
-    },
-    {
-      "hn_id": 49455557,
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "score": 20,
-      "by": "CoolNamesAllTkn",
-      "comments": 2,
-      "created_at": "2026-08-26T20:38:44+00:00",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49455557"
-    },
-    {
-      "hn_id": 49454205,
-      "title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
-      "score": 16,
-      "by": "matt_d",
-      "comments": 0,
-      "created_at": "2026-08-26T19:08:58+00:00",
-      "url": "https://arxiv.org/abs/2608.19628",
-      "discussion_url": "https://news.ycombinator.com/item?id=49454205"
-    },
-    {
-      "hn_id": 49455713,
-      "title": "WebMCP Challenge – OpenAI",
-      "score": 16,
-      "by": "tilt",
-      "comments": 4,
-      "created_at": "2026-08-26T20:50:04+00:00",
-      "url": "https://openai.com/webmcp-challenge/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49455713"
-    },
-    {
-      "hn_id": 49454175,
-      "title": "Disenchantment with the Post-AI Internet",
-      "score": 14,
-      "by": "speckx",
-      "comments": 0,
-      "created_at": "2026-08-26T19:06:59+00:00",
-      "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49454175"
-    },
-    {
-      "hn_id": 49452393,
-      "title": "Gemini 3.5 Transcribe",
-      "score": 13,
-      "by": "wmchen",
-      "comments": 2,
-      "created_at": "2026-08-26T17:02:37+00:00",
+      "hn_id": 49468818,
+      "title": "Gemini-3.5-Transcribe",
+      "score": 209,
+      "by": "k9294",
+      "comments": 58,
+      "created_at": "2026-08-27T18:03:42+00:00",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49452393"
+      "discussion_url": "https://news.ycombinator.com/item?id=49468818"
     },
     {
-      "hn_id": 49454606,
-      "title": "The turbulent AI era is here. The choices we make now are critical",
-      "score": 12,
-      "by": "herbertl",
+      "hn_id": 49473522,
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "score": 173,
+      "by": "jbegley",
+      "comments": 76,
+      "created_at": "2026-08-28T02:03:38+00:00",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49473522"
+    },
+    {
+      "hn_id": 49468315,
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "score": 171,
+      "by": "vinni2",
+      "comments": 93,
+      "created_at": "2026-08-27T17:33:13+00:00",
+      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "discussion_url": "https://news.ycombinator.com/item?id=49468315"
+    },
+    {
+      "hn_id": 49471407,
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "score": 143,
+      "by": "SilenN",
+      "comments": 24,
+      "created_at": "2026-08-27T21:18:35+00:00",
+      "url": "https://github.com/experientiallabs/experiential",
+      "discussion_url": "https://news.ycombinator.com/item?id=49471407"
+    },
+    {
+      "hn_id": 49464314,
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "score": 125,
+      "by": "pbui",
+      "comments": 72,
+      "created_at": "2026-08-27T13:07:45+00:00",
+      "url": "https://aiandeducation.mit.edu/report/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49464314"
+    },
+    {
+      "hn_id": 49470996,
+      "title": "$900M paid out to end wind farm project going to firm run by Mar-a-Lago neighbor",
+      "score": 111,
+      "by": "pseudolus",
+      "comments": 25,
+      "created_at": "2026-08-27T20:44:52+00:00",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-windfarm-money-neighbors-florida-b3040628.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49470996"
+    },
+    {
+      "hn_id": 49468834,
+      "title": "Previewing the Model Hardware Standard",
+      "score": 102,
+      "by": "surprisetalk",
+      "comments": 35,
+      "created_at": "2026-08-27T18:04:50+00:00",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "discussion_url": "https://news.ycombinator.com/item?id=49468834"
+    },
+    {
+      "hn_id": 49467551,
+      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+      "score": 74,
+      "by": "sachinneravath",
+      "comments": 54,
+      "created_at": "2026-08-27T16:37:44+00:00",
+      "url": "https://github.com/kelviq/tare",
+      "discussion_url": "https://news.ycombinator.com/item?id=49467551"
+    },
+    {
+      "hn_id": 49471714,
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "score": 73,
+      "by": "calmrocks",
+      "comments": 8,
+      "created_at": "2026-08-27T21:46:39+00:00",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "discussion_url": "https://news.ycombinator.com/item?id=49471714"
+    },
+    {
+      "hn_id": 49473483,
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "score": 68,
+      "by": "1986",
+      "comments": 22,
+      "created_at": "2026-08-28T01:57:26+00:00",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "discussion_url": "https://news.ycombinator.com/item?id=49473483"
+    },
+    {
+      "hn_id": 49472820,
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "score": 59,
+      "by": "matt_d",
+      "comments": 13,
+      "created_at": "2026-08-28T00:06:51+00:00",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "discussion_url": "https://news.ycombinator.com/item?id=49472820"
+    },
+    {
+      "hn_id": 49474143,
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "score": 36,
+      "by": "signa11",
+      "comments": 4,
+      "created_at": "2026-08-28T03:49:33+00:00",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "discussion_url": "https://news.ycombinator.com/item?id=49474143"
+    },
+    {
+      "hn_id": 49467481,
+      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
+      "score": 27,
+      "by": "ThibWeb",
+      "comments": 9,
+      "created_at": "2026-08-27T16:32:21+00:00",
+      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49467481"
+    },
+    {
+      "hn_id": 49473629,
+      "title": "Alphabet stock sheds $700B as AI bills climb",
+      "score": 26,
+      "by": "andsoitis",
+      "comments": 4,
+      "created_at": "2026-08-28T02:23:11+00:00",
+      "url": "https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb",
+      "discussion_url": "https://news.ycombinator.com/item?id=49473629"
+    },
+    {
+      "hn_id": 49465057,
+      "title": "First patient to undergo live AI-assisted brain surgery has tumor removed",
+      "score": 17,
+      "by": "DGAP",
       "comments": 1,
-      "created_at": "2026-08-26T19:35:47+00:00",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-      "discussion_url": "https://news.ycombinator.com/item?id=49454606"
+      "created_at": "2026-08-27T14:01:58+00:00",
+      "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
+      "discussion_url": "https://news.ycombinator.com/item?id=49465057"
     },
     {
-      "hn_id": 49452135,
-      "title": "AI Lessons from Driving 200M Autonomous Miles",
-      "score": 9,
-      "by": "thecybernerd",
+      "hn_id": 49473184,
+      "title": "The \"I don't know, Claude wrote this\" pandemic",
+      "score": 15,
+      "by": "fagnerbrack",
       "comments": 2,
-      "created_at": "2026-08-26T16:46:33+00:00",
-      "url": "https://waymo.com/blog/2026/08/10ailessons/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49452135"
+      "created_at": "2026-08-28T01:01:32+00:00",
+      "url": "https://www.manager.dev/newsletter/the-i-don-t-know-claude-wrote-this-pandemic",
+      "discussion_url": "https://news.ycombinator.com/item?id=49473184"
     },
     {
-      "hn_id": 49455537,
-      "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
-      "score": 8,
-      "by": "apvcode",
-      "comments": 1,
-      "created_at": "2026-08-26T20:37:12+00:00",
-      "url": "https://github.com/apvcode/Termux-Dev",
-      "discussion_url": "https://news.ycombinator.com/item?id=49455537"
-    },
-    {
-      "hn_id": 49454780,
-      "title": "Why AI Agents Need Persistent Browser Identities",
-      "score": 8,
-      "by": "Radek-B3",
+      "hn_id": 49467234,
+      "title": "Dyna-2: A 1M-Hour Scaling Law for World-Action Models",
+      "score": 10,
+      "by": "gmays",
       "comments": 0,
-      "created_at": "2026-08-26T19:46:59+00:00",
-      "url": "https://github.com/Radek-B3/browser3/blob/main/WHY_AI_AGENTS_NEED_PERSISTENT_BROWSER_IDENTITIES.md",
-      "discussion_url": "https://news.ycombinator.com/item?id=49454780"
-    },
-    {
-      "hn_id": 49451972,
-      "title": "Patience Is Required for Local AI",
-      "score": 8,
-      "by": "sosodev",
-      "comments": 0,
-      "created_at": "2026-08-26T16:36:40+00:00",
-      "url": "https://kylemcgough.com/blogs/patience-is-required-for-local-ai",
-      "discussion_url": "https://news.ycombinator.com/item?id=49451972"
-    },
-    {
-      "hn_id": 49452551,
-      "title": "The sperm whale 'phonetic alphabet' revealed by AI",
-      "score": 7,
-      "by": "smusamashah",
-      "comments": 0,
-      "created_at": "2026-08-26T17:12:54+00:00",
-      "url": "https://www.bbc.com/future/article/20240709-the-sperm-whale-phonetic-alphabet-revealed-by-ai",
-      "discussion_url": "https://news.ycombinator.com/item?id=49452551"
-    },
-    {
-      "hn_id": 49455672,
-      "title": "Programming as a Hobby in the Age of AI",
-      "score": 6,
-      "by": "rmason",
-      "comments": 3,
-      "created_at": "2026-08-26T20:46:52+00:00",
-      "url": "https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm",
-      "discussion_url": "https://news.ycombinator.com/item?id=49455672"
-    },
-    {
-      "hn_id": 49454980,
-      "title": "Science magazine casts doubt on genes hailed as warding-off Alzheimer's disease",
-      "score": 4,
-      "by": "pcrh",
-      "comments": 0,
-      "created_at": "2026-08-26T19:59:38+00:00",
-      "url": "https://www.science.org/content/article/science-investigation-casts-doubt-genes-hailed-warding-alzheimer-s-disease",
-      "discussion_url": "https://news.ycombinator.com/item?id=49454980"
+      "created_at": "2026-08-27T16:16:20+00:00",
+      "url": "https://www.dyna.co/dyna-2",
+      "discussion_url": "https://news.ycombinator.com/item?id=49467234"
     }
   ]
 }
