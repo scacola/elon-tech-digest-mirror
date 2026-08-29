@@ -1,177 +1,97 @@
 {
-  "generated_at": "2026-08-29T03:09:47.666761+00:00",
-  "cutoff": "2026-08-28T03:09:36.939718+00:00",
+  "generated_at": "2026-08-29T23:08:52.229434+00:00",
+  "cutoff": "2026-08-28T23:08:36.798302+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49477854,
-      "title": "U.S. sanctions against the A/I Collective",
-      "score": 502,
-      "by": "exiguus",
-      "comments": 481,
-      "created_at": "2026-08-28T12:58:53+00:00",
-      "url": "https://www.inventati.org/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49477854"
-    },
-    {
-      "hn_id": 49475079,
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "hn_id": 49489982,
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
       "score": 465,
-      "by": "miniBill",
-      "comments": 141,
-      "created_at": "2026-08-28T06:33:57+00:00",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49475079"
-    },
-    {
-      "hn_id": 49478091,
-      "title": "I used AWS cognito for a startup. I wouldn't do it again",
-      "score": 167,
-      "by": "speckx",
-      "comments": 119,
-      "created_at": "2026-08-28T13:21:03+00:00",
-      "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49478091"
-    },
-    {
-      "hn_id": 49483816,
-      "title": "Stopping the smart TV from being used against you",
-      "score": 157,
-      "by": "speckx",
-      "comments": 130,
-      "created_at": "2026-08-28T20:27:57+00:00",
-      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49483816"
-    },
-    {
-      "hn_id": 49481455,
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "score": 87,
-      "by": "stephenchung",
-      "comments": 22,
-      "created_at": "2026-08-28T17:01:12+00:00",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "discussion_url": "https://news.ycombinator.com/item?id=49481455"
-    },
-    {
-      "hn_id": 49484925,
-      "title": "Identifying fake cosmetics using AI",
-      "score": 38,
-      "by": "wgrover",
-      "comments": 13,
-      "created_at": "2026-08-28T22:18:27+00:00",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49484925"
-    },
-    {
-      "hn_id": 49477311,
-      "title": "AI Agent Has Root",
-      "score": 38,
-      "by": "lowcache",
-      "comments": 64,
-      "created_at": "2026-08-28T12:03:09+00:00",
-      "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49477311"
+      "by": "pluc",
+      "comments": 422,
+      "created_at": "2026-08-29T14:02:10+00:00",
+      "url": "https://lwn.net/Articles/1091231/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49489982"
     },
     {
       "hn_id": 49485416,
       "title": "I accidentally turned LLM memory into program analysis",
-      "score": 37,
+      "score": 268,
       "by": "matt_d",
-      "comments": 6,
+      "comments": 71,
       "created_at": "2026-08-28T23:27:45+00:00",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "discussion_url": "https://news.ycombinator.com/item?id=49485416"
     },
     {
+      "hn_id": 49491568,
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "score": 201,
+      "by": "gpi",
+      "comments": 38,
+      "created_at": "2026-08-29T17:19:47+00:00",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "discussion_url": "https://news.ycombinator.com/item?id=49491568"
+    },
+    {
       "hn_id": 49486081,
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "score": 34,
+      "score": 193,
       "by": "thclpr",
-      "comments": 8,
+      "comments": 57,
       "created_at": "2026-08-29T01:24:13+00:00",
       "url": "https://github.com/stemdeckapp/stemdeck",
       "discussion_url": "https://news.ycombinator.com/item?id=49486081"
     },
     {
-      "hn_id": 49485447,
-      "title": "Anthropic Just Beat The Pentagon in Court",
-      "score": 13,
-      "by": "01-_-",
-      "comments": 0,
-      "created_at": "2026-08-28T23:31:34+00:00",
-      "url": "https://www.ibtimes.com/anthropic-just-beat-pentagon-court-judge-said-national-security-was-used-punish-its-ai-rules-3806895",
-      "discussion_url": "https://news.ycombinator.com/item?id=49485447"
+      "hn_id": 49492067,
+      "title": "vLLM v0.28.0",
+      "score": 75,
+      "by": "mrrrcs",
+      "comments": 26,
+      "created_at": "2026-08-29T18:22:00+00:00",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "discussion_url": "https://news.ycombinator.com/item?id=49492067"
     },
     {
-      "hn_id": 49484743,
-      "title": "AI demands more engineering discipline. Not less",
-      "score": 9,
-      "by": "fagnerbrack",
-      "comments": 1,
-      "created_at": "2026-08-28T22:00:26+00:00",
-      "url": "https://charity.wtf/p/ai-demands-more-engineering-discipline",
-      "discussion_url": "https://news.ycombinator.com/item?id=49484743"
+      "hn_id": 49492432,
+      "title": "Warp builds self-improving agents on Claude",
+      "score": 53,
+      "by": "shenli3514",
+      "comments": 51,
+      "created_at": "2026-08-29T19:09:33+00:00",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "discussion_url": "https://news.ycombinator.com/item?id=49492432"
     },
     {
-      "hn_id": 49486272,
-      "title": "ASCII City: Traffic and Detail Update [video]",
-      "score": 7,
-      "by": "guiambros",
-      "comments": 0,
-      "created_at": "2026-08-29T02:11:05+00:00",
-      "url": "https://www.youtube.com/watch?v=DSRooHo_HSI",
-      "discussion_url": "https://news.ycombinator.com/item?id=49486272"
+      "hn_id": 49492184,
+      "title": "LLMs are making me lose my savviness",
+      "score": 50,
+      "by": "me2too",
+      "comments": 59,
+      "created_at": "2026-08-29T18:38:52+00:00",
+      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49492184"
     },
     {
-      "hn_id": 49486188,
-      "title": "OpenAI and Anthropic are ruining San Francisco",
-      "score": 7,
-      "by": "catchmeifyoucan",
-      "comments": 2,
-      "created_at": "2026-08-29T01:50:40+00:00",
-      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
-      "discussion_url": "https://news.ycombinator.com/item?id=49486188"
+      "hn_id": 49492584,
+      "title": "Domain-Driven Agents",
+      "score": 26,
+      "by": "AlarQ",
+      "comments": 3,
+      "created_at": "2026-08-29T19:28:28+00:00",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "discussion_url": "https://news.ycombinator.com/item?id=49492584"
     },
     {
-      "hn_id": 49485940,
-      "title": "AI made the boring work visible. Cut the work, not the people",
-      "score": 7,
-      "by": "fagnerbrack",
-      "comments": 1,
-      "created_at": "2026-08-29T01:01:29+00:00",
-      "url": "https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49485940"
-    },
-    {
-      "hn_id": 49483436,
-      "title": "Show HN: Hacker News Client with Claude Code and Codex Integration",
-      "score": 7,
-      "by": "kamranahmedse",
-      "comments": 0,
-      "created_at": "2026-08-28T19:55:47+00:00",
-      "url": "https://github.com/nilbuild/rundown",
-      "discussion_url": "https://news.ycombinator.com/item?id=49483436"
-    },
-    {
-      "hn_id": 49485536,
-      "title": "Long March 6C rocket stage fragments in orbit, creating cloud of debris",
-      "score": 6,
-      "by": "bookmtn",
-      "comments": 0,
-      "created_at": "2026-08-28T23:47:11+00:00",
-      "url": "https://spacenews.com/long-march-6c-rocket-stage-fragments-in-orbit-creating-cloud-of-debris/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49485536"
-    },
-    {
-      "hn_id": 49486278,
-      "title": "\"We quit the CDC last year. The problems we protested remain\"",
-      "score": 5,
-      "by": "EA-3167",
-      "comments": 0,
-      "created_at": "2026-08-29T02:12:57+00:00",
-      "url": "https://www.statnews.com/2026/08/28/cdc-protest-resignations-one-year-later-houry-jernigan-daskalakis/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49486278"
+      "hn_id": 49494036,
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "score": 4,
+      "by": "throw0101a",
+      "comments": 3,
+      "created_at": "2026-08-29T22:51:17+00:00",
+      "url": "https://defrag98.com",
+      "discussion_url": "https://news.ycombinator.com/item?id=49494036"
     }
   ]
 }
