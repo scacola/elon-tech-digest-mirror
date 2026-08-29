@@ -1,13 +1,13 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-08-28T05:11:24.582052+00:00",
+  "collected_at": "2026-08-29T03:09:28.155455+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
       "no": "1377094",
       "title": "독파모 보니까 나 고딩때 과학대회 나갔던거 생각나네 ㅋㅋㅋㅋㅋ",
-      "recommend": 64,
+      "recommend": 68,
       "comments": 16,
       "author": "ㅇㅇ",
       "created_at_raw": "08.27",
@@ -21,7 +21,7 @@
     {
       "no": "1376809",
       "title": "모티프 상황 요약",
-      "recommend": 59,
+      "recommend": 63,
       "comments": 18,
       "author": "미짱세용",
       "created_at_raw": "08.27",
@@ -36,7 +36,7 @@
       "no": "1377338",
       "title": "그 진짜 여기까지 와서 이상한 글은 안쓰면 안되나",
       "recommend": 58,
-      "comments": 65,
+      "comments": 67,
       "author": "ㅇㅇ",
       "created_at_raw": "08.27",
       "created_at": "2026-08-27T12:00:00+09:00",
@@ -61,6 +61,20 @@
       ]
     },
     {
+      "no": "1378124",
+      "title": "결국 AI 3위 국가 따여버림",
+      "recommend": 54,
+      "comments": 40,
+      "author": "Bahr",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378124",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "no": "1376755",
       "title": "모티프 입장문 킬포 ㅋㅋㅋㅋ",
       "recommend": 53,
@@ -75,57 +89,42 @@
       ]
     },
     {
-      "no": "1375972",
-      "title": "AI에 부정적인 사람 특",
-      "recommend": 51,
-      "comments": 41,
+      "no": "1377781",
+      "title": "솔직히 이번에도 기대 안되면 개추 ㅋㅋ",
+      "recommend": 47,
+      "comments": 23,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375972",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377781",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1378488",
+      "title": "타임지 OAI 인터뷰 후속 기사",
+      "recommend": 42,
+      "comments": 17,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378488",
       "body_excerpt": "",
       "tags": [
         "ai"
       ]
     },
     {
-      "no": "1376018",
-      "title": "배경훈 이새기",
-      "recommend": 50,
-      "comments": 26,
-      "author": "AI축협",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376018",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1376391",
-      "title": "OAI 임직원들 타임지 기사ㅅㅂ 하입농도 개미쳤다 ㅋㅋㅋㅋㅋ",
-      "recommend": 45,
-      "comments": 24,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376391",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "humor"
-      ]
-    },
-    {
-      "no": "1375506",
-      "title": "모티프 gpu 부족상황",
-      "recommend": 42,
-      "comments": 23,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375506",
+      "no": "1377048",
+      "title": "왜 깡계들이 튀어나와서 모티프 까고있냐",
+      "recommend": 41,
+      "comments": 17,
+      "author": "이야녕",
+      "created_at_raw": "08.27",
+      "created_at": "2026-08-27T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377048",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -146,20 +145,6 @@
       ]
     },
     {
-      "no": "1377048",
-      "title": "왜 깡계들이 튀어나와서 모티프 까고있냐",
-      "recommend": 40,
-      "comments": 17,
-      "author": "이야녕",
-      "created_at_raw": "08.27",
-      "created_at": "2026-08-27T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377048",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1376941",
       "title": "모티프, 독파모 2차 평가 이의제기",
       "recommend": 40,
@@ -168,6 +153,48 @@
       "created_at_raw": "08.27",
       "created_at": "2026-08-27T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376941",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1377070",
+      "title": "특이점의 목적은 평등이라기 보단 결핍의 종말임",
+      "recommend": 39,
+      "comments": 58,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.27",
+      "created_at": "2026-08-27T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377070",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1378369",
+      "title": "아스트라 스텔스 테스트중 ??",
+      "recommend": 39,
+      "comments": 32,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378369",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1377494",
+      "title": "?? 나는 근들갑 떠는 거 보러 갤 오는건데??",
+      "recommend": 39,
+      "comments": 11,
+      "author": "NLP",
+      "created_at_raw": "08.27",
+      "created_at": "2026-08-27T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377494",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -188,23 +215,9 @@
       ]
     },
     {
-      "no": "1377070",
-      "title": "특이점의 목적은 평등이라기 보단 결핍의 종말임",
-      "recommend": 37,
-      "comments": 56,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.27",
-      "created_at": "2026-08-27T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377070",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1377290",
       "title": "“올해 말 AGI 도달” 샘 올트먼, 갑자기 자신에 찬 이유는?",
-      "recommend": 37,
+      "recommend": 38,
       "comments": 33,
       "author": "ㅇㅇ",
       "created_at_raw": "08.27",
@@ -216,28 +229,28 @@
       ]
     },
     {
-      "no": "1376442",
-      "title": "마지막 브록만 hype 뽕차네",
+      "no": "1378079",
+      "title": "빌게이츠 피셜 노동시장 충격까지 남은 시간",
       "recommend": 37,
-      "comments": 18,
+      "comments": 52,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376442",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378079",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1377494",
-      "title": "?? 나는 근들갑 떠는 거 보러 갤 오는건데??",
+      "no": "1377496",
+      "title": "모티프 수능 관련 공식 답변",
       "recommend": 37,
-      "comments": 11,
-      "author": "NLP",
+      "comments": 28,
+      "author": "hehee9",
       "created_at_raw": "08.27",
       "created_at": "2026-08-27T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377494",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377496",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -258,46 +271,31 @@
       ]
     },
     {
-      "no": "1375536",
-      "title": "OpenAI 첫 자체 AI 칩 Jalapeño, 블랙웰 넘었다",
+      "no": "1377968",
+      "title": "여기 특갤 아님?",
       "recommend": 36,
-      "comments": 32,
+      "comments": 12,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375536",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "openai"
-      ]
-    },
-    {
-      "no": "1377496",
-      "title": "모티프 수능 관련 공식 답변",
-      "recommend": 36,
-      "comments": 26,
-      "author": "hehee9",
-      "created_at_raw": "08.27",
-      "created_at": "2026-08-27T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377496",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377968",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1377781",
-      "title": "솔직히 이번에도 기대 안되면 개추 ㅋㅋ",
+      "no": "1378325",
+      "title": "역사상 최초로 실시간 AI 보조를 이용해 뇌종양 제거 성공",
       "recommend": 35,
-      "comments": 17,
+      "comments": 13,
       "author": "ㅇㅇ",
-      "created_at_raw": "10:27",
-      "created_at": "2026-08-28T10:27:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377781",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378325",
       "body_excerpt": "",
       "tags": [
-        "humor"
+        "ai"
       ]
     },
     {
@@ -332,7 +330,7 @@
       "no": "1377115",
       "title": "소버린ai를 위하여 미국ai 금지한다고",
       "recommend": 34,
-      "comments": 84,
+      "comments": 83,
       "author": "ㅇㅇ",
       "created_at_raw": "08.27",
       "created_at": "2026-08-27T12:00:00+09:00",
@@ -343,17 +341,17 @@
       ]
     },
     {
-      "no": "1376380",
-      "title": "알트만 \"Astra는 새로운 것을 발명하는 첫 번째 모델일 것\"",
+      "no": "1377965",
+      "title": "근데 알트만 agi 발언 나만 이렇게 느낌?",
       "recommend": 34,
-      "comments": 25,
+      "comments": 17,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376380",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377965",
       "body_excerpt": "",
       "tags": [
-        "ai"
+        "general"
       ]
     },
     {
@@ -365,6 +363,20 @@
       "created_at_raw": "08.27",
       "created_at": "2026-08-27T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376743",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1377963",
+      "title": "근데 이해는 한다",
+      "recommend": 33,
+      "comments": 35,
+      "author": "EventHorizon",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377963",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -385,42 +397,70 @@
       ]
     },
     {
-      "no": "1376416",
-      "title": "알트만 워싱턴 아스트라 시연 장면 더 구체적인 기사",
-      "recommend": 33,
-      "comments": 16,
+      "no": "1377723",
+      "title": "Oai \"AGI 임계점에 도달…올해 말 내부 구축 완료할 것\"",
+      "recommend": 32,
+      "comments": 26,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376416",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377723",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1377899",
+      "title": "선형보다 쿨찐들 말하는게 더 긁히네",
+      "recommend": 32,
+      "comments": 23,
+      "author": "봄바다",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377899",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1375679",
-      "title": "머스크 사내발언 \"그록은 뒤처지고 있어, 나는 지는 데 익숙하지 않아\"",
-      "recommend": 32,
-      "comments": 32,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375679",
+      "no": "1378076",
+      "title": "RSI -> ASI",
+      "recommend": 31,
+      "comments": 39,
+      "author": "이세이미야케",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378076",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1376211",
-      "title": "엔믹스 설윤",
-      "recommend": 32,
-      "comments": 18,
+      "no": "1377396",
+      "title": "제미나이 엉덩이 vs GPT 뉴이미지 엉덩이",
+      "recommend": 31,
+      "comments": 28,
+      "author": "솔담비키니카페",
+      "created_at_raw": "08.27",
+      "created_at": "2026-08-27T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377396",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1378017",
+      "title": "아스트라 시연 또 다른 후기",
+      "recommend": 31,
+      "comments": 24,
       "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376211",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378017",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -445,39 +485,11 @@
       "no": "1377453",
       "title": "10T모델을 초당 1000토큰 뽑아낸다구?",
       "recommend": 30,
-      "comments": 16,
+      "comments": 17,
       "author": "ㅇㅇ",
       "created_at_raw": "08.27",
       "created_at": "2026-08-27T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377453",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1376182",
-      "title": "뤼튼 대표 대세영 근황",
-      "recommend": 30,
-      "comments": 13,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376182",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1377723",
-      "title": "Oai \"AGI 임계점에 도달…올해 말 내부 구축 완료할 것\"",
-      "recommend": 29,
-      "comments": 24,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08:35",
-      "created_at": "2026-08-28T08:35:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377723",
       "body_excerpt": "",
       "tags": [
         "ai"
@@ -498,45 +510,17 @@
       ]
     },
     {
-      "no": "1375681",
-      "title": "제이슨:옵티머스는 두뇌면에서 중국 로봇 보다 5세대  앞서 있다",
+      "no": "1377699",
+      "title": "(혐)제미나이 옴니 1.1 개싸이코네",
       "recommend": 28,
-      "comments": 25,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375681",
+      "comments": 22,
+      "author": "솔담비키니카페",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377699",
       "body_excerpt": "",
       "tags": [
         "general"
-      ]
-    },
-    {
-      "no": "1375646",
-      "title": "애플 신제품 가격 인하",
-      "recommend": 28,
-      "comments": 19,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375646",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1375541",
-      "title": "5조 토큰 추론의 최초로 물리학을 직접 이해하는 모델",
-      "recommend": 28,
-      "comments": 19,
-      "author": "초존도초",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375541",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -570,38 +554,24 @@
       ]
     },
     {
-      "no": "1376376",
-      "title": "타임즈 새표지 : 샘알트만 & 브록만",
-      "recommend": 28,
-      "comments": 8,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376376",
+      "no": "1377316",
+      "title": "Motif 3 수능 결과 - 오늘부로 모티프에 대한 지지를 철회할까?",
+      "recommend": 27,
+      "comments": 36,
+      "author": "hehee9",
+      "created_at_raw": "08.27",
+      "created_at": "2026-08-27T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377316",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1377396",
-      "title": "제미나이 엉덩이 vs GPT 뉴이미지 엉덩이",
-      "recommend": 27,
-      "comments": 25,
-      "author": "솔담비키니카페",
-      "created_at_raw": "08.27",
-      "created_at": "2026-08-27T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377396",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1376930",
       "title": "이번 딜런 파텔 인터뷰 레전드 찍음",
       "recommend": 27,
-      "comments": 20,
+      "comments": 21,
       "author": "ㅇㅇ",
       "created_at_raw": "08.27",
       "created_at": "2026-08-27T12:00:00+09:00",
@@ -612,17 +582,59 @@
       ]
     },
     {
-      "no": "1377316",
-      "title": "Motif 3 수능 결과 - 오늘부로 모티프에 대한 지지를 철회할까?",
-      "recommend": 26,
-      "comments": 37,
-      "author": "hehee9",
-      "created_at_raw": "08.27",
-      "created_at": "2026-08-27T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377316",
+      "no": "1378576",
+      "title": "이번 후속기사 인상적이었던 부분",
+      "recommend": 27,
+      "comments": 15,
+      "author": "데이터센터속천재들의나라",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378576",
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1378320",
+      "title": "2027 AGI..?",
+      "recommend": 26,
+      "comments": 67,
+      "author": "행복한천국으로",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378320",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1378070",
+      "title": "대체 뭘 본 거냐 빌게이츠",
+      "recommend": 26,
+      "comments": 30,
+      "author": "ㅇㅇ",
+      "created_at_raw": "08.28",
+      "created_at": "2026-08-28T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378070",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1377126",
+      "title": "\"엔비디아, 허깅페이스 18조원에 인수 합의\"",
+      "recommend": 26,
+      "comments": 23,
+      "author": "사이언스2.0",
+      "created_at_raw": "08.27",
+      "created_at": "2026-08-27T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377126",
+      "body_excerpt": "",
+      "tags": [
+        "stocks"
       ]
     },
     {
@@ -640,65 +652,9 @@
       ]
     },
     {
-      "no": "1375661",
-      "title": "단일 프롬으로 실시간 학습하는 로봇, 인컨텍스트러닝 혁신",
-      "recommend": 26,
-      "comments": 10,
-      "author": "초존도초",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375661",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1376100",
-      "title": "현대차, ‘세계 최초’ 로봇공장 2028년 가동",
-      "recommend": 26,
-      "comments": 5,
-      "author": "회색",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376100",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1377126",
-      "title": "\"엔비디아, 허깅페이스 18조원에 인수 합의\"",
-      "recommend": 25,
-      "comments": 22,
-      "author": "사이언스2.0",
-      "created_at_raw": "08.27",
-      "created_at": "2026-08-27T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377126",
-      "body_excerpt": "",
-      "tags": [
-        "stocks"
-      ]
-    },
-    {
-      "no": "1376202",
-      "title": "꾸준툰) UBI가 성립할 수 밖에 없는 이유",
-      "recommend": 25,
-      "comments": 20,
-      "author": "ㅇㅇ",
-      "created_at_raw": "08.26",
-      "created_at": "2026-08-26T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376202",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1377014",
       "title": "자발적으로 죽음을 선택한 오픈AI 내부모델...jpg",
-      "recommend": 24,
+      "recommend": 25,
       "comments": 14,
       "author": "ㅇㅇ",
       "created_at_raw": "08.27",
@@ -710,12 +666,54 @@
         "openai",
         "humor"
       ]
+    },
+    {
+      "no": "1377435",
+      "title": "ai로 유사 패독겜만드는중",
+      "recommend": 24,
+      "comments": 29,
+      "author": "Luthenium",
+      "created_at_raw": "08.27",
+      "created_at": "2026-08-27T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1377435",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1376977",
+      "title": "연말까지 AGI 구축 가능",
+      "recommend": 24,
+      "comments": 13,
+      "author": "영원히맑음",
+      "created_at_raw": "08.27",
+      "created_at": "2026-08-27T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1376977",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1378779",
+      "title": "카카오 모티프 인수",
+      "recommend": 23,
+      "comments": 49,
+      "author": "웹툰충",
+      "created_at_raw": "09:53",
+      "created_at": "2026-08-29T09:53:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1378779",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
     }
   ],
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 146,
+    "dropped_old": 164,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }

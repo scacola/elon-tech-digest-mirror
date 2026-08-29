@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-28T05:11:31.906009+00:00",
-  "cutoff": "2026-08-21T05:11:25.444986+00:00",
+  "generated_at": "2026-08-29T03:09:35.559071+00:00",
+  "cutoff": "2026-08-22T03:09:28.462766+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 11
+      "count": 13
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,22 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "published_at": "2026-08-28T06:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "published_at": "2026-08-28T02:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+    },
     {
       "source": "blog_openai",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
@@ -47,19 +63,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-    },
-    {
-      "source": "blog_openai",
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "published_at": "2026-08-26T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
     },
     {
       "source": "blog_openai",
@@ -142,12 +158,12 @@
       "lead_paragraph": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
     },
     {
-      "source": "blog_deepmind",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "published_at": "2026-08-21T11:59:48+00:00",
+      "source": "blog_huggingface",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "published_at": "2026-08-28T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -183,19 +199,27 @@
     },
     {
       "source": "blog_anthropic",
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "published_at": "2026-08-28T02:15:31+00:00",
+      "title": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "published_at": "2026-08-28T15:01:10+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers."
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "blog_anthropic",
       "title": "Expanding our support for scientists",
       "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "published_at": "2026-08-27T19:19:47+00:00",
+      "published_at": "2026-08-28T10:42:34+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "published_at": "2026-08-28T10:41:54+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers."
     },
     {
       "source": "blog_anthropic",
@@ -292,14 +316,6 @@
       "published_at": "2026-08-27T15:09:24+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic partners with the Gates Foundation",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "published_at": "2026-08-27T15:08:52+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility over the next four years."
     }
   ]
 }
