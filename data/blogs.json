@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-30T23:20:10.186246+00:00",
-  "cutoff": "2026-08-23T23:20:02.867768+00:00",
+  "generated_at": "2026-09-01T00:29:34.156152+00:00",
+  "cutoff": "2026-08-25T00:29:27.266296+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     {
       "source": "blog_deepmind",
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,22 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+    },
+    {
+      "source": "blog_openai",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published_at": "2026-08-31T04:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+    },
     {
       "source": "blog_openai",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -110,30 +126,6 @@
       "lead_paragraph": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
     },
     {
-      "source": "blog_openai",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "published_at": "2026-08-24T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
@@ -190,12 +182,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Improving our alignment and security practices",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "published_at": "2026-08-31T22:39:50+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "blog_anthropic",
@@ -308,14 +300,6 @@
       "published_at": "2026-08-27T15:09:47+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "published_at": "2026-08-27T15:09:24+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
     }
   ]
 }

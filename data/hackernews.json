@@ -1,127 +1,147 @@
 {
-  "generated_at": "2026-08-30T23:20:23.268291+00:00",
-  "cutoff": "2026-08-29T23:20:11.087504+00:00",
+  "generated_at": "2026-09-01T00:29:47.792405+00:00",
+  "cutoff": "2026-08-31T00:29:35.088502+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49499867,
-      "title": "Haiku R1/beta6 has been released",
-      "score": 227,
-      "by": "metrofun",
-      "comments": 65,
-      "created_at": "2026-08-30T16:01:10+00:00",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "discussion_url": "https://news.ycombinator.com/item?id=49499867"
+      "hn_id": 49506819,
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "score": 338,
+      "by": "Recursing",
+      "comments": 113,
+      "created_at": "2026-08-31T07:49:18+00:00",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49506819"
     },
     {
-      "hn_id": 49498787,
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "score": 209,
-      "by": "catbird",
-      "comments": 148,
-      "created_at": "2026-08-30T14:06:54+00:00",
-      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49498787"
+      "hn_id": 49504625,
+      "title": "Understanding ChatGPT Work",
+      "score": 316,
+      "by": "gmays",
+      "comments": 182,
+      "created_at": "2026-08-31T01:28:22+00:00",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49504625"
     },
     {
-      "hn_id": 49494301,
-      "title": "The Rise and Fall of Agent Civilizations",
-      "score": 209,
-      "by": "consumer451",
-      "comments": 123,
-      "created_at": "2026-08-29T23:43:24+00:00",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "discussion_url": "https://news.ycombinator.com/item?id=49494301"
-    },
-    {
-      "hn_id": 49496782,
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "score": 187,
-      "by": "joebig",
-      "comments": 56,
-      "created_at": "2026-08-30T08:23:26+00:00",
-      "url": "https://arxiv.org/abs/1804.07389",
-      "discussion_url": "https://news.ycombinator.com/item?id=49496782"
-    },
-    {
-      "hn_id": 49498201,
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "score": 176,
-      "by": "sparsesignal",
-      "comments": 201,
-      "created_at": "2026-08-30T12:50:54+00:00",
-      "url": "https://github.com/anthropics/claude-code/issues/66504",
-      "discussion_url": "https://news.ycombinator.com/item?id=49498201"
-    },
-    {
-      "hn_id": 49494571,
-      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-      "score": 61,
-      "by": "gregsadetsky",
-      "comments": 19,
-      "created_at": "2026-08-30T00:33:35+00:00",
-      "url": "https://github.com/mk6i/open-oscar-server",
-      "discussion_url": "https://news.ycombinator.com/item?id=49494571"
-    },
-    {
-      "hn_id": 49497357,
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "score": 58,
-      "by": "martyvis",
-      "comments": 31,
-      "created_at": "2026-08-30T10:20:11+00:00",
-      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-      "discussion_url": "https://news.ycombinator.com/item?id=49497357"
-    },
-    {
-      "hn_id": 49502611,
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "score": 39,
-      "by": "peter_d_sherman",
-      "comments": 8,
-      "created_at": "2026-08-30T20:46:53+00:00",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49502611"
-    },
-    {
-      "hn_id": 49497334,
-      "title": "What We Tell AI",
-      "score": 30,
+      "hn_id": 49508982,
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "score": 279,
       "by": "thm",
-      "comments": 8,
-      "created_at": "2026-08-30T10:16:14+00:00",
-      "url": "https://www.whatwetellai.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49497334"
+      "comments": 321,
+      "created_at": "2026-08-31T12:41:22+00:00",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49508982"
     },
     {
-      "hn_id": 49497404,
-      "title": "Berlin is being blackmailed by hackers",
-      "score": 24,
-      "by": "dudefeliciano",
-      "comments": 0,
-      "created_at": "2026-08-30T10:28:39+00:00",
-      "url": "https://www.bbc.com/news/articles/cm2q7gv3l5qo",
-      "discussion_url": "https://news.ycombinator.com/item?id=49497404"
+      "hn_id": 49505219,
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "score": 214,
+      "by": "dbalatero",
+      "comments": 83,
+      "created_at": "2026-08-31T03:20:33+00:00",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "discussion_url": "https://news.ycombinator.com/item?id=49505219"
     },
     {
-      "hn_id": 49503421,
-      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-      "score": 14,
-      "by": "sinaatalay",
-      "comments": 2,
-      "created_at": "2026-08-30T22:22:23+00:00",
-      "url": "https://academa.ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49503421"
+      "hn_id": 49510000,
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "score": 174,
+      "by": "ijidak",
+      "comments": 49,
+      "created_at": "2026-08-31T14:07:15+00:00",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49510000"
     },
     {
-      "hn_id": 49497540,
-      "title": "He Did Not Conquer: Franklin's Failure to Annex Canada",
-      "score": 13,
-      "by": "Bluestein",
+      "hn_id": 49508317,
+      "title": "Agent memory as a file format",
+      "score": 160,
+      "by": "ingve",
+      "comments": 83,
+      "created_at": "2026-08-31T11:17:25+00:00",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49508317"
+    },
+    {
+      "hn_id": 49512856,
+      "title": "The safest job from AI may be writing",
+      "score": 86,
+      "by": "ilreb",
+      "comments": 127,
+      "created_at": "2026-08-31T18:12:20+00:00",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49512856"
+    },
+    {
+      "hn_id": 49507121,
+      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+      "score": 85,
+      "by": "giuliomagnifico",
+      "comments": 52,
+      "created_at": "2026-08-31T08:33:01+00:00",
+      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49507121"
+    },
+    {
+      "hn_id": 49511007,
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "score": 44,
+      "by": "kushagrchitkar",
+      "comments": 41,
+      "created_at": "2026-08-31T15:34:34+00:00",
+      "url": "https://usealmanac.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49511007"
+    },
+    {
+      "hn_id": 49511824,
+      "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
+      "score": 31,
+      "by": "prabal97",
+      "comments": 19,
+      "created_at": "2026-08-31T16:44:15+00:00",
+      "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49511824"
+    },
+    {
+      "hn_id": 49514895,
+      "title": "How we configured OpenTelemetry logs in Rails",
+      "score": 16,
+      "by": "__vivek",
+      "comments": 3,
+      "created_at": "2026-08-31T21:12:22+00:00",
+      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "discussion_url": "https://news.ycombinator.com/item?id=49514895"
+    },
+    {
+      "hn_id": 49506714,
+      "title": "Unlimited Codex, Inside ChatGPT",
+      "score": 16,
+      "by": "Ey7NFZ3P0nzAe",
+      "comments": 5,
+      "created_at": "2026-08-31T07:33:05+00:00",
+      "url": "https://github.com/devnoname120/codexify",
+      "discussion_url": "https://news.ycombinator.com/item?id=49506714"
+    },
+    {
+      "hn_id": 49509312,
+      "title": "A milestone in expanding access to AI",
+      "score": 10,
+      "by": "tosh",
+      "comments": 6,
+      "created_at": "2026-08-31T13:07:48+00:00",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49509312"
+    },
+    {
+      "hn_id": 49510547,
+      "title": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude",
+      "score": 9,
+      "by": "pcbmaker20",
       "comments": 1,
-      "created_at": "2026-08-30T10:50:44+00:00",
-      "url": "https://reviewcanada.ca/magazine/2025/12/how-vain-an-attempt-review-he-did-not-conquer/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49497540"
+      "created_at": "2026-08-31T14:55:08+00:00",
+      "url": "https://fellowgeek.github.io/mcp-speak/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49510547"
     }
   ]
 }
