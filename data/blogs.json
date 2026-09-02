@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-01T23:10:36.421786+00:00",
-  "cutoff": "2026-08-25T23:10:29.379974+00:00",
+  "generated_at": "2026-09-02T23:09:58.897722+00:00",
+  "cutoff": "2026-08-26T23:09:51.185808+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 14
+      "count": 11
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     {
       "source": "blog_huggingface",
@@ -52,6 +52,14 @@
       "published_at": "2026-09-01T12:00:00+00:00",
       "author": "",
       "lead_paragraph": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "published_at": "2026-09-01T01:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
     },
     {
       "source": "blog_openai",
@@ -110,36 +118,20 @@
       "lead_paragraph": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
     },
     {
-      "source": "blog_openai",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published_at": "2026-08-26T10:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "published_at": "2026-09-02T16:24:24+00:00",
       "author": "",
-      "lead_paragraph": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "published_at": "2026-08-26T10:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "published_at": "2026-09-02T16:18:31+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
-    },
-    {
-      "source": "blog_openai",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "published_at": "2026-08-26T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "published_at": "2026-08-26T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_deepmind",
@@ -166,12 +158,12 @@
       "lead_paragraph": "Piloting the world's first double-blind AI evaluations"
     },
     {
-      "source": "blog_deepmind",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "published_at": "2026-08-26T17:01:00+00:00",
+      "source": "blog_huggingface",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "published_at": "2026-09-02T13:49:14+00:00",
       "author": "",
-      "lead_paragraph": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -198,18 +190,10 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "published_at": "2026-08-26T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Developing Enterprise Frontier Safeguards with our customers",
       "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "published_at": "2026-09-01T19:11:41+00:00",
+      "published_at": "2026-09-02T19:11:21+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
