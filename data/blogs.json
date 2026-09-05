@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T22:54:32.549647+00:00",
-  "cutoff": "2026-08-28T22:54:28.829094+00:00",
+  "generated_at": "2026-09-05T22:45:11.768910+00:00",
+  "cutoff": "2026-08-29T22:45:09.300932+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     {
       "source": "blog_deepmind",
@@ -25,7 +25,7 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 5
+      "count": 4
     }
   ],
   "items": [
@@ -52,6 +52,14 @@
       "published_at": "2026-09-03T12:00:00+00:00",
       "author": "",
       "lead_paragraph": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+      "source": "blog_openai",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "published_at": "2026-09-03T11:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
     },
     {
       "source": "blog_openai",
@@ -244,14 +252,6 @@
       "published_at": "2026-09-01T12:43:20+00:00",
       "author": "Anthropic",
       "lead_paragraph": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over t"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "published_at": "2026-08-29T10:57:56+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers."
     }
   ]
 }

@@ -1,167 +1,107 @@
 {
-  "generated_at": "2026-09-04T22:54:48.619898+00:00",
-  "cutoff": "2026-09-03T22:54:33.546688+00:00",
+  "generated_at": "2026-09-05T22:45:22.757616+00:00",
+  "cutoff": "2026-09-04T22:45:12.762223+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49563355,
-      "title": "Discovery of a new OpenAI agent message board",
-      "score": 1398,
-      "by": "moultano",
-      "comments": 1117,
-      "created_at": "2026-09-04T11:54:53+00:00",
-      "url": "https://collusion.wiki/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49563355"
-    },
-    {
-      "hn_id": 49563386,
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "hn_id": 49574167,
+      "title": "AI handles incidents, engineers lose touch with their systems",
       "score": 361,
-      "by": "DeepLogin",
-      "comments": 71,
-      "created_at": "2026-09-04T11:59:15+00:00",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "discussion_url": "https://news.ycombinator.com/item?id=49563386"
+      "by": "sylvainkalache",
+      "comments": 313,
+      "created_at": "2026-09-05T07:52:50+00:00",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "discussion_url": "https://news.ycombinator.com/item?id=49574167"
     },
     {
-      "hn_id": 49566137,
-      "title": "Corporate America is getting hooked on open-source AI",
-      "score": 252,
-      "by": "aaraujo002",
-      "comments": 239,
-      "created_at": "2026-09-04T15:33:45+00:00",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49566137"
+      "hn_id": 49571465,
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "score": 242,
+      "by": "cebert",
+      "comments": 152,
+      "created_at": "2026-09-04T23:38:50+00:00",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "discussion_url": "https://news.ycombinator.com/item?id=49571465"
     },
     {
-      "hn_id": 49563784,
-      "title": "How Fairphone built the Fairphone Gen 6+",
-      "score": 183,
-      "by": "CrypticShift",
-      "comments": 163,
-      "created_at": "2026-09-04T12:43:49+00:00",
-      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49563784"
+      "hn_id": 49580164,
+      "title": "LLMs as a Cognitive Virus",
+      "score": 118,
+      "by": "canjobear",
+      "comments": 93,
+      "created_at": "2026-09-05T20:02:35+00:00",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "discussion_url": "https://news.ycombinator.com/item?id=49580164"
     },
     {
-      "hn_id": 49565693,
-      "title": "Gmail to end support for \"Send as\" for third-party addresses, such as @yahoo.com",
-      "score": 180,
-      "by": "sva_",
-      "comments": 125,
-      "created_at": "2026-09-04T15:03:03+00:00",
-      "url": "https://support.google.com/mail/answer/22370?hl=en",
-      "discussion_url": "https://news.ycombinator.com/item?id=49565693"
-    },
-    {
-      "hn_id": 49569366,
-      "title": "Can AI design circuit boards yet?",
-      "score": 110,
-      "by": "iopapa",
-      "comments": 69,
-      "created_at": "2026-09-04T19:48:29+00:00",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49569366"
-    },
-    {
-      "hn_id": 49561975,
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "score": 84,
-      "by": "High-Five",
-      "comments": 76,
-      "created_at": "2026-09-04T08:19:57+00:00",
-      "url": "https://carbonawarepricing.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49561975"
-    },
-    {
-      "hn_id": 49562219,
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "score": 80,
-      "by": "gioscarab",
-      "comments": 27,
-      "created_at": "2026-09-04T09:03:00+00:00",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "discussion_url": "https://news.ycombinator.com/item?id=49562219"
-    },
-    {
-      "hn_id": 49567357,
-      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-      "score": 66,
-      "by": "theanonymousone",
-      "comments": 21,
-      "created_at": "2026-09-04T17:12:22+00:00",
-      "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-      "discussion_url": "https://news.ycombinator.com/item?id=49567357"
-    },
-    {
-      "hn_id": 49568828,
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "score": 60,
-      "by": "rietta",
+      "hn_id": 49576343,
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "score": 105,
+      "by": "torutofu",
       "comments": 13,
-      "created_at": "2026-09-04T19:06:39+00:00",
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49568828"
+      "created_at": "2026-09-05T13:31:05+00:00",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49576343"
     },
     {
-      "hn_id": 49566788,
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "score": 56,
-      "by": "qainsights",
-      "comments": 29,
-      "created_at": "2026-09-04T16:24:50+00:00",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49566788"
+      "hn_id": 49580329,
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "score": 42,
+      "by": "gmays",
+      "comments": 20,
+      "created_at": "2026-09-05T20:25:59+00:00",
+      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49580329"
     },
     {
-      "hn_id": 49567310,
-      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-      "score": 51,
-      "by": "garrinm",
-      "comments": 126,
-      "created_at": "2026-09-04T17:09:24+00:00",
-      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49567310"
+      "hn_id": 49571131,
+      "title": "Claude Code skills for advanced context engineering techniques and patterns",
+      "score": 35,
+      "by": "leovs09",
+      "comments": 4,
+      "created_at": "2026-09-04T22:52:14+00:00",
+      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+      "discussion_url": "https://news.ycombinator.com/item?id=49571131"
     },
     {
-      "hn_id": 49570545,
-      "title": "GPT-6 Astra on OpenRouter",
-      "score": 38,
-      "by": "Topfi",
-      "comments": 19,
-      "created_at": "2026-09-04T21:39:19+00:00",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "discussion_url": "https://news.ycombinator.com/item?id=49570545"
-    },
-    {
-      "hn_id": 49570133,
-      "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+      "hn_id": 49576187,
+      "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
       "score": 26,
-      "by": "ravenical",
-      "comments": 2,
-      "created_at": "2026-09-04T21:00:02+00:00",
-      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49570133"
+      "by": "Levitating",
+      "comments": 7,
+      "created_at": "2026-09-05T13:09:53+00:00",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+      "discussion_url": "https://news.ycombinator.com/item?id=49576187"
     },
     {
-      "hn_id": 49569707,
-      "title": "GPT-6 Astra Generally Available",
-      "score": 19,
-      "by": "samyok",
-      "comments": 6,
-      "created_at": "2026-09-04T20:16:50+00:00",
-      "url": "https://twitter.com/OpenAI/status/2095968413646737608",
-      "discussion_url": "https://news.ycombinator.com/item?id=49569707"
+      "hn_id": 49580980,
+      "title": "America's Two Largest School Districts Impose AI Moratoriums",
+      "score": 17,
+      "by": "cdrnsf",
+      "comments": 3,
+      "created_at": "2026-09-05T21:43:22+00:00",
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49580980"
     },
     {
-      "hn_id": 49569146,
-      "title": "More Targets of the OpenAI Agent Swarm",
-      "score": 4,
-      "by": "fi-le",
-      "comments": 0,
-      "created_at": "2026-09-04T19:31:04+00:00",
-      "url": "https://fi-le.net/vanderbilt/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49569146"
+      "hn_id": 49573677,
+      "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
+      "score": 12,
+      "by": "nullbio",
+      "comments": 5,
+      "created_at": "2026-09-05T06:31:31+00:00",
+      "url": "https://www.effort.news/revelation",
+      "discussion_url": "https://news.ycombinator.com/item?id=49573677"
+    },
+    {
+      "hn_id": 49580036,
+      "title": "Kevin Bass on X: \"Women gained all of the new jobs since January 2025",
+      "score": 9,
+      "by": "bilsbie",
+      "comments": 5,
+      "created_at": "2026-09-05T19:47:55+00:00",
+      "url": "https://twitter.com/kevinnbass/status/2096073961524076916",
+      "discussion_url": "https://news.ycombinator.com/item?id=49580036"
     }
   ]
 }
