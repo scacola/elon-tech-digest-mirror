@@ -1,107 +1,77 @@
 {
-  "generated_at": "2026-09-05T22:45:22.757616+00:00",
-  "cutoff": "2026-09-04T22:45:12.762223+00:00",
+  "generated_at": "2026-09-06T22:49:56.469690+00:00",
+  "cutoff": "2026-09-05T22:49:44.120276+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49574167,
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "score": 361,
-      "by": "sylvainkalache",
-      "comments": 313,
-      "created_at": "2026-09-05T07:52:50+00:00",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "discussion_url": "https://news.ycombinator.com/item?id=49574167"
+      "hn_id": 49581870,
+      "title": "Chrome again exempts Google from user site data settings",
+      "score": 552,
+      "by": "ExMachina73",
+      "comments": 107,
+      "created_at": "2026-09-05T23:39:47+00:00",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49581870"
     },
     {
-      "hn_id": 49571465,
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "score": 242,
-      "by": "cebert",
-      "comments": 152,
-      "created_at": "2026-09-04T23:38:50+00:00",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "discussion_url": "https://news.ycombinator.com/item?id=49571465"
+      "hn_id": 49582582,
+      "title": "GPT-6 Astra on robot arms",
+      "score": 229,
+      "by": "Anon84",
+      "comments": 180,
+      "created_at": "2026-09-06T01:52:45+00:00",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49582582"
     },
     {
-      "hn_id": 49580164,
-      "title": "LLMs as a Cognitive Virus",
-      "score": 118,
-      "by": "canjobear",
-      "comments": 93,
-      "created_at": "2026-09-05T20:02:35+00:00",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "discussion_url": "https://news.ycombinator.com/item?id=49580164"
+      "hn_id": 49582656,
+      "title": "AI, Tools and Transformation",
+      "score": 140,
+      "by": "firexcy",
+      "comments": 63,
+      "created_at": "2026-09-06T02:12:46+00:00",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "discussion_url": "https://news.ycombinator.com/item?id=49582656"
     },
     {
-      "hn_id": 49576343,
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "score": 105,
-      "by": "torutofu",
-      "comments": 13,
-      "created_at": "2026-09-05T13:31:05+00:00",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49576343"
+      "hn_id": 49587217,
+      "title": "Research acceleration: The view inside OpenAI",
+      "score": 89,
+      "by": "iamsyr",
+      "comments": 66,
+      "created_at": "2026-09-06T15:08:44+00:00",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "discussion_url": "https://news.ycombinator.com/item?id=49587217"
     },
     {
-      "hn_id": 49580329,
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "score": 42,
-      "by": "gmays",
-      "comments": 20,
-      "created_at": "2026-09-05T20:25:59+00:00",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49580329"
+      "hn_id": 49585703,
+      "title": "The pencil case model of creativity",
+      "score": 57,
+      "by": "jruohonen",
+      "comments": 19,
+      "created_at": "2026-09-06T12:05:34+00:00",
+      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+      "discussion_url": "https://news.ycombinator.com/item?id=49585703"
     },
     {
-      "hn_id": 49571131,
-      "title": "Claude Code skills for advanced context engineering techniques and patterns",
-      "score": 35,
-      "by": "leovs09",
-      "comments": 4,
-      "created_at": "2026-09-04T22:52:14+00:00",
-      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
-      "discussion_url": "https://news.ycombinator.com/item?id=49571131"
+      "hn_id": 49590736,
+      "title": "XCancel is available again",
+      "score": 22,
+      "by": "1matin",
+      "comments": 1,
+      "created_at": "2026-09-06T20:44:59+00:00",
+      "url": "https://xcancel.com/about",
+      "discussion_url": "https://news.ycombinator.com/item?id=49590736"
     },
     {
-      "hn_id": 49576187,
-      "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
-      "score": 26,
-      "by": "Levitating",
-      "comments": 7,
-      "created_at": "2026-09-05T13:09:53+00:00",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-      "discussion_url": "https://news.ycombinator.com/item?id=49576187"
-    },
-    {
-      "hn_id": 49580980,
-      "title": "America's Two Largest School Districts Impose AI Moratoriums",
-      "score": 17,
-      "by": "cdrnsf",
-      "comments": 3,
-      "created_at": "2026-09-05T21:43:22+00:00",
-      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49580980"
-    },
-    {
-      "hn_id": 49573677,
-      "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
-      "score": 12,
-      "by": "nullbio",
-      "comments": 5,
-      "created_at": "2026-09-05T06:31:31+00:00",
-      "url": "https://www.effort.news/revelation",
-      "discussion_url": "https://news.ycombinator.com/item?id=49573677"
-    },
-    {
-      "hn_id": 49580036,
-      "title": "Kevin Bass on X: \"Women gained all of the new jobs since January 2025",
-      "score": 9,
-      "by": "bilsbie",
-      "comments": 5,
-      "created_at": "2026-09-05T19:47:55+00:00",
-      "url": "https://twitter.com/kevinnbass/status/2096073961524076916",
-      "discussion_url": "https://news.ycombinator.com/item?id=49580036"
+      "hn_id": 49590595,
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "score": 15,
+      "by": "ur-whale",
+      "comments": 2,
+      "created_at": "2026-09-06T20:31:20+00:00",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "discussion_url": "https://news.ycombinator.com/item?id=49590595"
     }
   ]
 }

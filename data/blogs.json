@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-05T22:45:11.768910+00:00",
-  "cutoff": "2026-08-29T22:45:09.300932+00:00",
+  "generated_at": "2026-09-06T22:49:43.295803+00:00",
+  "cutoff": "2026-08-30T22:49:39.525198+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 15
     },
     {
       "source": "blog_deepmind",
@@ -31,6 +31,22 @@
   "items": [
     {
       "source": "blog_openai",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "published_at": "2026-09-06T09:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "published_at": "2026-09-06T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+    },
+    {
+      "source": "blog_openai",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "published_at": "2026-09-03T13:15:00+00:00",
@@ -39,19 +55,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published_at": "2026-09-03T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-      "source": "blog_openai",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "published_at": "2026-09-03T12:00:00+00:00",
       "author": "",
       "lead_paragraph": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published_at": "2026-09-03T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
     },
     {
       "source": "blog_openai",
