@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T22:49:43.295803+00:00",
-  "cutoff": "2026-08-30T22:49:39.525198+00:00",
+  "generated_at": "2026-09-07T23:22:47.741548+00:00",
+  "cutoff": "2026-08-31T23:22:44.602943+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 15
+      "count": 13
     },
     {
       "source": "blog_deepmind",
@@ -29,6 +29,14 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "published_at": "2026-09-07T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+    },
     {
       "source": "blog_openai",
       "title": "An Alien Mind",
@@ -126,30 +134,6 @@
       "lead_paragraph": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
-    },
-    {
-      "source": "blog_openai",
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -239,6 +223,14 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Improving our alignment and security practices",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "published_at": "2026-09-07T09:43:45+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over t"
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "published_at": "2026-09-04T03:24:16+00:00",
@@ -260,14 +252,6 @@
       "published_at": "2026-09-01T18:01:14+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answ"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Improving our alignment and security practices",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "published_at": "2026-09-01T12:43:20+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over t"
     }
   ]
 }

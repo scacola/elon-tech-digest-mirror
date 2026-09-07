@@ -1,77 +1,127 @@
 {
-  "generated_at": "2026-09-06T22:49:56.469690+00:00",
-  "cutoff": "2026-09-05T22:49:44.120276+00:00",
+  "generated_at": "2026-09-07T23:23:00.600484+00:00",
+  "cutoff": "2026-09-06T23:22:48.587811+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49581870,
-      "title": "Chrome again exempts Google from user site data settings",
-      "score": 552,
-      "by": "ExMachina73",
-      "comments": 107,
-      "created_at": "2026-09-05T23:39:47+00:00",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49581870"
+      "hn_id": 49597907,
+      "title": "De-Brainrot Vacations",
+      "score": 460,
+      "by": "DanielVZ",
+      "comments": 186,
+      "created_at": "2026-09-07T13:00:48+00:00",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49597907"
     },
     {
-      "hn_id": 49582582,
-      "title": "GPT-6 Astra on robot arms",
-      "score": 229,
-      "by": "Anon84",
-      "comments": 180,
-      "created_at": "2026-09-06T01:52:45+00:00",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49582582"
+      "hn_id": 49597189,
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "score": 269,
+      "by": "mdp2021",
+      "comments": 146,
+      "created_at": "2026-09-07T11:46:37+00:00",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "discussion_url": "https://news.ycombinator.com/item?id=49597189"
     },
     {
-      "hn_id": 49582656,
-      "title": "AI, Tools and Transformation",
-      "score": 140,
-      "by": "firexcy",
-      "comments": 63,
-      "created_at": "2026-09-06T02:12:46+00:00",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "discussion_url": "https://news.ycombinator.com/item?id=49582656"
+      "hn_id": 49596054,
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "score": 125,
+      "by": "ankitg12",
+      "comments": 47,
+      "created_at": "2026-09-07T09:26:41+00:00",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "discussion_url": "https://news.ycombinator.com/item?id=49596054"
     },
     {
-      "hn_id": 49587217,
-      "title": "Research acceleration: The view inside OpenAI",
-      "score": 89,
-      "by": "iamsyr",
-      "comments": 66,
-      "created_at": "2026-09-06T15:08:44+00:00",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "discussion_url": "https://news.ycombinator.com/item?id=49587217"
+      "hn_id": 49600233,
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "score": 120,
+      "by": "spwa4",
+      "comments": 133,
+      "created_at": "2026-09-07T16:40:32+00:00",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "discussion_url": "https://news.ycombinator.com/item?id=49600233"
     },
     {
-      "hn_id": 49585703,
-      "title": "The pencil case model of creativity",
-      "score": 57,
-      "by": "jruohonen",
-      "comments": 19,
-      "created_at": "2026-09-06T12:05:34+00:00",
-      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-      "discussion_url": "https://news.ycombinator.com/item?id=49585703"
+      "hn_id": 49594008,
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "score": 81,
+      "by": "timgordontg",
+      "comments": 50,
+      "created_at": "2026-09-07T04:49:36+00:00",
+      "url": "https://github.com/timgordontg/engrim",
+      "discussion_url": "https://news.ycombinator.com/item?id=49594008"
     },
     {
-      "hn_id": 49590736,
-      "title": "XCancel is available again",
-      "score": 22,
-      "by": "1matin",
+      "hn_id": 49601810,
+      "title": "AI Cold Showers",
+      "score": 66,
+      "by": "mooreds",
+      "comments": 11,
+      "created_at": "2026-09-07T19:05:39+00:00",
+      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49601810"
+    },
+    {
+      "hn_id": 49596610,
+      "title": "Initial effects of AI technology on employment look positive",
+      "score": 63,
+      "by": "MrBuddyCasino",
+      "comments": 96,
+      "created_at": "2026-09-07T10:38:32+00:00",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "discussion_url": "https://news.ycombinator.com/item?id=49596610"
+    },
+    {
+      "hn_id": 49593842,
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "score": 50,
+      "by": "aggrrrh",
+      "comments": 12,
+      "created_at": "2026-09-07T04:18:28+00:00",
+      "url": "https://github.com/trailofbits/coop",
+      "discussion_url": "https://news.ycombinator.com/item?id=49593842"
+    },
+    {
+      "hn_id": 49603011,
+      "title": "The smallest edge AI device for local LLMs",
+      "score": 18,
+      "by": "alex-moon",
+      "comments": 16,
+      "created_at": "2026-09-07T21:09:12+00:00",
+      "url": "https://tiiny.ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49603011"
+    },
+    {
+      "hn_id": 49600473,
+      "title": "Show HN: Isle – managed application environments for computer-use agents",
+      "score": 8,
+      "by": "sxhivs",
       "comments": 1,
-      "created_at": "2026-09-06T20:44:59+00:00",
-      "url": "https://xcancel.com/about",
-      "discussion_url": "https://news.ycombinator.com/item?id=49590736"
+      "created_at": "2026-09-07T17:02:15+00:00",
+      "url": "https://www.tryisle.com",
+      "discussion_url": "https://news.ycombinator.com/item?id=49600473"
     },
     {
-      "hn_id": 49590595,
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "score": 15,
-      "by": "ur-whale",
-      "comments": 2,
-      "created_at": "2026-09-06T20:31:20+00:00",
-      "url": "https://arxiv.org/abs/2505.12540",
-      "discussion_url": "https://news.ycombinator.com/item?id=49590595"
+      "hn_id": 49602258,
+      "title": "El Yayster – a resident LLM that inhabits Emacs",
+      "score": 6,
+      "by": "dTal",
+      "comments": 5,
+      "created_at": "2026-09-07T19:50:21+00:00",
+      "url": "https://github.com/yayster/yayster.el",
+      "discussion_url": "https://news.ycombinator.com/item?id=49602258"
+    },
+    {
+      "hn_id": 49603668,
+      "title": "The Cordon Sanitaire/Brandmauer Was a Mistake",
+      "score": 4,
+      "by": "barry-cotter",
+      "comments": 0,
+      "created_at": "2026-09-07T22:24:58+00:00",
+      "url": "https://twitter.com/phl43/status/2097026853412204731",
+      "discussion_url": "https://news.ycombinator.com/item?id=49603668"
     }
   ]
 }
