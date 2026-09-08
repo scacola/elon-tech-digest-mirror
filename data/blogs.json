@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-07T23:22:47.741548+00:00",
-  "cutoff": "2026-08-31T23:22:44.602943+00:00",
+  "generated_at": "2026-09-08T23:17:28.944283+00:00",
+  "cutoff": "2026-09-01T23:17:25.054645+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 16
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,72 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 4
+      "count": 8
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "published_at": "2026-09-08T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    },
+    {
+      "source": "blog_openai",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "published_at": "2026-09-08T13:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "published_at": "2026-09-08T11:30:00+00:00",
+      "author": "",
+      "lead_paragraph": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
+    },
+    {
+      "source": "blog_openai",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "published_at": "2026-09-08T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+    },
+    {
+      "source": "blog_openai",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
+    },
     {
       "source": "blog_openai",
       "title": "Supporting independent journalism in Ukraine",
@@ -63,19 +119,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "published_at": "2026-09-03T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-    },
-    {
-      "source": "blog_openai",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "published_at": "2026-09-03T12:00:00+00:00",
       "author": "",
       "lead_paragraph": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published_at": "2026-09-03T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     },
     {
       "source": "blog_openai",
@@ -102,36 +158,12 @@
       "lead_paragraph": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
     },
     {
-      "source": "blog_openai",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "published_at": "2026-09-01T17:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "published_at": "2026-09-08T14:00:15+00:00",
       "author": "",
-      "lead_paragraph": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "published_at": "2026-09-01T13:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "published_at": "2026-09-01T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "published_at": "2026-09-01T01:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
+      "lead_paragraph": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
     },
     {
       "source": "blog_deepmind",
@@ -158,10 +190,10 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "published_at": "2026-09-01T17:08:51+00:00",
+      "source": "blog_huggingface",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published_at": "2026-09-08T14:23:07+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -206,20 +238,44 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "published_at": "2026-09-01T21:39:07+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Detecting and preventing distillation attacks",
+      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "published_at": "2026-09-08T10:48:11+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "published_at": "2026-09-08T10:47:50+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Detecting and countering malicious uses of Claude",
+      "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
+      "published_at": "2026-09-08T10:47:28+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Detecting and Countering Malicious Uses of Claude"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+      "published_at": "2026-09-08T10:47:10+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "A report describing an a highly sophisticated AI-led cyberattack"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Detecting and countering misuse of AI: August 2025",
+      "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+      "published_at": "2026-09-08T10:46:50+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic's threat intelligence report on AI cybercrime and other abuses"
     },
     {
       "source": "blog_anthropic",
@@ -244,14 +300,6 @@
       "published_at": "2026-09-02T19:11:21+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "How Claude's text watermarking works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "published_at": "2026-09-01T18:01:14+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answ"
     }
   ]
 }
