@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-08T23:17:28.944283+00:00",
-  "cutoff": "2026-09-01T23:17:25.054645+00:00",
+  "generated_at": "2026-09-09T23:05:43.282695+00:00",
+  "cutoff": "2026-09-02T23:05:37.003811+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 4
+      "count": 2
     },
     {
       "source": "blog_huggingface",
@@ -25,10 +25,26 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 8
+      "count": 15
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published_at": "2026-09-09T11:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "published_at": "2026-09-09T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+    },
     {
       "source": "blog_openai",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -150,14 +166,6 @@
       "lead_paragraph": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
     },
     {
-      "source": "blog_openai",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "published_at": "2026-09-02T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
-    },
-    {
       "source": "blog_deepmind",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
@@ -174,18 +182,10 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "published_at": "2026-09-02T16:24:24+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "published_at": "2026-09-02T16:18:31+00:00",
+      "source": "blog_huggingface",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "published_at": "2026-09-09T15:36:24+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -230,76 +230,124 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "published_at": "2026-09-02T13:49:14+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Our compliance framework for California's SB 53",
+      "url": "https://www.anthropic.com/news/compliance-framework-SB53",
+      "published_at": "2026-09-09T21:54:48+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic's Frontier Compliance Framework discloses how we assess and manage catastrophic AI risks under California's Transparency in Frontier AI Act."
     },
     {
       "source": "blog_anthropic",
-      "title": "Detecting and preventing distillation attacks",
-      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
-      "published_at": "2026-09-08T10:48:11+00:00",
+      "title": "Introducing Labs",
+      "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
+      "published_at": "2026-09-09T21:51:07+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+      "lead_paragraph": "Anthropic Labs incubates experimental AI products. Mike Krieger joins Ben Mann on Labs, while Ami Vora leads the Product organization."
     },
     {
       "source": "blog_anthropic",
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "published_at": "2026-09-08T10:47:50+00:00",
+      "title": "How scientists use Claude to accelerate research",
+      "url": "https://www.anthropic.com/news/accelerating-scientific-research",
+      "published_at": "2026-09-09T21:45:55+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
+      "lead_paragraph": "Labs at Stanford and MIT built Claude-powered systems that run genome-wide studies in minutes and automate gene cluster interpretation."
     },
     {
       "source": "blog_anthropic",
-      "title": "Detecting and countering malicious uses of Claude",
-      "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
-      "published_at": "2026-09-08T10:47:28+00:00",
+      "title": "Irina Ghose named Managing Director of India",
+      "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+      "published_at": "2026-09-09T21:44:01+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Detecting and Countering Malicious Uses of Claude"
+      "lead_paragraph": "Former Microsoft India MD Irina Ghose will lead Anthropic's first Bengaluru office, focusing on enterprise adoption and developer partnerships."
     },
     {
       "source": "blog_anthropic",
-      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
-      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-      "published_at": "2026-09-08T10:47:10+00:00",
+      "title": "Mariano-Florentino Cuéllar appointed to Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+      "published_at": "2026-09-09T21:43:11+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "A report describing an a highly sophisticated AI-led cyberattack"
+      "lead_paragraph": "Former California Supreme Court Justice Mariano-Florentino Cuéllar joins Anthropic's Long-Term Benefit Trust as a trustee."
     },
     {
       "source": "blog_anthropic",
-      "title": "Detecting and countering misuse of AI: August 2025",
-      "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
-      "published_at": "2026-09-08T10:46:50+00:00",
+      "title": "Anthropic and Teach For All train educators on AI",
+      "url": "https://www.anthropic.com/news/anthropic-teach-for-all",
+      "published_at": "2026-09-09T21:41:24+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic's threat intelligence report on AI cybercrime and other abuses"
+      "lead_paragraph": "The AI Literacy & Creator Collective brings AI training to 100,000+ educators across 63 countries serving 1.5 million students."
     },
     {
       "source": "blog_anthropic",
-      "title": "Improving our alignment and security practices",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "published_at": "2026-09-07T09:43:45+00:00",
+      "title": "Anthropic partners with the UK Government on GOV.UK",
+      "url": "https://www.anthropic.com/news/gov-UK-partnership",
+      "published_at": "2026-09-09T21:38:02+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over t"
+      "lead_paragraph": "The UK selected Anthropic to build and pilot an AI assistant for GOV.UK, starting with career advice and training access for job seekers."
     },
     {
       "source": "blog_anthropic",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "published_at": "2026-09-04T03:24:16+00:00",
+      "title": "ServiceNow chooses Claude",
+      "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+      "published_at": "2026-09-09T21:36:33+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below "
+      "lead_paragraph": "ServiceNow selects Claude as the default model for its Build Agent and rolls Claude out to 29,000+ employees and engineering teams."
     },
     {
       "source": "blog_anthropic",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "published_at": "2026-09-02T19:11:21+00:00",
+      "title": "Anthropic partners with Allen Institute and HHMI",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+      "published_at": "2026-09-09T21:34:03+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+      "lead_paragraph": "Anthropic is building specialized AI agents with the Allen Institute and Howard Hughes Medical Institute to accelerate biomedical research."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Apple’s Xcode now supports the Claude Agent SDK",
+      "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+      "published_at": "2026-09-09T21:33:07+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Xcode 26.3 integrates the Claude Agent SDK, letting developers use Claude for autonomous, long-running coding tasks on Apple platforms."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Claude is a space to think",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "published_at": "2026-09-09T21:31:05+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Claude will remain ad-free. We explain why advertising incentives are incompatible with a helpful AI assistant."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Claude Opus 4.6",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "published_at": "2026-09-09T21:28:45+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We're upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Covering electricity price increases",
+      "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
+      "published_at": "2026-09-09T21:27:55+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic commits to covering consumer electricity price increases caused by its data centers, including grid upgrades and new power generation."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic is donating $20 million to Public First Action",
+      "url": "https://www.anthropic.com/news/donate-public-first-action",
+      "published_at": "2026-09-09T21:26:55+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is donating $20 million to Public First Action, a 501(c)(4) focused on AI issues in the public interest."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic raises $30B Series G at $380B valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "published_at": "2026-09-09T21:25:59+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic raised $30 billion, led by GIC and Coatue, with run-rate revenue of $14 billion and 500+ customers spending over $1 million annually."
     }
   ]
 }

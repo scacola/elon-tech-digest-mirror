@@ -1,13 +1,13 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-09-08T23:17:24.785223+00:00",
+  "collected_at": "2026-09-09T23:05:36.791615+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
       "no": "1401480",
       "title": "여기 버튼이 하나 있습니다.",
-      "recommend": 114,
+      "recommend": 119,
       "comments": 44,
       "author": "ㅇㅇ",
       "created_at_raw": "09.08",
@@ -19,23 +19,9 @@
       ]
     },
     {
-      "no": "1397521",
-      "title": "외부 유입들에게 특갤을 정리해줌",
-      "recommend": 106,
-      "comments": 25,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1397521",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1400980",
       "title": "이 개새끼가 진짜 개좆같은 새끼면 개추",
-      "recommend": 89,
+      "recommend": 91,
       "comments": 24,
       "author": "ㅇㅇ",
       "created_at_raw": "09.08",
@@ -44,6 +30,48 @@
       "body_excerpt": "",
       "tags": [
         "humor"
+      ]
+    },
+    {
+      "no": "1406249",
+      "title": "영원히 고통받던 전뇌초파리 근황",
+      "recommend": 78,
+      "comments": 33,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1406249",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1403558",
+      "title": "불이라...",
+      "recommend": 78,
+      "comments": 24,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1403558",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1405991",
+      "title": "진짜 미안한데 아스트라는 제일 중요한 벤치를 통과 못했음",
+      "recommend": 69,
+      "comments": 42,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1405991",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -61,28 +89,42 @@
       ]
     },
     {
-      "no": "1397838",
-      "title": "현시각 특갤 상황 한짤 요약",
-      "recommend": 67,
-      "comments": 26,
+      "no": "1404476",
+      "title": "오히려 ai 지배가 유토피아일수도?",
+      "recommend": 66,
+      "comments": 44,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1397838",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404476",
       "body_excerpt": "",
       "tags": [
-        "humor"
+        "ai"
       ]
     },
     {
-      "no": "1395200",
-      "title": "김용하 특갤 함?",
+      "no": "1406866",
+      "title": "[그냥만화] AI 아직 멀었음",
       "recommend": 65,
-      "comments": 31,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395200",
+      "comments": 33,
+      "author": "자동화",
+      "created_at_raw": "01:16",
+      "created_at": "2026-09-10T01:16:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1406866",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1406893",
+      "title": "(장문) 아스트라 어택 서비스 종료 후기…txt",
+      "recommend": 62,
+      "comments": 43,
+      "author": "봄바다",
+      "created_at_raw": "01:33",
+      "created_at": "2026-09-10T01:33:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1406893",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -117,18 +159,74 @@
       ]
     },
     {
-      "no": "1395173",
-      "title": "OpenAI 한국 영상보는데 익숙한 캐릭터 나오네",
-      "recommend": 60,
-      "comments": 52,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395173",
+      "no": "1405654",
+      "title": "AI가 밀레니엄을 해결했는데 학벌 떡밥 의사 떡밥 ㅇㅈㄹ ㅋㅋㅋㅋㅋㅋㅋ",
+      "recommend": 61,
+      "comments": 29,
+      "author": "바다기린",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1405654",
       "body_excerpt": "",
       "tags": [
         "ai",
-        "openai"
+        "humor"
+      ]
+    },
+    {
+      "no": "1402517",
+      "title": "오늘 수능 만점 뉴스는 거의 현대 예술급이네",
+      "recommend": 61,
+      "comments": 24,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1402517",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1404235",
+      "title": "샘 알트먼 : 증류 따위 ㅋㅋ",
+      "recommend": 60,
+      "comments": 37,
+      "author": "무한탐구",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404235",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1402572",
+      "title": "이제 슬슬 가지러 가볼까",
+      "recommend": 60,
+      "comments": 29,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1402572",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1403079",
+      "title": "\"여기 100만 달러요\"",
+      "recommend": 60,
+      "comments": 18,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1403079",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -146,17 +244,45 @@
       ]
     },
     {
-      "no": "1398034",
-      "title": "젠슨황 \"AGI 시대에 오신걸 환영합니다\"",
-      "recommend": 58,
-      "comments": 14,
+      "no": "1402879",
+      "title": "솔직히가 아니라 대놓고 좆같음",
+      "recommend": 59,
+      "comments": 17,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1398034",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1402879",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1404399",
+      "title": "나비에 스토크스 반증이 가져올 수있는 과학 혁명",
+      "recommend": 57,
+      "comments": 47,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404399",
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1405348",
+      "title": "전뇌초파리 불쌍하다는새끼들 존나어이없죠 ㅋㅋ",
+      "recommend": 55,
+      "comments": 39,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1405348",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
       ]
     },
     {
@@ -174,17 +300,17 @@
       ]
     },
     {
-      "no": "1397311",
-      "title": "걍 지금 사회 계획 자체에 별 감흥이 안옴 ㅋㅋ",
+      "no": "1401614",
+      "title": "아스트라 때문에 충격 받은 중국 개발자",
       "recommend": 54,
-      "comments": 24,
+      "comments": 21,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1397311",
+      "created_at_raw": "09.08",
+      "created_at": "2026-09-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1401614",
       "body_excerpt": "",
       "tags": [
-        "humor"
+        "general"
       ]
     },
     {
@@ -230,14 +356,70 @@
       ]
     },
     {
-      "no": "1397486",
-      "title": "원본 그림 보고 svg로 재현하는 아스트라",
+      "no": "1404585",
+      "title": "나비에-스토크스 방정식의 여러 궁금증",
       "recommend": 52,
-      "comments": 40,
+      "comments": 16,
+      "author": "TRT",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404585",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1406639",
+      "title": "AGI 오면 자본가들이 갑자기 착해진다는 설정임?",
+      "recommend": 51,
+      "comments": 70,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1397486",
+      "created_at_raw": "00:03",
+      "created_at": "2026-09-10T00:03:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1406639",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1403529",
+      "title": "선쌤들 가장 이해 안되는 건 이거임..",
+      "recommend": 51,
+      "comments": 35,
+      "author": "부리부리몬",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1403529",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1405631",
+      "title": "이 사람은 진짜 신 아니냐",
+      "recommend": 51,
+      "comments": 32,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1405631",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1401355",
+      "title": "근들갑은 뭔 근들갑 이씨발련들이",
+      "recommend": 51,
+      "comments": 32,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.08",
+      "created_at": "2026-09-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1401355",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -258,70 +440,112 @@
       ]
     },
     {
-      "no": "1395354",
-      "title": "(성공) 컴퓨터 없이 ‘폰’만으로 아스트라 영상 제작시키기",
+      "no": "1404717",
+      "title": "Tibo: 이대로 가면 신규 Pro 구독 막아야함",
       "recommend": 50,
-      "comments": 55,
-      "author": "M3",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395354",
+      "comments": 39,
+      "author": "천사다천사",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404717",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1401614",
-      "title": "아스트라 때문에 충격 받은 중국 개발자",
+      "no": "1403236",
+      "title": "솔직히 AI 속 시원한 점",
+      "recommend": 50,
+      "comments": 18,
+      "author": "전델",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1403236",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1402737",
+      "title": "이 씨발 좆같은 서양 코쟁이 새끼들아 빨간약 좀 그만먹여!!!",
       "recommend": 49,
-      "comments": 19,
+      "comments": 20,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.08",
-      "created_at": "2026-09-08T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1401614",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1402737",
       "body_excerpt": "",
       "tags": [
-        "general"
+        "humor"
       ]
     },
     {
-      "no": "1402572",
-      "title": "이제 슬슬 가지러 가볼까",
-      "recommend": 48,
-      "comments": 27,
-      "author": "ㅇㅇ",
-      "created_at_raw": "03:50",
-      "created_at": "2026-09-09T03:50:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1402572",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1396405",
-      "title": "아스트라가 개쩐다는 증거",
-      "recommend": 48,
+      "no": "1404931",
+      "title": "??? : 이봐 샘! 앤트로픽 소문 들었어?",
+      "recommend": 49,
       "comments": 18,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1396405",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404931",
+      "body_excerpt": "",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "no": "1404021",
+      "title": "뽀글머리 <- 이새낀 진자 agi 도달하면 안풀것같음",
+      "recommend": 49,
+      "comments": 4,
+      "author": "한남",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404021",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1395651",
-      "title": "헬조선 헬조선거려도 대한민국에서 태어난게 좋음",
+      "no": "1399606",
+      "title": "AI와 함께 VR 우주 핵추진 박물관 제작 후기",
+      "recommend": 48,
+      "comments": 19,
+      "author": "KTurret",
+      "created_at_raw": "09.08",
+      "created_at": "2026-09-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1399606",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1405595",
+      "title": "밀레니엄 문제 푼 모델은 겨우 4일만 훈련되었다",
       "recommend": 47,
-      "comments": 57,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395651",
+      "comments": 56,
+      "author": "행복한천국으로",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1405595",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1404057",
+      "title": "이 분도 죽이고 싶음??",
+      "recommend": 47,
+      "comments": 44,
+      "author": "초존도초",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404057",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -342,84 +566,98 @@
       ]
     },
     {
-      "no": "1396935",
-      "title": "이건 귀하거든요",
-      "recommend": 47,
-      "comments": 33,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1396935",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1401355",
-      "title": "근들갑은 뭔 근들갑 이씨발련들이",
-      "recommend": 47,
-      "comments": 31,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.08",
-      "created_at": "2026-09-08T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1401355",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1399606",
-      "title": "AI와 함께 VR 우주 핵추진 박물관 제작 후기",
-      "recommend": 47,
-      "comments": 19,
-      "author": "KTurret",
-      "created_at_raw": "09.08",
-      "created_at": "2026-09-08T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1399606",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1396822",
-      "title": "젠슨 황: AGI가 도래했다",
-      "recommend": 47,
-      "comments": 18,
-      "author": "천사다천사",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1396822",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1395204",
-      "title": "아스트라 모델링할때 처음에 납작하게하는 이유알앗다",
-      "recommend": 47,
-      "comments": 17,
-      "author": "POKUDONS",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395204",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1398513",
       "title": "다시 생각해봐도 대단한 인물",
-      "recommend": 46,
+      "recommend": 47,
       "comments": 34,
       "author": "황금쿨피스",
       "created_at_raw": "09.07",
       "created_at": "2026-09-07T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1398513",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1405196",
+      "title": "???: 인간의 본질은 이성이다",
+      "recommend": 47,
+      "comments": 28,
+      "author": "LeChat",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1405196",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1403142",
+      "title": "미국 재무장관\"중국 때문에 AI 발전을 멈출수가 없다\"",
+      "recommend": 47,
+      "comments": 27,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1403142",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1404363",
+      "title": "속보) 아스트라 자율주행도 시작 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "recommend": 46,
+      "comments": 65,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404363",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1400915",
+      "title": "초파리 뇌로 언어모델 만듬",
+      "recommend": 46,
+      "comments": 47,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.08",
+      "created_at": "2026-09-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1400915",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1403258",
+      "title": "\"지도교수님이 20년 넘게 매달렸는데 ai가 몇일만에...\"",
+      "recommend": 46,
+      "comments": 22,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1403258",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1401757",
+      "title": "프랑스 국립과학연구원 수학자, 벅마스터에게 독설",
+      "recommend": 46,
+      "comments": 22,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.08",
+      "created_at": "2026-09-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1401757",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -441,269 +679,28 @@
       ]
     },
     {
-      "no": "1399621",
-      "title": "아스트라로 광고 영상을 만들 수 있을까?",
-      "recommend": 45,
-      "comments": 37,
+      "no": "1404751",
+      "title": "아스트라로 만들어 본 클래식 메이플",
+      "recommend": 46,
+      "comments": 18,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.08",
-      "created_at": "2026-09-08T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1399621",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1404751",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1396520",
-      "title": "야쿱:레커가 옳았다",
-      "recommend": 45,
-      "comments": 24,
+      "no": "1403646",
+      "title": "선형충 진자 ㅈㄴ 역겹네 ㅋㅋ",
+      "recommend": 46,
+      "comments": 17,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1396520",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1399175",
-      "title": "대르쿤 속이뻥 리트윗",
-      "recommend": 45,
-      "comments": 21,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1399175",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1399373",
-      "title": "[아스트라 어택] 3:3 fps 정식 오픈 v2",
-      "recommend": 44,
-      "comments": 45,
-      "author": "봄바다",
-      "created_at_raw": "09.08",
-      "created_at": "2026-09-08T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1399373",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1396644",
-      "title": "특붕이들 행복해하는 모습을 보니 감개가 무량하군",
-      "recommend": 44,
-      "comments": 27,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1396644",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1395289",
-      "title": "Astra 때문에 사무직이 대체된다는건 멍게소리임????",
-      "recommend": 44,
-      "comments": 24,
-      "author": "바다기린",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395289",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1402517",
-      "title": "오늘 수능 만점 뉴스는 거의 현대 예술급이네",
-      "recommend": 44,
-      "comments": 21,
-      "author": "ㅇㅇ",
-      "created_at_raw": "03:40",
-      "created_at": "2026-09-09T03:40:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1402517",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1398868",
-      "title": "이런 글이 진짜 존나 블랙코미디라니까 씨발 ㅋㅋㅋㅋㅋ",
-      "recommend": 44,
-      "comments": 19,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1398868",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1395636",
-      "title": "마크쟁이들 희소식 아스트라 진짜 지리네 ㄷㄷ",
-      "recommend": 43,
-      "comments": 38,
-      "author": "211.38",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395636",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1401757",
-      "title": "프랑스 국립과학연구원 수학자, 벅마스터에게 독설",
-      "recommend": 43,
-      "comments": 22,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.08",
-      "created_at": "2026-09-08T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1401757",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1396463",
-      "title": "속보) 오픈AI : 연구 인턴 달성",
-      "recommend": 43,
-      "comments": 22,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1396463",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "openai"
-      ]
-    },
-    {
-      "no": "1398930",
-      "title": "김대식 교수의 아스트라 후기",
-      "recommend": 43,
-      "comments": 21,
-      "author": "EventHorizon",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1398930",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1396839",
-      "title": "젠슨황: agi가 도착했다 오픈ai 축하한다",
-      "recommend": 43,
-      "comments": 19,
-      "author": "누웠수당",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1396839",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "openai"
-      ]
-    },
-    {
-      "no": "1400915",
-      "title": "초파리 뇌로 언어모델 만듬",
-      "recommend": 42,
-      "comments": 46,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.08",
-      "created_at": "2026-09-08T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1400915",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1400783",
-      "title": "유체 연구 떡밥이랑 상황 정리",
-      "recommend": 42,
-      "comments": 20,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.08",
-      "created_at": "2026-09-08T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1400783",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1395802",
-      "title": "GPT6-아스트라 한짤 요약",
-      "recommend": 42,
-      "comments": 13,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395802",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "humor"
-      ]
-    },
-    {
-      "no": "1395950",
-      "title": "아스트라가 pre agi라고 불리는 이유는",
-      "recommend": 41,
-      "comments": 31,
-      "author": "203847년걸리겠죠",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395950",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1396486",
-      "title": "환자의 삶",
-      "recommend": 41,
-      "comments": 30,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.07",
-      "created_at": "2026-09-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1396486",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1395095",
-      "title": "젠슨황 G20 대담 내용이 씹 ㅋㅋㅋㅋ",
-      "recommend": 41,
-      "comments": 19,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.06",
-      "created_at": "2026-09-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1395095",
+      "created_at_raw": "09.09",
+      "created_at": "2026-09-09T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1403646",
       "body_excerpt": "",
       "tags": [
         "humor"
@@ -713,7 +710,7 @@
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 5,
+    "dropped_old": 6,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }
