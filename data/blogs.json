@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-09T23:05:43.282695+00:00",
-  "cutoff": "2026-09-02T23:05:37.003811+00:00",
+  "generated_at": "2026-09-10T23:02:43.072417+00:00",
+  "cutoff": "2026-09-03T23:02:36.710537+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 17
+      "count": 19
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 6
+      "count": 3
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,62 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published_at": "2026-09-10T16:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "published_at": "2026-09-10T15:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+    },
+    {
+      "source": "blog_openai",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+    },
     {
       "source": "blog_openai",
       "title": "GPT-6 Astra: The next generation in intelligence for work",
@@ -126,46 +182,6 @@
       "lead_paragraph": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
     },
     {
-      "source": "blog_openai",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "published_at": "2026-09-03T13:15:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published_at": "2026-09-03T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "published_at": "2026-09-03T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-    },
-    {
-      "source": "blog_openai",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "published_at": "2026-09-03T11:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
-    },
-    {
       "source": "blog_deepmind",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
@@ -174,10 +190,10 @@
       "lead_paragraph": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "published_at": "2026-09-03T15:02:08+00:00",
+      "source": "blog_huggingface",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published_at": "2026-09-10T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -198,156 +214,124 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "published_at": "2026-09-03T13:13:48+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Developing nuclear safeguards for AI through public-private partnership",
+      "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
+      "published_at": "2026-09-10T20:11:55+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "With the NNSA and DOE national labs, we co-developed a classifier that distinguishes concerning from benign nuclear conversations with 96% accuracy."
     },
     {
       "source": "blog_anthropic",
-      "title": "Our compliance framework for California's SB 53",
-      "url": "https://www.anthropic.com/news/compliance-framework-SB53",
-      "published_at": "2026-09-09T21:54:48+00:00",
+      "title": "Higher education advisory board and AI Fluency courses",
+      "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
+      "published_at": "2026-09-10T20:10:33+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic's Frontier Compliance Framework discloses how we assess and manage catastrophic AI risks under California's Transparency in Frontier AI Act."
+      "lead_paragraph": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions."
     },
     {
       "source": "blog_anthropic",
-      "title": "Introducing Labs",
-      "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
-      "published_at": "2026-09-09T21:51:07+00:00",
+      "title": "National Security and Public Sector Advisory Council",
+      "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
+      "published_at": "2026-09-10T20:08:57+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic Labs incubates experimental AI products. Mike Krieger joins Ben Mann on Labs, while Ami Vora leads the Product organization."
+      "lead_paragraph": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security."
     },
     {
       "source": "blog_anthropic",
-      "title": "How scientists use Claude to accelerate research",
-      "url": "https://www.anthropic.com/news/accelerating-scientific-research",
-      "published_at": "2026-09-09T21:45:55+00:00",
+      "title": "Detecting and countering misuse of AI: August 2025",
+      "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+      "published_at": "2026-09-10T19:44:33+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Labs at Stanford and MIT built Claude-powered systems that run genome-wide studies in minutes and automate gene cluster interpretation."
+      "lead_paragraph": "Anthropic's August 2025 threat intelligence report on AI cybercrime and other abuses."
     },
     {
       "source": "blog_anthropic",
-      "title": "Irina Ghose named Managing Director of India",
-      "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
-      "published_at": "2026-09-09T21:44:01+00:00",
+      "title": "Education Report: How educators use Claude",
+      "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
+      "published_at": "2026-09-10T19:00:37+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Former Microsoft India MD Irina Ghose will lead Anthropic's first Bengaluru office, focusing on enterprise adoption and developer partnerships."
+      "lead_paragraph": "Research on 74,000 educator conversations shows how faculty use Claude for teaching, research, and building interactive learning tools."
     },
     {
       "source": "blog_anthropic",
-      "title": "Mariano-Florentino Cuéllar appointed to Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
-      "published_at": "2026-09-09T21:43:11+00:00",
+      "title": "Updates to Consumer Terms and Privacy Policy",
+      "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
+      "published_at": "2026-09-10T18:59:30+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Former California Supreme Court Justice Mariano-Florentino Cuéllar joins Anthropic's Long-Term Benefit Trust as a trustee."
+      "lead_paragraph": "Claude Free, Pro, and Max users can now opt in to having conversations used to improve models, with a five-year retention period for participants."
     },
     {
       "source": "blog_anthropic",
-      "title": "Anthropic and Teach For All train educators on AI",
-      "url": "https://www.anthropic.com/news/anthropic-teach-for-all",
-      "published_at": "2026-09-09T21:41:24+00:00",
+      "title": "Anthropic raises $13B Series F at $183B valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "published_at": "2026-09-10T18:58:05+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "The AI Literacy & Creator Collective brings AI training to 100,000+ educators across 63 countries serving 1.5 million students."
+      "lead_paragraph": "Anthropic has completed a $13 billion Series F led by ICONIQ, co-led by Fidelity and Lightspeed, valuing the company at $183 billion post-money."
     },
     {
       "source": "blog_anthropic",
-      "title": "Anthropic partners with the UK Government on GOV.UK",
-      "url": "https://www.anthropic.com/news/gov-UK-partnership",
-      "published_at": "2026-09-09T21:38:02+00:00",
+      "title": "Updating sales restrictions for unsupported regions",
+      "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
+      "published_at": "2026-09-10T18:57:26+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "The UK selected Anthropic to build and pilot an AI assistant for GOV.UK, starting with career advice and training access for job seekers."
+      "lead_paragraph": "Anthropic is tightening restrictions to bar entities majority-owned by companies headquartered in unsupported regions."
     },
     {
       "source": "blog_anthropic",
-      "title": "ServiceNow chooses Claude",
-      "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
-      "published_at": "2026-09-09T21:36:33+00:00",
+      "title": "Anthropic joins White House AI education pledge",
+      "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
+      "published_at": "2026-09-10T18:56:38+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "ServiceNow selects Claude as the default model for its Build Agent and rolls Claude out to 29,000+ employees and engineering teams."
+      "lead_paragraph": "Anthropic signs White House pledge investing in AI education for America's youth, supporting AI students and educators nationwide."
     },
     {
       "source": "blog_anthropic",
-      "title": "Anthropic partners with Allen Institute and HHMI",
-      "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
-      "published_at": "2026-09-09T21:34:03+00:00",
+      "title": "Strengthening safeguards with US CAISI and UK AISI",
+      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
+      "published_at": "2026-09-10T18:55:52+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic is building specialized AI agents with the Allen Institute and Howard Hughes Medical Institute to accelerate biomedical research."
+      "lead_paragraph": "Government red-teamers tested Constitutional Classifiers on Claude Opus 4 and 4.1, uncovering vulnerabilities that strengthened our safeguards."
     },
     {
       "source": "blog_anthropic",
-      "title": "Apple’s Xcode now supports the Claude Agent SDK",
-      "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
-      "published_at": "2026-09-09T21:33:07+00:00",
+      "title": "Chris Ciauri named Managing Director of International",
+      "url": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
+      "published_at": "2026-09-10T18:51:09+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Xcode 26.3 integrates the Claude Agent SDK, letting developers use Claude for autonomous, long-running coding tasks on Apple platforms."
+      "lead_paragraph": "Chris Ciauri joins Anthropic as Managing Director of International, adding to our global leadership team as we expand our worldwide presence."
     },
     {
       "source": "blog_anthropic",
-      "title": "Claude is a space to think",
-      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-      "published_at": "2026-09-09T21:31:05+00:00",
+      "title": "Deloitte brings Claude to 470,000 people",
+      "url": "https://www.anthropic.com/news/deloitte-anthropic-partnership",
+      "published_at": "2026-09-10T18:48:58+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Claude will remain ad-free. We explain why advertising incentives are incompatible with a helpful AI assistant."
+      "lead_paragraph": "Deloitte will make Claude available across its global network, Anthropic's largest enterprise AI deployment to date."
     },
     {
       "source": "blog_anthropic",
-      "title": "Claude Opus 4.6",
-      "url": "https://www.anthropic.com/news/claude-opus-4-6",
-      "published_at": "2026-09-09T21:28:45+00:00",
+      "title": "Rahul Patil joins as Chief Technology Officer",
+      "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
+      "published_at": "2026-09-10T18:47:30+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "We're upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model."
+      "lead_paragraph": "Rahul Patil brings 20+ years of infrastructure experience from Stripe, AWS, Microsoft, and Oracle Cloud to lead engineering at Anthropic."
     },
     {
       "source": "blog_anthropic",
-      "title": "Covering electricity price increases",
-      "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
-      "published_at": "2026-09-09T21:27:55+00:00",
+      "title": "Anthropic expands to India with Bengaluru office",
+      "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",
+      "published_at": "2026-09-10T18:45:33+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic commits to covering consumer electricity price increases caused by its data centers, including grid upgrades and new power generation."
+      "lead_paragraph": "Anthropic will open a Bengaluru office in early 2026, its second APAC location, and improve Claude's support for major Indic languages."
     },
     {
       "source": "blog_anthropic",
-      "title": "Anthropic is donating $20 million to Public First Action",
-      "url": "https://www.anthropic.com/news/donate-public-first-action",
-      "published_at": "2026-09-09T21:26:55+00:00",
+      "title": "Salesforce and Anthropic expand partnership",
+      "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+      "published_at": "2026-09-10T18:42:59+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic is donating $20 million to Public First Action, a 501(c)(4) focused on AI issues in the public interest."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic raises $30B Series G at $380B valuation",
-      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "published_at": "2026-09-09T21:25:59+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic raised $30 billion, led by GIC and Coatue, with run-rate revenue of $14 billion and 500+ customers spending over $1 million annually."
+      "lead_paragraph": "Claude becomes a preferred model in Salesforce's Agentforce for regulated industries."
     }
   ]
 }
