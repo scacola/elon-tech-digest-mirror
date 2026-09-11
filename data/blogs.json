@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T23:02:43.072417+00:00",
-  "cutoff": "2026-09-03T23:02:36.710537+00:00",
+  "generated_at": "2026-09-11T23:06:53.392182+00:00",
+  "cutoff": "2026-09-04T23:06:47.242286+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     {
       "source": "blog_deepmind",
@@ -29,6 +29,14 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published_at": "2026-09-11T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+    },
     {
       "source": "blog_openai",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -63,19 +71,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-    },
-    {
-      "source": "blog_openai",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "published_at": "2026-09-10T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
     },
     {
       "source": "blog_openai",
@@ -215,6 +223,14 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Introducing Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "published_at": "2026-09-11T02:45:01+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Developing nuclear safeguards for AI through public-private partnership",
       "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
       "published_at": "2026-09-10T20:11:55+00:00",
@@ -244,14 +260,6 @@
       "published_at": "2026-09-10T19:44:33+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic's August 2025 threat intelligence report on AI cybercrime and other abuses."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Education Report: How educators use Claude",
-      "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
-      "published_at": "2026-09-10T19:00:37+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Research on 74,000 educator conversations shows how faculty use Claude for teaching, research, and building interactive learning tools."
     },
     {
       "source": "blog_anthropic",
