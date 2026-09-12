@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-11T23:06:53.392182+00:00",
-  "cutoff": "2026-09-04T23:06:47.242286+00:00",
+  "generated_at": "2026-09-12T22:56:06.076308+00:00",
+  "cutoff": "2026-09-05T22:55:59.443192+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 20
+      "count": 22
     },
     {
       "source": "blog_deepmind",
@@ -31,11 +31,27 @@
   "items": [
     {
       "source": "blog_openai",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "source": "blog_openai",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "published_at": "2026-09-11T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published_at": "2026-09-11T16:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
     },
     {
       "source": "blog_openai",
