@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T23:02:39.049715+00:00",
-  "cutoff": "2026-09-06T23:02:31.858411+00:00",
+  "generated_at": "2026-09-14T23:46:10.450933+00:00",
+  "cutoff": "2026-09-07T23:46:02.988436+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,14 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "published_at": "2026-09-14T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+    },
     {
       "source": "blog_openai",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -182,20 +190,20 @@
       "lead_paragraph": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
     },
     {
-      "source": "blog_openai",
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "published_at": "2026-09-07T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
-    },
-    {
       "source": "blog_deepmind",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "published_at": "2026-09-08T14:00:15+00:00",
       "author": "",
       "lead_paragraph": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",

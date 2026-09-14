@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T23:04:06.140206+00:00",
-  "cutoff": "2026-09-10T23:02:39.214152+00:00",
+  "generated_at": "2026-09-14T23:47:56.388944+00:00",
+  "cutoff": "2026-09-11T23:46:10.601681+00:00",
   "window_hours": 72,
   "items": [],
   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.LG+OR+cat%3Acs.CL&sortBy=lastUpdatedDate&sortOrder=descending&max_results=12"

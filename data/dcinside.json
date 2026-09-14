@@ -1,6 +1,6 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-09-13T23:02:31.539917+00:00",
+  "collected_at": "2026-09-14T23:46:02.670450+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
@@ -19,6 +19,35 @@
       ]
     },
     {
+      "no": "1420814",
+      "title": "마크 저커버그 : 좆까",
+      "recommend": 111,
+      "comments": 60,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420814",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1417014",
+      "title": "솔직히 ai위험 좆도 체감안되면 개추 ㅋㅋ",
+      "recommend": 100,
+      "comments": 27,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417014",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "humor"
+      ]
+    },
+    {
       "no": "1415748",
       "title": "샌더스 \"이번 감속은 부족해 인간보다 우위 AI 금지해야\"",
       "recommend": 96,
@@ -33,24 +62,23 @@
       ]
     },
     {
-      "no": "1417014",
-      "title": "솔직히 ai위험 좆도 체감안되면 개추 ㅋㅋ",
-      "recommend": 96,
-      "comments": 28,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417014",
+      "no": "1420498",
+      "title": "트럼프 \"AI 개발 늦추지 마라\"…중국 때문에 감속론 사실상 거부",
+      "recommend": 93,
+      "comments": 27,
+      "author": "카센터",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420498",
       "body_excerpt": "",
       "tags": [
-        "ai",
-        "humor"
+        "ai"
       ]
     },
     {
       "no": "1412455",
       "title": "요며칠 특갤 보니까 앞으로 인류 최대의 적은 이새끼임",
-      "recommend": 90,
+      "recommend": 91,
       "comments": 55,
       "author": "ㅇㅇ",
       "created_at_raw": "09.12",
@@ -76,24 +104,10 @@
       ]
     },
     {
-      "no": "1411207",
-      "title": "엄마 나 뉴스 탔어",
-      "recommend": 82,
-      "comments": 67,
-      "author": "봄바다",
-      "created_at_raw": "09.11",
-      "created_at": "2026-09-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1411207",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1418094",
       "title": "죽어가는 사람들을 위해 가속 <- 참기 힘들게 역겨움",
-      "recommend": 78,
-      "comments": 105,
+      "recommend": 82,
+      "comments": 108,
       "author": "ㅇㅇ",
       "created_at_raw": "09.13",
       "created_at": "2026-09-13T12:00:00+09:00",
@@ -104,10 +118,38 @@
       ]
     },
     {
+      "no": "1420775",
+      "title": "AI 대부, The vJEPA 얀르쿤 박사, 아모데이에게 통렬한 일침!!",
+      "recommend": 81,
+      "comments": 33,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420775",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1419879",
+      "title": "속이 뻥",
+      "recommend": 80,
+      "comments": 20,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1419879",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1414147",
       "title": "그림1쟁이들이 대체될때 나는 웃었다",
       "recommend": 78,
-      "comments": 28,
+      "comments": 27,
       "author": "ㅇㅇ",
       "created_at_raw": "09.12",
       "created_at": "2026-09-12T12:00:00+09:00",
@@ -120,8 +162,8 @@
     {
       "no": "1414880",
       "title": "리만 가설 존나 쉬운데?",
-      "recommend": 75,
-      "comments": 60,
+      "recommend": 76,
+      "comments": 59,
       "author": "ㅇㅇ",
       "created_at_raw": "09.12",
       "created_at": "2026-09-12T12:00:00+09:00",
@@ -132,17 +174,31 @@
       ]
     },
     {
-      "no": "1420498",
-      "title": "트럼프 \"AI 개발 늦추지 마라\"…중국 때문에 감속론 사실상 거부",
-      "recommend": 75,
-      "comments": 37,
-      "author": "카센터",
-      "created_at_raw": "01:41",
-      "created_at": "2026-09-14T01:41:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420498",
+      "no": "1420381",
+      "title": "트럼프 : 일부 ai에 대한 목소리 너무 부정적",
+      "recommend": 73,
+      "comments": 4,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420381",
       "body_excerpt": "",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "no": "1419717",
+      "title": "일리야 드디어 감속에 대해 한마디 함",
+      "recommend": 72,
+      "comments": 41,
+      "author": "트리거핑거",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1419717",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -154,6 +210,34 @@
       "created_at_raw": "09.12",
       "created_at": "2026-09-12T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1414089",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1420433",
+      "title": "머스크, 구글직원등”첨단AI개발 6개월 중단하자“",
+      "recommend": 70,
+      "comments": 29,
+      "author": "오르페옹",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420433",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1413702",
+      "title": "아스트라로 만화 만들어봄",
+      "recommend": 69,
+      "comments": 50,
+      "author": "Veo",
+      "created_at_raw": "09.12",
+      "created_at": "2026-09-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1413702",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -174,31 +258,17 @@
       ]
     },
     {
-      "no": "1419879",
-      "title": "속이 뻥",
-      "recommend": 68,
-      "comments": 18,
+      "no": "1420653",
+      "title": "념글 댓들 보면 확실히 유입 존나 많은듯",
+      "recommend": 69,
+      "comments": 16,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1419879",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420653",
       "body_excerpt": "",
       "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1413702",
-      "title": "아스트라로 만화 만들어봄",
-      "recommend": 66,
-      "comments": 47,
-      "author": "Veo",
-      "created_at_raw": "09.12",
-      "created_at": "2026-09-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1413702",
-      "body_excerpt": "",
-      "tags": [
-        "general"
+        "humor"
       ]
     },
     {
@@ -218,7 +288,7 @@
     {
       "no": "1414216",
       "title": "짤 ㅅㅂ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "recommend": 63,
+      "recommend": 65,
       "comments": 15,
       "author": "달고나맛솜사탕",
       "created_at_raw": "09.12",
@@ -230,37 +300,37 @@
       ]
     },
     {
-      "no": "1420381",
-      "title": "트럼프 : 일부 ai에 대한 목소리 너무 부정적",
-      "recommend": 62,
-      "comments": 5,
-      "author": "ㅇㅇ",
-      "created_at_raw": "00:45",
-      "created_at": "2026-09-14T00:45:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420381",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1419717",
-      "title": "일리야 드디어 감속에 대해 한마디 함",
-      "recommend": 61,
-      "comments": 41,
-      "author": "트리거핑거",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1419717",
+      "no": "1421191",
+      "title": "민심테스트",
+      "recommend": 64,
+      "comments": 44,
+      "author": "전통미식피자",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1421191",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
+      "no": "1421063",
+      "title": "시진핑이 어제 브릭스 회의에서 오픈소스ai 개발 가속 선언",
+      "recommend": 64,
+      "comments": 25,
+      "author": "니그라토",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1421063",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "no": "1417544",
       "title": "그냥 ㄹㅇ 이새끼들이 GOAT라니까",
-      "recommend": 60,
+      "recommend": 64,
       "comments": 20,
       "author": "ㅇㅇ",
       "created_at_raw": "09.13",
@@ -269,6 +339,34 @@
       "body_excerpt": "",
       "tags": [
         "humor"
+      ]
+    },
+    {
+      "no": "1418285",
+      "title": "죽어가는 사람들을 위해 가속 <- 이 아니라",
+      "recommend": 62,
+      "comments": 28,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1418285",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1420006",
+      "title": "트럼프 “AI 승자가 세계 주도. 미국이 중국에 앞서야",
+      "recommend": 62,
+      "comments": 21,
+      "author": "chatgpt4o",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420006",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -287,42 +385,14 @@
       ]
     },
     {
-      "no": "1418285",
-      "title": "죽어가는 사람들을 위해 가속 <- 이 아니라",
+      "no": "1423195",
+      "title": "명명백백한 가속의 왕",
       "recommend": 59,
-      "comments": 28,
+      "comments": 11,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1418285",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1420433",
-      "title": "머스크, 구글직원등”첨단AI개발 6개월 중단하자“",
-      "recommend": 59,
-      "comments": 25,
-      "author": "오르페옹",
-      "created_at_raw": "01:10",
-      "created_at": "2026-09-14T01:10:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420433",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1411889",
-      "title": "지금 제대로 사고쳐버린 키미",
-      "recommend": 58,
-      "comments": 23,
-      "author": "누웠수당",
-      "created_at_raw": "09.12",
-      "created_at": "2026-09-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1411889",
+      "created_at_raw": "01:31",
+      "created_at": "2026-09-15T01:31:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1423195",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -343,23 +413,93 @@
       ]
     },
     {
-      "no": "1420006",
-      "title": "트럼프 “AI 승자가 세계 주도. 미국이 중국에 앞서야",
+      "no": "1417896",
+      "title": "백악관 ai 고문 입장 발표 : 하시던지, 근데..",
       "recommend": 56,
-      "comments": 47,
-      "author": "chatgpt4o",
+      "comments": 42,
+      "author": "ㅇㅇ",
       "created_at_raw": "09.13",
       "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420006",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417896",
       "body_excerpt": "",
       "tags": [
         "ai"
       ]
     },
     {
+      "no": "1423406",
+      "title": "트럼프 ai 관련 발언 게시물 굳이 내려야 됨?",
+      "recommend": 56,
+      "comments": 27,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07:04",
+      "created_at": "2026-09-15T07:04:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1423406",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1421929",
+      "title": "새로운 주제를 시작합니다",
+      "recommend": 56,
+      "comments": 12,
+      "author": "EventHorizon",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1421929",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1419374",
+      "title": "특이점이 오는게 느껴지면 개추 ㅋㅋ",
+      "recommend": 55,
+      "comments": 18,
+      "author": "203847년걸리겠죠",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1419374",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1417251",
+      "title": "속보) 전 Qwen 연구원 의문의 트윗 ON ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "recommend": 55,
+      "comments": 16,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417251",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1423383",
+      "title": "트럼프 관련 개념글 다 내렸네",
+      "recommend": 55,
+      "comments": 14,
+      "author": "찌찔이",
+      "created_at_raw": "05:54",
+      "created_at": "2026-09-15T05:54:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1423383",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1412828",
       "title": "ai연구자들 현상황",
-      "recommend": 54,
+      "recommend": 55,
       "comments": 9,
       "author": "ㅇㅇ",
       "created_at_raw": "09.12",
@@ -371,23 +511,9 @@
       ]
     },
     {
-      "no": "1412203",
-      "title": "중국 필즈상 수상 수학자가 AI를 보고 수학계에서 은퇴 ㄷㄷㄷㄷ",
-      "recommend": 53,
-      "comments": 44,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.12",
-      "created_at": "2026-09-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1412203",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1415578",
       "title": "아스트라, \"심심해서 딴짓 시작\"",
-      "recommend": 53,
+      "recommend": 54,
       "comments": 38,
       "author": "일본에간대학원생",
       "created_at_raw": "09.13",
@@ -399,17 +525,45 @@
       ]
     },
     {
-      "no": "1417896",
-      "title": "백악관 ai 고문 입장 발표 : 하시던지, 근데..",
-      "recommend": 52,
-      "comments": 42,
+      "no": "1417522",
+      "title": "감속해도 중국이 추월 못하는 이유...jpg",
+      "recommend": 53,
+      "comments": 33,
       "author": "ㅇㅇ",
       "created_at_raw": "09.13",
       "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417896",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417522",
       "body_excerpt": "",
       "tags": [
-        "ai"
+        "humor"
+      ]
+    },
+    {
+      "no": "1419163",
+      "title": "알트만 \"지금도 사람들이 죽어가고 있다\"",
+      "recommend": 53,
+      "comments": 30,
+      "author": "DNA",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1419163",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1417612",
+      "title": "근데 프론티어 랩들이 감속정렬하겠다는데 어쩔거임",
+      "recommend": 52,
+      "comments": 60,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417612",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -427,31 +581,73 @@
       ]
     },
     {
-      "no": "1417251",
-      "title": "속보) 전 Qwen 연구원 의문의 트윗 ON ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "no": "1420507",
+      "title": "속보) 아스트라 근황 ㅅㅂ ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
       "recommend": 52,
-      "comments": 16,
+      "comments": 34,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417251",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420507",
       "body_excerpt": "",
       "tags": [
         "humor"
       ]
     },
     {
-      "no": "1411429",
-      "title": "디자이너 특붕이의 AI 디자인 퀄리티 올리는 팁",
+      "no": "1423209",
+      "title": "중국 : AI는 개방적이고 포용적이어야 한다",
       "recommend": 52,
-      "comments": 10,
+      "comments": 20,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.11",
-      "created_at": "2026-09-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1411429",
+      "created_at_raw": "01:37",
+      "created_at": "2026-09-15T01:37:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1423209",
       "body_excerpt": "",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "no": "1422899",
+      "title": "\"아스트라 성능은 인정해도 너무 비싸다, 월 30만원이 말이 되냐?\"",
+      "recommend": 52,
+      "comments": 12,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1422899",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1420418",
+      "title": "Bel은 출시하길 바라면 개추",
+      "recommend": 52,
+      "comments": 6,
+      "author": "제파제파",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1420418",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1418006",
+      "title": "얀 르쿤 리트윗",
+      "recommend": 51,
+      "comments": 69,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.13",
+      "created_at": "2026-09-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1418006",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -484,38 +680,10 @@
       ]
     },
     {
-      "no": "1411128",
-      "title": "그외중에 진짜 초파리용 천국 나옴",
-      "recommend": 51,
-      "comments": 21,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.11",
-      "created_at": "2026-09-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1411128",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1417522",
-      "title": "감속해도 중국이 추월 못하는 이유...jpg",
-      "recommend": 50,
-      "comments": 32,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417522",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1418410",
       "title": "현재 프론티어 연구원들 눈에 비친 특슬람.gif",
-      "recommend": 50,
-      "comments": 18,
+      "recommend": 51,
+      "comments": 19,
       "author": "ㅇㅇ",
       "created_at_raw": "09.13",
       "created_at": "2026-09-13T12:00:00+09:00",
@@ -526,185 +694,17 @@
       ]
     },
     {
-      "no": "1412484",
-      "title": "반대로생각하면 수학자성명문 이런게 좋은 벤치마크임",
+      "no": "1422225",
+      "title": "GPT 말하는 거 왜케 웃기지",
       "recommend": 50,
-      "comments": 9,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.12",
-      "created_at": "2026-09-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1412484",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1418006",
-      "title": "얀 르쿤 리트윗",
-      "recommend": 49,
-      "comments": 68,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1418006",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1417612",
-      "title": "근데 프론티어 랩들이 감속정렬하겠다는데 어쩔거임",
-      "recommend": 49,
-      "comments": 58,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417612",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1416527",
-      "title": "뽀글이 글 안읽은 새끼들 존나 많네",
-      "recommend": 49,
-      "comments": 28,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1416527",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1413688",
-      "title": "어이가없네 씨발 아인슈타인도 상대성이론 백지에서 시작한거아닌데",
-      "recommend": 49,
-      "comments": 18,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.12",
-      "created_at": "2026-09-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1413688",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1414290",
-      "title": "트럼프, AI 종말론 위험 일축…\"중국 우위가 최우선\"",
-      "recommend": 48,
       "comments": 39,
-      "author": "회색",
-      "created_at_raw": "09.12",
-      "created_at": "2026-09-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1414290",
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.14",
+      "created_at": "2026-09-14T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1422225",
       "body_excerpt": "",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "no": "1411486",
-      "title": "리만가설 [상당한 진전] 입갤ㅋㅋㅋ",
-      "recommend": 48,
-      "comments": 17,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.11",
-      "created_at": "2026-09-11T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1411486",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1417148",
-      "title": "ai 거2품이라고 까는 선형충이면 모를까",
-      "recommend": 47,
-      "comments": 21,
-      "author": "붕붕이",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1417148",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1412994",
-      "title": "친 AI 수학자 한명이 성명문 독하게 까네",
-      "recommend": 47,
-      "comments": 9,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.12",
-      "created_at": "2026-09-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1412994",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1419163",
-      "title": "알트만 \"지금도 사람들이 죽어가고 있다\"",
-      "recommend": 46,
-      "comments": 30,
-      "author": "DNA",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1419163",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1416160",
-      "title": "어제부터 x에 흥미로운 떡밥이 돌고있네",
-      "recommend": 46,
-      "comments": 26,
-      "author": "트리거핑거",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1416160",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1419374",
-      "title": "특이점이 오는게 느껴지면 개추 ㅋㅋ",
-      "recommend": 46,
-      "comments": 20,
-      "author": "203847년걸리겠죠",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1419374",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1415379",
-      "title": "이새끼가 감속하자고 하는 거 아닌 이상 wwe임",
-      "recommend": 46,
-      "comments": 14,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.13",
-      "created_at": "2026-09-13T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1415379",
-      "body_excerpt": "",
-      "tags": [
-        "general"
       ]
     }
   ],
