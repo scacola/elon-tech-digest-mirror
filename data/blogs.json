@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T23:29:24.604626+00:00",
-  "cutoff": "2026-09-08T23:29:17.760891+00:00",
+  "generated_at": "2026-09-16T23:36:51.334368+00:00",
+  "cutoff": "2026-09-09T23:36:44.518921+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 15
     },
     {
       "source": "blog_deepmind",
@@ -29,6 +29,46 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published_at": "2026-09-16T13:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published_at": "2026-09-16T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
+    },
     {
       "source": "blog_openai",
       "title": "How Fyxer built an AI executive assistant people trust",
@@ -108,30 +148,6 @@
       "published_at": "2026-09-10T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-    },
-    {
-      "source": "blog_openai",
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "published_at": "2026-09-09T13:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
-    },
-    {
-      "source": "blog_openai",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "published_at": "2026-09-09T11:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "published_at": "2026-09-09T17:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
     },
     {
       "source": "blog_deepmind",
