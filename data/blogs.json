@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T23:36:51.334368+00:00",
-  "cutoff": "2026-09-09T23:36:44.518921+00:00",
+  "generated_at": "2026-09-17T23:28:26.743733+00:00",
+  "cutoff": "2026-09-10T23:28:24.344303+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 15
+      "count": 10
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,24 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 3
+      "count": 1
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 15
+      "count": 2
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+    },
     {
       "source": "blog_openai",
       "title": "Helping older adults use AI in everyday life",
@@ -102,54 +110,6 @@
       "lead_paragraph": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
     },
     {
-      "source": "blog_openai",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "published_at": "2026-09-10T16:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "published_at": "2026-09-10T15:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
@@ -166,20 +126,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "published_at": "2026-09-17T20:15:21+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "blog_anthropic",
@@ -188,118 +140,6 @@
       "published_at": "2026-09-11T02:45:01+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Developing nuclear safeguards for AI through public-private partnership",
-      "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
-      "published_at": "2026-09-10T20:11:55+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "With the NNSA and DOE national labs, we co-developed a classifier that distinguishes concerning from benign nuclear conversations with 96% accuracy."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Higher education advisory board and AI Fluency courses",
-      "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
-      "published_at": "2026-09-10T20:10:33+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "National Security and Public Sector Advisory Council",
-      "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
-      "published_at": "2026-09-10T20:08:57+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Detecting and countering misuse of AI: August 2025",
-      "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
-      "published_at": "2026-09-10T19:44:33+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic's August 2025 threat intelligence report on AI cybercrime and other abuses."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Updates to Consumer Terms and Privacy Policy",
-      "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
-      "published_at": "2026-09-10T18:59:30+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude Free, Pro, and Max users can now opt in to having conversations used to improve models, with a five-year retention period for participants."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic raises $13B Series F at $183B valuation",
-      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-      "published_at": "2026-09-10T18:58:05+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic has completed a $13 billion Series F led by ICONIQ, co-led by Fidelity and Lightspeed, valuing the company at $183 billion post-money."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Updating sales restrictions for unsupported regions",
-      "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
-      "published_at": "2026-09-10T18:57:26+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is tightening restrictions to bar entities majority-owned by companies headquartered in unsupported regions."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic joins White House AI education pledge",
-      "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
-      "published_at": "2026-09-10T18:56:38+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic signs White House pledge investing in AI education for America's youth, supporting AI students and educators nationwide."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Strengthening safeguards with US CAISI and UK AISI",
-      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
-      "published_at": "2026-09-10T18:55:52+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Government red-teamers tested Constitutional Classifiers on Claude Opus 4 and 4.1, uncovering vulnerabilities that strengthened our safeguards."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Chris Ciauri named Managing Director of International",
-      "url": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
-      "published_at": "2026-09-10T18:51:09+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Chris Ciauri joins Anthropic as Managing Director of International, adding to our global leadership team as we expand our worldwide presence."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Deloitte brings Claude to 470,000 people",
-      "url": "https://www.anthropic.com/news/deloitte-anthropic-partnership",
-      "published_at": "2026-09-10T18:48:58+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Deloitte will make Claude available across its global network, Anthropic's largest enterprise AI deployment to date."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Rahul Patil joins as Chief Technology Officer",
-      "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
-      "published_at": "2026-09-10T18:47:30+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Rahul Patil brings 20+ years of infrastructure experience from Stripe, AWS, Microsoft, and Oracle Cloud to lead engineering at Anthropic."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic expands to India with Bengaluru office",
-      "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",
-      "published_at": "2026-09-10T18:45:33+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic will open a Bengaluru office in early 2026, its second APAC location, and improve Claude's support for major Indic languages."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Salesforce and Anthropic expand partnership",
-      "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
-      "published_at": "2026-09-10T18:42:59+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude becomes a preferred model in Salesforce's Agentforce for regulated industries."
     }
   ]
 }
