@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T23:28:26.743733+00:00",
-  "cutoff": "2026-09-10T23:28:24.344303+00:00",
+  "generated_at": "2026-09-18T23:09:38.390526+00:00",
+  "cutoff": "2026-09-11T23:09:36.114276+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -31,6 +31,14 @@
   "items": [
     {
       "source": "blog_openai",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "published_at": "2026-09-17T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+    },
+    {
+      "source": "blog_openai",
       "title": "Introducing Astra for Law",
       "url": "https://openai.com/index/astra-for-law",
       "published_at": "2026-09-17T00:00:00+00:00",
@@ -52,6 +60,14 @@
       "published_at": "2026-09-16T13:00:00+00:00",
       "author": "",
       "lead_paragraph": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
     },
     {
       "source": "blog_openai",
@@ -94,22 +110,6 @@
       "lead_paragraph": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
     },
     {
-      "source": "blog_openai",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "published_at": "2026-09-11T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "published_at": "2026-09-11T16:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
@@ -127,19 +127,19 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "published_at": "2026-09-18T20:02:00+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Introducing the Life Sciences Verification Program",
       "url": "https://www.anthropic.com/news/life-sciences-verification-program",
       "published_at": "2026-09-17T20:15:21+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "published_at": "2026-09-11T02:45:01+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
     }
   ]
 }
