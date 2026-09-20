@@ -1,157 +1,97 @@
 {
-  "generated_at": "2026-09-19T22:48:11.691417+00:00",
-  "cutoff": "2026-09-18T22:47:59.137335+00:00",
+  "generated_at": "2026-09-20T23:06:40.708963+00:00",
+  "cutoff": "2026-09-19T23:06:30.171634+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49764791,
-      "title": "AI-generated posters don’t have to be horrible",
-      "score": 1276,
-      "by": "ereiamjh",
-      "comments": 707,
-      "created_at": "2026-09-19T09:20:58+00:00",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49764791"
+      "hn_id": 49776729,
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "score": 507,
+      "by": "lmbbuchodi",
+      "comments": 294,
+      "created_at": "2026-09-20T15:18:44+00:00",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49776729"
     },
     {
-      "hn_id": 49765348,
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "score": 1015,
-      "by": "nandakishor_ml",
-      "comments": 233,
-      "created_at": "2026-09-19T10:46:58+00:00",
-      "url": "https://laya.convaiinnovations.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49765348"
+      "hn_id": 49776699,
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "score": 397,
+      "by": "skepticalgenius",
+      "comments": 124,
+      "created_at": "2026-09-20T15:16:07+00:00",
+      "url": "https://pirateface.co/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49776699"
     },
     {
-      "hn_id": 49763697,
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "score": 596,
-      "by": "emigre",
-      "comments": 228,
-      "created_at": "2026-09-19T05:48:50+00:00",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49763697"
+      "hn_id": 49779802,
+      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "score": 41,
+      "by": "layer8",
+      "comments": 51,
+      "created_at": "2026-09-20T20:32:43+00:00",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49779802"
     },
     {
-      "hn_id": 49763987,
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "score": 348,
-      "by": "nsoonhui",
-      "comments": 159,
-      "created_at": "2026-09-19T06:41:44+00:00",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "discussion_url": "https://news.ycombinator.com/item?id=49763987"
+      "hn_id": 49780162,
+      "title": "I stopped drinking the AI Kool-Aid",
+      "score": 31,
+      "by": "joshtronic",
+      "comments": 18,
+      "created_at": "2026-09-20T21:17:26+00:00",
+      "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49780162"
     },
     {
-      "hn_id": 49761432,
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "score": 195,
-      "by": "maxall4",
-      "comments": 130,
-      "created_at": "2026-09-18T23:04:17+00:00",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "discussion_url": "https://news.ycombinator.com/item?id=49761432"
-    },
-    {
-      "hn_id": 49767937,
-      "title": "I think you should almost never use AI to write",
-      "score": 177,
-      "by": "erwald",
-      "comments": 99,
-      "created_at": "2026-09-19T16:35:24+00:00",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "discussion_url": "https://news.ycombinator.com/item?id=49767937"
-    },
-    {
-      "hn_id": 49761840,
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "score": 145,
-      "by": "yogthos",
-      "comments": 21,
-      "created_at": "2026-09-18T23:54:42+00:00",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "discussion_url": "https://news.ycombinator.com/item?id=49761840"
-    },
-    {
-      "hn_id": 49768921,
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "score": 79,
-      "by": "jonbaer",
-      "comments": 21,
-      "created_at": "2026-09-19T18:21:30+00:00",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "discussion_url": "https://news.ycombinator.com/item?id=49768921"
-    },
-    {
-      "hn_id": 49763379,
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "score": 50,
-      "by": "noobplus",
+      "hn_id": 49780797,
+      "title": "Google's Open Agentic Orchestrator",
+      "score": 19,
+      "by": "blazarquasar",
       "comments": 6,
-      "created_at": "2026-09-19T04:44:35+00:00",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49763379"
+      "created_at": "2026-09-20T22:32:43+00:00",
+      "url": "https://agentexecutor.io",
+      "discussion_url": "https://news.ycombinator.com/item?id=49780797"
     },
     {
-      "hn_id": 49767564,
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "score": 46,
-      "by": "frabonacci",
-      "comments": 4,
-      "created_at": "2026-09-19T15:52:51+00:00",
-      "url": "https://github.com/trycua/cua",
-      "discussion_url": "https://news.ycombinator.com/item?id=49767564"
-    },
-    {
-      "hn_id": 49769050,
-      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "score": 39,
-      "by": "embedding-shape",
-      "comments": 11,
-      "created_at": "2026-09-19T18:36:44+00:00",
-      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-      "discussion_url": "https://news.ycombinator.com/item?id=49769050"
-    },
-    {
-      "hn_id": 49768826,
-      "title": "Ask HN: How do you interview devs in a post-AI world?",
-      "score": 24,
-      "by": "mdwelsh",
-      "comments": 12,
-      "created_at": "2026-09-19T18:10:34+00:00",
-      "url": "https://news.ycombinator.com/item?id=49768826",
-      "discussion_url": "https://news.ycombinator.com/item?id=49768826"
-    },
-    {
-      "hn_id": 49769421,
-      "title": "Economics Nobel Laureates' Letter Supporting the California Billionaire Tax [pdf]",
-      "score": 21,
-      "by": "marojejian",
-      "comments": 14,
-      "created_at": "2026-09-19T19:25:26+00:00",
-      "url": "https://gabriel-zucman.eu/files/prop40letter.pdf",
-      "discussion_url": "https://news.ycombinator.com/item?id=49769421"
-    },
-    {
-      "hn_id": 49770007,
-      "title": "AI-Generated Movie Star Has a Total Meltdown on TV",
-      "score": 4,
-      "by": "paulpauper",
+      "hn_id": 49778367,
+      "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
+      "score": 15,
+      "by": "Betelbuddy",
       "comments": 2,
-      "created_at": "2026-09-19T20:50:00+00:00",
-      "url": "https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total",
-      "discussion_url": "https://news.ycombinator.com/item?id=49770007"
+      "created_at": "2026-09-20T18:11:41+00:00",
+      "url": "https://www.youtube.com/watch?v=KnckQp-c388",
+      "discussion_url": "https://news.ycombinator.com/item?id=49778367"
     },
     {
-      "hn_id": 49769723,
-      "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
-      "score": 4,
-      "by": "complyyio",
+      "hn_id": 49777635,
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "score": 14,
+      "by": "joozio",
+      "comments": 0,
+      "created_at": "2026-09-20T17:01:25+00:00",
+      "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49777635"
+    },
+    {
+      "hn_id": 49778425,
+      "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]",
+      "score": 10,
+      "by": "ChrisArchitect",
+      "comments": 5,
+      "created_at": "2026-09-20T18:18:19+00:00",
+      "url": "https://www.youtube.com/watch?v=M0cWcAIeOyU",
+      "discussion_url": "https://news.ycombinator.com/item?id=49778425"
+    },
+    {
+      "hn_id": 49779858,
+      "title": "Base Browser: A hard fork of Firefox with no AI slop",
+      "score": 7,
+      "by": "Muhammad523",
       "comments": 1,
-      "created_at": "2026-09-19T20:08:18+00:00",
-      "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
-      "discussion_url": "https://news.ycombinator.com/item?id=49769723"
+      "created_at": "2026-09-20T20:40:17+00:00",
+      "url": "https://codeberg.org/basebrowserproject",
+      "discussion_url": "https://news.ycombinator.com/item?id=49779858"
     }
   ]
 }
