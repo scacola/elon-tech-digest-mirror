@@ -1,97 +1,207 @@
 {
-  "generated_at": "2026-09-20T23:06:40.708963+00:00",
-  "cutoff": "2026-09-19T23:06:30.171634+00:00",
+  "generated_at": "2026-09-21T23:58:15.094173+00:00",
+  "cutoff": "2026-09-20T23:57:59.495225+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49776729,
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "score": 507,
-      "by": "lmbbuchodi",
-      "comments": 294,
-      "created_at": "2026-09-20T15:18:44+00:00",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49776729"
+      "hn_id": 49783999,
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "score": 396,
+      "by": "tosh",
+      "comments": 175,
+      "created_at": "2026-09-21T07:11:55+00:00",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "discussion_url": "https://news.ycombinator.com/item?id=49783999"
     },
     {
-      "hn_id": 49776699,
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "score": 397,
-      "by": "skepticalgenius",
-      "comments": 124,
-      "created_at": "2026-09-20T15:16:07+00:00",
-      "url": "https://pirateface.co/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49776699"
+      "hn_id": 49783133,
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "score": 248,
+      "by": "volotat",
+      "comments": 56,
+      "created_at": "2026-09-21T04:42:37+00:00",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49783133"
     },
     {
-      "hn_id": 49779802,
-      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-      "score": 41,
-      "by": "layer8",
-      "comments": 51,
-      "created_at": "2026-09-20T20:32:43+00:00",
-      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49779802"
+      "hn_id": 49783101,
+      "title": "Heretic removes restrictions from language models",
+      "score": 235,
+      "by": "Bluestein",
+      "comments": 96,
+      "created_at": "2026-09-21T04:35:22+00:00",
+      "url": "https://heretic-project.org/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49783101"
     },
     {
-      "hn_id": 49780162,
-      "title": "I stopped drinking the AI Kool-Aid",
-      "score": 31,
-      "by": "joshtronic",
-      "comments": 18,
-      "created_at": "2026-09-20T21:17:26+00:00",
-      "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49780162"
+      "hn_id": 49787535,
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "score": 207,
+      "by": "ano-ther",
+      "comments": 93,
+      "created_at": "2026-09-21T14:10:49+00:00",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49787535"
     },
     {
-      "hn_id": 49780797,
-      "title": "Google's Open Agentic Orchestrator",
-      "score": 19,
-      "by": "blazarquasar",
-      "comments": 6,
-      "created_at": "2026-09-20T22:32:43+00:00",
-      "url": "https://agentexecutor.io",
-      "discussion_url": "https://news.ycombinator.com/item?id=49780797"
+      "hn_id": 49791509,
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "score": 179,
+      "by": "allanbreyes",
+      "comments": 101,
+      "created_at": "2026-09-21T18:41:59+00:00",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49791509"
     },
     {
-      "hn_id": 49778367,
-      "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
-      "score": 15,
-      "by": "Betelbuddy",
-      "comments": 2,
-      "created_at": "2026-09-20T18:11:41+00:00",
-      "url": "https://www.youtube.com/watch?v=KnckQp-c388",
-      "discussion_url": "https://news.ycombinator.com/item?id=49778367"
+      "hn_id": 49787142,
+      "title": "Python Workers are now generally available",
+      "score": 175,
+      "by": "torutofu",
+      "comments": 28,
+      "created_at": "2026-09-21T13:38:19+00:00",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49787142"
     },
     {
-      "hn_id": 49777635,
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "score": 14,
-      "by": "joozio",
+      "hn_id": 49792342,
+      "title": "Transformers Explained Visually",
+      "score": 150,
+      "by": "aray07",
+      "comments": 24,
+      "created_at": "2026-09-21T19:43:49+00:00",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49792342"
+    },
+    {
+      "hn_id": 49789982,
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "score": 138,
+      "by": "simianwords",
+      "comments": 143,
+      "created_at": "2026-09-21T17:00:23+00:00",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49789982"
+    },
+    {
+      "hn_id": 49784816,
+      "title": "Don't Use AI to Write",
+      "score": 135,
+      "by": "eigenBasis",
+      "comments": 75,
+      "created_at": "2026-09-21T08:54:44+00:00",
+      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49784816"
+    },
+    {
+      "hn_id": 49792067,
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "score": 114,
+      "by": "julian_digital",
+      "comments": 98,
+      "created_at": "2026-09-21T19:23:33+00:00",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "discussion_url": "https://news.ycombinator.com/item?id=49792067"
+    },
+    {
+      "hn_id": 49791378,
+      "title": "Why does mathmain need an encrypted loader?",
+      "score": 97,
+      "by": "abhisek",
+      "comments": 27,
+      "created_at": "2026-09-21T18:33:44+00:00",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49791378"
+    },
+    {
+      "hn_id": 49791647,
+      "title": "Frontier AI on Your Own Hardware",
+      "score": 82,
+      "by": "pretext",
+      "comments": 43,
+      "created_at": "2026-09-21T18:53:01+00:00",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49791647"
+    },
+    {
+      "hn_id": 49786419,
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "score": 55,
+      "by": "aru-labs",
+      "comments": 21,
+      "created_at": "2026-09-21T12:28:17+00:00",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "discussion_url": "https://news.ycombinator.com/item?id=49786419"
+    },
+    {
+      "hn_id": 49790322,
+      "title": "Big AI to humanity: drop dead",
+      "score": 34,
+      "by": "Tomte",
       "comments": 0,
-      "created_at": "2026-09-20T17:01:25+00:00",
-      "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49777635"
+      "created_at": "2026-09-21T17:23:19+00:00",
+      "url": "https://matthewbutterick.com/chron/drop-dead.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49790322"
     },
     {
-      "hn_id": 49778425,
-      "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]",
+      "hn_id": 49789356,
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "score": 33,
+      "by": "naw103",
+      "comments": 0,
+      "created_at": "2026-09-21T16:22:06+00:00",
+      "url": "https://github.com/naw103/foremerge",
+      "discussion_url": "https://news.ycombinator.com/item?id=49789356"
+    },
+    {
+      "hn_id": 49786210,
+      "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
+      "score": 30,
+      "by": "meep_meep_meep",
+      "comments": 18,
+      "created_at": "2026-09-21T12:07:16+00:00",
+      "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49786210"
+    },
+    {
+      "hn_id": 49791384,
+      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+      "score": 24,
+      "by": "MC995",
+      "comments": 9,
+      "created_at": "2026-09-21T18:33:56+00:00",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "discussion_url": "https://news.ycombinator.com/item?id=49791384"
+    },
+    {
+      "hn_id": 49791117,
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "score": 23,
+      "by": "ronfriedhaber",
+      "comments": 6,
+      "created_at": "2026-09-21T18:14:56+00:00",
+      "url": "https://ieeexplore.ieee.org/document/689473",
+      "discussion_url": "https://news.ycombinator.com/item?id=49791117"
+    },
+    {
+      "hn_id": 49794422,
+      "title": "Do not fear AI. Fear AI companies",
+      "score": 19,
+      "by": "rDr4g0n",
+      "comments": 4,
+      "created_at": "2026-09-21T22:40:31+00:00",
+      "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49794422"
+    },
+    {
+      "hn_id": 49791782,
+      "title": "You can use any LLM just like JEV",
       "score": 10,
-      "by": "ChrisArchitect",
-      "comments": 5,
-      "created_at": "2026-09-20T18:18:19+00:00",
-      "url": "https://www.youtube.com/watch?v=M0cWcAIeOyU",
-      "discussion_url": "https://news.ycombinator.com/item?id=49778425"
-    },
-    {
-      "hn_id": 49779858,
-      "title": "Base Browser: A hard fork of Firefox with no AI slop",
-      "score": 7,
-      "by": "Muhammad523",
-      "comments": 1,
-      "created_at": "2026-09-20T20:40:17+00:00",
-      "url": "https://codeberg.org/basebrowserproject",
-      "discussion_url": "https://news.ycombinator.com/item?id=49779858"
+      "by": "theanonymousone",
+      "comments": 2,
+      "created_at": "2026-09-21T19:03:31+00:00",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49791782"
     }
   ]
 }

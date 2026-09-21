@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-20T23:06:29.152215+00:00",
-  "cutoff": "2026-09-13T23:06:26.453581+00:00",
+  "generated_at": "2026-09-21T23:57:58.530305+00:00",
+  "cutoff": "2026-09-14T23:57:56.491192+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 11
+      "count": 14
     },
     {
       "source": "blog_deepmind",
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 1
+      "count": 3
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,46 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+    },
     {
       "source": "blog_openai",
       "title": "Introducing the Australian Youth Safety Blueprint",
@@ -102,26 +142,26 @@
       "lead_paragraph": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
     },
     {
-      "source": "blog_openai",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "published_at": "2026-09-14T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
       "published_at": "2026-09-15T17:05:57+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "published_at": "2026-09-21T13:44:34+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "published_at": "2026-09-21T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
