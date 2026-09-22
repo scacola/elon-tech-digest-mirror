@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-21T23:57:58.530305+00:00",
-  "cutoff": "2026-09-14T23:57:56.491192+00:00",
+  "generated_at": "2026-09-22T23:34:19.055102+00:00",
+  "cutoff": "2026-09-15T23:34:17.020332+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 14
+      "count": 18
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     {
       "source": "blog_anthropic",
@@ -31,11 +31,35 @@
   "items": [
     {
       "source": "blog_openai",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "published_at": "2026-09-21T12:00:00+00:00",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "published_at": "2026-09-22T21:00:00+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+      "lead_paragraph": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "published_at": "2026-09-22T18:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "published_at": "2026-09-22T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
     },
     {
       "source": "blog_openai",
@@ -44,6 +68,14 @@
       "published_at": "2026-09-21T12:00:00+00:00",
       "author": "",
       "lead_paragraph": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
     },
     {
       "source": "blog_openai",
@@ -142,10 +174,26 @@
       "lead_paragraph": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "published_at": "2026-09-15T17:05:57+00:00",
+      "source": "blog_huggingface",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "published_at": "2026-09-22T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -162,14 +210,6 @@
       "title": "tokenizers v1: encode, decode and scaling, measured",
       "url": "https://huggingface.co/blog/tokenizers-v1",
       "published_at": "2026-09-21T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "published_at": "2026-09-15T16:00:44+00:00",
       "author": "",
       "lead_paragraph": ""
     },
