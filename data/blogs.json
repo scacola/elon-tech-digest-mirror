@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-09-23T23:30:26.089141+00:00",
-  "cutoff": "2026-09-16T23:30:23.598604+00:00",
+  "generated_at": "2026-09-24T23:49:39.048677+00:00",
+  "cutoff": "2026-09-17T23:49:37.205742+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 21
+      "count": 20
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 3
+      "count": 2
     }
   ],
   "items": [
@@ -84,6 +84,14 @@
       "published_at": "2026-09-23T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+    },
+    {
+      "source": "blog_openai",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "published_at": "2026-09-23T02:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
     },
     {
       "source": "blog_openai",
@@ -182,20 +190,12 @@
       "lead_paragraph": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
     },
     {
-      "source": "blog_openai",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "published_at": "2026-09-17T12:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "published_at": "2026-09-24T16:20:39+00:00",
       "author": "",
-      "lead_paragraph": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "published_at": "2026-09-17T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_deepmind",
@@ -210,6 +210,14 @@
       "title": "Gemini 3.8 text-to-speech says hello",
       "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "published_at": "2026-09-23T15:25:14+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "published_at": "2026-09-24T14:08:57+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -265,7 +273,7 @@
       "source": "blog_anthropic",
       "title": "Claude discovers a novel enzyme system",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "published_at": "2026-09-23T20:05:57+00:00",
+      "published_at": "2026-09-24T10:25:16+00:00",
       "author": "Anthropic",
       "lead_paragraph": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
     },
@@ -276,14 +284,6 @@
       "published_at": "2026-09-18T20:02:00+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing the Life Sciences Verification Program",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "published_at": "2026-09-17T20:15:21+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ]
 }
