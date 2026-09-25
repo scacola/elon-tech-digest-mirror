@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T23:49:39.048677+00:00",
-  "cutoff": "2026-09-17T23:49:37.205742+00:00",
+  "generated_at": "2026-09-25T23:55:54.357387+00:00",
+  "cutoff": "2026-09-18T23:55:52.768522+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -25,10 +25,18 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 2
+      "count": 1
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "published_at": "2026-09-25T19:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+    },
     {
       "source": "blog_openai",
       "title": "Two years of OpenAI Academy",
@@ -175,19 +183,11 @@
     },
     {
       "source": "blog_openai",
-      "title": "How V7 gives AI agents institutional memory",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
       "url": "https://openai.com/index/v7",
       "published_at": "2026-09-21T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "published_at": "2026-09-18T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
     },
     {
       "source": "blog_deepmind",
@@ -276,14 +276,6 @@
       "published_at": "2026-09-24T10:25:16+00:00",
       "author": "Anthropic",
       "lead_paragraph": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "published_at": "2026-09-18T20:02:00+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
     }
   ]
 }
