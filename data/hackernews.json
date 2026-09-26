@@ -1,177 +1,117 @@
 {
-  "generated_at": "2026-09-25T23:56:54.183274+00:00",
-  "cutoff": "2026-09-24T23:56:40.128806+00:00",
+  "generated_at": "2026-09-26T23:28:11.299471+00:00",
+  "cutoff": "2026-09-25T23:27:55.250693+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49845977,
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "score": 356,
-      "by": "cramer4next",
-      "comments": 661,
-      "created_at": "2026-09-25T15:29:25+00:00",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49845977"
+      "hn_id": 49852065,
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "score": 239,
+      "by": "HotGarbage",
+      "comments": 131,
+      "created_at": "2026-09-26T00:59:02+00:00",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "discussion_url": "https://news.ycombinator.com/item?id=49852065"
     },
     {
-      "hn_id": 49839664,
-      "title": "What About Rails?",
-      "score": 303,
-      "by": "jrochkind1",
-      "comments": 197,
-      "created_at": "2026-09-25T02:50:16+00:00",
-      "url": "https://jardo.dev/what-about-rails",
-      "discussion_url": "https://news.ycombinator.com/item?id=49839664"
+      "hn_id": 49854875,
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "score": 136,
+      "by": "signa11",
+      "comments": 195,
+      "created_at": "2026-09-26T09:41:58+00:00",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "discussion_url": "https://news.ycombinator.com/item?id=49854875"
     },
     {
-      "hn_id": 49848269,
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "score": 297,
-      "by": "Ardakilic",
-      "comments": 88,
-      "created_at": "2026-09-25T18:33:50+00:00",
-      "url": "https://ollaya.dev/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49848269"
+      "hn_id": 49853175,
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "score": 132,
+      "by": "allanrbo",
+      "comments": 41,
+      "created_at": "2026-09-26T04:20:58+00:00",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49853175"
     },
     {
-      "hn_id": 49845952,
-      "title": "Classified estimates show the NSA is paying billions to test AI models",
-      "score": 169,
-      "by": "rdmuser",
+      "hn_id": 49857572,
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "score": 117,
+      "by": "ilamont",
+      "comments": 141,
+      "created_at": "2026-09-26T15:40:27+00:00",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49857572"
+    },
+    {
+      "hn_id": 49857651,
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "score": 106,
+      "by": "Brajeshwar",
       "comments": 101,
-      "created_at": "2026-09-25T15:27:35+00:00",
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "discussion_url": "https://news.ycombinator.com/item?id=49845952"
+      "created_at": "2026-09-26T15:48:18+00:00",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49857651"
     },
     {
-      "hn_id": 49849985,
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "score": 108,
-      "by": "specked-citrus",
-      "comments": 70,
-      "created_at": "2026-09-25T21:09:27+00:00",
-      "url": "https://swarmtraces.org/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49849985"
+      "hn_id": 49856665,
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "score": 98,
+      "by": "Betelbuddy",
+      "comments": 155,
+      "created_at": "2026-09-26T14:03:54+00:00",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "discussion_url": "https://news.ycombinator.com/item?id=49856665"
     },
     {
-      "hn_id": 49849625,
-      "title": "Too AI; Didn't Read",
-      "score": 102,
-      "by": "rfonseca",
-      "comments": 95,
-      "created_at": "2026-09-25T20:37:56+00:00",
-      "url": "https://www.tai-dr.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49849625"
+      "hn_id": 49857729,
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "score": 93,
+      "by": "parasitid",
+      "comments": 31,
+      "created_at": "2026-09-26T15:56:34+00:00",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "discussion_url": "https://news.ycombinator.com/item?id=49857729"
     },
     {
-      "hn_id": 49848095,
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "score": 100,
-      "by": "Aeroi",
-      "comments": 42,
-      "created_at": "2026-09-25T18:18:06+00:00",
-      "url": "https://mouse.dev/blog/muse-special/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49848095"
+      "hn_id": 49857528,
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "score": 69,
+      "by": "brumar",
+      "comments": 51,
+      "created_at": "2026-09-26T15:34:53+00:00",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "discussion_url": "https://news.ycombinator.com/item?id=49857528"
     },
     {
-      "hn_id": 49846953,
-      "title": "Show HN: Doom or Bloom, map your AI worldview",
-      "score": 49,
-      "by": "transitivebs",
-      "comments": 40,
-      "created_at": "2026-09-25T16:51:28+00:00",
-      "url": "https://www.doom-or-bloom.com",
-      "discussion_url": "https://news.ycombinator.com/item?id=49846953"
-    },
-    {
-      "hn_id": 49842596,
-      "title": "Show HN: Agentic CUDA Kernel Optimizer",
-      "score": 31,
-      "by": "bertaye",
-      "comments": 11,
-      "created_at": "2026-09-25T10:32:58+00:00",
-      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "discussion_url": "https://news.ycombinator.com/item?id=49842596"
-    },
-    {
-      "hn_id": 49842462,
-      "title": "An airport cooled by natural ventilation",
-      "score": 21,
-      "by": "Geekette",
-      "comments": 11,
-      "created_at": "2026-09-25T10:16:50+00:00",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-      "discussion_url": "https://news.ycombinator.com/item?id=49842462"
-    },
-    {
-      "hn_id": 49848734,
-      "title": "Pope: AI must serve humans not become tool of domination",
-      "score": 20,
-      "by": "jethronethro",
-      "comments": 4,
-      "created_at": "2026-09-25T19:18:05+00:00",
-      "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
-      "discussion_url": "https://news.ycombinator.com/item?id=49848734"
-    },
-    {
-      "hn_id": 49841605,
-      "title": "Tell HN: OpenAI $500 ProMax plan listed in API",
-      "score": 19,
-      "by": "GustavHartz",
-      "comments": 22,
-      "created_at": "2026-09-25T08:12:24+00:00",
-      "url": "https://news.ycombinator.com/item?id=49841605",
-      "discussion_url": "https://news.ycombinator.com/item?id=49841605"
-    },
-    {
-      "hn_id": 49842409,
-      "title": "I wrote a ray tracer in Brainfuck",
-      "score": 18,
-      "by": "epestr",
-      "comments": 6,
-      "created_at": "2026-09-25T10:08:41+00:00",
-      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49842409"
-    },
-    {
-      "hn_id": 49851205,
-      "title": "OpenAI Codex 401 Outage",
-      "score": 13,
-      "by": "spicyusername",
-      "comments": 7,
-      "created_at": "2026-09-25T23:07:28+00:00",
-      "url": "https://status.openai.com",
-      "discussion_url": "https://news.ycombinator.com/item?id=49851205"
-    },
-    {
-      "hn_id": 49850999,
-      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "score": 9,
-      "by": "usernomdeguerre",
-      "comments": 3,
-      "created_at": "2026-09-25T22:49:41+00:00",
-      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49850999"
-    },
-    {
-      "hn_id": 49849950,
-      "title": "Jev was built for agents, here's how we're using it in computer use instead",
-      "score": 6,
-      "by": "Kylejeong21",
-      "comments": 1,
-      "created_at": "2026-09-25T21:06:25+00:00",
-      "url": "https://twitter.com/kylejeong/status/2102108924677927169",
-      "discussion_url": "https://news.ycombinator.com/item?id=49849950"
-    },
-    {
-      "hn_id": 49849907,
-      "title": "Teaching a World Model to Play Pokemon",
-      "score": 4,
-      "by": "stmonty",
+      "hn_id": 49860545,
+      "title": "OpenAI pauses training of its 'most capable models'",
+      "score": 16,
+      "by": "sbulaev",
       "comments": 5,
-      "created_at": "2026-09-25T21:02:48+00:00",
-      "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49849907"
+      "created_at": "2026-09-26T21:07:08+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "discussion_url": "https://news.ycombinator.com/item?id=49860545"
+    },
+    {
+      "hn_id": 49859979,
+      "title": "The Case for Learning in the Era of AI",
+      "score": 6,
+      "by": "greedywhale",
+      "comments": 1,
+      "created_at": "2026-09-26T19:57:08+00:00",
+      "url": "https://jonbehnken.substack.com/p/the-case-for-learning",
+      "discussion_url": "https://news.ycombinator.com/item?id=49859979"
+    },
+    {
+      "hn_id": 49860953,
+      "title": "AI Data Center Are Monkey Business [video]",
+      "score": 3,
+      "by": "naughtiusmax",
+      "comments": 0,
+      "created_at": "2026-09-26T22:03:25+00:00",
+      "url": "https://www.youtube.com/watch?v=2g7doI0BGrs",
+      "discussion_url": "https://news.ycombinator.com/item?id=49860953"
     }
   ]
 }
