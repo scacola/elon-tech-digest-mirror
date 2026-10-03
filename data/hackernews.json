@@ -1,157 +1,97 @@
 {
-  "generated_at": "2026-10-03T00:19:02.716046+00:00",
-  "cutoff": "2026-10-02T00:18:51.859905+00:00",
+  "generated_at": "2026-10-03T23:38:49.087662+00:00",
+  "cutoff": "2026-10-02T23:38:37.685081+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49928566,
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "score": 183,
-      "by": "alstonite",
-      "comments": 61,
-      "created_at": "2026-10-02T00:27:56+00:00",
-      "url": "https://stillwet.art/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49928566"
+      "hn_id": 49942706,
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "score": 476,
+      "by": "bastitx",
+      "comments": 289,
+      "created_at": "2026-10-03T09:36:04+00:00",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49942706"
     },
     {
-      "hn_id": 49929391,
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "score": 161,
-      "by": "usernomdeguerre",
-      "comments": 33,
-      "created_at": "2026-10-02T02:51:27+00:00",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "discussion_url": "https://news.ycombinator.com/item?id=49929391"
+      "hn_id": 49946567,
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "score": 141,
+      "by": "saikatsg",
+      "comments": 93,
+      "created_at": "2026-10-03T18:29:30+00:00",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49946567"
     },
     {
-      "hn_id": 49933740,
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "score": 159,
-      "by": "PaulHoule",
-      "comments": 79,
-      "created_at": "2026-10-02T14:11:24+00:00",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49933740"
+      "hn_id": 49946228,
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "score": 53,
+      "by": "Anon84",
+      "comments": 32,
+      "created_at": "2026-10-03T17:44:29+00:00",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49946228"
     },
     {
-      "hn_id": 49936575,
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "score": 127,
-      "by": "fibo",
-      "comments": 35,
-      "created_at": "2026-10-02T18:01:16+00:00",
-      "url": "https://dwarfstar.sh/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49936575"
+      "hn_id": 49946827,
+      "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+      "score": 51,
+      "by": "samch",
+      "comments": 25,
+      "created_at": "2026-10-03T19:07:18+00:00",
+      "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49946827"
     },
     {
-      "hn_id": 49936725,
-      "title": "Crypto Capture of Foreign Aid",
-      "score": 85,
-      "by": "bko",
-      "comments": 29,
-      "created_at": "2026-10-02T18:14:29+00:00",
-      "url": "https://www.nber.org/papers/w35655",
-      "discussion_url": "https://news.ycombinator.com/item?id=49936725"
+      "hn_id": 49948332,
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "score": 45,
+      "by": "jethronethro",
+      "comments": 12,
+      "created_at": "2026-10-03T22:18:13+00:00",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "discussion_url": "https://news.ycombinator.com/item?id=49948332"
     },
     {
-      "hn_id": 49938616,
-      "title": "Every SaaS business will become a harness around a model",
-      "score": 79,
-      "by": "iacguy",
-      "comments": 58,
-      "created_at": "2026-10-02T21:06:56+00:00",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "discussion_url": "https://news.ycombinator.com/item?id=49938616"
-    },
-    {
-      "hn_id": 49937916,
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "score": 61,
-      "by": "antelocnova",
-      "comments": 37,
-      "created_at": "2026-10-02T20:00:15+00:00",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "discussion_url": "https://news.ycombinator.com/item?id=49937916"
-    },
-    {
-      "hn_id": 49933230,
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "score": 59,
-      "by": "RickJWagner",
-      "comments": 19,
-      "created_at": "2026-10-02T13:17:47+00:00",
-      "url": "https://bigthink.com/books/a-fabulous-debt/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49933230"
-    },
-    {
-      "hn_id": 49938783,
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "score": 16,
-      "by": "malshe",
-      "comments": 2,
-      "created_at": "2026-10-02T21:25:25+00:00",
-      "url": "https://allenai.org/blog/astabrief",
-      "discussion_url": "https://news.ycombinator.com/item?id=49938783"
-    },
-    {
-      "hn_id": 49928862,
-      "title": "Martian chaos terrain",
-      "score": 13,
-      "by": "tiagod",
-      "comments": 0,
-      "created_at": "2026-10-02T01:11:28+00:00",
-      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-      "discussion_url": "https://news.ycombinator.com/item?id=49928862"
-    },
-    {
-      "hn_id": 49933288,
-      "title": "Robot Hands for Modern AI and Real Work",
-      "score": 12,
-      "by": "zhoge",
-      "comments": 2,
-      "created_at": "2026-10-02T13:24:24+00:00",
-      "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49933288"
-    },
-    {
-      "hn_id": 49930872,
-      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-      "score": 11,
-      "by": "giuliomagnifico",
+      "hn_id": 49946576,
+      "title": "Emails to and from Elon Musk that have been made public",
+      "score": 29,
+      "by": "measurablefunc",
       "comments": 1,
-      "created_at": "2026-10-02T07:40:15+00:00",
-      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49930872"
+      "created_at": "2026-10-03T18:31:14+00:00",
+      "url": "https://elonemails.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49946576"
     },
     {
-      "hn_id": 49938326,
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "score": 9,
-      "by": "effects",
+      "hn_id": 49945933,
+      "title": "Agents don't need memory, they need documentation",
+      "score": 22,
+      "by": "kmeh",
+      "comments": 14,
+      "created_at": "2026-10-03T17:03:37+00:00",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "discussion_url": "https://news.ycombinator.com/item?id=49945933"
+    },
+    {
+      "hn_id": 49947404,
+      "title": "Show HN: Local pretrained classifiers, GPU not needed",
+      "score": 8,
+      "by": "nico",
+      "comments": 3,
+      "created_at": "2026-10-03T20:19:09+00:00",
+      "url": "https://github.com/nicobrenner/jeffy",
+      "discussion_url": "https://news.ycombinator.com/item?id=49947404"
+    },
+    {
+      "hn_id": 49945978,
+      "title": "We diffed all 66 release pairs of the official MCP servers, 140 silent changes",
+      "score": 6,
+      "by": "paraphern",
       "comments": 0,
-      "created_at": "2026-10-02T20:39:05+00:00",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "discussion_url": "https://news.ycombinator.com/item?id=49938326"
-    },
-    {
-      "hn_id": 49937571,
-      "title": "Why didn't we get GPT-2 in 2005?",
-      "score": 7,
-      "by": "bilsbie",
-      "comments": 2,
-      "created_at": "2026-10-02T19:31:59+00:00",
-      "url": "https://dynomight.net/gpt-2/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49937571"
-    },
-    {
-      "hn_id": 49938748,
-      "title": "Show HN: Rank every HN \"Who is hiring?\" post against your resume, locally",
-      "score": 4,
-      "by": "intervolz",
-      "comments": 0,
-      "created_at": "2026-10-02T21:21:14+00:00",
-      "url": "https://github.com/MaxwellVolz/hn_whos_hiring",
-      "discussion_url": "https://news.ycombinator.com/item?id=49938748"
+      "created_at": "2026-10-03T17:10:06+00:00",
+      "url": "https://github.com/Paraphern/rugsnare",
+      "discussion_url": "https://news.ycombinator.com/item?id=49945978"
     }
   ]
 }
