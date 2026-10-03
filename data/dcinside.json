@@ -1,14 +1,14 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-10-02T00:37:51.410584+00:00",
+  "collected_at": "2026-10-03T00:18:03.381093+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
       "no": "1452692",
       "title": "닷츠로 짚쨩이 대딸쳐줌",
-      "recommend": 138,
-      "comments": 131,
+      "recommend": 139,
+      "comments": 130,
       "author": "ㅇㅇ",
       "created_at_raw": "09.30",
       "created_at": "2026-09-30T12:00:00+09:00",
@@ -35,7 +35,7 @@
     {
       "no": "1454311",
       "title": "이사진 보면 뭐가느껴지나?",
-      "recommend": 84,
+      "recommend": 87,
       "comments": 35,
       "author": "ㅇㅇ",
       "created_at_raw": "10.01",
@@ -49,7 +49,7 @@
     {
       "no": "1453008",
       "title": "현직 찐따인데",
-      "recommend": 82,
+      "recommend": 83,
       "comments": 30,
       "author": "ㅇㅇ",
       "created_at_raw": "09.30",
@@ -61,24 +61,38 @@
       ]
     },
     {
-      "no": "1447659",
-      "title": "Open ai 20개 발표예정",
+      "no": "1457617",
+      "title": "딸 치는 짚쨩",
       "recommend": 73,
-      "comments": 30,
-      "author": "짜장면의진리",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1447659",
+      "comments": 15,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1457617",
       "body_excerpt": "",
       "tags": [
-        "ai"
+        "general"
+      ]
+    },
+    {
+      "no": "1456925",
+      "title": "내 렌탈여친 봐주셈",
+      "recommend": 72,
+      "comments": 56,
+      "author": "담당일진연가냄",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1456925",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
       "no": "1455617",
       "title": "그리고 언제 구글한테 제일 엄격했노 ㅆㅂㅋㅋ",
-      "recommend": 67,
-      "comments": 41,
+      "recommend": 70,
+      "comments": 43,
       "author": "지편",
       "created_at_raw": "10.01",
       "created_at": "2026-10-01T12:00:00+09:00",
@@ -91,12 +105,68 @@
     {
       "no": "1454941",
       "title": "념글보고 따라해봤는데",
-      "recommend": 65,
-      "comments": 37,
+      "recommend": 66,
+      "comments": 38,
       "author": "ㅇㅇ",
       "created_at_raw": "10.01",
       "created_at": "2026-10-01T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1454941",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1455834",
+      "title": "다리오가 알트먼이랑 갈라선 리얼이유 밝혀짐(feat.칸예)",
+      "recommend": 63,
+      "comments": 62,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.01",
+      "created_at": "2026-10-01T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455834",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1456448",
+      "title": "애플이 진짜 개씹양아치였네",
+      "recommend": 62,
+      "comments": 46,
+      "author": "CPT2310",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1456448",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1457253",
+      "title": "뮤즈 보뽀 잘하네 ++",
+      "recommend": 62,
+      "comments": 28,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1457253",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1455195",
+      "title": "구글이 재귀개선에 성공한 방법 공개한다.",
+      "recommend": 60,
+      "comments": 17,
+      "author": "ASI교총대주교좌석좌주교",
+      "created_at_raw": "10.01",
+      "created_at": "2026-10-01T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455195",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -117,59 +187,31 @@
       ]
     },
     {
-      "no": "1455834",
-      "title": "다리오가 알트먼이랑 갈라선 리얼이유 밝혀짐(feat.칸예)",
-      "recommend": 59,
-      "comments": 59,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.01",
-      "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455834",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1448098",
-      "title": "데브데이 이러면 갤 터짐?",
-      "recommend": 59,
-      "comments": 33,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1448098",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1448560",
-      "title": "???: 사용량이 줄어들었다고? 무슨 소리지?",
-      "recommend": 59,
-      "comments": 28,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1448560",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1455195",
-      "title": "구글이 재귀개선에 성공한 방법 공개한다.",
+      "no": "1454911",
+      "title": "이거 ㅈㄴ 웃기네",
       "recommend": 58,
-      "comments": 17,
-      "author": "ASI교총대주교좌석좌주교",
+      "comments": 19,
+      "author": "47482637",
       "created_at_raw": "10.01",
       "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455195",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1454911",
       "body_excerpt": "",
       "tags": [
-        "general"
+        "humor"
+      ]
+    },
+    {
+      "no": "1456817",
+      "title": "AI 슬롭 게임은 만드는 사람들이 가장 큰 문제임",
+      "recommend": 57,
+      "comments": 29,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1456817",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -187,6 +229,20 @@
       ]
     },
     {
+      "no": "1457874",
+      "title": "왜 미소년 대신 미소녀가 되려는지 이해 안 된다는 놈들 보셈",
+      "recommend": 56,
+      "comments": 56,
+      "author": "전통미식피자",
+      "created_at_raw": "00:25",
+      "created_at": "2026-10-03T00:25:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1457874",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1451504",
       "title": "(정보글) 왜 Claude는 갑자기 ‘미감’이 좋아졌을까",
       "recommend": 56,
@@ -201,14 +257,42 @@
       ]
     },
     {
-      "no": "1448085",
-      "title": "공화당 : 여론 ㅈ까고 데이터센터 올인하겠다",
+      "no": "1455990",
+      "title": "근데 당시 알트만 무빙을 마냥 깔수만은 없는거죠",
       "recommend": 56,
-      "comments": 33,
+      "comments": 35,
       "author": "ㅇㅇ",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1448085",
+      "created_at_raw": "10.01",
+      "created_at": "2026-10-01T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455990",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1453226",
+      "title": "아모데이님 그동안 오해한 것 같아요",
+      "recommend": 56,
+      "comments": 17,
+      "author": "ㅇㅇ",
+      "created_at_raw": "09.30",
+      "created_at": "2026-09-30T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1453226",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1456172",
+      "title": "아 또 슬슬 념글에 쉬었음 정훈교육 드가네",
+      "recommend": 56,
+      "comments": 14,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1456172",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -218,7 +302,7 @@
       "no": "1452437",
       "title": "(욕설 주의)혹시... AI한테 욕 하는 사람 나밖에 없냐??",
       "recommend": 55,
-      "comments": 95,
+      "comments": 96,
       "author": "ㅇㅇ",
       "created_at_raw": "09.30",
       "created_at": "2026-09-30T12:00:00+09:00",
@@ -229,46 +313,31 @@
       ]
     },
     {
-      "no": "1448641",
-      "title": "OpenAI 2026 DevDay 예측",
-      "recommend": 55,
-      "comments": 41,
-      "author": "J-Token",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1448641",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "openai"
-      ]
-    },
-    {
-      "no": "1454911",
-      "title": "이거 ㅈㄴ 웃기네",
-      "recommend": 55,
-      "comments": 19,
-      "author": "47482637",
+      "no": "1455748",
+      "title": "아모데이 백악관 영상 진짜 뭔가... 뭔가 하네",
+      "recommend": 54,
+      "comments": 69,
+      "author": "ㅇㅇ",
       "created_at_raw": "10.01",
       "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1454911",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1453226",
-      "title": "아모데이님 그동안 오해한 것 같아요",
-      "recommend": 55,
-      "comments": 17,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.30",
-      "created_at": "2026-09-30T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1453226",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455748",
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1456821",
+      "title": "양산AI게임의 진짜 문제점은",
+      "recommend": 54,
+      "comments": 58,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1456821",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -289,7 +358,7 @@
       "no": "1454022",
       "title": "제미나이4 아르곤이 미친 이유 핵심만 (계속 추가!!)",
       "recommend": 54,
-      "comments": 39,
+      "comments": 40,
       "author": "초존도초",
       "created_at_raw": "10.01",
       "created_at": "2026-10-01T12:00:00+09:00",
@@ -300,23 +369,9 @@
       ]
     },
     {
-      "no": "1448350",
-      "title": "[속보] $200 신규 가입 재개와 함께 제공량 절반 축소",
-      "recommend": 53,
-      "comments": 68,
-      "author": "지능로봇",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1448350",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1454904",
       "title": "AI 정렬시켰다",
-      "recommend": 52,
+      "recommend": 54,
       "comments": 32,
       "author": "ㅇㅇ",
       "created_at_raw": "10.01",
@@ -328,6 +383,48 @@
       ]
     },
     {
+      "no": "1457535",
+      "title": "와 별 미친 실험이 다 있네ㅋㅋㅋㅋㅋㅋㅋ",
+      "recommend": 53,
+      "comments": 68,
+      "author": "봄바다",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1457535",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1455801",
+      "title": "이거 왜 이래",
+      "recommend": 52,
+      "comments": 29,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.01",
+      "created_at": "2026-10-01T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455801",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1454700",
+      "title": "제미나이 딱 봐도 별거 아닐듯",
+      "recommend": 52,
+      "comments": 17,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.01",
+      "created_at": "2026-10-01T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1454700",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1451130",
       "title": "현재 500달러 Ultrafast 상황",
       "recommend": 51,
@@ -336,34 +433,6 @@
       "created_at_raw": "09.30",
       "created_at": "2026-09-30T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1451130",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1455990",
-      "title": "근데 당시 알트만 무빙을 마냥 깔수만은 없는거죠",
-      "recommend": 51,
-      "comments": 34,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.01",
-      "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455990",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1455748",
-      "title": "아모데이 백악관 영상 진짜 뭔가... 뭔가 하네",
-      "recommend": 50,
-      "comments": 67,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.01",
-      "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455748",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -426,48 +495,6 @@
       ]
     },
     {
-      "no": "1454700",
-      "title": "제미나이 딱 봐도 별거 아닐듯",
-      "recommend": 50,
-      "comments": 16,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.01",
-      "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1454700",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1455801",
-      "title": "이거 왜 이래",
-      "recommend": 49,
-      "comments": 28,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.01",
-      "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1455801",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1447679",
-      "title": "데브데이 발표 20개 딱 이정도 수준일듯ㅋㅋ",
-      "recommend": 49,
-      "comments": 20,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1447679",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1450352",
       "title": "??? : devday 잘봤습니다",
       "recommend": 49,
@@ -496,6 +523,20 @@
       ]
     },
     {
+      "no": "1457614",
+      "title": "마이클 아모데이 월드 투어 영상 ㄷㄷㄷㄷㄷㄷ",
+      "recommend": 48,
+      "comments": 36,
+      "author": "봄바다",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1457614",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1452873",
       "title": "펌) 아모데이 찐따력 근황...",
       "recommend": 48,
@@ -504,20 +545,6 @@
       "created_at_raw": "09.30",
       "created_at": "2026-09-30T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1452873",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1448253",
-      "title": "구글의 실수.gemini",
-      "recommend": 48,
-      "comments": 16,
-      "author": "ㅇㅇ",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1448253",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -538,6 +565,34 @@
       ]
     },
     {
+      "no": "1457017",
+      "title": "병신들아 니들 이미 완몰가 즐기는중이잖아",
+      "recommend": 47,
+      "comments": 37,
+      "author": "일랑",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1457017",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1457666",
+      "title": "피지컬 AI 과대평가네 ㅉ",
+      "recommend": 46,
+      "comments": 39,
+      "author": "대고양이",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1457666",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "no": "1450470",
       "title": "일론 미친새끼 ㅋㅋㅋㅋㅋㅋ",
       "recommend": 45,
@@ -552,17 +607,32 @@
       ]
     },
     {
-      "no": "1448373",
-      "title": "슬슬 이짤 꺼낼때 됐나",
+      "no": "1456415",
+      "title": "미쳤다 페이블5.5가 만든 거 ㅅㅂㅋㅋㅋㅋㅋ",
       "recommend": 45,
-      "comments": 25,
-      "author": "203847년걸리겠죠",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1448373",
+      "comments": 28,
+      "author": "초존도초",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1456415",
       "body_excerpt": "",
       "tags": [
         "humor"
+      ]
+    },
+    {
+      "no": "1456291",
+      "title": "속보) 오픈AI 정렬 연구원 퇴사가 아니라 해고였다 ㄷㄷㄷㄷ",
+      "recommend": 45,
+      "comments": 25,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.02",
+      "created_at": "2026-10-02T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1456291",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "openai"
       ]
     },
     {
@@ -634,83 +704,12 @@
       "tags": [
         "humor"
       ]
-    },
-    {
-      "no": "1454727",
-      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 짤 개웃기네",
-      "recommend": 44,
-      "comments": 6,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.01",
-      "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1454727",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1454239",
-      "title": "GPT 6 Astra? Claude Opus 5.5?",
-      "recommend": 44,
-      "comments": 6,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.01",
-      "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1454239",
-      "body_excerpt": "",
-      "tags": [
-        "claude",
-        "ai"
-      ]
-    },
-    {
-      "no": "1454709",
-      "title": "앤트로픽, 확률론 난제 증명",
-      "recommend": 43,
-      "comments": 35,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.01",
-      "created_at": "2026-10-01T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1454709",
-      "body_excerpt": "",
-      "tags": [
-        "claude"
-      ]
-    },
-    {
-      "no": "1447564",
-      "title": "GPT-6.1 Astra는 걍 병신 모델이어서 출시 안한 것",
-      "recommend": 43,
-      "comments": 24,
-      "author": "초존도초",
-      "created_at_raw": "09.29",
-      "created_at": "2026-09-29T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1447564",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1453472",
-      "title": "이거 나 꼬시는거지?",
-      "recommend": 43,
-      "comments": 20,
-      "author": "킥백",
-      "created_at_raw": "09.30",
-      "created_at": "2026-09-30T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1453472",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
     }
   ],
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 36,
+    "dropped_old": 50,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }
