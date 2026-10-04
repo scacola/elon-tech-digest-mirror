@@ -1,97 +1,97 @@
 {
-  "generated_at": "2026-10-03T23:38:49.087662+00:00",
-  "cutoff": "2026-10-02T23:38:37.685081+00:00",
+  "generated_at": "2026-10-04T23:55:14.171153+00:00",
+  "cutoff": "2026-10-03T23:55:02.785895+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49942706,
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "score": 476,
-      "by": "bastitx",
-      "comments": 289,
-      "created_at": "2026-10-03T09:36:04+00:00",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49942706"
+      "hn_id": 49950052,
+      "title": "Religious scholars met with Anthropic",
+      "score": 156,
+      "by": "bookofjoe",
+      "comments": 393,
+      "created_at": "2026-10-04T02:34:22+00:00",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49950052"
     },
     {
-      "hn_id": 49946567,
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "score": 141,
-      "by": "saikatsg",
-      "comments": 93,
-      "created_at": "2026-10-03T18:29:30+00:00",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49946567"
+      "hn_id": 49952111,
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "score": 133,
+      "by": "allenleee",
+      "comments": 63,
+      "created_at": "2026-10-04T09:24:52+00:00",
+      "url": "https://github.com/allenv0/SCM",
+      "discussion_url": "https://news.ycombinator.com/item?id=49952111"
     },
     {
-      "hn_id": 49946228,
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "score": 53,
-      "by": "Anon84",
-      "comments": 32,
-      "created_at": "2026-10-03T17:44:29+00:00",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49946228"
+      "hn_id": 49951641,
+      "title": "What's the future for pure math research in the age of AI?",
+      "score": 55,
+      "by": "6bitquant",
+      "comments": 44,
+      "created_at": "2026-10-04T07:53:45+00:00",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49951641"
     },
     {
-      "hn_id": 49946827,
-      "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
-      "score": 51,
-      "by": "samch",
-      "comments": 25,
-      "created_at": "2026-10-03T19:07:18+00:00",
-      "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49946827"
-    },
-    {
-      "hn_id": 49948332,
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "score": 45,
-      "by": "jethronethro",
+      "hn_id": 49957117,
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "score": 46,
+      "by": "signa11",
       "comments": 12,
-      "created_at": "2026-10-03T22:18:13+00:00",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "discussion_url": "https://news.ycombinator.com/item?id=49948332"
+      "created_at": "2026-10-04T19:42:25+00:00",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "discussion_url": "https://news.ycombinator.com/item?id=49957117"
     },
     {
-      "hn_id": 49946576,
-      "title": "Emails to and from Elon Musk that have been made public",
-      "score": 29,
-      "by": "measurablefunc",
+      "hn_id": 49951891,
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "score": 43,
+      "by": "simonjgreen",
+      "comments": 13,
+      "created_at": "2026-10-04T08:41:58+00:00",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "discussion_url": "https://news.ycombinator.com/item?id=49951891"
+    },
+    {
+      "hn_id": 49956148,
+      "title": "Building a RAG pipeline for semantic code search",
+      "score": 33,
+      "by": "saikatsg",
+      "comments": 7,
+      "created_at": "2026-10-04T17:51:48+00:00",
+      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49956148"
+    },
+    {
+      "hn_id": 49958261,
+      "title": "Typst 0.15 Contains Multitudes",
+      "score": 11,
+      "by": "birdculture",
       "comments": 1,
-      "created_at": "2026-10-03T18:31:14+00:00",
-      "url": "https://elonemails.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49946576"
+      "created_at": "2026-10-04T21:50:05+00:00",
+      "url": "https://typst.app/blog/2026/typst-0.15/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49958261"
     },
     {
-      "hn_id": 49945933,
-      "title": "Agents don't need memory, they need documentation",
-      "score": 22,
-      "by": "kmeh",
-      "comments": 14,
-      "created_at": "2026-10-03T17:03:37+00:00",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "discussion_url": "https://news.ycombinator.com/item?id=49945933"
+      "hn_id": 49958358,
+      "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+      "score": 11,
+      "by": "bookofjoe",
+      "comments": 6,
+      "created_at": "2026-10-04T22:03:41+00:00",
+      "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49958358"
     },
     {
-      "hn_id": 49947404,
-      "title": "Show HN: Local pretrained classifiers, GPU not needed",
-      "score": 8,
-      "by": "nico",
-      "comments": 3,
-      "created_at": "2026-10-03T20:19:09+00:00",
-      "url": "https://github.com/nicobrenner/jeffy",
-      "discussion_url": "https://news.ycombinator.com/item?id=49947404"
-    },
-    {
-      "hn_id": 49945978,
-      "title": "We diffed all 66 release pairs of the official MCP servers, 140 silent changes",
+      "hn_id": 49957870,
+      "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
       "score": 6,
-      "by": "paraphern",
-      "comments": 0,
-      "created_at": "2026-10-03T17:10:06+00:00",
-      "url": "https://github.com/Paraphern/rugsnare",
-      "discussion_url": "https://news.ycombinator.com/item?id=49945978"
+      "by": "sbulaev",
+      "comments": 7,
+      "created_at": "2026-10-04T21:07:09+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "discussion_url": "https://news.ycombinator.com/item?id=49957870"
     }
   ]
 }
