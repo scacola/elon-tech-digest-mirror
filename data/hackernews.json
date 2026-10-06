@@ -1,97 +1,167 @@
 {
-  "generated_at": "2026-10-04T23:55:14.171153+00:00",
-  "cutoff": "2026-10-03T23:55:02.785895+00:00",
+  "generated_at": "2026-10-06T01:43:46.841446+00:00",
+  "cutoff": "2026-10-05T01:43:35.635145+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 49950052,
-      "title": "Religious scholars met with Anthropic",
-      "score": 156,
-      "by": "bookofjoe",
-      "comments": 393,
-      "created_at": "2026-10-04T02:34:22+00:00",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=49950052"
+      "hn_id": 49961057,
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "score": 538,
+      "by": "emptybits",
+      "comments": 458,
+      "created_at": "2026-10-05T05:37:40+00:00",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49961057"
     },
     {
-      "hn_id": 49952111,
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "score": 133,
-      "by": "allenleee",
-      "comments": 63,
-      "created_at": "2026-10-04T09:24:52+00:00",
-      "url": "https://github.com/allenv0/SCM",
-      "discussion_url": "https://news.ycombinator.com/item?id=49952111"
+      "hn_id": 49969183,
+      "title": "Beam: Reflection's 501B open-weight model",
+      "score": 306,
+      "by": "Philpax",
+      "comments": 83,
+      "created_at": "2026-10-05T19:16:35+00:00",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "discussion_url": "https://news.ycombinator.com/item?id=49969183"
     },
     {
-      "hn_id": 49951641,
-      "title": "What's the future for pure math research in the age of AI?",
-      "score": 55,
-      "by": "6bitquant",
-      "comments": 44,
-      "created_at": "2026-10-04T07:53:45+00:00",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49951641"
+      "hn_id": 49959869,
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "score": 283,
+      "by": "llm_nerd",
+      "comments": 247,
+      "created_at": "2026-10-05T01:54:08+00:00",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49959869"
     },
     {
-      "hn_id": 49957117,
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "score": 46,
-      "by": "signa11",
-      "comments": 12,
-      "created_at": "2026-10-04T19:42:25+00:00",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "discussion_url": "https://news.ycombinator.com/item?id=49957117"
+      "hn_id": 49968105,
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "score": 256,
+      "by": "brokensegue",
+      "comments": 178,
+      "created_at": "2026-10-05T17:53:35+00:00",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49968105"
     },
     {
-      "hn_id": 49951891,
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "score": 43,
-      "by": "simonjgreen",
-      "comments": 13,
-      "created_at": "2026-10-04T08:41:58+00:00",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "discussion_url": "https://news.ycombinator.com/item?id=49951891"
+      "hn_id": 49971846,
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "score": 218,
+      "by": "rdmuser",
+      "comments": 117,
+      "created_at": "2026-10-05T22:46:45+00:00",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49971846"
     },
     {
-      "hn_id": 49956148,
-      "title": "Building a RAG pipeline for semantic code search",
-      "score": 33,
-      "by": "saikatsg",
-      "comments": 7,
-      "created_at": "2026-10-04T17:51:48+00:00",
-      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49956148"
+      "hn_id": 49970667,
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "score": 206,
+      "by": "outlier99",
+      "comments": 158,
+      "created_at": "2026-10-05T21:00:21+00:00",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "discussion_url": "https://news.ycombinator.com/item?id=49970667"
     },
     {
-      "hn_id": 49958261,
-      "title": "Typst 0.15 Contains Multitudes",
-      "score": 11,
-      "by": "birdculture",
+      "hn_id": 49968906,
+      "title": "Plain text is still one of the best technologies we have",
+      "score": 175,
+      "by": "speckx",
+      "comments": 92,
+      "created_at": "2026-10-05T18:54:00+00:00",
+      "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49968906"
+    },
+    {
+      "hn_id": 49970871,
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "score": 97,
+      "by": "E-Reverance",
+      "comments": 17,
+      "created_at": "2026-10-05T21:15:07+00:00",
+      "url": "https://qlabs.sh/research/dust",
+      "discussion_url": "https://news.ycombinator.com/item?id=49970871"
+    },
+    {
+      "hn_id": 49965118,
+      "title": "Linux containers in 500 lines of code (2016)",
+      "score": 96,
+      "by": "mkornaukhov",
+      "comments": 22,
+      "created_at": "2026-10-05T14:09:15+00:00",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49965118"
+    },
+    {
+      "hn_id": 49970507,
+      "title": "WSL containers is now generally available",
+      "score": 32,
+      "by": "abdelhousni",
+      "comments": 10,
+      "created_at": "2026-10-05T20:49:51+00:00",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49970507"
+    },
+    {
+      "hn_id": 49968947,
+      "title": "A Series of Unfortunate Events for OpenAI Users",
+      "score": 30,
+      "by": "garo-pro",
       "comments": 1,
-      "created_at": "2026-10-04T21:50:05+00:00",
-      "url": "https://typst.app/blog/2026/typst-0.15/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49958261"
+      "created_at": "2026-10-05T18:58:26+00:00",
+      "url": "https://insufferable.dev/posts/a-series-of-unfortunate-events-for-openai-users/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49968947"
     },
     {
-      "hn_id": 49958358,
-      "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-      "score": 11,
-      "by": "bookofjoe",
+      "hn_id": 49972419,
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "score": 26,
+      "by": "bryan0",
+      "comments": 15,
+      "created_at": "2026-10-06T00:00:45+00:00",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "discussion_url": "https://news.ycombinator.com/item?id=49972419"
+    },
+    {
+      "hn_id": 49971473,
+      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+      "score": 23,
+      "by": "hefner1456",
+      "comments": 16,
+      "created_at": "2026-10-05T22:01:35+00:00",
+      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=49971473"
+    },
+    {
+      "hn_id": 49965227,
+      "title": "Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world",
+      "score": 17,
+      "by": "linesofcode",
       "comments": 6,
-      "created_at": "2026-10-04T22:03:41+00:00",
-      "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
-      "discussion_url": "https://news.ycombinator.com/item?id=49958358"
+      "created_at": "2026-10-05T14:18:09+00:00",
+      "url": "https://pumpkins.sh/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49965227"
     },
     {
-      "hn_id": 49957870,
-      "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
-      "score": 6,
+      "hn_id": 49972467,
+      "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
+      "score": 7,
       "by": "sbulaev",
-      "comments": 7,
-      "created_at": "2026-10-04T21:07:09+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "discussion_url": "https://news.ycombinator.com/item?id=49957870"
+      "comments": 1,
+      "created_at": "2026-10-06T00:07:09+00:00",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "discussion_url": "https://news.ycombinator.com/item?id=49972467"
+    },
+    {
+      "hn_id": 49972164,
+      "title": "\"Rising cost of memory,\" Microsoft explains why Windows 11 will use less RAM",
+      "score": 7,
+      "by": "TMWNN",
+      "comments": 4,
+      "created_at": "2026-10-05T23:29:01+00:00",
+      "url": "https://www.windowslatest.com/2026/10/04/rising-cost-of-memory-microsoft-explains-why-windows-11-will-use-less-ram/",
+      "discussion_url": "https://news.ycombinator.com/item?id=49972164"
     }
   ]
 }
