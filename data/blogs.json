@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T00:31:44.435359+00:00",
-  "cutoff": "2026-09-30T00:31:42.159683+00:00",
+  "generated_at": "2026-10-08T00:52:12.384684+00:00",
+  "cutoff": "2026-10-01T00:52:09.855589+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -13,13 +13,13 @@
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 3
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,30 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+    },
+    {
+      "source": "blog_openai",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+    },
     {
       "source": "blog_openai",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
@@ -110,30 +134,6 @@
       "lead_paragraph": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
     },
     {
-      "source": "blog_openai",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "published_at": "2026-09-30T10:30:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "published_at": "2026-09-30T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
-    },
-    {
       "source": "blog_deepmind",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -142,26 +142,18 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "published_at": "2026-09-30T20:01:45+00:00",
+      "source": "blog_huggingface",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "published_at": "2026-10-07T16:54:33+00:00",
       "author": "",
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "published_at": "2026-09-30T15:03:07+00:00",
-      "author": "",
-      "lead_paragraph": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-    },
-    {
       "source": "blog_huggingface",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "published_at": "2026-10-06T06:44:39+00:00",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "published_at": "2026-10-07T12:45:31+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -191,9 +183,17 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Claude discovers a novel enzyme system",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "published_at": "2026-10-07T08:55:22+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Expanding the Cyber Verification Program",
       "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "published_at": "2026-10-06T19:39:32+00:00",
+      "published_at": "2026-10-07T08:52:51+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals."
     },
@@ -212,14 +212,6 @@
       "published_at": "2026-10-01T09:16:50+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing the Life Sciences Verification Program",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "published_at": "2026-09-30T22:54:30+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ]
 }
