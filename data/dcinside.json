@@ -1,13 +1,27 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-10-08T00:52:09.665767+00:00",
+  "collected_at": "2026-10-09T01:05:22.631103+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
+      "no": "1467993",
+      "title": "따거들이 수학자를 위한 새로운 방법을 제안했네 ㅇㅇ",
+      "recommend": 90,
+      "comments": 68,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1467993",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1462940",
       "title": "만화 <돈을 더 안 주면 만나줄 수 없어>",
-      "recommend": 88,
+      "recommend": 90,
       "comments": 47,
       "author": "Veo",
       "created_at_raw": "10.06",
@@ -19,9 +33,37 @@
       ]
     },
     {
+      "no": "1465394",
+      "title": "특이점이 온 날 선형충들 반응...real..",
+      "recommend": 79,
+      "comments": 42,
+      "author": "EventHorizon",
+      "created_at_raw": "10.07",
+      "created_at": "2026-10-07T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1465394",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1466449",
+      "title": "준리만가설 증명 의의는 알기쉽게 설명하면",
+      "recommend": 79,
+      "comments": 40,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466449",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1464826",
       "title": "난 수학자들 입장이 충분히 이해감",
-      "recommend": 75,
+      "recommend": 77,
       "comments": 63,
       "author": "ㅇㅇ",
       "created_at_raw": "10.07",
@@ -33,37 +75,37 @@
       ]
     },
     {
-      "no": "1465394",
-      "title": "특이점이 온 날 선형충들 반응...real..",
-      "recommend": 72,
-      "comments": 41,
-      "author": "EventHorizon",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1465394",
+      "no": "1467290",
+      "title": "\"수학자들이 요청하지 않았다\"라는 부분이 폭력적이네",
+      "recommend": 71,
+      "comments": 30,
+      "author": "모근찾아삼만리",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1467290",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1461849",
-      "title": "개웃기네 이거ㅋㅋ",
-      "recommend": 70,
-      "comments": 29,
-      "author": "ㄹㄹ",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1461849",
+      "no": "1467921",
+      "title": "현재 수학계를 원피스로 이해하기2",
+      "recommend": 71,
+      "comments": 25,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1467921",
       "body_excerpt": "",
       "tags": [
-        "humor"
+        "general"
       ]
     },
     {
       "no": "1462696",
       "title": "ㄹㅇ루 진지하게 nsfw 푸는게 가속의 길임",
-      "recommend": 67,
+      "recommend": 68,
       "comments": 66,
       "author": "ㅇㅇ",
       "created_at_raw": "10.06",
@@ -72,20 +114,6 @@
       "body_excerpt": "",
       "tags": [
         "humor"
-      ]
-    },
-    {
-      "no": "1466449",
-      "title": "준리만가설 증명 의의는 알기쉽게 설명하면",
-      "recommend": 66,
-      "comments": 39,
-      "author": "ㅇㅇ",
-      "created_at_raw": "00:15",
-      "created_at": "2026-10-08T00:15:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466449",
-      "body_excerpt": "",
-      "tags": [
-        "general"
       ]
     },
     {
@@ -105,8 +133,8 @@
     {
       "no": "1464503",
       "title": "오픈AI, 722개 수학 증명 논문 공개, 준-리만가설 증명 성공",
-      "recommend": 62,
-      "comments": 32,
+      "recommend": 64,
+      "comments": 33,
       "author": "초존도초",
       "created_at_raw": "10.07",
       "created_at": "2026-10-07T12:00:00+09:00",
@@ -115,6 +143,20 @@
       "tags": [
         "ai",
         "openai"
+      ]
+    },
+    {
+      "no": "1467439",
+      "title": "한 한국인이 티보에게 올리는 글",
+      "recommend": 63,
+      "comments": 28,
+      "author": "초존도초",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1467439",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -132,20 +174,6 @@
       ]
     },
     {
-      "no": "1461995",
-      "title": "존나웃기네 이거",
-      "recommend": 62,
-      "comments": 16,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1461995",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1464704",
       "title": "수학자도  여러명이 있는 집단이라 이런사람 저런사람 있는거임",
       "recommend": 62,
@@ -160,31 +188,45 @@
       ]
     },
     {
-      "no": "1461960",
-      "title": "진짜 로건 재평가 돼야 함 (스압)",
+      "no": "1466337",
+      "title": "OAI 내부모델은 창발성을 지니고 있는 것처럼 보인다",
       "recommend": 61,
-      "comments": 40,
-      "author": "초존도초",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1461960",
+      "comments": 77,
+      "author": "행복한천국으로",
+      "created_at_raw": "10.07",
+      "created_at": "2026-10-07T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466337",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1468013",
+      "title": "르쿤은 오히려 수학자에게 꿀이라네",
+      "recommend": 61,
+      "comments": 53,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1468013",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1462268",
-      "title": "솔직히 gpt6부터는 이런 현상 없어질거라 기대했었음",
+      "no": "1464195",
+      "title": "난 닷츠랑 안 맞는갑다",
       "recommend": 59,
-      "comments": 60,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1462268",
+      "comments": 56,
+      "author": "짧게많이",
+      "created_at_raw": "10.06",
+      "created_at": "2026-10-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1464195",
       "body_excerpt": "",
       "tags": [
-        "ai"
+        "general"
       ]
     },
     {
@@ -202,65 +244,23 @@
       ]
     },
     {
-      "no": "1464195",
-      "title": "난 닷츠랑 안 맞는갑다",
+      "no": "1468317",
+      "title": "수학자들이 지금 바둑기사 처지가 된게 아닌가 싶음",
       "recommend": 58,
-      "comments": 56,
-      "author": "짧게많이",
-      "created_at_raw": "10.06",
-      "created_at": "2026-10-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1464195",
+      "comments": 35,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1468317",
       "body_excerpt": "",
       "tags": [
         "general"
-      ]
-    },
-    {
-      "no": "1462635",
-      "title": "AI 원탑은 일본이었네",
-      "recommend": 58,
-      "comments": 19,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1462635",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1463852",
-      "title": "곧 발표될 역노화 인체실험 매커니즘 쉽게 설명",
-      "recommend": 56,
-      "comments": 46,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.06",
-      "created_at": "2026-10-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1463852",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1466337",
-      "title": "OAI 내부모델은 창발성을 지니고 있는 것처럼 보인다",
-      "recommend": 55,
-      "comments": 76,
-      "author": "행복한천국으로",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466337",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
       ]
     },
     {
       "no": "1465764",
       "title": "2년 전 이맘때 o1 갤반응",
-      "recommend": 55,
+      "recommend": 58,
       "comments": 28,
       "author": "뉴비호소중인",
       "created_at_raw": "10.07",
@@ -272,9 +272,52 @@
       ]
     },
     {
+      "no": "1467804",
+      "title": "맥락 정리를 위해 오픈ai가 수백개 증명 공개하게 된 과정 설명",
+      "recommend": 58,
+      "comments": 26,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1467804",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "no": "1468292",
+      "title": "대르쿤",
+      "recommend": 56,
+      "comments": 50,
+      "author": "행복한천국으로",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1468292",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1463852",
+      "title": "곧 발표될 역노화 인체실험 매커니즘 쉽게 설명",
+      "recommend": 56,
+      "comments": 47,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.06",
+      "created_at": "2026-10-06T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1463852",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1463973",
       "title": "앤트로픽 퇴사자 : 재귀개선은 '몇개월' 남음 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
-      "recommend": 54,
+      "recommend": 55,
       "comments": 37,
       "author": "ㅇㅇ",
       "created_at_raw": "10.06",
@@ -300,17 +343,73 @@
       ]
     },
     {
-      "no": "1461471",
-      "title": "EBS AI 석학 특강-넥스트 비전 '레이 커즈와일' 방영 일정 안내",
+      "no": "1466565",
+      "title": "OAI가 해결한 난제들은 잠재적으로 어디에 쓰일 수 있을까..",
       "recommend": 53,
-      "comments": 36,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1461471",
+      "comments": 81,
+      "author": "행복한천국으로",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466565",
       "body_excerpt": "",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "no": "1468445",
+      "title": "2025년, 슈미트 vs 게리 마커스",
+      "recommend": 52,
+      "comments": 23,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1468445",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1465320",
+      "title": "아니 바나나론 자체 좆븅신인게 ㄹㅇ",
+      "recommend": 51,
+      "comments": 54,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.07",
+      "created_at": "2026-10-07T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1465320",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
+      "no": "1464513",
+      "title": "와 gpt 리만가설 제미니 해설 ㄷㄷㄷ",
+      "recommend": 51,
+      "comments": 32,
+      "author": "에브리",
+      "created_at_raw": "10.07",
+      "created_at": "2026-10-07T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1464513",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1469046",
+      "title": "제미나이 한국어 잘한다는것도옛말이네 ㅋㅋ",
+      "recommend": 51,
+      "comments": 17,
+      "author": "ㅇㅇ",
+      "created_at_raw": "07:14",
+      "created_at": "2026-10-09T07:14:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1469046",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
       ]
     },
     {
@@ -328,51 +427,51 @@
       ]
     },
     {
-      "no": "1464513",
-      "title": "와 gpt 리만가설 제미니 해설 ㄷㄷㄷ",
-      "recommend": 50,
+      "no": "1466309",
+      "title": "요즘 쏙 들어간 소리",
+      "recommend": 49,
       "comments": 32,
-      "author": "에브리",
+      "author": "ㅇㅇ",
       "created_at_raw": "10.07",
       "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1464513",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1461444",
-      "title": "티보 폭탄선언 뭐냐? ㄷㄷㄷ",
-      "recommend": 49,
-      "comments": 38,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1461444",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466309",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1461494",
-      "title": "(정보글) AI에게 장기기억이 생기면, 의식 논쟁은 어떻게 바뀔까",
-      "recommend": 48,
-      "comments": 76,
-      "author": "월드모델",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1461494",
+      "no": "1465298",
+      "title": "이미 3년전에 수학자들한테 경고날린새끼...jpg",
+      "recommend": 49,
+      "comments": 32,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.07",
+      "created_at": "2026-10-07T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1465298",
       "body_excerpt": "",
       "tags": [
-        "ai"
+        "humor"
+      ]
+    },
+    {
+      "no": "1468164",
+      "title": "젬 이새끼 뭐임",
+      "recommend": 49,
+      "comments": 29,
+      "author": "무식한",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1468164",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
       "no": "1464552",
       "title": "이번 준리만가설 증명은 기존과 다르다고함",
-      "recommend": 48,
+      "recommend": 49,
       "comments": 16,
       "author": "ㅇㅇ",
       "created_at_raw": "10.07",
@@ -384,37 +483,51 @@
       ]
     },
     {
-      "no": "1465320",
-      "title": "아니 바나나론 자체 좆븅신인게 ㄹㅇ",
-      "recommend": 47,
-      "comments": 53,
+      "no": "1467280",
+      "title": "병신들 ㅋㅋㅋㅋㅋㅋㅋ",
+      "recommend": 49,
+      "comments": 10,
       "author": "ㅇㅇ",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1465320",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1467280",
       "body_excerpt": "",
       "tags": [
         "humor"
       ]
     },
     {
-      "no": "1465298",
-      "title": "이미 3년전에 수학자들한테 경고날린새끼...jpg",
-      "recommend": 47,
-      "comments": 31,
-      "author": "ㅇㅇ",
+      "no": "1466388",
+      "title": "내가 24년간 풀었던 문제가 오늘 풀렸다.",
+      "recommend": 48,
+      "comments": 61,
+      "author": "피셔트롭쉬",
       "created_at_raw": "10.07",
       "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1465298",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466388",
       "body_excerpt": "",
       "tags": [
-        "humor"
+        "general"
+      ]
+    },
+    {
+      "no": "1466260",
+      "title": "알트만: AI가 인간보다 명백히 똑똑해졌고, 근본적인 무언가가 변했다",
+      "recommend": 48,
+      "comments": 40,
+      "author": "행복한천국으로",
+      "created_at_raw": "10.07",
+      "created_at": "2026-10-07T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466260",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
       ]
     },
     {
       "no": "1465054",
       "title": "속보) 오픈AI 직원 : 문제 하나는 90초 정도 걸렸다",
-      "recommend": 46,
+      "recommend": 47,
       "comments": 37,
       "author": "ㅇㅇ",
       "created_at_raw": "10.07",
@@ -424,6 +537,20 @@
       "tags": [
         "ai",
         "openai"
+      ]
+    },
+    {
+      "no": "1464735",
+      "title": "와 ㄷㄷ 리만가설 나무위키 보는데 소름돋네",
+      "recommend": 47,
+      "comments": 7,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.07",
+      "created_at": "2026-10-07T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1464735",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -441,6 +568,20 @@
       ]
     },
     {
+      "no": "1468226",
+      "title": "우리가 정말 미친 세상에 살고 있는 이유 ㅋㅋㅋㅋ",
+      "recommend": 46,
+      "comments": 21,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1468226",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
       "no": "1464030",
       "title": "sora 2는 이 영상이 개쩔었던거 같음",
       "recommend": 46,
@@ -455,73 +596,31 @@
       ]
     },
     {
-      "no": "1464735",
-      "title": "와 ㄷㄷ 리만가설 나무위키 보는데 소름돋네",
+      "no": "1466489",
+      "title": "oai 인턴마치고 학교로 돌아간 수학퍼리 문화충격 받나보네",
       "recommend": 46,
-      "comments": 7,
+      "comments": 13,
       "author": "ㅇㅇ",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1464735",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466489",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1468074",
+      "title": "속보) 티보와 로렌이 점점 심상치 않아지고 있다.",
+      "recommend": 45,
+      "comments": 38,
+      "author": "초존도초",
+      "created_at_raw": "10.08",
+      "created_at": "2026-10-08T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1468074",
       "body_excerpt": "",
       "tags": [
         "general"
-      ]
-    },
-    {
-      "no": "1462257",
-      "title": "라식 라섹 이제 사라진다",
-      "recommend": 45,
-      "comments": 65,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1462257",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1466565",
-      "title": "OAI가 해결한 난제들은 잠재적으로 어디에 쓰일 수 있을까..",
-      "recommend": 45,
-      "comments": 55,
-      "author": "행복한천국으로",
-      "created_at_raw": "00:59",
-      "created_at": "2026-10-08T00:59:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466565",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1466260",
-      "title": "알트만: AI가 인간보다 명백히 똑똑해졌고, 근본적인 무언가가 변했다",
-      "recommend": 45,
-      "comments": 39,
-      "author": "행복한천국으로",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466260",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1462620",
-      "title": "진지)ai 알잘딱 언제될까",
-      "recommend": 45,
-      "comments": 36,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1462620",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -540,28 +639,28 @@
       ]
     },
     {
-      "no": "1461559",
-      "title": "k얀르쿤 제일 최신 근황",
-      "recommend": 45,
-      "comments": 26,
-      "author": "농담곰곰",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1461559",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1466204",
       "title": "Ai 막장 드라마",
       "recommend": 45,
-      "comments": 25,
+      "comments": 28,
       "author": "ㅇㅇ",
       "created_at_raw": "10.07",
       "created_at": "2026-10-07T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466204",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1466391",
+      "title": "물리교수: oai가 100년 묵은 양자물리 난제도 풀었음",
+      "recommend": 45,
+      "comments": 13,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.07",
+      "created_at": "2026-10-07T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466391",
       "body_excerpt": "",
       "tags": [
         "ai"
@@ -585,7 +684,7 @@
     {
       "no": "1464621",
       "title": "사람이 했다면 즉각 필즈상이라고?",
-      "recommend": 44,
+      "recommend": 45,
       "comments": 6,
       "author": "EventHorizon",
       "created_at_raw": "10.07",
@@ -597,38 +696,10 @@
       ]
     },
     {
-      "no": "1466309",
-      "title": "요즘 쏙 들어간 소리",
-      "recommend": 43,
-      "comments": 31,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466309",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1466388",
-      "title": "내가 24년간 풀었던 문제가 오늘 풀렸다.",
-      "recommend": 42,
-      "comments": 54,
-      "author": "피셔트롭쉬",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1466388",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1466283",
       "title": "속보) 오픈ai 증명폭탄 두번 더 온다?!",
-      "recommend": 42,
-      "comments": 39,
+      "recommend": 44,
+      "comments": 40,
       "author": "ㅇㅇ",
       "created_at_raw": "10.07",
       "created_at": "2026-10-07T12:00:00+09:00",
@@ -638,83 +709,12 @@
         "ai",
         "openai"
       ]
-    },
-    {
-      "no": "1462150",
-      "title": "아르곤이 만든 3개의 앱 ㅁㅊ",
-      "recommend": 42,
-      "comments": 34,
-      "author": "초존도초",
-      "created_at_raw": "10.05",
-      "created_at": "2026-10-05T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1462150",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1463615",
-      "title": "갑자기 쏟아지는 수학 증명들 ㄷㄷㄷㄷㄷ",
-      "recommend": 42,
-      "comments": 29,
-      "author": "초존도초",
-      "created_at_raw": "10.06",
-      "created_at": "2026-10-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1463615",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1464863",
-      "title": "수학자들은 휴가를 떠나세요",
-      "recommend": 42,
-      "comments": 26,
-      "author": "일본에간대학원생",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1464863",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1464616",
-      "title": "인간 사회 병목이 한방에 뚫릴 수 있을 것 같은 편린이 보인 이유",
-      "recommend": 42,
-      "comments": 20,
-      "author": "초존도초",
-      "created_at_raw": "10.07",
-      "created_at": "2026-10-07T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1464616",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1463611",
-      "title": "X에서 본 AI 특붕이 관련 짤.jpg",
-      "recommend": 42,
-      "comments": 14,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.06",
-      "created_at": "2026-10-06T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1463611",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "humor"
-      ]
     }
   ],
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 91,
+    "dropped_old": 60,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }
