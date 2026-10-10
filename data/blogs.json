@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T01:05:26.509858+00:00",
-  "cutoff": "2026-10-02T01:05:22.949479+00:00",
+  "generated_at": "2026-10-10T00:48:19.152834+00:00",
+  "cutoff": "2026-10-03T00:48:15.919656+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     {
       "source": "blog_deepmind",
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,22 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+    },
     {
       "source": "blog_openai",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -134,18 +150,18 @@
       "lead_paragraph": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
     },
     {
-      "source": "blog_openai",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "published_at": "2026-10-02T16:15:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-    },
-    {
       "source": "blog_deepmind",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "published_at": "2026-10-06T19:57:04+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published_at": "2026-10-09T15:20:29+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -190,20 +206,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "published_at": "2026-10-02T15:19:50+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "published_at": "2026-10-02T04:01:31+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Introducing Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "published_at": "2026-10-09T17:48:00+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
     },
     {
       "source": "blog_anthropic",
@@ -244,14 +252,6 @@
       "published_at": "2026-10-07T08:52:51+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "published_at": "2026-10-02T17:12:50+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027."
     }
   ]
 }
