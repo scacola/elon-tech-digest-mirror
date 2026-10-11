@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T00:48:19.152834+00:00",
-  "cutoff": "2026-10-03T00:48:15.919656+00:00",
+  "generated_at": "2026-10-11T00:11:06.263839+00:00",
+  "cutoff": "2026-10-04T00:11:03.085457+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     {
       "source": "blog_anthropic",
@@ -194,14 +194,6 @@
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
       "published_at": "2026-10-07T12:45:31+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "published_at": "2026-10-03T22:56:48+00:00",
       "author": "",
       "lead_paragraph": ""
     },
