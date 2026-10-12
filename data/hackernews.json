@@ -1,107 +1,177 @@
 {
-  "generated_at": "2026-10-11T00:12:17.329326+00:00",
-  "cutoff": "2026-10-10T00:12:05.931512+00:00",
+  "generated_at": "2026-10-12T00:21:16.083753+00:00",
+  "cutoff": "2026-10-11T00:21:01.166196+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50033407,
-      "title": "Bitwarden Dual License Model",
-      "score": 336,
-      "by": "Cider9986",
-      "comments": 244,
-      "created_at": "2026-10-10T14:32:50+00:00",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "discussion_url": "https://news.ycombinator.com/item?id=50033407"
+      "hn_id": 50043682,
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "score": 381,
+      "by": "gumby",
+      "comments": 205,
+      "created_at": "2026-10-11T14:28:39+00:00",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50043682"
     },
     {
-      "hn_id": 50031614,
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 234,
-      "by": "rociiu",
-      "comments": 119,
-      "created_at": "2026-10-10T10:52:09+00:00",
-      "url": "https://github.com/rociiu/talorys",
-      "discussion_url": "https://news.ycombinator.com/item?id=50031614"
+      "hn_id": 50042219,
+      "title": "I paid people to try and follow my README",
+      "score": 363,
+      "by": "edent",
+      "comments": 186,
+      "created_at": "2026-10-11T11:47:29+00:00",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50042219"
     },
     {
-      "hn_id": 50035886,
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "score": 104,
-      "by": "arkj",
-      "comments": 73,
-      "created_at": "2026-10-10T18:48:35+00:00",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "discussion_url": "https://news.ycombinator.com/item?id=50035886"
+      "hn_id": 50047422,
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "score": 193,
+      "by": "albertzeyer",
+      "comments": 308,
+      "created_at": "2026-10-11T20:20:52+00:00",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "discussion_url": "https://news.ycombinator.com/item?id=50047422"
     },
     {
-      "hn_id": 50029830,
-      "title": "Food processing influences metabolism and brain activity",
-      "score": 96,
-      "by": "gmays",
+      "hn_id": 50039092,
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "score": 140,
+      "by": "davikr",
+      "comments": 105,
+      "created_at": "2026-10-11T02:02:38+00:00",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50039092"
+    },
+    {
+      "hn_id": 50041873,
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "score": 80,
+      "by": "Bluestein",
+      "comments": 25,
+      "created_at": "2026-10-11T11:03:21+00:00",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "discussion_url": "https://news.ycombinator.com/item?id=50041873"
+    },
+    {
+      "hn_id": 50041765,
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "score": 69,
+      "by": "giuliomagnifico",
       "comments": 78,
-      "created_at": "2026-10-10T05:22:30+00:00",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50029830"
+      "created_at": "2026-10-11T10:47:21+00:00",
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "discussion_url": "https://news.ycombinator.com/item?id=50041765"
     },
     {
-      "hn_id": 50037949,
-      "title": "Build your own decision model",
-      "score": 58,
-      "by": "softwaredoug",
-      "comments": 6,
-      "created_at": "2026-10-10T22:50:10+00:00",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50037949"
+      "hn_id": 50043603,
+      "title": "Why Texas Is Making Data Centers Wait",
+      "score": 31,
+      "by": "gmays",
+      "comments": 74,
+      "created_at": "2026-10-11T14:21:31+00:00",
+      "url": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50043603"
     },
     {
-      "hn_id": 50031156,
-      "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
-      "score": 52,
-      "by": "DeepLogin",
-      "comments": 6,
-      "created_at": "2026-10-10T09:30:03+00:00",
-      "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50031156"
-    },
-    {
-      "hn_id": 50037299,
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "score": 24,
-      "by": "PicardManeuver",
-      "comments": 8,
-      "created_at": "2026-10-10T21:19:42+00:00",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50037299"
-    },
-    {
-      "hn_id": 50037024,
-      "title": "A new look at brains transformed by psychedelics",
-      "score": 12,
-      "by": "ron_k",
-      "comments": 2,
-      "created_at": "2026-10-10T20:48:43+00:00",
-      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50037024"
-    },
-    {
-      "hn_id": 50037767,
-      "title": "A Stark Warning from a Former AI Doomer",
-      "score": 9,
-      "by": "_virtu",
+      "hn_id": 50047557,
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "score": 13,
+      "by": "devonnull",
       "comments": 0,
-      "created_at": "2026-10-10T22:19:34+00:00",
-      "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
-      "discussion_url": "https://news.ycombinator.com/item?id=50037767"
+      "created_at": "2026-10-11T20:35:03+00:00",
+      "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+      "discussion_url": "https://news.ycombinator.com/item?id=50047557"
     },
     {
-      "hn_id": 50036289,
-      "title": "Is AI Killing the Value of Human Writing?",
-      "score": 7,
-      "by": "fsndz",
-      "comments": 11,
-      "created_at": "2026-10-10T19:28:46+00:00",
-      "url": "https://transitions.substack.com/p/is-ai-killing-the-value-of-human",
-      "discussion_url": "https://news.ycombinator.com/item?id=50036289"
+      "hn_id": 50047864,
+      "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
+      "score": 11,
+      "by": "johanam",
+      "comments": 0,
+      "created_at": "2026-10-11T21:13:47+00:00",
+      "url": "https://thelastwave.substack.com/p/theres-no-going-back",
+      "discussion_url": "https://news.ycombinator.com/item?id=50047864"
+    },
+    {
+      "hn_id": 50048937,
+      "title": "Rubber Duck: An AI interviewer for the knowledge in your head",
+      "score": 9,
+      "by": "RD44",
+      "comments": 3,
+      "created_at": "2026-10-11T23:01:29+00:00",
+      "url": "https://rubberduck.talk/sign-in",
+      "discussion_url": "https://news.ycombinator.com/item?id=50048937"
+    },
+    {
+      "hn_id": 50047520,
+      "title": "OpenAI fired its own auditor before its revenue story shrank by $20B",
+      "score": 9,
+      "by": "vincentjiang",
+      "comments": 0,
+      "created_at": "2026-10-11T20:31:50+00:00",
+      "url": "https://theinference.org/article/openai-fired-its-own-auditor-s-contact-days-before-its-revenue-story-shrank-by-20-billion",
+      "discussion_url": "https://news.ycombinator.com/item?id=50047520"
+    },
+    {
+      "hn_id": 50048702,
+      "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+      "score": 5,
+      "by": "julianflux",
+      "comments": 0,
+      "created_at": "2026-10-11T22:39:40+00:00",
+      "url": "https://github.com/julianjohnson-web/julianflux-research",
+      "discussion_url": "https://news.ycombinator.com/item?id=50048702"
+    },
+    {
+      "hn_id": 50049014,
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "score": 5,
+      "by": "mikelgan",
+      "comments": 2,
+      "created_at": "2026-10-11T23:09:56+00:00",
+      "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+      "discussion_url": "https://news.ycombinator.com/item?id=50049014"
+    },
+    {
+      "hn_id": 50048870,
+      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+      "score": 5,
+      "by": "routelastresort",
+      "comments": 8,
+      "created_at": "2026-10-11T22:55:24+00:00",
+      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "discussion_url": "https://news.ycombinator.com/item?id=50048870"
+    },
+    {
+      "hn_id": 50047553,
+      "title": "Multi-agent harnesses need separate message channels",
+      "score": 4,
+      "by": "harshalgajjar",
+      "comments": 0,
+      "created_at": "2026-10-11T20:34:32+00:00",
+      "url": "https://harshalgajjar.com/blog/multi-agent-harnesses-need-separate-message-channels",
+      "discussion_url": "https://news.ycombinator.com/item?id=50047553"
+    },
+    {
+      "hn_id": 50049388,
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "score": 3,
+      "by": "cagster",
+      "comments": 0,
+      "created_at": "2026-10-11T23:47:59+00:00",
+      "url": "https://github.com/plimsollmark/plimsoll",
+      "discussion_url": "https://news.ycombinator.com/item?id=50049388"
+    },
+    {
+      "hn_id": 50047905,
+      "title": "Show HN: LLMxRay an open-source observability tool for LLMs",
+      "score": 3,
+      "by": "lognebudo",
+      "comments": 0,
+      "created_at": "2026-10-11T21:17:45+00:00",
+      "url": "https://github.com/LogneBudo/llmxray",
+      "discussion_url": "https://news.ycombinator.com/item?id=50047905"
     }
   ]
 }
