@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-12T00:21:00.489270+00:00",
-  "cutoff": "2026-10-05T00:20:57.272183+00:00",
+  "generated_at": "2026-10-13T02:30:34.398592+00:00",
+  "cutoff": "2026-10-06T02:30:31.236637+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 15
+      "count": 13
     },
     {
       "source": "blog_deepmind",
@@ -134,22 +134,6 @@
       "lead_paragraph": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
     },
     {
-      "source": "blog_openai",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "published_at": "2026-10-05T15:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
-    },
-    {
       "source": "blog_deepmind",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -199,6 +183,14 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Claude discovers a novel enzyme system",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "published_at": "2026-10-13T00:18:23+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Introducing Claude Corps",
       "url": "https://www.anthropic.com/news/claude-corps",
       "published_at": "2026-10-09T17:48:00+00:00",
@@ -228,14 +220,6 @@
       "published_at": "2026-10-08T15:49:10+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude discovers a novel enzyme system",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "published_at": "2026-10-07T08:55:22+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
     },
     {
       "source": "blog_anthropic",
