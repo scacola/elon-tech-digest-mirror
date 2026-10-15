@@ -1,34 +1,50 @@
 {
-  "generated_at": "2026-10-14T23:48:18.125259+00:00",
-  "cutoff": "2026-10-07T23:48:13.628714+00:00",
+  "generated_at": "2026-10-15T23:37:16.409153+00:00",
+  "cutoff": "2026-10-08T23:37:12.947254+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 10
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 7
+      "count": 6
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published_at": "2026-10-15T19:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "published_at": "2026-10-15T13:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+    },
     {
       "source": "blog_openai",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -79,14 +95,6 @@
     },
     {
       "source": "blog_openai",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
-      "source": "blog_openai",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
       "published_at": "2026-10-09T07:00:00+00:00",
@@ -95,35 +103,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "published_at": "2026-10-08T16:00:00+00:00",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published_at": "2026-10-09T07:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+      "lead_paragraph": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
     },
     {
-      "source": "blog_openai",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "published_at": "2026-10-08T12:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "published_at": "2026-10-15T16:08:03+00:00",
       "author": "",
-      "lead_paragraph": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-    },
-    {
-      "source": "blog_openai",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+      "lead_paragraph": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
     },
     {
       "source": "blog_deepmind",
@@ -159,6 +151,30 @@
     },
     {
       "source": "blog_huggingface",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "published_at": "2026-10-15T20:34:01+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "url": "https://huggingface.co/blog/allenai/hiro-acev2",
       "published_at": "2026-10-14T16:12:42+00:00",
@@ -174,12 +190,20 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "published_at": "2026-10-15T23:22:53+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Offering expanded Claude access across all three branches of government",
+      "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
+      "published_at": "2026-10-15T22:05:58+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We are removing barriers to government AI adoption by offering Claude for Enterprise and Claude for Government to all three branches of government, including federal civilian executive branch agencies, as well as legislative and judiciary branches of government, for $1."
     },
     {
       "source": "blog_anthropic",
@@ -212,30 +236,6 @@
       "published_at": "2026-10-09T17:48:00+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing the Anthropic Cyber Mission",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "published_at": "2026-10-08T19:00:45+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "2026 Usage Policy update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "published_at": "2026-10-08T17:00:30+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Building on our commitment to American scientific discovery",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "published_at": "2026-10-08T15:49:10+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI."
     }
   ]
 }
