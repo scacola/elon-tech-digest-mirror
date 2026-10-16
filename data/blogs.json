@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T23:37:16.409153+00:00",
-  "cutoff": "2026-10-08T23:37:12.947254+00:00",
+  "generated_at": "2026-10-16T23:22:12.504408+00:00",
+  "cutoff": "2026-10-09T23:22:09.330866+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -19,16 +19,24 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 6
+      "count": 5
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+    },
     {
       "source": "blog_openai",
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -44,6 +52,14 @@
       "published_at": "2026-10-15T13:00:00+00:00",
       "author": "",
       "lead_paragraph": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
     },
     {
       "source": "blog_openai",
@@ -94,22 +110,6 @@
       "lead_paragraph": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
     },
     {
-      "source": "blog_openai",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -146,6 +146,22 @@
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
       "published_at": "2026-10-13T16:01:52+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published_at": "2026-10-16T01:44:47+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "published_at": "2026-10-16T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -193,7 +209,7 @@
       "source": "blog_anthropic",
       "title": "Anthropic update on independent evaluators",
       "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published_at": "2026-10-15T23:22:53+00:00",
+      "published_at": "2026-10-16T20:30:25+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
     },
@@ -228,14 +244,6 @@
       "published_at": "2026-10-13T00:18:23+00:00",
       "author": "Anthropic",
       "lead_paragraph": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "published_at": "2026-10-09T17:48:00+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
     }
   ]
 }

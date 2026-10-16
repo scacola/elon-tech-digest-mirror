@@ -1,117 +1,207 @@
 {
-  "generated_at": "2026-10-15T23:37:27.789130+00:00",
-  "cutoff": "2026-10-14T23:37:17.305336+00:00",
+  "generated_at": "2026-10-16T23:22:28.098927+00:00",
+  "cutoff": "2026-10-15T23:22:17.444166+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50097369,
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "score": 282,
-      "by": "gmays",
-      "comments": 76,
-      "created_at": "2026-10-14T23:59:37+00:00",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "discussion_url": "https://news.ycombinator.com/item?id=50097369"
+      "hn_id": 50122800,
+      "title": "Claude reveals ECDSA curve origins",
+      "score": 560,
+      "by": "ahlCVA",
+      "comments": 237,
+      "created_at": "2026-10-16T18:55:59+00:00",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122800"
     },
     {
-      "hn_id": 50105648,
-      "title": "Krea 3 – An image model built for editing at scale",
-      "score": 227,
-      "by": "dvrp",
-      "comments": 77,
-      "created_at": "2026-10-15T16:04:05+00:00",
-      "url": "https://www.krea.ai/krea-3",
-      "discussion_url": "https://news.ycombinator.com/item?id=50105648"
+      "hn_id": 50121179,
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "score": 360,
+      "by": "speckx",
+      "comments": 311,
+      "created_at": "2026-10-16T17:08:38+00:00",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50121179"
     },
     {
-      "hn_id": 50104654,
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "score": 219,
-      "by": "aaraujo002",
-      "comments": 176,
-      "created_at": "2026-10-15T14:58:48+00:00",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50104654"
-    },
-    {
-      "hn_id": 50108131,
-      "title": "Why We're Banning AI",
-      "score": 217,
-      "by": "vinyl7",
-      "comments": 174,
-      "created_at": "2026-10-15T18:32:29+00:00",
-      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "discussion_url": "https://news.ycombinator.com/item?id=50108131"
-    },
-    {
-      "hn_id": 50106738,
-      "title": "More on Anthropic's Scion ripping off Mononoke",
-      "score": 214,
-      "by": "sunshowers",
-      "comments": 67,
-      "created_at": "2026-10-15T17:05:19+00:00",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50106738"
-    },
-    {
-      "hn_id": 50104299,
-      "title": "Using AI to reverse engineer hardware",
-      "score": 83,
-      "by": "ErenayDev",
-      "comments": 99,
-      "created_at": "2026-10-15T14:35:15+00:00",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50104299"
-    },
-    {
-      "hn_id": 50105791,
-      "title": "Frontier Pre-Training at Microsoft AI",
-      "score": 31,
-      "by": "psoulos",
-      "comments": 3,
-      "created_at": "2026-10-15T16:12:13+00:00",
-      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50105791"
-    },
-    {
-      "hn_id": 50100345,
-      "title": "How to be more ambitious: A tutorial for humans with models",
-      "score": 22,
+      "hn_id": 50122951,
+      "title": "How the Claude Code team does code review",
+      "score": 187,
       "by": "pretext",
+      "comments": 178,
+      "created_at": "2026-10-16T19:04:47+00:00",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122951"
+    },
+    {
+      "hn_id": 50122112,
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "score": 184,
+      "by": "JumpCrisscross",
+      "comments": 52,
+      "created_at": "2026-10-16T18:11:42+00:00",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122112"
+    },
+    {
+      "hn_id": 50118688,
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "score": 177,
+      "by": "__cayenne__",
+      "comments": 82,
+      "created_at": "2026-10-16T14:18:44+00:00",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50118688"
+    },
+    {
+      "hn_id": 50119991,
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "score": 171,
+      "by": "magoghm",
+      "comments": 64,
+      "created_at": "2026-10-16T15:55:40+00:00",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "discussion_url": "https://news.ycombinator.com/item?id=50119991"
+    },
+    {
+      "hn_id": 50122431,
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "score": 148,
+      "by": "Anon84",
+      "comments": 41,
+      "created_at": "2026-10-16T18:32:35+00:00",
+      "url": "https://github.com/cobanov/PS5LM",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122431"
+    },
+    {
+      "hn_id": 50120010,
+      "title": "Inside Polymarket's paid quote-retweet esports program",
+      "score": 88,
+      "by": "paimapi",
+      "comments": 58,
+      "created_at": "2026-10-16T15:56:25+00:00",
+      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+      "discussion_url": "https://news.ycombinator.com/item?id=50120010"
+    },
+    {
+      "hn_id": 50122878,
+      "title": "You could have invented transformers from memory",
+      "score": 87,
+      "by": "speckx",
+      "comments": 23,
+      "created_at": "2026-10-16T19:01:17+00:00",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122878"
+    },
+    {
+      "hn_id": 50111742,
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "score": 85,
+      "by": "rguiscard",
+      "comments": 31,
+      "created_at": "2026-10-15T23:22:53+00:00",
+      "url": "https://github.com/johnrash/bebox",
+      "discussion_url": "https://news.ycombinator.com/item?id=50111742"
+    },
+    {
+      "hn_id": 50121939,
+      "title": "Designing more efficient quantum circuits with Claude",
+      "score": 79,
+      "by": "pretext",
+      "comments": 16,
+      "created_at": "2026-10-16T18:00:18+00:00",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "discussion_url": "https://news.ycombinator.com/item?id=50121939"
+    },
+    {
+      "hn_id": 50118876,
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "score": 48,
+      "by": "stephenchung",
+      "comments": 18,
+      "created_at": "2026-10-16T14:35:43+00:00",
+      "url": "https://rstation.ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50118876"
+    },
+    {
+      "hn_id": 50118662,
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "score": 47,
+      "by": "porridgeraisin",
+      "comments": 24,
+      "created_at": "2026-10-16T14:16:34+00:00",
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "discussion_url": "https://news.ycombinator.com/item?id=50118662"
+    },
+    {
+      "hn_id": 50122920,
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "score": 47,
+      "by": "aburan28",
+      "comments": 6,
+      "created_at": "2026-10-16T19:03:32+00:00",
+      "url": "https://words.filippo.io/seeds-solved/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122920"
+    },
+    {
+      "hn_id": 50122713,
+      "title": "Meta employees said Lula's accounts were hindered during Brazil election",
+      "score": 41,
+      "by": "01-_-",
+      "comments": 2,
+      "created_at": "2026-10-16T18:51:39+00:00",
+      "url": "https://www.reuters.com/world/americas/meta-employees-said-lulas-accounts-were-hindered-during-brazil-election-folha-2026-10-16/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122713"
+    },
+    {
+      "hn_id": 50118605,
+      "title": "It Ain't AGI Until H100s Go for $30 an Hour",
+      "score": 17,
+      "by": "gmays",
       "comments": 5,
-      "created_at": "2026-10-15T07:16:25+00:00",
-      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50100345"
+      "created_at": "2026-10-16T14:09:28+00:00",
+      "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
+      "discussion_url": "https://news.ycombinator.com/item?id=50118605"
     },
     {
-      "hn_id": 50106285,
-      "title": "Danish Supreme Court Finds That AI CSAM Is CSAM",
+      "hn_id": 50123441,
+      "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
       "score": 13,
-      "by": "delusional",
-      "comments": 14,
-      "created_at": "2026-10-15T16:39:58+00:00",
-      "url": "https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930",
-      "discussion_url": "https://news.ycombinator.com/item?id=50106285"
+      "by": "TMWNN",
+      "comments": 7,
+      "created_at": "2026-10-16T19:37:57+00:00",
+      "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50123441"
     },
     {
-      "hn_id": 50107540,
-      "title": "Nine-Inch Snails",
-      "score": 12,
-      "by": "samizdis",
-      "comments": 0,
-      "created_at": "2026-10-15T17:57:57+00:00",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50107540"
-    },
-    {
-      "hn_id": 50106062,
-      "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
-      "score": 11,
-      "by": "rossleeshaw",
+      "hn_id": 50118590,
+      "title": "MeshXFS: A clustered filesystem built on XFS, written by AI",
+      "score": 9,
+      "by": "spshoecraft",
       "comments": 1,
-      "created_at": "2026-10-15T16:26:39+00:00",
-      "url": "https://github.com/rlshaw-ml/BlastLoop",
-      "discussion_url": "https://news.ycombinator.com/item?id=50106062"
+      "created_at": "2026-10-16T14:08:29+00:00",
+      "url": "https://github.com/sshoecraft/meshxfs",
+      "discussion_url": "https://news.ycombinator.com/item?id=50118590"
+    },
+    {
+      "hn_id": 50122767,
+      "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
+      "score": 6,
+      "by": "Konnerm",
+      "comments": 0,
+      "created_at": "2026-10-16T18:54:22+00:00",
+      "url": "https://github.com/Moshik21/weatherdeck",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122767"
+    },
+    {
+      "hn_id": 50122324,
+      "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
+      "score": 3,
+      "by": "jenthoven",
+      "comments": 1,
+      "created_at": "2026-10-16T18:25:51+00:00",
+      "url": "https://www.kapwing.com/ai/prompt-generator/camera",
+      "discussion_url": "https://news.ycombinator.com/item?id=50122324"
     }
   ]
 }
