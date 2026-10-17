@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T23:22:12.504408+00:00",
-  "cutoff": "2026-10-09T23:22:09.330866+00:00",
+  "generated_at": "2026-10-17T22:58:35.462803+00:00",
+  "cutoff": "2026-10-10T22:58:32.132993+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 10
+      "count": 12
     },
     {
       "source": "blog_deepmind",
@@ -29,6 +29,22 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "published_at": "2026-10-16T19:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+    },
     {
       "source": "blog_openai",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
