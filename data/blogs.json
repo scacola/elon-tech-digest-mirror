@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T22:58:35.462803+00:00",
-  "cutoff": "2026-10-10T22:58:32.132993+00:00",
+  "generated_at": "2026-10-18T22:54:37.766488+00:00",
+  "cutoff": "2026-10-11T22:54:34.433804+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -25,7 +25,7 @@
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 5
+      "count": 6
     }
   ],
   "items": [
@@ -220,6 +220,14 @@
       "published_at": "2026-10-13T17:05:48+00:00",
       "author": "",
       "lead_paragraph": ""
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "published_at": "2026-10-18T18:05:05+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
     },
     {
       "source": "blog_anthropic",

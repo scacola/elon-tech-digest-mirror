@@ -1,6 +1,6 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-10-17T22:58:31.870906+00:00",
+  "collected_at": "2026-10-18T22:54:33.807786+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
@@ -8,7 +8,7 @@
       "no": "1483173",
       "title": "돈다이를 위한 우울증 해결법 알려줌",
       "recommend": 86,
-      "comments": 78,
+      "comments": 79,
       "author": "탄지",
       "created_at_raw": "10.16",
       "created_at": "2026-10-16T12:00:00+09:00",
@@ -21,8 +21,8 @@
     {
       "no": "1483551",
       "title": "일론 신차 테슬라 로드스터 착륙 영상 ㅋㅋㅋㅋ",
-      "recommend": 79,
-      "comments": 178,
+      "recommend": 80,
+      "comments": 163,
       "author": "ㅇㅇ",
       "created_at_raw": "10.16",
       "created_at": "2026-10-16T12:00:00+09:00",
@@ -36,8 +36,8 @@
     {
       "no": "1484471",
       "title": "난 특이점이 오면 모든사람이",
-      "recommend": 74,
-      "comments": 165,
+      "recommend": 75,
+      "comments": 155,
       "author": "popshell",
       "created_at_raw": "10.16",
       "created_at": "2026-10-16T12:00:00+09:00",
@@ -50,8 +50,8 @@
     {
       "no": "1483995",
       "title": "현직 관련 업계 사람이 평가한 로드스타",
-      "recommend": 74,
-      "comments": 18,
+      "recommend": 75,
+      "comments": 17,
       "author": "ㅇㅇ",
       "created_at_raw": "10.16",
       "created_at": "2026-10-16T12:00:00+09:00",
@@ -62,9 +62,23 @@
       ]
     },
     {
+      "no": "1486259",
+      "title": "골대옮기기하는 선형충.jpg",
+      "recommend": 65,
+      "comments": 34,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.17",
+      "created_at": "2026-10-17T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1486259",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
       "no": "1485325",
       "title": "개씹덕주의) AI별 환불협상 하는법",
-      "recommend": 63,
+      "recommend": 64,
       "comments": 22,
       "author": "ㅇㅇ",
       "created_at_raw": "10.17",
@@ -92,7 +106,7 @@
     {
       "no": "1483734",
       "title": "테슬라 로드스터 근황",
-      "recommend": 59,
+      "recommend": 60,
       "comments": 13,
       "author": "나눔추",
       "created_at_raw": "10.16",
@@ -104,23 +118,9 @@
       ]
     },
     {
-      "no": "1486259",
-      "title": "골대옮기기하는 선형충.jpg",
-      "recommend": 58,
-      "comments": 33,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.17",
-      "created_at": "2026-10-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1486259",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1484967",
       "title": "역노화 불가능하고 우린 늙어뒤지고 ai 디스토피아 오는거 맞음",
-      "recommend": 58,
+      "recommend": 59,
       "comments": 18,
       "author": "ㅇㅇ",
       "created_at_raw": "10.16",
@@ -134,8 +134,8 @@
     {
       "no": "1485019",
       "title": "기본소득 받는 법 알아냈다",
-      "recommend": 56,
-      "comments": 21,
+      "recommend": 58,
+      "comments": 22,
       "author": "Azurespace",
       "created_at_raw": "10.16",
       "created_at": "2026-10-16T12:00:00+09:00",
@@ -146,38 +146,10 @@
       ]
     },
     {
-      "no": "1482515",
-      "title": "신창섭 \"AI 발전에 굉장한 공포감이 있다.\"",
-      "recommend": 55,
-      "comments": 82,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1482515",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1482914",
-      "title": "몇달 전에 4.6으로 만든 게임 최신 모델로 갈아엎은 후기",
-      "recommend": 54,
-      "comments": 45,
-      "author": "thoth",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1482914",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "no": "1486739",
       "title": "테렌스 타오 - \"영웅은 이제 없다\"",
-      "recommend": 49,
-      "comments": 91,
+      "recommend": 57,
+      "comments": 126,
       "author": "일본에간대학원생",
       "created_at_raw": "10.17",
       "created_at": "2026-10-17T12:00:00+09:00",
@@ -185,6 +157,48 @@
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1486681",
+      "title": "🔞사고영상) 해킹당한 로드스터 실제영상",
+      "recommend": 52,
+      "comments": 16,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.17",
+      "created_at": "2026-10-17T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1486681",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1486799",
+      "title": "제미니는 오타도 신기하게 내네",
+      "recommend": 51,
+      "comments": 48,
+      "author": "추워춥다",
+      "created_at_raw": "10.17",
+      "created_at": "2026-10-17T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1486799",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1488358",
+      "title": "인간과의 대화보다는 ai랑 대화하는 게 더 가치가 있는 듯",
+      "recommend": 50,
+      "comments": 58,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.18",
+      "created_at": "2026-10-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1488358",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -204,8 +218,8 @@
     {
       "no": "1485346",
       "title": "업계인들의 정렬 돌파구 반응들 ㄷㄷㄷㄷㄷ",
-      "recommend": 47,
-      "comments": 18,
+      "recommend": 49,
+      "comments": 19,
       "author": "ㅇㅇ",
       "created_at_raw": "10.17",
       "created_at": "2026-10-17T12:00:00+09:00",
@@ -216,51 +230,9 @@
       ]
     },
     {
-      "no": "1486799",
-      "title": "제미니는 오타도 신기하게 내네",
-      "recommend": 45,
-      "comments": 36,
-      "author": "추워춥다",
-      "created_at_raw": "10.17",
-      "created_at": "2026-10-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1486799",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1482355",
-      "title": "요즘 난리난 부캉이 팬서비스 수준",
-      "recommend": 45,
-      "comments": 17,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1482355",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1482448",
-      "title": "인간 환각 시부렐 ㅋㅋㅋ",
-      "recommend": 45,
-      "comments": 15,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1482448",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1484908",
       "title": "오푸스 5.5의 사소한 불평불만",
-      "recommend": 44,
+      "recommend": 45,
       "comments": 24,
       "author": "일본에간대학원생",
       "created_at_raw": "10.16",
@@ -272,24 +244,24 @@
       ]
     },
     {
-      "no": "1483228",
-      "title": "룬붕이 흥분한 이유가 생각보다 큰",
-      "recommend": 42,
-      "comments": 19,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.16",
-      "created_at": "2026-10-16T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1483228",
+      "no": "1486432",
+      "title": "잼민이 자아 좆되네 ㅋㅋㅋㅋㅋ2",
+      "recommend": 44,
+      "comments": 27,
+      "author": "우비소년",
+      "created_at_raw": "10.17",
+      "created_at": "2026-10-17T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1486432",
       "body_excerpt": "",
       "tags": [
-        "general"
+        "humor"
       ]
     },
     {
       "no": "1485887",
       "title": "3사 쓰면서 느끼는 장단점들",
-      "recommend": 41,
-      "comments": 22,
+      "recommend": 44,
+      "comments": 23,
       "author": "ㅇㅇ",
       "created_at_raw": "10.17",
       "created_at": "2026-10-17T12:00:00+09:00",
@@ -300,10 +272,38 @@
       ]
     },
     {
+      "no": "1488754",
+      "title": "아들~ 엄마가 AI 구독 해놨다~",
+      "recommend": 43,
+      "comments": 17,
+      "author": "ㅇㅇ",
+      "created_at_raw": "03:38",
+      "created_at": "2026-10-19T03:38:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1488754",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1483228",
+      "title": "룬붕이 흥분한 이유가 생각보다 큰",
+      "recommend": 42,
+      "comments": 20,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.16",
+      "created_at": "2026-10-16T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1483228",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1485327",
       "title": "알트만 머스크한테 구애",
-      "recommend": 41,
-      "comments": 18,
+      "recommend": 42,
+      "comments": 19,
       "author": "ㅇㅇ",
       "created_at_raw": "10.17",
       "created_at": "2026-10-17T12:00:00+09:00",
@@ -311,6 +311,48 @@
       "body_excerpt": "",
       "tags": [
         "general"
+      ]
+    },
+    {
+      "no": "1488140",
+      "title": "실제 영장류 GOAT가 했던 말",
+      "recommend": 41,
+      "comments": 35,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.18",
+      "created_at": "2026-10-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1488140",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1488726",
+      "title": "싱글벙글 얀르쿤 또 일론머스크랑 싸우는중",
+      "recommend": 41,
+      "comments": 28,
+      "author": "rtOS",
+      "created_at_raw": "02:29",
+      "created_at": "2026-10-19T02:29:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1488726",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1488480",
+      "title": "환타 마시는 도로롱.gif",
+      "recommend": 41,
+      "comments": 15,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.18",
+      "created_at": "2026-10-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1488480",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
       ]
     },
     {
@@ -328,6 +370,50 @@
       ]
     },
     {
+      "no": "1487747",
+      "title": "룬 : Don’t Die",
+      "recommend": 40,
+      "comments": 20,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.18",
+      "created_at": "2026-10-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1487747",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1483317",
+      "title": "OpenAI 기밀 유출 기소, 중국 간첩으로 추정되다",
+      "recommend": 40,
+      "comments": 13,
+      "author": "일본에간대학원생",
+      "created_at_raw": "10.16",
+      "created_at": "2026-10-16T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1483317",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "no": "1484789",
+      "title": "속보) 오픈AI 정훈교육 시작",
+      "recommend": 39,
+      "comments": 26,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.16",
+      "created_at": "2026-10-16T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1484789",
+      "body_excerpt": "",
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
       "no": "1485291",
       "title": "오픈AI 연구원 : \"정렬 실마리는 올해 가장 중요한 결과다\" ㄷㄷㄷㄷㄷ",
       "recommend": 39,
@@ -336,21 +422,6 @@
       "created_at_raw": "10.17",
       "created_at": "2026-10-17T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1485291",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "openai"
-      ]
-    },
-    {
-      "no": "1483317",
-      "title": "OpenAI 기밀 유출 기소, 중국 간첩으로 추정되다",
-      "recommend": 39,
-      "comments": 13,
-      "author": "일본에간대학원생",
-      "created_at_raw": "10.16",
-      "created_at": "2026-10-16T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1483317",
       "body_excerpt": "",
       "tags": [
         "ai",
@@ -372,32 +443,17 @@
       ]
     },
     {
-      "no": "1481980",
-      "title": "구글 브린 \"우리는 RSI 위에 올랐다. 아르곤은 몇 단계 아래 모델\"",
+      "no": "1485169",
+      "title": "펌)중국도 모델 수출규제 시작!!!",
       "recommend": 38,
-      "comments": 33,
-      "author": "초존도초",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1481980",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1484789",
-      "title": "속보) 오픈AI 정훈교육 시작",
-      "recommend": 38,
-      "comments": 26,
+      "comments": 25,
       "author": "ㅇㅇ",
       "created_at_raw": "10.16",
       "created_at": "2026-10-16T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1484789",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1485169",
       "body_excerpt": "",
       "tags": [
-        "ai",
-        "openai"
+        "ai"
       ]
     },
     {
@@ -415,31 +471,17 @@
       ]
     },
     {
-      "no": "1486681",
-      "title": "🔞사고영상) 해킹당한 로드스터 실제영상",
-      "recommend": 38,
-      "comments": 16,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.17",
-      "created_at": "2026-10-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1486681",
+      "no": "1488494",
+      "title": "아르곤은 마인크래프트를 '플레이한' 것이 아니에요",
+      "recommend": 37,
+      "comments": 48,
+      "author": "일본에간대학원생",
+      "created_at_raw": "10.18",
+      "created_at": "2026-10-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1488494",
       "body_excerpt": "",
       "tags": [
         "general"
-      ]
-    },
-    {
-      "no": "1485169",
-      "title": "펌)중국도 모델 수출규제 시작!!!",
-      "recommend": 37,
-      "comments": 25,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.16",
-      "created_at": "2026-10-16T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1485169",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -454,6 +496,20 @@
       "body_excerpt": "",
       "tags": [
         "humor"
+      ]
+    },
+    {
+      "no": "1488256",
+      "title": "신경망 깔끔 가설, 긍정적 증거",
+      "recommend": 36,
+      "comments": 33,
+      "author": "일본에간대학원생",
+      "created_at_raw": "10.18",
+      "created_at": "2026-10-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1488256",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -482,6 +538,20 @@
       "body_excerpt": "",
       "tags": [
         "humor"
+      ]
+    },
+    {
+      "no": "1485313",
+      "title": "정렬연구 신트만 샤라웃 ㄷㄷㄷ",
+      "recommend": 36,
+      "comments": 14,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.17",
+      "created_at": "2026-10-17T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1485313",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -527,48 +597,6 @@
       ]
     },
     {
-      "no": "1481399",
-      "title": "아스트라가 전문가들을 넘어 벤치를 수정하다",
-      "recommend": 35,
-      "comments": 18,
-      "author": "일본에간대학원생",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1481399",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1485313",
-      "title": "정렬연구 신트만 샤라웃 ㄷㄷㄷ",
-      "recommend": 35,
-      "comments": 14,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.17",
-      "created_at": "2026-10-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1485313",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1482817",
-      "title": "아르곤 ‘미묘한 비전 능력’이 좋네",
-      "recommend": 34,
-      "comments": 34,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1482817",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1484987",
       "title": "타오 인터뷰 읽어보는데 선형 레전드네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
       "recommend": 34,
@@ -599,28 +627,28 @@
       ]
     },
     {
-      "no": "1481464",
-      "title": "제미나이4는 이미 양자컴퓨팅, 핵융합, 단백질 설계 등에서 돌파구를 연다",
+      "no": "1487198",
+      "title": "(펌)뤼튼 근황...",
       "recommend": 34,
-      "comments": 29,
-      "author": "초존도초",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1481464",
+      "comments": 27,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.18",
+      "created_at": "2026-10-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1487198",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1486432",
-      "title": "잼민이 자아 좆되네 ㅋㅋㅋㅋㅋ2",
+      "no": "1487983",
+      "title": "ㄹㅇ 지피티랑 제미니랑 극과 극임 ㅋㅋㅋㅋ",
       "recommend": 34,
-      "comments": 23,
-      "author": "우비소년",
-      "created_at_raw": "10.17",
-      "created_at": "2026-10-17T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1486432",
+      "comments": 14,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.18",
+      "created_at": "2026-10-18T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1487983",
       "body_excerpt": "",
       "tags": [
         "humor"
@@ -641,60 +669,31 @@
       ]
     },
     {
-      "no": "1482619",
-      "title": "구글 세르게이 브린 \"아르곤은 몇 세대 뒤진 모델\"",
+      "no": "1485122",
+      "title": "아르곤 AGI 맞는데?",
       "recommend": 33,
-      "comments": 47,
-      "author": "ㅇㅇ",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1482619",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "no": "1481241",
-      "title": "중국 야생 에이전트 함대 발견",
-      "recommend": 33,
-      "comments": 22,
-      "author": "Azurespace",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1481241",
-      "body_excerpt": "",
-      "tags": [
-        "agentic"
-      ]
-    },
-    {
-      "no": "1482784",
-      "title": "테오 \"오늘 페이블5.5 출시한다면 모든 게 끝난다\"",
-      "recommend": 33,
-      "comments": 19,
-      "author": "초존도초",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1482784",
+      "comments": 25,
+      "author": "탄지",
+      "created_at_raw": "10.16",
+      "created_at": "2026-10-16T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1485122",
       "body_excerpt": "",
       "tags": [
         "general"
       ]
     },
     {
-      "no": "1481284",
-      "title": "OpenAI 도청장치 사건의 경과",
+      "no": "1485350",
+      "title": "앤트로픽이 조용한 이유가 있었네",
       "recommend": 33,
-      "comments": 11,
-      "author": "일본에간대학원생",
-      "created_at_raw": "10.15",
-      "created_at": "2026-10-15T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1481284",
+      "comments": 10,
+      "author": "ㅇㅇ",
+      "created_at_raw": "10.17",
+      "created_at": "2026-10-17T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1485350",
       "body_excerpt": "",
       "tags": [
-        "ai",
-        "openai"
+        "claude"
       ]
     },
     {
@@ -715,7 +714,7 @@
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 127,
+    "dropped_old": 140,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }

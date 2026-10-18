@@ -1,77 +1,137 @@
 {
-  "generated_at": "2026-10-17T22:58:50.698609+00:00",
-  "cutoff": "2026-10-16T22:58:36.504641+00:00",
+  "generated_at": "2026-10-18T22:54:50.279944+00:00",
+  "cutoff": "2026-10-17T22:54:38.695281+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50127979,
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "score": 233,
-      "by": "albinstman",
-      "comments": 75,
-      "created_at": "2026-10-17T04:36:53+00:00",
-      "url": "https://llmspeed.dev/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50127979"
+      "hn_id": 50142866,
+      "title": "Namecheap just seized and disabled all my domains",
+      "score": 343,
+      "by": "sashk",
+      "comments": 163,
+      "created_at": "2026-10-18T16:56:56+00:00",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50142866"
     },
     {
-      "hn_id": 50132193,
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "score": 168,
-      "by": "dchest",
-      "comments": 17,
-      "created_at": "2026-10-17T15:55:09+00:00",
-      "url": "https://pele.run/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50132193"
+      "hn_id": 50137950,
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "score": 237,
+      "by": "critiquebrowser",
+      "comments": 80,
+      "created_at": "2026-10-18T04:33:49+00:00",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50137950"
     },
     {
-      "hn_id": 50132278,
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "score": 139,
+      "hn_id": 50141429,
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "score": 148,
+      "by": "f-serif",
+      "comments": 160,
+      "created_at": "2026-10-18T14:30:27+00:00",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "discussion_url": "https://news.ycombinator.com/item?id=50141429"
+    },
+    {
+      "hn_id": 50141657,
+      "title": "Websites are closing their doors to AI agents",
+      "score": 131,
+      "by": "evolve2k",
+      "comments": 124,
+      "created_at": "2026-10-18T14:58:10+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "discussion_url": "https://news.ycombinator.com/item?id=50141657"
+    },
+    {
+      "hn_id": 50145337,
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "score": 109,
+      "by": "allinonai",
+      "comments": 55,
+      "created_at": "2026-10-18T20:48:14+00:00",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "discussion_url": "https://news.ycombinator.com/item?id=50145337"
+    },
+    {
+      "hn_id": 50140462,
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "score": 73,
       "by": "DeepLogin",
-      "comments": 56,
-      "created_at": "2026-10-17T16:04:23+00:00",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50132278"
+      "comments": 91,
+      "created_at": "2026-10-18T12:22:58+00:00",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "discussion_url": "https://news.ycombinator.com/item?id=50140462"
     },
     {
-      "hn_id": 50132502,
-      "title": "OpenAI discloses four more rogue incidents",
-      "score": 113,
-      "by": "DASD",
-      "comments": 140,
-      "created_at": "2026-10-17T16:31:12+00:00",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50132502"
+      "hn_id": 50139998,
+      "title": "The Brain Sandwich",
+      "score": 69,
+      "by": "keyle",
+      "comments": 40,
+      "created_at": "2026-10-18T11:15:37+00:00",
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50139998"
     },
     {
-      "hn_id": 50133830,
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "score": 45,
-      "by": "azhenley",
-      "comments": 50,
-      "created_at": "2026-10-17T18:45:07+00:00",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "discussion_url": "https://news.ycombinator.com/item?id=50133830"
+      "hn_id": 50142772,
+      "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+      "score": 24,
+      "by": "toomuchtodo",
+      "comments": 11,
+      "created_at": "2026-10-18T16:48:25+00:00",
+      "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+      "discussion_url": "https://news.ycombinator.com/item?id=50142772"
     },
     {
-      "hn_id": 50133299,
-      "title": "Data centers account for a third of Dutch electricity grid waiting list",
-      "score": 8,
-      "by": "Betelbuddy",
+      "hn_id": 50140784,
+      "title": "Hyper Optimizing Kimi K3 in vLLM",
+      "score": 20,
+      "by": "torutofu",
       "comments": 0,
-      "created_at": "2026-10-17T17:52:11+00:00",
-      "url": "https://nltimes.nl/2026/10/16/data-centers-account-nearly-third-dutch-electricity-grid-waiting-list",
-      "discussion_url": "https://news.ycombinator.com/item?id=50133299"
+      "created_at": "2026-10-18T13:08:50+00:00",
+      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+      "discussion_url": "https://news.ycombinator.com/item?id=50140784"
     },
     {
-      "hn_id": 50134211,
-      "title": "The math that OpenAI keeps for itself",
-      "score": 7,
-      "by": "dpaleka",
-      "comments": 2,
-      "created_at": "2026-10-17T19:22:52+00:00",
-      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
-      "discussion_url": "https://news.ycombinator.com/item?id=50134211"
+      "hn_id": 50145715,
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "score": 8,
+      "by": "zoozla",
+      "comments": 0,
+      "created_at": "2026-10-18T21:36:10+00:00",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "discussion_url": "https://news.ycombinator.com/item?id=50145715"
+    },
+    {
+      "hn_id": 50144933,
+      "title": "A 'Ludicrously Ugly' Bridge Is Exhibit a That Britain Has Lost Its Mojo",
+      "score": 3,
+      "by": "nextos",
+      "comments": 4,
+      "created_at": "2026-10-18T20:06:58+00:00",
+      "url": "https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654",
+      "discussion_url": "https://news.ycombinator.com/item?id=50144933"
+    },
+    {
+      "hn_id": 50142277,
+      "title": "Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
+      "score": 3,
+      "by": "suoloordi",
+      "comments": 0,
+      "created_at": "2026-10-18T16:04:57+00:00",
+      "url": "https://github.com/electric-dragon-80000v/pi-cowboy",
+      "discussion_url": "https://news.ycombinator.com/item?id=50142277"
+    },
+    {
+      "hn_id": 50141365,
+      "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
+      "score": 3,
+      "by": "veryslowcode",
+      "comments": 0,
+      "created_at": "2026-10-18T14:22:54+00:00",
+      "url": "https://www.documemory.dev/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50141365"
     }
   ]
 }
