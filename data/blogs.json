@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-18T22:54:37.766488+00:00",
-  "cutoff": "2026-10-11T22:54:34.433804+00:00",
+  "generated_at": "2026-10-20T00:11:17.160662+00:00",
+  "cutoff": "2026-10-13T00:11:13.934458+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     {
       "source": "blog_deepmind",
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 9
     },
     {
       "source": "blog_anthropic",
@@ -31,6 +31,14 @@
   "items": [
     {
       "source": "blog_openai",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+    },
+    {
+      "source": "blog_openai",
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
       "published_at": "2026-10-16T19:00:00+00:00",
@@ -39,19 +47,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
-    },
-    {
-      "source": "blog_openai",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "published_at": "2026-10-16T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
       "source": "blog_openai",
@@ -167,6 +175,14 @@
     },
     {
       "source": "blog_huggingface",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "published_at": "2026-10-16T01:44:47+00:00",
@@ -186,6 +202,14 @@
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
       "published_at": "2026-10-15T20:34:01+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "published_at": "2026-10-15T09:08:45+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -223,19 +247,19 @@
     },
     {
       "source": "blog_anthropic",
+      "title": "Anthropic update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "published_at": "2026-10-19T13:19:29+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
+    },
+    {
+      "source": "blog_anthropic",
       "title": "Investing in the public benefit",
       "url": "https://www.anthropic.com/news/public-benefit-fund",
       "published_at": "2026-10-18T18:05:05+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published_at": "2026-10-16T20:30:25+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
     },
     {
       "source": "blog_anthropic",

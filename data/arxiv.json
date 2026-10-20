@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T22:54:38.569601+00:00",
-  "cutoff": "2026-10-15T22:54:37.899612+00:00",
+  "generated_at": "2026-10-20T00:13:33.896973+00:00",
+  "cutoff": "2026-10-17T00:11:17.269156+00:00",
   "window_hours": 72,
   "items": [],
-  "error": "empty-after-filter: api_entries=120 dropped_old=120 cutoff=2026-10-15T22:54:37.899612+00:00"
+  "error": "ReadTimeout: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=60)"
 }
