@@ -1,34 +1,50 @@
 {
-  "generated_at": "2026-10-20T00:11:17.160662+00:00",
-  "cutoff": "2026-10-13T00:11:13.934458+00:00",
+  "generated_at": "2026-10-20T23:43:13.207749+00:00",
+  "cutoff": "2026-10-13T23:43:06.944449+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 5
+      "count": 2
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 9
+      "count": 12
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 6
+      "count": 15
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "published_at": "2026-10-20T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments."
+    },
     {
       "source": "blog_openai",
       "title": "Advancing coding in low‑resource programming languages",
@@ -47,19 +63,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-    },
-    {
-      "source": "blog_openai",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "published_at": "2026-10-16T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     },
     {
       "source": "blog_openai",
@@ -126,14 +142,6 @@
       "lead_paragraph": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
     },
     {
-      "source": "blog_openai",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published_at": "2026-10-13T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -150,26 +158,50 @@
       "lead_paragraph": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "published_at": "2026-10-13T19:43:07+00:00",
+      "source": "blog_huggingface",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "published_at": "2026-10-20T18:17:47+00:00",
       "author": "",
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "published_at": "2026-10-13T16:01:58+00:00",
+      "source": "blog_huggingface",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "published_at": "2026-10-20T16:09:19+00:00",
       "author": "",
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "published_at": "2026-10-13T16:01:52+00:00",
+      "source": "blog_huggingface",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "published_at": "2026-10-20T15:19:48+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "published_at": "2026-10-20T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -178,14 +210,6 @@
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "url": "https://huggingface.co/blog/hf-torchneuron",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "published_at": "2026-10-16T01:44:47+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -230,26 +254,10 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "published_at": "2026-10-14T16:12:42+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "published_at": "2026-10-13T17:05:48+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Anthropic update on independent evaluators",
       "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published_at": "2026-10-19T13:19:29+00:00",
+      "published_at": "2026-10-20T03:29:34+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
     },
@@ -257,41 +265,113 @@
       "source": "blog_anthropic",
       "title": "Investing in the public benefit",
       "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "published_at": "2026-10-18T18:05:05+00:00",
+      "published_at": "2026-10-20T03:29:16+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
     },
     {
       "source": "blog_anthropic",
-      "title": "Offering expanded Claude access across all three branches of government",
-      "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
-      "published_at": "2026-10-15T22:05:58+00:00",
+      "title": "Detecting and preventing distillation attacks",
+      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "published_at": "2026-10-20T03:29:07+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "We are removing barriers to government AI adoption by offering Claude for Enterprise and Claude for Government to all three branches of government, including federal civilian executive branch agencies, as well as legislative and judiciary branches of government, for $1."
+      "lead_paragraph": "We identified coordinated distillation attacks using ~24,000 fraudulent accounts to extract Claude's capabilities."
     },
     {
       "source": "blog_anthropic",
-      "title": "Preparing for the 2026 US midterms",
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
-      "published_at": "2026-10-14T21:01:13+00:00",
+      "title": "Disrupting an AI-orchestrated cyber espionage campaign",
+      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+      "published_at": "2026-10-20T03:28:51+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms."
+      "lead_paragraph": "A report describing a highly sophisticated AI-led cyberattack and how we disrupted it."
     },
     {
       "source": "blog_anthropic",
-      "title": "Singapore office and government MOU | Anthropic",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "published_at": "2026-10-14T08:31:43+00:00",
+      "title": "Strengthening safeguards with US CAISI and UK AISI",
+      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
+      "published_at": "2026-10-19T23:06:33+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption."
+      "lead_paragraph": "Government red-teamers tested Constitutional Classifiers on Claude Opus 4 and 4.1, uncovering vulnerabilities that strengthened our safeguards."
     },
     {
       "source": "blog_anthropic",
-      "title": "Claude discovers a novel enzyme system",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "published_at": "2026-10-13T00:18:23+00:00",
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "published_at": "2026-10-19T23:06:30+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
+      "lead_paragraph": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "published_at": "2026-10-19T23:06:20+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Responsible Scaling Policy Version 3.0",
+      "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+      "published_at": "2026-10-19T23:06:18+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "An update to Anthropic's policy to mitigate catastrophic risks from AI"
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Our compliance framework for California's SB 53",
+      "url": "https://www.anthropic.com/news/compliance-framework-SB53",
+      "published_at": "2026-10-19T23:06:15+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic's Frontier Compliance Framework discloses how we assess and manage catastrophic AI risks under California's Transparency in Frontier AI Act."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Building safeguards for Claude",
+      "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
+      "published_at": "2026-10-19T23:06:08+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "How Anthropic's Safeguards team protects users, from policy and pre-deployment evaluations to real-time classifiers."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic's position on the diffusion rule",
+      "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
+      "published_at": "2026-10-19T23:05:57+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic's recommendations for strengthening US export controls on advanced AI chips and model weights to secure America's compute advantage."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Testing and mitigating elections-related risks",
+      "url": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
+      "published_at": "2026-10-19T23:05:55+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "This blog provides a snapshot of the work we've done since last summer to test our models for elections-related risks."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Claude Gov models for US national security",
+      "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
+      "published_at": "2026-10-19T23:05:53+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Custom Claude models built exclusively for US national security customers, already deployed in classified environments."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Expanding our support for scientists",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "published_at": "2026-10-19T23:05:47+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Introducing Claude for Nonprofits",
+      "url": "https://www.anthropic.com/news/claude-for-nonprofits",
+      "published_at": "2026-10-19T23:05:45+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits."
     }
   ]
 }

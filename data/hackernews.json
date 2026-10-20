@@ -1,217 +1,157 @@
 {
-  "generated_at": "2026-10-20T00:13:44.407549+00:00",
-  "cutoff": "2026-10-19T00:13:33.999560+00:00",
+  "generated_at": "2026-10-20T23:43:29.503452+00:00",
+  "cutoff": "2026-10-19T23:43:17.203190+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50150434,
-      "title": "Timestral: Mistral's time-series foundation models",
-      "score": 531,
-      "by": "groar",
-      "comments": 99,
-      "created_at": "2026-10-19T09:59:32+00:00",
-      "url": "https://mistral.ai/news/timestral/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50150434"
+      "hn_id": 50163277,
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "score": 2094,
+      "by": "ggcr",
+      "comments": 815,
+      "created_at": "2026-10-20T09:08:54+00:00",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "discussion_url": "https://news.ycombinator.com/item?id=50163277"
     },
     {
-      "hn_id": 50153630,
-      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-      "score": 312,
-      "by": "kensai",
-      "comments": 56,
-      "created_at": "2026-10-19T15:28:24+00:00",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50153630"
+      "hn_id": 50167536,
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "score": 402,
+      "by": "AshleysBrain",
+      "comments": 363,
+      "created_at": "2026-10-20T15:06:08+00:00",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "discussion_url": "https://news.ycombinator.com/item?id=50167536"
     },
     {
-      "hn_id": 50150809,
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "score": 240,
-      "by": "gslin",
-      "comments": 76,
-      "created_at": "2026-10-19T10:53:39+00:00",
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "discussion_url": "https://news.ycombinator.com/item?id=50150809"
+      "hn_id": 50165801,
+      "title": "Publish fake stats, get cited in LLMs",
+      "score": 313,
+      "by": "robtherobber",
+      "comments": 179,
+      "created_at": "2026-10-20T13:06:22+00:00",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "discussion_url": "https://news.ycombinator.com/item?id=50165801"
     },
     {
-      "hn_id": 50151036,
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "score": 231,
-      "by": "rzk",
-      "comments": 370,
-      "created_at": "2026-10-19T11:24:34+00:00",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "discussion_url": "https://news.ycombinator.com/item?id=50151036"
-    },
-    {
-      "hn_id": 50155245,
-      "title": "Mercury 3: Diffusion at scale",
-      "score": 214,
-      "by": "cmrdporcupine",
-      "comments": 84,
-      "created_at": "2026-10-19T17:27:11+00:00",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "discussion_url": "https://news.ycombinator.com/item?id=50155245"
-    },
-    {
-      "hn_id": 50148855,
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "score": 148,
-      "by": "ankitg12",
-      "comments": 112,
-      "created_at": "2026-10-19T05:55:31+00:00",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50148855"
-    },
-    {
-      "hn_id": 50153934,
-      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-      "score": 148,
-      "by": "gateauxd",
-      "comments": 124,
-      "created_at": "2026-10-19T15:52:26+00:00",
-      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
-      "discussion_url": "https://news.ycombinator.com/item?id=50153934"
-    },
-    {
-      "hn_id": 50151928,
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "score": 145,
-      "by": "erikkannike",
-      "comments": 107,
-      "created_at": "2026-10-19T13:00:47+00:00",
-      "url": "https://100toolkit.com/blog/deslop-model/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50151928"
-    },
-    {
-      "hn_id": 50151376,
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "score": 129,
-      "by": "1vuio0pswjnm7",
-      "comments": 99,
-      "created_at": "2026-10-19T12:06:03+00:00",
-      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "discussion_url": "https://news.ycombinator.com/item?id=50151376"
-    },
-    {
-      "hn_id": 50147462,
-      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-      "score": 101,
-      "by": "Stratoscope",
-      "comments": 82,
-      "created_at": "2026-10-19T01:56:39+00:00",
-      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50147462"
-    },
-    {
-      "hn_id": 50153664,
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "score": 69,
-      "by": "yzydserd",
-      "comments": 67,
-      "created_at": "2026-10-19T15:31:34+00:00",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "discussion_url": "https://news.ycombinator.com/item?id=50153664"
-    },
-    {
-      "hn_id": 50154029,
-      "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-      "score": 44,
-      "by": "skull8888888",
-      "comments": 22,
-      "created_at": "2026-10-19T16:00:18+00:00",
-      "url": "https://news.ycombinator.com/item?id=50154029",
-      "discussion_url": "https://news.ycombinator.com/item?id=50154029"
-    },
-    {
-      "hn_id": 50152466,
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "score": 41,
-      "by": "laginimaineb",
-      "comments": 21,
-      "created_at": "2026-10-19T13:47:56+00:00",
-      "url": "https://heymaxwell.ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50152466"
-    },
-    {
-      "hn_id": 50155907,
-      "title": "Introducing Clairic, a new System One class of extraction models",
-      "score": 40,
-      "by": "shishy",
-      "comments": 3,
-      "created_at": "2026-10-19T18:18:33+00:00",
-      "url": "https://blog.cloudflare.com/clairic-extraction-model/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50155907"
-    },
-    {
-      "hn_id": 50153225,
-      "title": "Agentic Monitoring",
-      "score": 27,
-      "by": "bcongdon",
-      "comments": 2,
-      "created_at": "2026-10-19T14:52:04+00:00",
-      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50153225"
-    },
-    {
-      "hn_id": 50152302,
-      "title": "Cairn: Open windows into AI-driven cyber operations",
-      "score": 26,
-      "by": "ragu4u",
-      "comments": 9,
-      "created_at": "2026-10-19T13:35:12+00:00",
-      "url": "https://norforge.com/blog/inside_cairn",
-      "discussion_url": "https://news.ycombinator.com/item?id=50152302"
-    },
-    {
-      "hn_id": 50156332,
-      "title": "Towards Company World Models",
-      "score": 23,
-      "by": "rafaelc",
-      "comments": 4,
-      "created_at": "2026-10-19T18:51:09+00:00",
-      "url": "https://www.beaconholdings.com/research/towards-company-world-models",
-      "discussion_url": "https://news.ycombinator.com/item?id=50156332"
-    },
-    {
-      "hn_id": 50154982,
-      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-      "score": 18,
+      "hn_id": 50165484,
+      "title": "NixOS is making me less afraid",
+      "score": 160,
       "by": "ibobev",
+      "comments": 105,
+      "created_at": "2026-10-20T12:43:05+00:00",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "discussion_url": "https://news.ycombinator.com/item?id=50165484"
+    },
+    {
+      "hn_id": 50170021,
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "score": 86,
+      "by": "artninja1988",
+      "comments": 57,
+      "created_at": "2026-10-20T17:48:29+00:00",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "discussion_url": "https://news.ycombinator.com/item?id=50170021"
+    },
+    {
+      "hn_id": 50171966,
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "score": 80,
+      "by": "throwa356262",
+      "comments": 44,
+      "created_at": "2026-10-20T20:09:46+00:00",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50171966"
+    },
+    {
+      "hn_id": 50171771,
+      "title": "On AI writing",
+      "score": 76,
+      "by": "dbolkunov",
+      "comments": 51,
+      "created_at": "2026-10-20T19:55:11+00:00",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "discussion_url": "https://news.ycombinator.com/item?id=50171771"
+    },
+    {
+      "hn_id": 50167604,
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "score": 52,
+      "by": "abdullahalharir",
+      "comments": 6,
+      "created_at": "2026-10-20T15:10:54+00:00",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
+      "discussion_url": "https://news.ycombinator.com/item?id=50167604"
+    },
+    {
+      "hn_id": 50167583,
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "score": 40,
+      "by": "Andydy25",
+      "comments": 16,
+      "created_at": "2026-10-20T15:09:29+00:00",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "discussion_url": "https://news.ycombinator.com/item?id=50167583"
+    },
+    {
+      "hn_id": 50168600,
+      "title": "DHS Claimed It Searched GrapheneOS Phone Wiper for Child Abuse Material. It Lied",
+      "score": 37,
+      "by": "cdrnsf",
+      "comments": 6,
+      "created_at": "2026-10-20T16:13:35+00:00",
+      "url": "https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50168600"
+    },
+    {
+      "hn_id": 50168983,
+      "title": "Gemini 4 Argon is now available for everyone",
+      "score": 17,
+      "by": "ulrischa",
       "comments": 4,
-      "created_at": "2026-10-19T17:09:45+00:00",
-      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50154982"
+      "created_at": "2026-10-20T16:36:24+00:00",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50168983"
     },
     {
-      "hn_id": 50152976,
-      "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+      "hn_id": 50173557,
+      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
       "score": 16,
-      "by": "rafaeldavidtin",
-      "comments": 1,
-      "created_at": "2026-10-19T14:31:27+00:00",
-      "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-      "discussion_url": "https://news.ycombinator.com/item?id=50152976"
+      "by": "koolba",
+      "comments": 9,
+      "created_at": "2026-10-20T22:27:07+00:00",
+      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+      "discussion_url": "https://news.ycombinator.com/item?id=50173557"
     },
     {
-      "hn_id": 50158360,
-      "title": "Hetzner object storage outage since last 10 days in HEL data center",
-      "score": 14,
-      "by": "rakibtg",
-      "comments": 1,
-      "created_at": "2026-10-19T21:33:26+00:00",
-      "url": "https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3",
-      "discussion_url": "https://news.ycombinator.com/item?id=50158360"
+      "hn_id": 50169506,
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "score": 12,
+      "by": "mdahardy",
+      "comments": 0,
+      "created_at": "2026-10-20T17:10:31+00:00",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50169506"
     },
     {
-      "hn_id": 50159245,
-      "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
-      "score": 5,
-      "by": "chatmasta",
+      "hn_id": 50172793,
+      "title": "How to Migrate from Gmail to Proton Mail",
+      "score": 11,
+      "by": "simonebrunozzi",
+      "comments": 0,
+      "created_at": "2026-10-20T21:16:37+00:00",
+      "url": "https://proton.me/support/switch-from-gmail-to-proton",
+      "discussion_url": "https://news.ycombinator.com/item?id=50172793"
+    },
+    {
+      "hn_id": 50167533,
+      "title": "In-memory privacy shield to prevent context leaks in MCP tools",
+      "score": 9,
+      "by": "jvonb",
       "comments": 1,
-      "created_at": "2026-10-19T23:08:52+00:00",
-      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-      "discussion_url": "https://news.ycombinator.com/item?id=50159245"
+      "created_at": "2026-10-20T15:05:53+00:00",
+      "url": "https://github.com/rohan-protocol/sdk",
+      "discussion_url": "https://news.ycombinator.com/item?id=50167533"
     }
   ]
 }
