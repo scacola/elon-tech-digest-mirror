@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-20T23:43:13.207749+00:00",
-  "cutoff": "2026-10-13T23:43:06.944449+00:00",
+  "generated_at": "2026-10-21T23:58:53.598754+00:00",
+  "cutoff": "2026-10-14T23:58:47.587386+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 14
+      "count": 18
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 12
+      "count": 14
     },
     {
       "source": "blog_anthropic",
@@ -31,11 +31,83 @@
   "items": [
     {
       "source": "blog_openai",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "published_at": "2026-10-21T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+    },
+    {
+      "source": "blog_openai",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+    },
+    {
+      "source": "blog_openai",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "published_at": "2026-10-21T04:50:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
+    },
+    {
+      "source": "blog_openai",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "url": "https://openai.com/index/ted-taylor-restaurant",
       "published_at": "2026-10-20T10:00:00+00:00",
       "author": "",
       "lead_paragraph": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
     },
     {
       "source": "blog_openai",
@@ -63,19 +135,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
-    },
-    {
-      "source": "blog_openai",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "published_at": "2026-10-16T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
       "source": "blog_openai",
@@ -102,46 +174,6 @@
       "lead_paragraph": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
     },
     {
-      "source": "blog_openai",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "published_at": "2026-10-14T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
-      "source": "blog_openai",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "published_at": "2026-10-14T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
-    },
-    {
-      "source": "blog_openai",
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "published_at": "2026-10-14T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -150,18 +182,34 @@
       "lead_paragraph": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "published_at": "2026-10-14T02:00:14+00:00",
+      "source": "blog_huggingface",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published_at": "2026-10-21T18:26:30+00:00",
       "author": "",
-      "lead_paragraph": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "published_at": "2026-10-20T18:17:47+00:00",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published_at": "2026-10-21T17:35:36+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published_at": "2026-10-21T16:04:43+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published_at": "2026-10-21T14:58:18+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -223,14 +271,6 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "published_at": "2026-10-15T20:34:01+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
       "title": "Apertus 1.5 Release Notes",
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "published_at": "2026-10-15T09:08:45+00:00",
@@ -255,19 +295,35 @@
     },
     {
       "source": "blog_anthropic",
-      "title": "Anthropic update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published_at": "2026-10-20T03:29:34+00:00",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "published_at": "2026-10-21T19:53:59+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "published_at": "2026-10-21T18:22:03+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government o"
     },
     {
       "source": "blog_anthropic",
       "title": "Investing in the public benefit",
       "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "published_at": "2026-10-20T03:29:16+00:00",
+      "published_at": "2026-10-21T11:37:13+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "published_at": "2026-10-20T03:29:34+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
     },
     {
       "source": "blog_anthropic",
@@ -356,22 +412,6 @@
       "published_at": "2026-10-19T23:05:53+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Custom Claude models built exclusively for US national security customers, already deployed in classified environments."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Expanding our support for scientists",
-      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "published_at": "2026-10-19T23:05:47+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Introducing Claude for Nonprofits",
-      "url": "https://www.anthropic.com/news/claude-for-nonprofits",
-      "published_at": "2026-10-19T23:05:45+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits."
     }
   ]
 }
