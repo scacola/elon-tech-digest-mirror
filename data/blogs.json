@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T23:58:53.598754+00:00",
-  "cutoff": "2026-10-14T23:58:47.587386+00:00",
+  "generated_at": "2026-10-22T23:57:10.094088+00:00",
+  "cutoff": "2026-10-15T23:57:04.113879+00:00",
   "window_days": 7,
   "attempted": [
     {
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 14
+      "count": 12
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,22 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Fast, focused, low-cost decisions for any application."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+    },
     {
       "source": "blog_openai",
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -76,6 +92,14 @@
       "published_at": "2026-10-21T04:50:00+00:00",
       "author": "",
       "lead_paragraph": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
     },
     {
       "source": "blog_openai",
@@ -150,36 +174,36 @@
       "lead_paragraph": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
-      "source": "blog_openai",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "published_at": "2026-10-15T19:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published_at": "2026-10-15T13:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
-    },
-    {
       "source": "blog_deepmind",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "published_at": "2026-10-15T16:08:03+00:00",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published_at": "2026-10-22T14:30:24+00:00",
       "author": "",
-      "lead_paragraph": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+      "lead_paragraph": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published_at": "2026-10-22T22:24:34+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "published_at": "2026-10-22T16:11:31+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "published_at": "2026-10-22T07:51:31+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -210,22 +234,6 @@
       "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
       "published_at": "2026-10-21T14:58:18+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "published_at": "2026-10-20T16:09:19+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "published_at": "2026-10-20T15:19:48+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -270,28 +278,20 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "published_at": "2026-10-15T09:08:45+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Open call for guest investigators in the life sciences",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "published_at": "2026-10-22T21:59:15+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "published_at": "2026-10-22T17:48:51+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "blog_anthropic",
@@ -396,22 +396,6 @@
       "published_at": "2026-10-19T23:05:57+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic's recommendations for strengthening US export controls on advanced AI chips and model weights to secure America's compute advantage."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Testing and mitigating elections-related risks",
-      "url": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
-      "published_at": "2026-10-19T23:05:55+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "This blog provides a snapshot of the work we've done since last summer to test our models for elections-related risks."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Claude Gov models for US national security",
-      "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
-      "published_at": "2026-10-19T23:05:53+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Custom Claude models built exclusively for US national security customers, already deployed in classified environments."
     }
   ]
 }
