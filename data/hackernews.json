@@ -1,157 +1,127 @@
 {
-  "generated_at": "2026-10-23T23:49:00.355619+00:00",
-  "cutoff": "2026-10-22T23:48:45.435311+00:00",
+  "generated_at": "2026-10-24T23:01:52.282175+00:00",
+  "cutoff": "2026-10-23T23:01:40.255661+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50205934,
-      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-      "score": 410,
-      "by": "robtherobber",
-      "comments": 432,
-      "created_at": "2026-10-23T08:21:29+00:00",
-      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50205934"
+      "hn_id": 50224463,
+      "title": "No signs of AI payoff outside the tech sector",
+      "score": 407,
+      "by": "the-mitr",
+      "comments": 375,
+      "created_at": "2026-10-24T19:47:19+00:00",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "discussion_url": "https://news.ycombinator.com/item?id=50224463"
     },
     {
-      "hn_id": 50214218,
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "score": 222,
-      "by": "JustSkyfall",
-      "comments": 104,
-      "created_at": "2026-10-23T19:34:15+00:00",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "discussion_url": "https://news.ycombinator.com/item?id=50214218"
+      "hn_id": 50223647,
+      "title": "Why is AI generated language so hard to understand?",
+      "score": 137,
+      "by": "canjobear",
+      "comments": 134,
+      "created_at": "2026-10-24T18:04:57+00:00",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "discussion_url": "https://news.ycombinator.com/item?id=50223647"
     },
     {
-      "hn_id": 50213925,
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "score": 182,
-      "by": "dsr12",
-      "comments": 76,
-      "created_at": "2026-10-23T19:09:54+00:00",
-      "url": "https://block.xyz/dessa",
-      "discussion_url": "https://news.ycombinator.com/item?id=50213925"
-    },
-    {
-      "hn_id": 50214416,
-      "title": "Securing our frontier model training environment",
-      "score": 61,
-      "by": "pretext",
-      "comments": 71,
-      "created_at": "2026-10-23T19:50:56+00:00",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50214416"
-    },
-    {
-      "hn_id": 50207620,
-      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "score": 55,
-      "by": "jreynar",
-      "comments": 53,
-      "created_at": "2026-10-23T12:02:53+00:00",
-      "url": "https://www.thisandthat.chat/enron/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50207620"
-    },
-    {
-      "hn_id": 50212507,
-      "title": "Air Purifiers as White Noise Machines",
-      "score": 47,
-      "by": "luu",
-      "comments": 63,
-      "created_at": "2026-10-23T17:28:36+00:00",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "discussion_url": "https://news.ycombinator.com/item?id=50212507"
-    },
-    {
-      "hn_id": 50214185,
-      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-      "score": 29,
-      "by": "njx",
+      "hn_id": 50217683,
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "score": 133,
+      "by": "amichail",
       "comments": 26,
-      "created_at": "2026-10-23T19:31:36+00:00",
-      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-      "discussion_url": "https://news.ycombinator.com/item?id=50214185"
+      "created_at": "2026-10-24T01:53:10+00:00",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "discussion_url": "https://news.ycombinator.com/item?id=50217683"
     },
     {
-      "hn_id": 50214983,
-      "title": "A whirlwind tour of systemd-nspawn containers",
+      "hn_id": 50220204,
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "score": 93,
+      "by": "TangerineDream",
+      "comments": 49,
+      "created_at": "2026-10-24T11:18:54+00:00",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50220204"
+    },
+    {
+      "hn_id": 50222525,
+      "title": "Neural chip decodes interactions between brain regions",
+      "score": 78,
+      "by": "giuliomagnifico",
+      "comments": 26,
+      "created_at": "2026-10-24T15:57:17+00:00",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50222525"
+    },
+    {
+      "hn_id": 50223752,
+      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "score": 37,
+      "by": "ersinesen",
+      "comments": 8,
+      "created_at": "2026-10-24T18:19:05+00:00",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "discussion_url": "https://news.ycombinator.com/item?id=50223752"
+    },
+    {
+      "hn_id": 50222283,
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "score": 27,
+      "by": "tokepi",
+      "comments": 19,
+      "created_at": "2026-10-24T15:35:17+00:00",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50222283"
+    },
+    {
+      "hn_id": 50221213,
+      "title": "2k Boeing 737s Must Get Tail Inspections After Jets Pitched Up&Down Mid-Flight",
       "score": 21,
-      "by": "ibobev",
-      "comments": 4,
-      "created_at": "2026-10-23T20:37:12+00:00",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50214983"
+      "by": "firesteelrain",
+      "comments": 10,
+      "created_at": "2026-10-24T13:51:17+00:00",
+      "url": "https://simpleflying.com/nearly-2000-boeing-737-tail-inspections-faa/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50221213"
     },
     {
-      "hn_id": 50209939,
-      "title": "An alignment assessment of the UK AISI cybertesting incident",
-      "score": 16,
-      "by": "olwmc",
+      "hn_id": 50225748,
+      "title": "Argus – a free, open-source agentic security operations platform – MIT",
+      "score": 15,
+      "by": "humxn",
       "comments": 3,
-      "created_at": "2026-10-23T14:44:50+00:00",
-      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-      "discussion_url": "https://news.ycombinator.com/item?id=50209939"
+      "created_at": "2026-10-24T21:54:16+00:00",
+      "url": "https://thomasunise.com/argus",
+      "discussion_url": "https://news.ycombinator.com/item?id=50225748"
     },
     {
-      "hn_id": 50213277,
-      "title": "Brokerage Firms Want to Yank Away Your Investor Protections",
-      "score": 14,
-      "by": "JumpCrisscross",
+      "hn_id": 50222826,
+      "title": "Progressive disclosure in agents to make them 2.3x faster",
+      "score": 10,
+      "by": "suchintan",
+      "comments": 0,
+      "created_at": "2026-10-24T16:30:58+00:00",
+      "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50222826"
+    },
+    {
+      "hn_id": 50222061,
+      "title": "DetectorScope: AI text detectors that show their work",
+      "score": 7,
+      "by": "wondersky",
       "comments": 2,
-      "created_at": "2026-10-23T18:21:23+00:00",
-      "url": "https://www.wsj.com/finance/investing/brokerage-firms-want-to-yank-away-your-investor-protections-b9fddd88",
-      "discussion_url": "https://news.ycombinator.com/item?id=50213277"
+      "created_at": "2026-10-24T15:13:07+00:00",
+      "url": "https://github.com/google-deepmind/detectorscope",
+      "discussion_url": "https://news.ycombinator.com/item?id=50222061"
     },
     {
-      "hn_id": 50211031,
-      "title": "Agents fail like engineers, so I review them like engineers",
-      "score": 11,
-      "by": "Azkar",
-      "comments": 3,
-      "created_at": "2026-10-23T15:53:17+00:00",
-      "url": "https://blog.greenflagged.dev/posts/agents-fail-like-engineers/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50211031"
-    },
-    {
-      "hn_id": 50214373,
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "score": 9,
-      "by": "eiopa",
-      "comments": 0,
-      "created_at": "2026-10-23T19:46:38+00:00",
-      "url": "https://corgi.computer/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50214373"
-    },
-    {
-      "hn_id": 50215398,
-      "title": "AI is devastating higher education, but the system was broken",
-      "score": 6,
-      "by": "pseudolus",
-      "comments": 0,
-      "created_at": "2026-10-23T21:11:59+00:00",
-      "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
-      "discussion_url": "https://news.ycombinator.com/item?id=50215398"
-    },
-    {
-      "hn_id": 50215950,
-      "title": "AI devours a fifth of companies' IT budgets",
+      "hn_id": 50225485,
+      "title": "Doctors' offices are charging patients 10 times more by claiming to be hospitals",
       "score": 5,
-      "by": "mikelgan",
-      "comments": 1,
-      "created_at": "2026-10-23T22:00:05+00:00",
-      "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50215950"
-    },
-    {
-      "hn_id": 50212981,
-      "title": "Trying Pele as My Hugo Blog Mermaid Renderer",
-      "score": 4,
-      "by": "nmdra",
-      "comments": 0,
-      "created_at": "2026-10-23T18:01:26+00:00",
-      "url": "https://blog.nimendra.online/blog/hugo-mermaid-pele/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50212981"
+      "by": "bookofjoe",
+      "comments": 2,
+      "created_at": "2026-10-24T21:25:03+00:00",
+      "url": "https://www.washingtonpost.com/business/2026/10/24/doctors-offices-are-charging-patients-10-times-more-by-claiming-be-hospitals/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50225485"
     }
   ]
 }
