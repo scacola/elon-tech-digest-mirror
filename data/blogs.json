@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-25T23:07:15.558284+00:00",
-  "cutoff": "2026-10-18T23:07:09.538042+00:00",
+  "generated_at": "2026-10-27T00:18:18.553351+00:00",
+  "cutoff": "2026-10-20T00:18:14.377783+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 19
+      "count": 24
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,72 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 12
+      "count": 8
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 15
+      "count": 9
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published_at": "2026-10-26T14:30:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+    },
+    {
+      "source": "blog_openai",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published_at": "2026-10-26T13:45:00+00:00",
+      "author": "",
+      "lead_paragraph": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+    },
+    {
+      "source": "blog_openai",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "published_at": "2026-10-26T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Bringing fast and capable computer use to everyone"
+    },
     {
       "source": "blog_openai",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -166,22 +222,6 @@
       "lead_paragraph": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
     },
     {
-      "source": "blog_openai",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Beyond tree cover: mapping the world’s forest types",
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -254,36 +294,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "published_at": "2026-10-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "published_at": "2026-10-26T15:04:18+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "blog_anthropic",
@@ -348,62 +364,6 @@
       "published_at": "2026-10-20T03:28:51+00:00",
       "author": "Anthropic",
       "lead_paragraph": "A report describing a highly sophisticated AI-led cyberattack and how we disrupted it."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Strengthening safeguards with US CAISI and UK AISI",
-      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
-      "published_at": "2026-10-19T23:06:33+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Government red-teamers tested Constitutional Classifiers on Claude Opus 4 and 4.1, uncovering vulnerabilities that strengthened our safeguards."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Expanding Project Glasswing",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "published_at": "2026-10-19T23:06:30+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "published_at": "2026-10-19T23:06:20+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Responsible Scaling Policy Version 3.0",
-      "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-      "published_at": "2026-10-19T23:06:18+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "An update to Anthropic's policy to mitigate catastrophic risks from AI"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Our compliance framework for California's SB 53",
-      "url": "https://www.anthropic.com/news/compliance-framework-SB53",
-      "published_at": "2026-10-19T23:06:15+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic's Frontier Compliance Framework discloses how we assess and manage catastrophic AI risks under California's Transparency in Frontier AI Act."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Building safeguards for Claude",
-      "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
-      "published_at": "2026-10-19T23:06:08+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "How Anthropic's Safeguards team protects users, from policy and pre-deployment evaluations to real-time classifiers."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic's position on the diffusion rule",
-      "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
-      "published_at": "2026-10-19T23:05:57+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic's recommendations for strengthening US export controls on advanced AI chips and model weights to secure America's compute advantage."
     }
   ]
 }
