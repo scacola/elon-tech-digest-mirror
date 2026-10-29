@@ -1,34 +1,58 @@
 {
-  "generated_at": "2026-10-28T00:21:23.675427+00:00",
-  "cutoff": "2026-10-21T00:21:19.738015+00:00",
+  "generated_at": "2026-10-29T00:41:46.883260+00:00",
+  "cutoff": "2026-10-22T00:41:43.758563+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 24
+      "count": 19
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 9
+      "count": 6
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 7
+      "count": 4
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published_at": "2026-10-28T13:15:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    },
+    {
+      "source": "blog_openai",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "published_at": "2026-10-28T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How AI might enter the org chart—beneath, beside, and between us."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "published_at": "2026-10-28T09:30:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    },
     {
       "source": "blog_openai",
       "title": "Retell uses OpenAI models to help power 100M monthly calls",
@@ -158,68 +182,12 @@
       "lead_paragraph": "What forward deployed engineering means at OpenAI"
     },
     {
-      "source": "blog_openai",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "published_at": "2026-10-22T00:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "published_at": "2026-10-28T17:00:58+00:00",
       "author": "",
-      "lead_paragraph": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "published_at": "2026-10-21T17:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "published_at": "2026-10-21T21:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-    },
-    {
-      "source": "blog_openai",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "published_at": "2026-10-21T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
-    },
-    {
-      "source": "blog_openai",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "published_at": "2026-10-21T13:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "published_at": "2026-10-21T04:50:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_deepmind",
@@ -236,6 +204,14 @@
       "published_at": "2026-10-22T14:30:24+00:00",
       "author": "",
       "lead_paragraph": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "published_at": "2026-10-28T14:58:17+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -278,38 +254,6 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "published_at": "2026-10-21T18:26:30+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "published_at": "2026-10-21T17:35:36+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "published_at": "2026-10-21T16:04:43+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "published_at": "2026-10-21T14:58:18+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
       "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
@@ -340,30 +284,6 @@
       "published_at": "2026-10-22T17:48:51+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "published_at": "2026-10-21T19:53:59+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "published_at": "2026-10-21T18:22:03+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government o"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Investing in the public benefit",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "published_at": "2026-10-21T11:37:13+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
     }
   ]
 }

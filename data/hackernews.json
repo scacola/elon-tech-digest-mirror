@@ -1,277 +1,117 @@
 {
-  "generated_at": "2026-10-28T00:21:37.437099+00:00",
-  "cutoff": "2026-10-27T00:21:24.602481+00:00",
+  "generated_at": "2026-10-29T00:41:59.059807+00:00",
+  "cutoff": "2026-10-28T00:41:49.115762+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50256985,
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "score": 455,
-      "by": "choult",
-      "comments": 267,
-      "created_at": "2026-10-27T10:27:50+00:00",
-      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50256985"
+      "hn_id": 50272749,
+      "title": "Evidence of a spying operation by ICE against left-wing social movements",
+      "score": 1094,
+      "by": "zzzeek",
+      "comments": 901,
+      "created_at": "2026-10-28T12:49:45+00:00",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50272749"
     },
     {
-      "hn_id": 50260814,
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "score": 437,
-      "by": "car",
-      "comments": 251,
-      "created_at": "2026-10-27T15:28:26+00:00",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50260814"
+      "hn_id": 50276792,
+      "title": "Gemini 4 Carbon",
+      "score": 782,
+      "by": "acossta",
+      "comments": 640,
+      "created_at": "2026-10-28T17:01:23+00:00",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50276792"
     },
     {
-      "hn_id": 50257326,
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "score": 436,
-      "by": "rbanffy",
-      "comments": 201,
-      "created_at": "2026-10-27T11:08:15+00:00",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "discussion_url": "https://news.ycombinator.com/item?id=50257326"
-    },
-    {
-      "hn_id": 50255298,
-      "title": "The Mythical Man-Month in the Age of AI",
-      "score": 427,
-      "by": "ilreb",
-      "comments": 302,
-      "created_at": "2026-10-27T06:25:37+00:00",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "discussion_url": "https://news.ycombinator.com/item?id=50255298"
-    },
-    {
-      "hn_id": 50261819,
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "score": 333,
-      "by": "gumby",
-      "comments": 265,
-      "created_at": "2026-10-27T16:40:15+00:00",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "discussion_url": "https://news.ycombinator.com/item?id=50261819"
-    },
-    {
-      "hn_id": 50261589,
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "score": 231,
-      "by": "dpflan",
-      "comments": 136,
-      "created_at": "2026-10-27T16:25:30+00:00",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "discussion_url": "https://news.ycombinator.com/item?id=50261589"
-    },
-    {
-      "hn_id": 50259406,
-      "title": "Is my data used for model training?",
-      "score": 211,
-      "by": "jonpizza",
-      "comments": 96,
-      "created_at": "2026-10-27T13:56:15+00:00",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "discussion_url": "https://news.ycombinator.com/item?id=50259406"
-    },
-    {
-      "hn_id": 50261784,
-      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "score": 207,
-      "by": "ck2",
-      "comments": 119,
-      "created_at": "2026-10-27T16:38:08+00:00",
-      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50261784"
-    },
-    {
-      "hn_id": 50264857,
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "score": 173,
-      "by": "figmert",
-      "comments": 98,
-      "created_at": "2026-10-27T19:55:21+00:00",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "discussion_url": "https://news.ycombinator.com/item?id=50264857"
-    },
-    {
-      "hn_id": 50264853,
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "score": 150,
-      "by": "Luc",
-      "comments": 92,
-      "created_at": "2026-10-27T19:55:06+00:00",
-      "url": "https://www.brangus.io/survival-llm",
-      "discussion_url": "https://news.ycombinator.com/item?id=50264853"
-    },
-    {
-      "hn_id": 50258868,
-      "title": "Here be monsters: What do you still need to know when agents do the work?",
-      "score": 148,
-      "by": "adrq",
-      "comments": 75,
-      "created_at": "2026-10-27T13:23:22+00:00",
-      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "discussion_url": "https://news.ycombinator.com/item?id=50258868"
-    },
-    {
-      "hn_id": 50265609,
-      "title": "Early progress on accelerating drug development with Claude",
-      "score": 95,
-      "by": "dataking",
-      "comments": 87,
-      "created_at": "2026-10-27T20:50:42+00:00",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "discussion_url": "https://news.ycombinator.com/item?id=50265609"
-    },
-    {
-      "hn_id": 50265594,
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "score": 82,
-      "by": "sthlmb",
-      "comments": 27,
-      "created_at": "2026-10-27T20:48:49+00:00",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50265594"
-    },
-    {
-      "hn_id": 50260714,
-      "title": "JetBrains IDEs are now powered by libghostty",
-      "score": 60,
-      "by": "paaloeye",
-      "comments": 10,
-      "created_at": "2026-10-27T15:22:13+00:00",
-      "url": "https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50260714"
-    },
-    {
-      "hn_id": 50261583,
-      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-      "score": 54,
-      "by": "bigfish2026",
-      "comments": 11,
-      "created_at": "2026-10-27T16:25:12+00:00",
-      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50261583"
-    },
-    {
-      "hn_id": 50262950,
-      "title": "Maine banned phones in schools to help teens focus and connect. It's working",
-      "score": 45,
-      "by": "jethronethro",
-      "comments": 4,
-      "created_at": "2026-10-27T17:46:48+00:00",
-      "url": "https://apnews.com/article/maine-cellphone-ban-positive-changes-83bb538cf45879ce6ab4639c6cc73b7b",
-      "discussion_url": "https://news.ycombinator.com/item?id=50262950"
-    },
-    {
-      "hn_id": 50265413,
-      "title": "Hex Raises $100M",
-      "score": 35,
-      "by": "tomwphillips",
-      "comments": 21,
-      "created_at": "2026-10-27T20:36:38+00:00",
-      "url": "https://hex.tech/blog/hex-new-era/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50265413"
-    },
-    {
-      "hn_id": 50263325,
-      "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
-      "score": 31,
-      "by": "JumpCrisscross",
-      "comments": 7,
-      "created_at": "2026-10-27T18:08:20+00:00",
-      "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-      "discussion_url": "https://news.ycombinator.com/item?id=50263325"
-    },
-    {
-      "hn_id": 50260571,
-      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-      "score": 26,
-      "by": "hleichsenring",
-      "comments": 18,
-      "created_at": "2026-10-27T15:12:20+00:00",
-      "url": "https://spec-first.dev/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50260571"
-    },
-    {
-      "hn_id": 50265960,
-      "title": "One year of Dioxus fullstack in production: the good, the painful",
-      "score": 18,
-      "by": "hauju",
-      "comments": 10,
-      "created_at": "2026-10-27T21:19:15+00:00",
-      "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
-      "discussion_url": "https://news.ycombinator.com/item?id=50265960"
-    },
-    {
-      "hn_id": 50263012,
-      "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
-      "score": 16,
+      "hn_id": 50273396,
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "score": 421,
       "by": "danso",
+      "comments": 466,
+      "created_at": "2026-10-28T13:41:30+00:00",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50273396"
+    },
+    {
+      "hn_id": 50280864,
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "score": 260,
+      "by": "Aboutplants",
+      "comments": 120,
+      "created_at": "2026-10-28T21:03:24+00:00",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50280864"
+    },
+    {
+      "hn_id": 50275626,
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "score": 195,
+      "by": "landonxi",
+      "comments": 120,
+      "created_at": "2026-10-28T15:46:30+00:00",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "discussion_url": "https://news.ycombinator.com/item?id=50275626"
+    },
+    {
+      "hn_id": 50272596,
+      "title": "Two high-speed trains collide near Toledo, Spain",
+      "score": 182,
+      "by": "evilmonkey19",
+      "comments": 202,
+      "created_at": "2026-10-28T12:35:41+00:00",
+      "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "discussion_url": "https://news.ycombinator.com/item?id=50272596"
+    },
+    {
+      "hn_id": 50273731,
+      "title": "The Agent SDK",
+      "score": 92,
+      "by": "torutofu",
+      "comments": 108,
+      "created_at": "2026-10-28T14:02:20+00:00",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "discussion_url": "https://news.ycombinator.com/item?id=50273731"
+    },
+    {
+      "hn_id": 50272479,
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "score": 31,
+      "by": "acossta",
+      "comments": 3,
+      "created_at": "2026-10-28T12:24:25+00:00",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50272479"
+    },
+    {
+      "hn_id": 50279722,
+      "title": "GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up",
+      "score": 21,
+      "by": "theanonymousone",
       "comments": 7,
-      "created_at": "2026-10-27T17:49:47+00:00",
-      "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50263012"
+      "created_at": "2026-10-28T19:41:13+00:00",
+      "url": "https://thenewstack.io/github-7-4b-commits-september/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50279722"
     },
     {
-      "hn_id": 50261584,
-      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-      "score": 14,
-      "by": "saligrama",
-      "comments": 12,
-      "created_at": "2026-10-27T16:25:12+00:00",
-      "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50261584"
+      "hn_id": 50273416,
+      "title": "Decompiling Games with AI: Virtueel Zoetermeer",
+      "score": 13,
+      "by": "bouk",
+      "comments": 2,
+      "created_at": "2026-10-28T13:43:32+00:00",
+      "url": "https://bou.ke/blog/zoetermeer/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50273416"
     },
     {
-      "hn_id": 50266701,
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "score": 12,
-      "by": "matthieu_bl",
-      "comments": 5,
-      "created_at": "2026-10-27T22:23:37+00:00",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "discussion_url": "https://news.ycombinator.com/item?id=50266701"
-    },
-    {
-      "hn_id": 50266764,
-      "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
-      "score": 9,
-      "by": "hn_acker",
+      "hn_id": 50281826,
+      "title": "AI execs may be too out of touch to build for the general public",
+      "score": 8,
+      "by": "pavel_lishin",
       "comments": 0,
-      "created_at": "2026-10-27T22:29:50+00:00",
-      "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
-      "discussion_url": "https://news.ycombinator.com/item?id=50266764"
-    },
-    {
-      "hn_id": 50265205,
-      "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
-      "score": 9,
-      "by": "ledoge",
-      "comments": 1,
-      "created_at": "2026-10-27T20:18:54+00:00",
-      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-      "discussion_url": "https://news.ycombinator.com/item?id=50265205"
-    },
-    {
-      "hn_id": 50267494,
-      "title": "Free daily JSON feed of Shanghai government subsidy notices",
-      "score": 4,
-      "by": "subsidyradar",
-      "comments": 0,
-      "created_at": "2026-10-27T23:46:21+00:00",
-      "url": "https://github.com/ZhongGheart/china-policy-data",
-      "discussion_url": "https://news.ycombinator.com/item?id=50267494"
-    },
-    {
-      "hn_id": 50262407,
-      "title": "Show HN: Agent-relay for multi-vendor coding sessions",
-      "score": 4,
-      "by": "svts",
-      "comments": 0,
-      "created_at": "2026-10-27T17:14:54+00:00",
-      "url": "https://github.com/saranyan/agent-relay",
-      "discussion_url": "https://news.ycombinator.com/item?id=50262407"
+      "created_at": "2026-10-28T22:27:46+00:00",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50281826"
     }
   ]
 }
