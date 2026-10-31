@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T00:42:44.600950+00:00",
-  "cutoff": "2026-10-23T00:42:42.618609+00:00",
+  "generated_at": "2026-10-31T00:35:35.196690+00:00",
+  "cutoff": "2026-10-24T00:35:33.530466+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 18
+      "count": 20
     },
     {
       "source": "blog_deepmind",
@@ -31,6 +31,30 @@
   "items": [
     {
       "source": "blog_openai",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published_at": "2026-10-30T09:30:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    },
+    {
+      "source": "blog_openai",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "url": "https://openai.com/index/updated-model-spec",
       "published_at": "2026-10-29T17:00:00+00:00",
@@ -52,6 +76,14 @@
       "published_at": "2026-10-29T07:00:00+00:00",
       "author": "",
       "lead_paragraph": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
     },
     {
       "source": "blog_openai",
@@ -158,22 +190,6 @@
       "lead_paragraph": "Bringing fast and capable computer use to everyone"
     },
     {
-      "source": "blog_openai",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "published_at": "2026-10-23T17:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "published_at": "2026-10-23T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -188,6 +204,14 @@
       "published_at": "2026-10-27T16:01:38+00:00",
       "author": "",
       "lead_paragraph": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "published_at": "2026-10-30T17:57:24+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -218,14 +242,6 @@
       "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
       "url": "https://huggingface.co/blog/anydecisionmodel",
       "published_at": "2026-10-29T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "published_at": "2026-10-28T14:58:17+00:00",
       "author": "",
       "lead_paragraph": ""
     },
