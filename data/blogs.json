@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T00:00:24.212502+00:00",
-  "cutoff": "2026-10-25T00:00:10.797430+00:00",
+  "generated_at": "2026-11-02T00:26:38.333161+00:00",
+  "cutoff": "2026-10-26T00:26:35.624295+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 20
+      "count": 19
     },
     {
       "source": "blog_deepmind",
@@ -180,14 +180,6 @@
       "published_at": "2026-10-26T07:00:00+00:00",
       "author": "",
       "lead_paragraph": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Bringing fast and capable computer use to everyone"
     },
     {
       "source": "blog_deepmind",
