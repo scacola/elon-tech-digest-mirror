@@ -1,7 +1,539 @@
 {
-  "generated_at": "2026-11-02T00:26:40.878382+00:00",
-  "cutoff": "2026-10-30T00:26:38.438636+00:00",
+  "generated_at": "2026-11-03T02:50:11.371926+00:00",
+  "cutoff": "2026-10-31T02:50:10.861332+00:00",
   "window_hours": 72,
-  "items": [],
-  "error": "empty-after-filter: api_entries=120 dropped_old=120 cutoff=2026-10-30T00:26:38.438636+00:00"
+  "items": [
+    {
+      "arxiv_id": "2611.00633",
+      "title": "Evidence-grounded large language models guide perovskite solar cell design and optimization",
+      "authors": [
+        "YanKai Chen",
+        "Zhi Wan",
+        "ZiHao Li",
+        "Tao Jing"
+      ],
+      "abstract": "Using large language models to interpret experimental evidence, design discriminating experiments and formulate well-supported mechanistic explanations remains a central challenge in materials research. Here we establish PSM-Bench, an 800-question benchmark developed by perovskite researchers to evaluate scientific reasoning in perovskite photovoltaics. We also introduce OpenPerov, an expert-informed language-model framework that learns from expert-calibrated evidence records reconstructed from 4,532 articles; these records link experimental strategies, controls and observations to mechanistic interpretations. Structured-evidence adaptation outperformed conventional question-answer training, and OpenPerov Flash ranked first among 13 closed-book systems. OpenPerov Pro raised Scientific Mast",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T04:57:32Z",
+      "updated_at": "2026-10-31T04:57:32Z",
+      "abs_url": "https://arxiv.org/abs/2611.00633",
+      "pdf_url": "https://arxiv.org/pdf/2611.00633.pdf"
+    },
+    {
+      "arxiv_id": "2611.00631",
+      "title": "TopoQuant: Topological Framework to Characterize Behavioral Shifts in Quantized Large Language Models",
+      "authors": [
+        "Baha Rababah",
+        "Shahzeb Qamar",
+        "Lorenz Sparrenberg",
+        "Rafet Sifa",
+        "Murat Kantarcioglu"
+      ],
+      "abstract": "Post-training quantization (PTQ) reduces the com putational cost of large language models (LLMs), but it can introduce internal structural and behavioral changes that are not captured by traditional metrics such as accuracy and per plexity. We present TopoQuant, a topological framework that uses topological data analysis (TDA) to quantify structural drift in self-attention weights and relate it to behavioral changes in quantized LLMs. Across four LLM families and multiple quantization levels, we show that topological drift remains stable at moderate compression levels but increases sharply below 4 bit precision, closely tracking declines in attention agreement. Our results reveal a strong relationship between topological drift and attention agreement, indicating that structural changes in ",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T04:55:14Z",
+      "updated_at": "2026-10-31T04:55:14Z",
+      "abs_url": "https://arxiv.org/abs/2611.00631",
+      "pdf_url": "https://arxiv.org/pdf/2611.00631.pdf"
+    },
+    {
+      "arxiv_id": "2607.20585",
+      "title": "Machine-Learned Compact Subspace Generation for Quantum Selected Configuration Interaction within Density Matrix Embedding Framework",
+      "authors": [
+        "Ashish Kumar Patra",
+        "Anurag K. S. V.",
+        "Ruchika Bhat",
+        "Sai Shankar P.",
+        "Rahul Maitra"
+      ],
+      "abstract": "Sample-based quantum diagonalization (SQD), an extension of quantum selected configuration interaction (QSCI), is a promising hybrid quantum-classical paradigm for molecular ground-state energies. By replacing variational optimization with quantum sampling, QSCI avoids barren plateaus and directly reconstructs correlated wavefunctions. However, existing configuration recovery mainly enforces symmetry constraints without targeting the most physically relevant configurations, often yielding oversized subspaces and costly classical diagonalization. We introduce QSCI-RBM, a compact subspace generation protocol based on Restricted Boltzmann Machines (RBMs), and integrate it within Density Matrix Embedding Theory (DMET). The RBM learns the distribution of dominant determinants from hardware samp",
+      "primary_category": "quant-ph",
+      "submitted_at": "2026-07-22T12:58:46Z",
+      "updated_at": "2026-10-31T04:53:26Z",
+      "abs_url": "https://arxiv.org/abs/2607.20585",
+      "pdf_url": "https://arxiv.org/pdf/2607.20585.pdf"
+    },
+    {
+      "arxiv_id": "2611.00627",
+      "title": "Autonomous Analysis of Thermoelectric Materials Big Data by Multi-Agentic AI and Construction of a Knowledge Base and Specialized AI",
+      "authors": [
+        "Yusuke Hashimoto",
+        "Takaaki Tomai"
+      ],
+      "abstract": "Extracting knowledge from large databases of experimental materials data requires repeated analyses and reusable records of their choices and results. We developed Multi-Agentic AI (MAA), a multi-agent system in which AI agents with distinct roles analyze experimental thermoelectric data under predefined instructions and quality checks, saving analysis records traceable to their sources. In four experiments varying theme and cycle counts, we measured what accumulated in these records. In the largest experiment (100 analyses across 10 themes and 10 cycles), concept co-occurrences were concentrated within themes, vocabulary was shared across themes and some relation descriptions were first detected in later cycles. A specialized AI that searches this experiment's knowledge bases and reads th",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T04:51:41Z",
+      "updated_at": "2026-10-31T04:51:41Z",
+      "abs_url": "https://arxiv.org/abs/2611.00627",
+      "pdf_url": "https://arxiv.org/pdf/2611.00627.pdf"
+    },
+    {
+      "arxiv_id": "2611.00624",
+      "title": "XLA from the Trenches: Correctness on TPU Workloads at Scale",
+      "authors": [
+        "Ignacio Cano",
+        "Amir Saadat",
+        "Rishipal Singh Bhatia",
+        "Samuel Ginzburg",
+        "Patrick C. Toulme"
+      ],
+      "abstract": "Accelerating modern foundational models has pushed domain-specific compilers toward increasingly complex, multi-tiered optimization pipelines. However, this heavy optimization focus introduces delicate tradeoffs between peak execution performance and correctness. Subtle codegen defects can trigger numerical degradation and memory or buffer corruption, invalidating multi-million-dollar training runs and degrading live serving quality without raising obvious compiler errors. In this paper, we present a battle-tested methodology for verifying and triaging Google's XLA:TPU compiler at hyperscale. We leverage fuzzing techniques, combining synthetic program generation with real production traces, while orchestrating AI agent swarms to autonomously generate stress tests, reproduce failures, and d",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T04:48:13Z",
+      "updated_at": "2026-10-31T04:48:13Z",
+      "abs_url": "https://arxiv.org/abs/2611.00624",
+      "pdf_url": "https://arxiv.org/pdf/2611.00624.pdf"
+    },
+    {
+      "arxiv_id": "2610.00294",
+      "title": "LENS-GRF: Permutation-Invariant Lesion Evidence Network with Gated Residual Fusion for Acne Severity Grading and Multi-Rater Clinical Oracle Analysis",
+      "authors": [
+        "Muhammad Muhtasim Shahriar",
+        "M. F. Mridha",
+        "Md. Rakibul Islam"
+      ],
+      "abstract": "Localized lesion evidence may improve automated acne severity grading, but detector errors and differences in clinical grading criteria can limit generalization. We evaluated LENS-GRF, a lesion evidence network with permutation-invariant aggregation and gated residual fusion that combines a global Vision Transformer with lesion-region embeddings derived from YOLO11s proposals. Fully automated four-class grading was evaluated on 292 held-out ACNE04 images and, without external adaptation, on 200 PLSBRACNE01 participants represented by 600 facial views. Annotation-assisted inference used registered lesion boxes from three dermatologists in a matched subset of 148 participants. Performance measures included accuracy, macro-averaged precision, sensitivity, and one-versus-rest specificity. Pair",
+      "primary_category": "cs.CV",
+      "submitted_at": "2026-09-25T16:52:47Z",
+      "updated_at": "2026-10-31T04:44:45Z",
+      "abs_url": "https://arxiv.org/abs/2610.00294",
+      "pdf_url": "https://arxiv.org/pdf/2610.00294.pdf"
+    },
+    {
+      "arxiv_id": "2611.00621",
+      "title": "Log-Driven Semantic Tuning for Mixed Integer Programming Solvers",
+      "authors": [
+        "Zhengzhong Ricky You",
+        "Kaizhao Sun",
+        "Zeping Min",
+        "Wotao Yin",
+        "Xinshang Wang"
+      ],
+      "abstract": "Automated configuration of mixed-integer programming (MIP) solvers largely relies on black-box optimization. Each trial requires an expensive solver run and provides only a scalar outcome, so tuning can require many such evaluations. Human experts take a different approach. They inspect solver logs, identify performance bottlenecks, and adjust the parameters that address them. We propose Log-Driven Semantic Tuning (LDST), which uses a large language model (LLM) to automate this process. LDST extracts compact diagnostics from solver logs, uses the LLM to propose sparse edits to the current best configuration based on parameter meanings and observed solver behavior, and validates each proposal before execution. A regime-adaptive objective selects the tuning signal according to the informatio",
+      "primary_category": "math.OC",
+      "submitted_at": "2026-10-31T04:43:28Z",
+      "updated_at": "2026-10-31T04:43:28Z",
+      "abs_url": "https://arxiv.org/abs/2611.00621",
+      "pdf_url": "https://arxiv.org/pdf/2611.00621.pdf"
+    },
+    {
+      "arxiv_id": "2611.00620",
+      "title": "Discovering Models for Experimental Quantum Systems with Agentic AI",
+      "authors": [
+        "Hannah C. Kleidermacher",
+        "Bennet Windt",
+        "Miguel Bello",
+        "James Zou",
+        "Jelena Vučković"
+      ],
+      "abstract": "A central obstacle in realizing color center cavity-QED-based quantum technologies is inhomogeneity, or disorder, among individual emitters. As the number of emitters increases, so does the complexity of the experimental data, making it difficult to quantify the present physical mechanisms of disorder. Here we introduce an artificial intelligence-driven model discovery framework in which a large language model (LLM)-based agent, equipped with tools and a structured workflow, proposes candidate Hamiltonian and Lindbladian models, generates computational tools, and quantitatively evaluates competing physical hypotheses. We apply the workflow to three previously published experimental cavity-QED datasets collected from color centers in diamond and silicon carbide. Across the experiments, the ",
+      "primary_category": "quant-ph",
+      "submitted_at": "2026-10-31T04:41:02Z",
+      "updated_at": "2026-10-31T04:41:02Z",
+      "abs_url": "https://arxiv.org/abs/2611.00620",
+      "pdf_url": "https://arxiv.org/pdf/2611.00620.pdf"
+    },
+    {
+      "arxiv_id": "2611.00619",
+      "title": "LM6-CastBench: A Geometry-Aware Simulation Dataset for Transient Thermal Prediction in LM6 Sand Casting",
+      "authors": [
+        "Suhani Kolhatkar",
+        "Anand Khandekar"
+      ],
+      "abstract": "Transient thermal fields during solidification connect casting process conditions and cooling behaviour to the formation of defect-prone regions in aluminum cast ings. Repeatedly solving this thermal problem across geometries and process conditions is computationally expensive, motivating data-driven surrogate models. However, existing machine-learning studies on casting thermal behaviour rely on study-specific simulation databases that do not support reproducible geometry-level benchmarking. We introduce LM6-CastBench, an open simulation dataset for geometry-aware learning of transient thermal fields in LM6 aluminum sand casting, combining three geometry families, ten variants per family, five pouring tempera tures, and three mould temperatures (450 geometry-process cases in total). Each ",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T04:39:06Z",
+      "updated_at": "2026-10-31T04:39:06Z",
+      "abs_url": "https://arxiv.org/abs/2611.00619",
+      "pdf_url": "https://arxiv.org/pdf/2611.00619.pdf"
+    },
+    {
+      "arxiv_id": "2611.00616",
+      "title": "Enhancing Language Model Reasoning with Structured Multi-Level Modeling",
+      "authors": [
+        "Siheng Xiong",
+        "Ali Payani",
+        "Faramarz Fekri"
+      ],
+      "abstract": "Inference-time scaling enhances a model's reasoning by extending its chain-of-thought (CoT). However, existing approaches typically rely on a single policy trained with outcome-reward reinforcement learning (RL), which often suffers from long-horizon plan failures where the implicit plan drifts from valid strategies, especially for small LMs with limited capacity. To address this, we propose Multi-Level Reasoning (MLR), which reformulates long-CoT generation as a two-level stochastic process. A high-level planner generates structured step descriptors specifying both the reasoning mode and the semantic subgoal. The low-level executor then produces detailed reasoning conditioned on these descriptors, forming an alternating plan--execute loop. To maintain scalability, we adopt a minimal desig",
+      "primary_category": "cs.CL",
+      "submitted_at": "2026-10-31T04:33:35Z",
+      "updated_at": "2026-10-31T04:33:35Z",
+      "abs_url": "https://arxiv.org/abs/2611.00616",
+      "pdf_url": "https://arxiv.org/pdf/2611.00616.pdf"
+    },
+    {
+      "arxiv_id": "2611.00615",
+      "title": "Learning from an Imitable Teacher: Competition Solution for the MetaFine Challenge",
+      "authors": [
+        "Yanze Zhang",
+        "Hao Liu",
+        "Haochang Hao",
+        "Zhixiang Shen",
+        "Chunyu Miao"
+      ],
+      "abstract": "The MetaFine Open Competition (RoboFineMani workshop, CoRL 2026) evaluates fine-grained manipulation beyond binary success. Its five simulated tasks, from grasping a bottle by an instructed part to inserting letter-shaped pegs with 4 mm clearance, are scored on perception under lighting and camera changes, instruction understanding, and behavior. This report presents Team Friday's solution, which got second place with an overall score of 0.947, more than twice the $π_0$ baseline. Instead of fine-tuning a large vision-language-action (VLA) model, we train one 19M-parameter policy per task with a separate instruction classifier and focus on the data, all generated in the simulator by a privileged scripted teacher, including its corrections of the student's mistakes. By analyzing failed episo",
+      "primary_category": "cs.RO",
+      "submitted_at": "2026-10-31T04:33:26Z",
+      "updated_at": "2026-10-31T04:33:26Z",
+      "abs_url": "https://arxiv.org/abs/2611.00615",
+      "pdf_url": "https://arxiv.org/pdf/2611.00615.pdf"
+    },
+    {
+      "arxiv_id": "2608.14375",
+      "title": "Wrong but Useful: Trajectory Value Beyond Answer Correctness in Multi-Agent Messages",
+      "authors": [
+        "Chih-Hsuan Yang",
+        "Anjir Ahmed Chowdhury",
+        "Cheng-Hau Yang",
+        "Weijian Zheng",
+        "Fernando Llorente"
+      ],
+      "abstract": "A solution can end with a wrong answer and still help another solver. In multi-agent reasoning, evaluating only a message's proposed answer can therefore miss its contribution to the receiver. We measure this contribution as trajectory value: the change in a fixed integrator's probability of answering correctly when a cached message is present rather than removed. Controlled replay across five benchmarks and two model families separates message effects from identical-input variation. The strongest evidence is for Gemma: in a pre-registered fresh-call re-test, 34 of 73 selected wrong-answer messages pass individual confirmation, exceeding control-calibrated upper bounds on expected false confirmations of 11.4--20.8. The finding is benchmark-dependent and the conservative criterion no longer",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-08-14T15:16:57Z",
+      "updated_at": "2026-10-31T04:29:01Z",
+      "abs_url": "https://arxiv.org/abs/2608.14375",
+      "pdf_url": "https://arxiv.org/pdf/2608.14375.pdf"
+    },
+    {
+      "arxiv_id": "2505.03397",
+      "title": "Quantum Feature Space of a Qubit Coupled to a Classical Stochastic Environment",
+      "authors": [
+        "Chris Wise",
+        "Akram Youssry",
+        "Alberto Peruzzo",
+        "Jo Plested",
+        "Matt Woolley"
+      ],
+      "abstract": "Qubit control protocols traditionally characterise qubit-environment coupling using resource-intensive pulse sweeps on quantum hardware. Although previous work attempted to reduce this quantum runtime by inferring noise operators, it relied on a complex grey-box approach combining deep neural networks with physics-encoded layers, posing challenges in training and scaling. Here, we introduce a \\textit{quantum feature space} (QFS, denoted $\\mathcal{F}$) constructed from a single pulse sequence. By engineering $\\mathcal{F}$ to encode qubit-environment dynamics, we eliminate the need for expensive neural networks to learn these physical interactions. This allows us to offload extraction of spectral features to efficient classical machine learning algorithms. Bypassing both the extensive pulse ",
+      "primary_category": "quant-ph",
+      "submitted_at": "2025-05-06T10:25:50Z",
+      "updated_at": "2026-10-31T04:24:11Z",
+      "abs_url": "https://arxiv.org/abs/2505.03397",
+      "pdf_url": "https://arxiv.org/pdf/2505.03397.pdf"
+    },
+    {
+      "arxiv_id": "2611.00614",
+      "title": "ECG2Gene: Deep Learning-Based Germline Tumor Susceptibility Gene Risk Assessment Using Electrocardiograms",
+      "authors": [
+        "Shanwei Zhang",
+        "Qinghao Zhao",
+        "Yize Zhao",
+        "Jun Li",
+        "Yongchao Long"
+      ],
+      "abstract": "Electrocardiograms (ECGs) may contain physiological information related to hereditary cancer susceptibility, but its relationship with future cancer risk remains unclear. Here, we present ECG2Gene, a two-stage deep-learning framework that derives digital phenotypes related to germline tumor susceptibility from routine 12-lead ECGs and predicts future cancer risk. In Stage 1, carrier status for pathogenic or likely pathogenic variants in ATM, BRIP1, CHEK2, PALB2, BRCA1, and BRCA2 supervises a multitask model that generates six continuous ECG-derived gene scores. In Stage 2, XGBoost integrates these scores with clinical variables to predict subsequent breast and ovarian cancer in women and prostate cancer in men. We also introduce ECG-Wide Association Analysis (EWAS) to characterize associat",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-31T04:17:49Z",
+      "updated_at": "2026-10-31T04:17:49Z",
+      "abs_url": "https://arxiv.org/abs/2611.00614",
+      "pdf_url": "https://arxiv.org/pdf/2611.00614.pdf"
+    },
+    {
+      "arxiv_id": "2611.00612",
+      "title": "Roz: A Taste Test for World Model Latents",
+      "authors": [
+        "Kenneth Ge",
+        "Dhruv Sheth",
+        "Kunvar Thaman"
+      ],
+      "abstract": "State of the art latent dynamics world models achieve impressive performance for robot planning. But do they actually encode the physics of the world?   In this paper, we show that popular world models today achieve strong results on tasks that reduce to image similarity but forget key details about objects in the scene like mass, deformation, friction, and bounciness. We achieve this by defining precisely what ought to be encoded in such a world model and introducing two new evaluation methods that can directly tease physical properties and easily scale to new ones. Our evaluation, which we call Roz, includes 10 contrastive tasks and 3 continuous tasks, totaling 1734 individual scenarios. We validate our eval on control tasks. On our own model, AnonWM, we find that performance roughly imp",
+      "primary_category": "cs.RO",
+      "submitted_at": "2026-10-31T04:14:53Z",
+      "updated_at": "2026-10-31T04:14:53Z",
+      "abs_url": "https://arxiv.org/abs/2611.00612",
+      "pdf_url": "https://arxiv.org/pdf/2611.00612.pdf"
+    },
+    {
+      "arxiv_id": "2611.00610",
+      "title": "Trail: Accurate Local Smart Home Control Using Decision Models",
+      "authors": [
+        "Maleeha Masood",
+        "Deepak Vasisht",
+        "Indranil Gupta"
+      ],
+      "abstract": "Natural-language driven smart home control remains challenging: cloud-hosted Large Language Models (LLMs) raise privacy concerns, while local Small Language Models (SLMs) can generate invalid actions or misinterpret requests. We introduce Trail (Typed Registry-Anchored Inference for Language commands in Smart Homes), a fully local framework that replaces open-ended command generation with hierarchical typed decisions. Trail exploits the natural structure of a home's action space, selecting a room, device, and operation from candidates derived from the runtime device registry. This ensures valid actions while enabling confidence-based abstention when requests cannot be reliably resolved. We also design a structured memory module that uses typed decisions to support user preferences, device ",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T04:13:21Z",
+      "updated_at": "2026-10-31T04:13:21Z",
+      "abs_url": "https://arxiv.org/abs/2611.00610",
+      "pdf_url": "https://arxiv.org/pdf/2611.00610.pdf"
+    },
+    {
+      "arxiv_id": "2611.00608",
+      "title": "Words Before Pixels: Selective Modality Routing for Vision-Language Model Unlearning",
+      "authors": [
+        "Laura Yao",
+        "Haochen Zhang",
+        "Jinhao Duan",
+        "Sijia Liu",
+        "Tianlong Chen"
+      ],
+      "abstract": "Vision-language model (VLM) unlearning is often treated as an objective-design problem: given multimodal forget data, the goal is to optimize a loss that removes undesirable behavior while preserving retained capabilities. We argue that this view overlooks an equally important data-centric question: how should each forget example be represented before optimization? Existing methods typically keep image-conditioned failures in their original image-text form, implicitly assuming that pixels are the right route for unlearning whenever pixels appear in the input. We challenge this assumption by constructing modality-decomposed versions of VLM benchmarks, enabling controlled comparisons among image-only, text-only, and multimodal representations of the same examples. Our modality-mixing experim",
+      "primary_category": "cs.CV",
+      "submitted_at": "2026-10-31T04:09:27Z",
+      "updated_at": "2026-10-31T04:09:27Z",
+      "abs_url": "https://arxiv.org/abs/2611.00608",
+      "pdf_url": "https://arxiv.org/pdf/2611.00608.pdf"
+    },
+    {
+      "arxiv_id": "2611.00606",
+      "title": "Sparse Autoencoder Attribution Graphs Are Decided at the Margin",
+      "authors": [
+        "Karl Li"
+      ],
+      "abstract": "Attribution graphs over the features of sparse autoencoders (SAEs) are used to predict what an ablation does and are compared across training seeds. A TopK SAE keeps the largest preactivations at each token, and a feature's margin is its preactivation's distance to the cutoff. On five public TopK SAE pairs from three Pythia models, zeroing one feature moves a next layer feature across the cutoff in 0.74 of cases or more, and the crossings carry most of the response's energy. Over writes that scale a feature's code by three factors, the graph built on the features active beforehand has a median relative error of 0.247 or more. The margin graph adds the first order change to every preactivation and reranks, at the same cost, and errs by at most 0.033. At the median, the crossing features' de",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-31T04:03:14Z",
+      "updated_at": "2026-10-31T04:03:14Z",
+      "abs_url": "https://arxiv.org/abs/2611.00606",
+      "pdf_url": "https://arxiv.org/pdf/2611.00606.pdf"
+    },
+    {
+      "arxiv_id": "2611.00605",
+      "title": "Conversational Interaction for LLM-Based Clinical Text-to-SQL: A User Study with Healthcare Professionals",
+      "authors": [
+        "Jun-Min Lee",
+        "Suyoung Yoo",
+        "Gyubok Lee",
+        "Edward Choi",
+        "Meong Hi Son"
+      ],
+      "abstract": "Conversational text-to-SQL interfaces could give healthcare professionals natural-language access to electronic health record (EHR) data, but evidence for their real-world usability remains limited: prior evaluations have relied largely on curated benchmarks with fully specified questions or on simulated users. We report a user study in which 14 physicians who regularly work with EHR data used both a single-turn and a conversational multi-turn text-to-SQL interface over the MIMIC-IV database in a within-subjects design; dialogue analyses additionally drew on interaction logs from 21 healthcare professionals across the main study and two pilot studies. The conversational interface was consistently favored: mean System Usability Scale scores rose from 68.2, near the industry average, to 85.9",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T04:01:13Z",
+      "updated_at": "2026-10-31T04:01:13Z",
+      "abs_url": "https://arxiv.org/abs/2611.00605",
+      "pdf_url": "https://arxiv.org/pdf/2611.00605.pdf"
+    },
+    {
+      "arxiv_id": "2611.00602",
+      "title": "Editing the Goal: Per-Token SAE Steering and Its Depth Limits in $π_{0.5}$",
+      "authors": [
+        "Rocio Perales Valdes",
+        "Animesh Garg"
+      ],
+      "abstract": "Sparse autoencoders (SAEs) have recovered interpretable, causally relevant features in robot foundation models (RFMs) such as $π_{0.5}$ (arXiv:2603.19183, arXiv:2603.19233). SAE features on individual instruction tokens are less interpretable than timestep-pooled ones (arXiv:2603.19183), and whether they can redirect a robot's goal remains untested. We show that replacing the SAE features of a single goal word with those of an alternative goal word, leaving the instruction text unchanged, steers $π_{0.5}$-LIBERO into completing the alternative task. At layer 0, BatchTopK feature swaps redirect behavior in up to 20/20 rollouts in a scene where random-feature swaps redirect none, with success varying across six scenes in two LIBERO suites and across layers. The effect depends on SAE architec",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T03:56:08Z",
+      "updated_at": "2026-10-31T03:56:08Z",
+      "abs_url": "https://arxiv.org/abs/2611.00602",
+      "pdf_url": "https://arxiv.org/pdf/2611.00602.pdf"
+    },
+    {
+      "arxiv_id": "2611.00597",
+      "title": "Multi-Estimate Elicitation Does Not Uniformly Debias Language Model Judgments",
+      "authors": [
+        "An-Sheng Jhang"
+      ],
+      "abstract": "Does eliciting five weighted estimates within a single response change how a language model responds to information? Across anchoring, hindsight, base-rate, conjunction, and status-quo/default tasks, we compare direct numerical answers with a multi-estimate response format, contrasting source framings, explicitly random cues, and probability-consistency constraints. We evaluate three completed configurations--gpt-6.1-sol, claude-sonnet-5.5, and Qwen3-8B (reasoning disabled, analyzed descriptively). In the first two configurations, direct elicitation yielded near-zero irrelevant-anchor indices and status-quo effects, while remaining responsive to informative sources and informed advice. Of 23 preregistered confirmatory tests, six rejected after Holm adjustment; however, all six absolute poi",
+      "primary_category": "cs.CL",
+      "submitted_at": "2026-10-31T03:46:00Z",
+      "updated_at": "2026-10-31T03:46:00Z",
+      "abs_url": "https://arxiv.org/abs/2611.00597",
+      "pdf_url": "https://arxiv.org/pdf/2611.00597.pdf"
+    },
+    {
+      "arxiv_id": "2611.00596",
+      "title": "X-World 1.6: Building Controllable Virtual Cities with World Models",
+      "authors": [
+        " XPeng",
+        " :",
+        "Boyang Wang",
+        "Boyi Sun",
+        "Chaoda Zheng"
+      ],
+      "abstract": "Deploying generative world models for end-to-end closed-loop evaluation and policy learning requires precise scenario control, consistent observations, and sustained generation quality during extended interactions. This report presents \\emph{X-World~1.6}, advancing X-World~1.0 toward a more reliable and versatile driving simulator. The upgraded base model offers finer-grained control over traffic semantics, including traffic lights and road markings, together with improved spatial consistency across cameras. Virtual City capabilities broaden scenario construction through a family of models conditioned on diverse 2D and 3D references, including support for generating multi-camera future videos from a single image. An enhanced post-training framework enables efficient causal, few-step genera",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T03:45:22Z",
+      "updated_at": "2026-10-31T03:45:22Z",
+      "abs_url": "https://arxiv.org/abs/2611.00596",
+      "pdf_url": "https://arxiv.org/pdf/2611.00596.pdf"
+    },
+    {
+      "arxiv_id": "2611.00593",
+      "title": "Do Orthogonality Constraints Help Language-Model Training Beyond Sphere Optimization?",
+      "authors": [
+        "Kai Hu",
+        "Li Zhang",
+        "Weichen Yu",
+        "Matt Fredrikson",
+        "Haoqi Hu"
+      ],
+      "abstract": "A growing body of work reports benefits from orthogonality constraints in fine-tuning large language models (LLMs). These results raise an open question: do orthogonality constraints also help LLM pre-training? We conduct a systematic empirical study of decoder-only LLM pre-training with models ranging from 360M to 3.1B parameters, trained on nearly 200B tokens. We examine fourteen variants of orthogonality training: some constrain the weight matrix itself, while others use orthogonal factors to reparameterize it. Because a strictly orthogonal square matrix loses half of its degrees of freedom, we also study block-wise orthogonality, where every $d$ rows form a row-orthonormal (Stiefel) matrix and the block size $d$ is a hyperparameter. Among block sizes ranging from 1 to the shorter side ",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-31T03:42:53Z",
+      "updated_at": "2026-10-31T03:42:53Z",
+      "abs_url": "https://arxiv.org/abs/2611.00593",
+      "pdf_url": "https://arxiv.org/pdf/2611.00593.pdf"
+    },
+    {
+      "arxiv_id": "2611.00592",
+      "title": "Saidzoda-Tajik-E5-Large: Fine-Tuning a 560M Embedder for Tajik Retrieval",
+      "authors": [
+        "Tohir Saidzoda",
+        "Nekruz Maxudov",
+        "Bedil Karimov",
+        "Abubakr Abdullozoda",
+        "Amin Jalilov"
+      ],
+      "abstract": "Finding the passage that answers a question is the first step of most practical systems built on documents, and for Tajik we found no openly described model for it. We present Saidzoda-Tajik-E5-Large, a Tajik text embedder built from multilingual-e5-large-instruct (560M parameters). We asked our own Tajik language model to write questions for passages from Tajik laws, tax documents, Wikipedia and web text, and trained on 235,140 question and passage pairs for one epoch, with hard negatives chosen by another embedder and English and Russian pairs mixed in so the model would not forget those languages. On laws the model had never seen, the right passage is among the top ten results for 93.6% of questions, up from 80.2%; on tax documents, 94.5% against 82.6%. On Belebele, the one test we have",
+      "primary_category": "cs.CL",
+      "submitted_at": "2026-10-31T03:41:43Z",
+      "updated_at": "2026-10-31T03:41:43Z",
+      "abs_url": "https://arxiv.org/abs/2611.00592",
+      "pdf_url": "https://arxiv.org/pdf/2611.00592.pdf"
+    },
+    {
+      "arxiv_id": "2611.00590",
+      "title": "State-Aware Activation Recomputation with Replay Contracts and Selective Preservation",
+      "authors": [
+        "Annan Zhang",
+        "Shengjie Song",
+        "Wenshuai Yao",
+        "Lihao Zhang",
+        " Tianmiao"
+      ],
+      "abstract": "Activation recomputation saves accelerator memory by replaying forward segments during the backward pass, but replay is only correct if it sees the state the original forward pass saw. Mutable buffers, aliased bytes and random-generator state can change in between, so re-executing unchanged code can differentiate a different computation. We make this state explicit. A versioned replay contract specifies what replay must restore, and a joint planner chooses, per segment, between activation retention, whole-buffer snapshots and selective-region preservation, charging each option its measured memory and recovery cost. Independent derivative and byte-level checks validate the contract, and a Torch/JAX cohort retains all 5,900 execution records, including matches, rejections and divergences. On",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T03:35:55Z",
+      "updated_at": "2026-10-31T03:35:55Z",
+      "abs_url": "https://arxiv.org/abs/2611.00590",
+      "pdf_url": "https://arxiv.org/pdf/2611.00590.pdf"
+    },
+    {
+      "arxiv_id": "2611.00589",
+      "title": "Guarded Compression of Adam Optimizer State with Shared-Gradient Bounds",
+      "authors": [
+        "Annan Zhang",
+        "Shengjie Song",
+        "Wenshuai Yao",
+        "Lihao Zhang",
+        " Tianmiao"
+      ],
+      "abstract": "Adam keeps two FP32 moments per parameter, twice the bytes of the FP32 weights, yet compressing them is risky: the update divides by the square root of the second moment, so small reconstruction errors can change the restored computation substantially. We study guarded moment compression, in which a coordinate's decoded moments are accepted only if they reproduce the native FP32 Adam update to within a tolerance $τ$, in units of the learning rate, for every gradient in a clipped domain; all other coordinates are stored exactly. The natural certificate, which ranges each update separately over gradient intervals, fails: on one million trained OPT-125M coordinates it escapes 98.9% of coordinates and the payload grows to 126.6% of raw FP32. Our key observation is that both updates consume the",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-31T03:34:05Z",
+      "updated_at": "2026-10-31T03:34:05Z",
+      "abs_url": "https://arxiv.org/abs/2611.00589",
+      "pdf_url": "https://arxiv.org/pdf/2611.00589.pdf"
+    },
+    {
+      "arxiv_id": "2611.00588",
+      "title": "TVP: TV is Almost All You Need for Speculative Decoding",
+      "authors": [
+        "Aaryam Sharma"
+      ],
+      "abstract": "Speculative decoding accelerates LLM inference with a drafter whose proposed tokens are verified by the target model in parallel. Under lossless speculative sampling, a draft token is accepted with probability one minus the total variation (TV) distance between the target and draft distributions, yet drafters are often trained with cross-entropy (CE) or KL. We first show that under matched and well-tuned training, TV matches or surpasses several published draft-training objectives when fine-tuning, and a fixed TV and KL mixture does the same when training from scratch. We identify two remaining problems, TV's vanishing gradients on undercovered tokens and the prefix products that starve later positions in acceptance-length objectives. To address both, we derive TVP, a loss family based on ",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-31T03:31:48Z",
+      "updated_at": "2026-10-31T03:31:48Z",
+      "abs_url": "https://arxiv.org/abs/2611.00588",
+      "pdf_url": "https://arxiv.org/pdf/2611.00588.pdf"
+    },
+    {
+      "arxiv_id": "2611.00586",
+      "title": "Dataset Mismatch Matters in Group Relative Policy Optimization for Reinforcement Learning from Verifiable Rewards",
+      "authors": [
+        "Zhen-Yu Zhang",
+        "Jiandong Zhang",
+        "Huaxiu Yao",
+        "Gang Niu",
+        "Masashi Sugiyama"
+      ],
+      "abstract": "Recently, reinforcement learning from verifiable rewards (RLVR) is practically very important, where the leading approach is group relative policy optimization (GRPO) that typically faces a trade-off between rollout efficiency and downstream performance. To improve efficiency while preserving performance, existing selective rollout methods mainly exploit only source-side training dynamics to optimize the discrete distribution over source prompts. However, in practice, the source training dataset is rarely identically distributed to the target test dataset. When such a mismatch exists, due to legal or privacy constraints, it is usually not acceptable to share target prompts themselves with the RLVR trainer. Nevertheless, it is still possible for the target data owner to provide limited aggr",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-31T03:28:56Z",
+      "updated_at": "2026-10-31T03:28:56Z",
+      "abs_url": "https://arxiv.org/abs/2611.00586",
+      "pdf_url": "https://arxiv.org/pdf/2611.00586.pdf"
+    },
+    {
+      "arxiv_id": "2611.00585",
+      "title": "Conic Certification of Transformer Attention",
+      "authors": [
+        "Masoud Ataei"
+      ],
+      "abstract": "Attention is the computational core of large language models, yet the verifiers that bound how far an attention head's output can move under input perturbations give no guarantee on how loose their bounds are. A weak certificate therefore cannot be told apart from a fragile model. We develop a conic programming theory of attention certification that supplies this guarantee. We prove that the difficulty lies not in the softmax but in the bilinear interaction of a varying query with the keys. This interaction makes certification NP-hard over boxes and inapproximable once the attention logits can move by a constant amount. A fixed query or listed token substitutions, by contrast, make the exact worst case efficiently computable. An exponential cone moment relaxation then certifies a head with",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-31T03:28:37Z",
+      "updated_at": "2026-10-31T03:28:37Z",
+      "abs_url": "https://arxiv.org/abs/2611.00585",
+      "pdf_url": "https://arxiv.org/pdf/2611.00585.pdf"
+    },
+    {
+      "arxiv_id": "2610.38171",
+      "title": "B2P-Corr: Batch-to-Population Gradient Estimators for Non-Decomposable Correlation Losses",
+      "authors": [
+        "Jingquan Yan",
+        "Yuwei Miao",
+        "Peiran Yu",
+        "Junzhou Huang"
+      ],
+      "abstract": "Correlation metrics such as the Pearson Correlation Coefficient (PCC) and Concordance Correlation Coefficient (CCC) are standard regression metrics and learning objectives, but their non-decomposable nature poses a challenge for stochastic optimization. Since these metrics depend on dataset-level moments (mean, variance, covariance), naive mini-batch training with local statistics yields biased, high-variance gradients whose expectation does not align with the population gradient. To bridge this ``batch-to-population'' (B2P) gap, we propose B2P-Corr, a novel framework that transforms correlation objectives into decomposable pseudo-losses driven by lightweight global ``moment sketches''. We introduce two efficient variants: B2P-EMA, which utilizes exponential moving averages and stop-gradie",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-28T02:22:11Z",
+      "updated_at": "2026-10-31T03:12:09Z",
+      "abs_url": "https://arxiv.org/abs/2610.38171",
+      "pdf_url": "https://arxiv.org/pdf/2610.38171.pdf"
+    },
+    {
+      "arxiv_id": "2611.00580",
+      "title": "Evolving Scientific Intelligence: From Fragmented Evidence to Distributed Experimental Loops",
+      "authors": [
+        "Yuheng Ding"
+      ],
+      "abstract": "Scientific discovery advances when evidence from different investigations is brought into contact. Yet paper-centric communication leaves experimental results fragmented, delayed, or unreported, creating a \"scientific memory wall\" between growing computational capabilities and the evidence accessible to AI systems. We envision a different dynamic: in a network of intelligent laboratories, a failed or overlooked experiment in one domain could trigger a hypothesis in another, whose testing generates evidence that stimulates further investigations. Such chains of information collision and empirical validation could transform isolated discovery loops into a cumulative scientific process. We propose Evolving Scientific Intelligence (ESI), an architectural blueprint for enabling these evidence-d",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-10-31T03:12:05Z",
+      "updated_at": "2026-10-31T03:12:05Z",
+      "abs_url": "https://arxiv.org/abs/2611.00580",
+      "pdf_url": "https://arxiv.org/pdf/2611.00580.pdf"
+    },
+    {
+      "arxiv_id": "2611.00579",
+      "title": "From Apparent Search Gains to Selection Failures: Auditing Test-Time Inference in Structured Workflow Planning",
+      "authors": [
+        "Zhitong Chen",
+        "Weifeng Zhang",
+        "Kai Yin",
+        "Zhiyuan Wang",
+        "Ali Mostafavi"
+      ],
+      "abstract": "Test-time search can improve structured planning, but when methods differ in prompts, post-processing, and selection, it is unclear what an observed gain should be attributed to. We study this question on DisasterBench, where models compose typed multi-tool workflows, by decomposing inference into three observable stages: whether a correct workflow is discovered, whether it survives structural validation, and whether it is finally selected. Comparing independent sampling, a nominal tree-search configuration, and multi-operator search under controlled inference budgets on two model families, we find that (i) the nominal tree-search configuration realizes non-adaptive complete-workflow sampling, and independent sampling with its expansion prompt reproduces its candidate discovery without con",
+      "primary_category": "cs.CL",
+      "submitted_at": "2026-10-31T03:10:12Z",
+      "updated_at": "2026-10-31T03:10:12Z",
+      "abs_url": "https://arxiv.org/abs/2611.00579",
+      "pdf_url": "https://arxiv.org/pdf/2611.00579.pdf"
+    },
+    {
+      "arxiv_id": "2611.00576",
+      "title": "The First-Order Value of Free Covariates in Budgeted Risk Monitoring",
+      "authors": [
+        "Yanze Cao"
+      ],
+      "abstract": "A deployed model sees its inputs for free, but checking whether its risk has risen requires costly labels. We study how to spend a label budget so that a risk increase is detected quickly while false alarms stay controlled, including under input shifts that keep the risk below a safety threshold $τ$. Let $A$ be the false-alarm control scale and $h(r)=\\mathrm{kl}(r,τ)$ the Bernoulli KL divergence between the changed risk $r$ and $τ$. At label rate $b=c/\\log A$, we prove that every rule that chooses requests from its own label history has worst-case (Lorden) delay at least $(1/h(r)+1/c)\\log A$ to first order: besides collecting evidence, it must wait for its next label. The bound needs only a label budget on one finite stretch of safe source data and false-alarm control over an initial windo",
+      "primary_category": "cs.LG",
+      "submitted_at": "2026-10-31T03:05:09Z",
+      "updated_at": "2026-10-31T03:05:09Z",
+      "abs_url": "https://arxiv.org/abs/2611.00576",
+      "pdf_url": "https://arxiv.org/pdf/2611.00576.pdf"
+    },
+    {
+      "arxiv_id": "2601.16863",
+      "title": "Mixture-of-Models: Distributed Inference over Heterogeneous LLMs as Model-Level Mixture-of-Experts",
+      "authors": [
+        "Tims Pecerskis",
+        "Aivars Smirnovs"
+      ],
+      "abstract": "Switch Transformers scale MoE model capacity by routing tokens in memory for one jointly trained model, requiring high-bandwidth interconnects, large memory, centralised ownership, and lack scalable composability. We propose Mixture-of-Models (MoM) architecture as Switch Transformer scaling to semantic level which composes inference across independently trained distributed LLMs, each run on its own GPU. The models reach joint consensus using N-Way Self-Evaluating Deliberation protocol: a combination of social-choice methods such as Delphi method and Quadratic Voting as well as Inference-Time scaling paradigm. We start with an empirical model that characterizes consensus as an inference-time trade-off between signal extraction and contextual noise accumulation, establishing a mathematical b",
+      "primary_category": "cs.AI",
+      "submitted_at": "2026-01-23T16:11:54Z",
+      "updated_at": "2026-10-31T02:52:36Z",
+      "abs_url": "https://arxiv.org/abs/2601.16863",
+      "pdf_url": "https://arxiv.org/pdf/2601.16863.pdf"
+    }
+  ]
 }
