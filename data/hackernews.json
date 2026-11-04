@@ -1,257 +1,217 @@
 {
-  "generated_at": "2026-11-03T02:50:25.840094+00:00",
-  "cutoff": "2026-11-02T02:50:11.526253+00:00",
+  "generated_at": "2026-11-04T01:11:05.507515+00:00",
+  "cutoff": "2026-11-03T01:10:52.523301+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50339494,
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "score": 293,
-      "by": "entryleveljobsc",
-      "comments": 240,
-      "created_at": "2026-11-02T16:40:29+00:00",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "discussion_url": "https://news.ycombinator.com/item?id=50339494"
+      "hn_id": 50354960,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "score": 1005,
+      "by": "sidgarimella",
+      "comments": 336,
+      "created_at": "2026-11-03T17:22:37+00:00",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "discussion_url": "https://news.ycombinator.com/item?id=50354960"
     },
     {
-      "hn_id": 50344919,
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "score": 219,
-      "by": "cdrnsf",
-      "comments": 147,
-      "created_at": "2026-11-02T22:30:47+00:00",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50344919"
+      "hn_id": 50353192,
+      "title": "Google will turn off search for schools that reject AI",
+      "score": 554,
+      "by": "ceejayoz",
+      "comments": 399,
+      "created_at": "2026-11-03T15:25:47+00:00",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=50353192"
     },
     {
-      "hn_id": 50344958,
-      "title": "Anthropic's growth just flattened",
-      "score": 176,
-      "by": "cdrnsf",
-      "comments": 201,
-      "created_at": "2026-11-02T22:33:20+00:00",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "discussion_url": "https://news.ycombinator.com/item?id=50344958"
+      "hn_id": 50355251,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "score": 478,
+      "by": "theanonymousone",
+      "comments": 151,
+      "created_at": "2026-11-03T17:40:00+00:00",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50355251"
     },
     {
-      "hn_id": 50342284,
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "score": 168,
-      "by": "smartmic",
-      "comments": 130,
-      "created_at": "2026-11-02T19:27:37+00:00",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50342284"
+      "hn_id": 50352757,
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "score": 432,
+      "by": "user052919",
+      "comments": 134,
+      "created_at": "2026-11-03T14:53:41+00:00",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "discussion_url": "https://news.ycombinator.com/item?id=50352757"
     },
     {
-      "hn_id": 50337454,
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "score": 164,
-      "by": "mancerayder",
-      "comments": 233,
-      "created_at": "2026-11-02T14:40:05+00:00",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "discussion_url": "https://news.ycombinator.com/item?id=50337454"
+      "hn_id": 50358422,
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "score": 215,
+      "by": "angry_impala",
+      "comments": 81,
+      "created_at": "2026-11-03T21:26:44+00:00",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "discussion_url": "https://news.ycombinator.com/item?id=50358422"
     },
     {
-      "hn_id": 50335659,
-      "title": "Never Complain, Never Explain",
-      "score": 156,
-      "by": "gregsadetsky",
-      "comments": 63,
-      "created_at": "2026-11-02T11:55:48+00:00",
-      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
-      "discussion_url": "https://news.ycombinator.com/item?id=50335659"
-    },
-    {
-      "hn_id": 50334038,
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "score": 149,
-      "by": "jonnybgood",
-      "comments": 86,
-      "created_at": "2026-11-02T07:27:28+00:00",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50334038"
-    },
-    {
-      "hn_id": 50339913,
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "score": 130,
-      "by": "wuweiweiwu",
-      "comments": 85,
-      "created_at": "2026-11-02T17:05:25+00:00",
-      "url": "https://momentic.ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50339913"
-    },
-    {
-      "hn_id": 50336138,
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "score": 123,
-      "by": "FacZap",
-      "comments": 100,
-      "created_at": "2026-11-02T12:50:59+00:00",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "discussion_url": "https://news.ycombinator.com/item?id=50336138"
-    },
-    {
-      "hn_id": 50341736,
-      "title": "Egoless Mathematics in the AI Era",
-      "score": 122,
-      "by": "smilelamp",
-      "comments": 84,
-      "created_at": "2026-11-02T18:54:44+00:00",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50341736"
-    },
-    {
-      "hn_id": 50341334,
-      "title": "Agentic backdoors via pretraining poisoning",
-      "score": 93,
-      "by": "gmays",
-      "comments": 28,
-      "created_at": "2026-11-02T18:30:58+00:00",
-      "url": "https://arxiv.org/abs/2610.37741",
-      "discussion_url": "https://news.ycombinator.com/item?id=50341334"
-    },
-    {
-      "hn_id": 50339224,
-      "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-      "score": 85,
-      "by": "SteveGallag",
-      "comments": 29,
-      "created_at": "2026-11-02T16:25:33+00:00",
-      "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
-      "discussion_url": "https://news.ycombinator.com/item?id=50339224"
-    },
-    {
-      "hn_id": 50341616,
-      "title": "Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service",
-      "score": 83,
-      "by": "ck2",
-      "comments": 50,
-      "created_at": "2026-11-02T18:48:00+00:00",
-      "url": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
-      "discussion_url": "https://news.ycombinator.com/item?id=50341616"
-    },
-    {
-      "hn_id": 50337716,
-      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-      "score": 79,
-      "by": "pretext",
-      "comments": 22,
-      "created_at": "2026-11-02T15:00:26+00:00",
-      "url": "https://longcat.ai/blog/longcat-2.5/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50337716"
-    },
-    {
-      "hn_id": 50337661,
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "score": 68,
+      "hn_id": 50358582,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "score": 208,
       "by": "ibobev",
-      "comments": 11,
-      "created_at": "2026-11-02T14:56:21+00:00",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50337661"
+      "comments": 32,
+      "created_at": "2026-11-03T21:40:53+00:00",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "discussion_url": "https://news.ycombinator.com/item?id=50358582"
     },
     {
-      "hn_id": 50337503,
-      "title": "GPT-Rosalind-6 System Card Addendum",
-      "score": 66,
-      "by": "gmays",
-      "comments": 53,
-      "created_at": "2026-11-02T14:44:02+00:00",
-      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "discussion_url": "https://news.ycombinator.com/item?id=50337503"
+      "hn_id": 50352257,
+      "title": "Just a little AI resistance, as a treat",
+      "score": 171,
+      "by": "mooreds",
+      "comments": 105,
+      "created_at": "2026-11-03T14:14:12+00:00",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50352257"
     },
     {
-      "hn_id": 50337431,
-      "title": "Ask HN: What hardware are you using to run local LLMs?",
+      "hn_id": 50356944,
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "score": 102,
+      "by": "colejohnson66",
+      "comments": 59,
+      "created_at": "2026-11-03T19:27:53+00:00",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50356944"
+    },
+    {
+      "hn_id": 50355767,
+      "title": "How I use AI (Oct 2026)",
+      "score": 77,
+      "by": "citelao",
+      "comments": 72,
+      "created_at": "2026-11-03T18:11:11+00:00",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50355767"
+    },
+    {
+      "hn_id": 50358414,
+      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+      "score": 68,
+      "by": "angry_impala",
+      "comments": 59,
+      "created_at": "2026-11-03T21:25:48+00:00",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+      "discussion_url": "https://news.ycombinator.com/item?id=50358414"
+    },
+    {
+      "hn_id": 50358314,
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "score": 52,
+      "by": "ayanb9440",
+      "comments": 5,
+      "created_at": "2026-11-03T21:16:48+00:00",
+      "url": "https://github.com/finic-ai/kairos",
+      "discussion_url": "https://news.ycombinator.com/item?id=50358314"
+    },
+    {
+      "hn_id": 50352898,
+      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "score": 51,
+      "by": "donk8r",
+      "comments": 34,
+      "created_at": "2026-11-03T15:02:58+00:00",
+      "url": "https://github.com/Muvon/octomind",
+      "discussion_url": "https://news.ycombinator.com/item?id=50352898"
+    },
+    {
+      "hn_id": 50354250,
+      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+      "score": 46,
+      "by": "1equalsequals1",
+      "comments": 7,
+      "created_at": "2026-11-03T16:40:02+00:00",
+      "url": "https://arxiv.org/abs/2611.02618",
+      "discussion_url": "https://news.ycombinator.com/item?id=50354250"
+    },
+    {
+      "hn_id": 50353468,
+      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
       "score": 39,
-      "by": "leafletsigh",
-      "comments": 36,
-      "created_at": "2026-11-02T14:38:18+00:00",
-      "url": "https://news.ycombinator.com/item?id=50337431",
-      "discussion_url": "https://news.ycombinator.com/item?id=50337431"
-    },
-    {
-      "hn_id": 50344861,
-      "title": "LLMs are not superhuman at reading and writing neural network weights",
-      "score": 36,
-      "by": "agrm",
-      "comments": 2,
-      "created_at": "2026-11-02T22:26:53+00:00",
-      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50344861"
-    },
-    {
-      "hn_id": 50341073,
-      "title": "Anthropic's spending commitments surge to nearly $900B",
-      "score": 30,
-      "by": "samizdis",
-      "comments": 2,
-      "created_at": "2026-11-02T18:15:01+00:00",
-      "url": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge",
-      "discussion_url": "https://news.ycombinator.com/item?id=50341073"
-    },
-    {
-      "hn_id": 50345924,
-      "title": "Scaling Git at OpenAI",
-      "score": 25,
-      "by": "makeramen",
-      "comments": 0,
-      "created_at": "2026-11-02T23:47:56+00:00",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50345924"
-    },
-    {
-      "hn_id": 50341065,
-      "title": "Goldman Restricts Traders and Bankers from Using Some AI Tools",
-      "score": 25,
-      "by": "toomuchtodo",
+      "by": "laxmena",
       "comments": 4,
-      "created_at": "2026-11-02T18:14:38+00:00",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
-      "discussion_url": "https://news.ycombinator.com/item?id=50341065"
+      "created_at": "2026-11-03T15:48:35+00:00",
+      "url": "https://concepts.laxmena.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50353468"
     },
     {
-      "hn_id": 50341585,
-      "title": "South Korea targets ' highest performance' sovereign AI model",
+      "hn_id": 50355328,
+      "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
       "score": 20,
-      "by": "Betelbuddy",
-      "comments": 2,
-      "created_at": "2026-11-02T18:46:20+00:00",
-      "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50341585"
-    },
-    {
-      "hn_id": 50336918,
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "score": 10,
-      "by": "bookofjoe",
-      "comments": 0,
-      "created_at": "2026-11-02T14:02:42+00:00",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50336918"
-    },
-    {
-      "hn_id": 50346001,
-      "title": "Developers are downgrading their AI on purpose – and it's working",
-      "score": 6,
-      "by": "noptd",
+      "by": "pseudolus",
       "comments": 3,
-      "created_at": "2026-11-02T23:53:41+00:00",
-      "url": "https://thenewstack.io/claude-code-developer-refusals/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50346001"
+      "created_at": "2026-11-03T17:44:26+00:00",
+      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=50355328"
     },
     {
-      "hn_id": 50346350,
-      "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
-      "score": 5,
-      "by": "khalidkhair",
+      "hn_id": 50352641,
+      "title": "There is no posttraining data commons",
+      "score": 16,
+      "by": "lukasschwab",
       "comments": 2,
-      "created_at": "2026-11-03T00:32:32+00:00",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50346350"
+      "created_at": "2026-11-03T14:45:47+00:00",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50352641"
+    },
+    {
+      "hn_id": 50357893,
+      "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
+      "score": 16,
+      "by": "mr_fantastic",
+      "comments": 1,
+      "created_at": "2026-11-03T20:42:44+00:00",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50357893"
+    },
+    {
+      "hn_id": 50359225,
+      "title": "Why Every AI Model Will Ship as a Torrent",
+      "score": 12,
+      "by": "ahoyychips",
+      "comments": 1,
+      "created_at": "2026-11-03T22:36:22+00:00",
+      "url": "https://pirateface.co/articles/one-model-one-swarm",
+      "discussion_url": "https://news.ycombinator.com/item?id=50359225"
+    },
+    {
+      "hn_id": 50358078,
+      "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+      "score": 10,
+      "by": "g42gregory",
+      "comments": 1,
+      "created_at": "2026-11-03T20:57:15+00:00",
+      "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50358078"
+    },
+    {
+      "hn_id": 50359544,
+      "title": "Nvidia is happy to take your money whether you're using open or closed models",
+      "score": 5,
+      "by": "jonbaer",
+      "comments": 0,
+      "created_at": "2026-11-03T23:14:46+00:00",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+      "discussion_url": "https://news.ycombinator.com/item?id=50359544"
+    },
+    {
+      "hn_id": 50360153,
+      "title": "IKEA Turned 8,500 Call Agents into Design Consultants",
+      "score": 4,
+      "by": "duck",
+      "comments": 0,
+      "created_at": "2026-11-04T00:31:33+00:00",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ikea-turned-8500-call-agents-into-design-consultants/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50360153"
     }
   ]
 }
