@@ -1,217 +1,217 @@
 {
-  "generated_at": "2026-11-04T01:11:05.507515+00:00",
-  "cutoff": "2026-11-03T01:10:52.523301+00:00",
+  "generated_at": "2026-11-05T01:24:50.097483+00:00",
+  "cutoff": "2026-11-04T01:24:33.523086+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50354960,
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "score": 1005,
-      "by": "sidgarimella",
-      "comments": 336,
-      "created_at": "2026-11-03T17:22:37+00:00",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "discussion_url": "https://news.ycombinator.com/item?id=50354960"
-    },
-    {
-      "hn_id": 50353192,
-      "title": "Google will turn off search for schools that reject AI",
-      "score": 554,
-      "by": "ceejayoz",
-      "comments": 399,
-      "created_at": "2026-11-03T15:25:47+00:00",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50353192"
-    },
-    {
-      "hn_id": 50355251,
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "score": 478,
-      "by": "theanonymousone",
-      "comments": 151,
-      "created_at": "2026-11-03T17:40:00+00:00",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50355251"
-    },
-    {
-      "hn_id": 50352757,
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "score": 432,
-      "by": "user052919",
-      "comments": 134,
-      "created_at": "2026-11-03T14:53:41+00:00",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "discussion_url": "https://news.ycombinator.com/item?id=50352757"
-    },
-    {
-      "hn_id": 50358422,
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "score": 215,
-      "by": "angry_impala",
-      "comments": 81,
-      "created_at": "2026-11-03T21:26:44+00:00",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "discussion_url": "https://news.ycombinator.com/item?id=50358422"
-    },
-    {
-      "hn_id": 50358582,
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "score": 208,
-      "by": "ibobev",
-      "comments": 32,
-      "created_at": "2026-11-03T21:40:53+00:00",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "discussion_url": "https://news.ycombinator.com/item?id=50358582"
-    },
-    {
-      "hn_id": 50352257,
-      "title": "Just a little AI resistance, as a treat",
-      "score": 171,
-      "by": "mooreds",
-      "comments": 105,
-      "created_at": "2026-11-03T14:14:12+00:00",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50352257"
-    },
-    {
-      "hn_id": 50356944,
-      "title": "macOS 27 does not support CoreStorage volumes",
-      "score": 102,
-      "by": "colejohnson66",
-      "comments": 59,
-      "created_at": "2026-11-03T19:27:53+00:00",
-      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50356944"
-    },
-    {
-      "hn_id": 50355767,
-      "title": "How I use AI (Oct 2026)",
-      "score": 77,
-      "by": "citelao",
-      "comments": 72,
-      "created_at": "2026-11-03T18:11:11+00:00",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50355767"
-    },
-    {
-      "hn_id": 50358414,
-      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "score": 68,
-      "by": "angry_impala",
-      "comments": 59,
-      "created_at": "2026-11-03T21:25:48+00:00",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-      "discussion_url": "https://news.ycombinator.com/item?id=50358414"
-    },
-    {
-      "hn_id": 50358314,
-      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "score": 52,
-      "by": "ayanb9440",
-      "comments": 5,
-      "created_at": "2026-11-03T21:16:48+00:00",
-      "url": "https://github.com/finic-ai/kairos",
-      "discussion_url": "https://news.ycombinator.com/item?id=50358314"
-    },
-    {
-      "hn_id": 50352898,
-      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-      "score": 51,
-      "by": "donk8r",
-      "comments": 34,
-      "created_at": "2026-11-03T15:02:58+00:00",
-      "url": "https://github.com/Muvon/octomind",
-      "discussion_url": "https://news.ycombinator.com/item?id=50352898"
-    },
-    {
-      "hn_id": 50354250,
-      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-      "score": 46,
-      "by": "1equalsequals1",
-      "comments": 7,
-      "created_at": "2026-11-03T16:40:02+00:00",
-      "url": "https://arxiv.org/abs/2611.02618",
-      "discussion_url": "https://news.ycombinator.com/item?id=50354250"
-    },
-    {
-      "hn_id": 50353468,
-      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-      "score": 39,
-      "by": "laxmena",
-      "comments": 4,
-      "created_at": "2026-11-03T15:48:35+00:00",
-      "url": "https://concepts.laxmena.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50353468"
-    },
-    {
-      "hn_id": 50355328,
-      "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
-      "score": 20,
+      "hn_id": 50364336,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "score": 1054,
       "by": "pseudolus",
-      "comments": 3,
-      "created_at": "2026-11-03T17:44:26+00:00",
-      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50355328"
+      "comments": 628,
+      "created_at": "2026-11-04T11:52:17+00:00",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "discussion_url": "https://news.ycombinator.com/item?id=50364336"
     },
     {
-      "hn_id": 50352641,
-      "title": "There is no posttraining data commons",
-      "score": 16,
-      "by": "lukasschwab",
+      "hn_id": 50363461,
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "score": 628,
+      "by": "jameslk",
+      "comments": 163,
+      "created_at": "2026-11-04T10:10:27+00:00",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "discussion_url": "https://news.ycombinator.com/item?id=50363461"
+    },
+    {
+      "hn_id": 50366999,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "score": 366,
+      "by": "abrarthought",
+      "comments": 99,
+      "created_at": "2026-11-04T15:30:30+00:00",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "discussion_url": "https://news.ycombinator.com/item?id=50366999"
+    },
+    {
+      "hn_id": 50369925,
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "score": 216,
+      "by": "Philpax",
+      "comments": 76,
+      "created_at": "2026-11-04T18:53:29+00:00",
+      "url": "https://www.ricursive.com/ripple",
+      "discussion_url": "https://news.ycombinator.com/item?id=50369925"
+    },
+    {
+      "hn_id": 50366863,
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "score": 180,
+      "by": "itunpredictable",
+      "comments": 56,
+      "created_at": "2026-11-04T15:21:21+00:00",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50366863"
+    },
+    {
+      "hn_id": 50368626,
+      "title": "Progress on provable inference for large language models",
+      "score": 174,
+      "by": "ltononro",
+      "comments": 83,
+      "created_at": "2026-11-04T17:17:46+00:00",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "discussion_url": "https://news.ycombinator.com/item?id=50368626"
+    },
+    {
+      "hn_id": 50371508,
+      "title": "Everything is an AI scam now",
+      "score": 125,
+      "by": "speckx",
+      "comments": 41,
+      "created_at": "2026-11-04T21:05:19+00:00",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50371508"
+    },
+    {
+      "hn_id": 50366117,
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "score": 114,
+      "by": "eggbrain",
+      "comments": 130,
+      "created_at": "2026-11-04T14:37:22+00:00",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "discussion_url": "https://news.ycombinator.com/item?id=50366117"
+    },
+    {
+      "hn_id": 50370654,
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "score": 96,
+      "by": "peter_d_sherman",
+      "comments": 42,
+      "created_at": "2026-11-04T19:55:14+00:00",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "discussion_url": "https://news.ycombinator.com/item?id=50370654"
+    },
+    {
+      "hn_id": 50368804,
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "score": 70,
+      "by": "lukeigel",
+      "comments": 26,
+      "created_at": "2026-11-04T17:31:53+00:00",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "discussion_url": "https://news.ycombinator.com/item?id=50368804"
+    },
+    {
+      "hn_id": 50366971,
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "score": 61,
+      "by": "karakoram",
+      "comments": 73,
+      "created_at": "2026-11-04T15:28:31+00:00",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50366971"
+    },
+    {
+      "hn_id": 50367653,
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "score": 56,
+      "by": "theanonymousone",
+      "comments": 135,
+      "created_at": "2026-11-04T16:11:33+00:00",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "discussion_url": "https://news.ycombinator.com/item?id=50367653"
+    },
+    {
+      "hn_id": 50369527,
+      "title": "From wild to mild: Friendly foxes show changes in brain region",
+      "score": 36,
+      "by": "gmays",
+      "comments": 6,
+      "created_at": "2026-11-04T18:24:16+00:00",
+      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+      "discussion_url": "https://news.ycombinator.com/item?id=50369527"
+    },
+    {
+      "hn_id": 50367004,
+      "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+      "score": 32,
+      "by": "isalexlog",
+      "comments": 5,
+      "created_at": "2026-11-04T15:30:57+00:00",
+      "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+      "discussion_url": "https://news.ycombinator.com/item?id=50367004"
+    },
+    {
+      "hn_id": 50371435,
+      "title": "In Praise of Japan's Failure to Keep Up",
+      "score": 24,
+      "by": "littlexsparkee",
+      "comments": 1,
+      "created_at": "2026-11-04T20:59:01+00:00",
+      "url": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50371435"
+    },
+    {
+      "hn_id": 50372693,
+      "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+      "score": 11,
+      "by": "akyuu",
       "comments": 2,
-      "created_at": "2026-11-03T14:45:47+00:00",
-      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50352641"
+      "created_at": "2026-11-04T23:05:24+00:00",
+      "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+      "discussion_url": "https://news.ycombinator.com/item?id=50372693"
     },
     {
-      "hn_id": 50357893,
-      "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
-      "score": 16,
-      "by": "mr_fantastic",
-      "comments": 1,
-      "created_at": "2026-11-03T20:42:44+00:00",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50357893"
-    },
-    {
-      "hn_id": 50359225,
-      "title": "Why Every AI Model Will Ship as a Torrent",
-      "score": 12,
-      "by": "ahoyychips",
-      "comments": 1,
-      "created_at": "2026-11-03T22:36:22+00:00",
-      "url": "https://pirateface.co/articles/one-model-one-swarm",
-      "discussion_url": "https://news.ycombinator.com/item?id=50359225"
-    },
-    {
-      "hn_id": 50358078,
-      "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+      "hn_id": 50373149,
+      "title": "You'll need nerves of steel to work with AI agents",
       "score": 10,
-      "by": "g42gregory",
+      "by": "theorchid",
+      "comments": 3,
+      "created_at": "2026-11-05T00:01:30+00:00",
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50373149"
+    },
+    {
+      "hn_id": 50372038,
+      "title": "Harmony: Chat like Discord. Federated like email",
+      "score": 10,
+      "by": "FinalDestiny",
+      "comments": 7,
+      "created_at": "2026-11-04T21:49:40+00:00",
+      "url": "https://mony.lol/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50372038"
+    },
+    {
+      "hn_id": 50369277,
+      "title": "Show HN: Unclickbait – Replace clickbait YouTube thumbnails",
+      "score": 9,
+      "by": "namuorg",
+      "comments": 5,
+      "created_at": "2026-11-04T18:05:42+00:00",
+      "url": "https://unclickbait.app/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50369277"
+    },
+    {
+      "hn_id": 50371890,
+      "title": "Don't Call It a Decision Model",
+      "score": 8,
+      "by": "emschwartz",
+      "comments": 2,
+      "created_at": "2026-11-04T21:35:18+00:00",
+      "url": "https://typesafe.ai/blog/dont-call-it-a-decision-model",
+      "discussion_url": "https://news.ycombinator.com/item?id=50371890"
+    },
+    {
+      "hn_id": 50373505,
+      "title": "American Voters Overwhelmingly Reject AI Data Centers",
+      "score": 6,
+      "by": "latexr",
       "comments": 1,
-      "created_at": "2026-11-03T20:57:15+00:00",
-      "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50358078"
-    },
-    {
-      "hn_id": 50359544,
-      "title": "Nvidia is happy to take your money whether you're using open or closed models",
-      "score": 5,
-      "by": "jonbaer",
-      "comments": 0,
-      "created_at": "2026-11-03T23:14:46+00:00",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
-      "discussion_url": "https://news.ycombinator.com/item?id=50359544"
-    },
-    {
-      "hn_id": 50360153,
-      "title": "IKEA Turned 8,500 Call Agents into Design Consultants",
-      "score": 4,
-      "by": "duck",
-      "comments": 0,
-      "created_at": "2026-11-04T00:31:33+00:00",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ikea-turned-8500-call-agents-into-design-consultants/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50360153"
+      "created_at": "2026-11-05T00:43:13+00:00",
+      "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50373505"
     }
   ]
 }
