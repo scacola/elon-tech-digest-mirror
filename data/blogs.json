@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-06T01:27:23.293732+00:00",
-  "cutoff": "2026-10-30T01:27:21.454566+00:00",
+  "generated_at": "2026-11-07T00:44:49.181122+00:00",
+  "cutoff": "2026-10-31T00:44:46.926939+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 24
+      "count": 25
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,30 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+    },
     {
       "source": "blog_openai",
       "title": "Cult.fit builds operational muscle with Codex",
@@ -191,14 +215,6 @@
     },
     {
       "source": "blog_openai",
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
-    },
-    {
-      "source": "blog_openai",
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "published_at": "2026-11-02T00:00:00+00:00",
@@ -207,19 +223,11 @@
     },
     {
       "source": "blog_openai",
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "published_at": "2026-10-30T09:30:00+00:00",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "published_at": "2026-11-02T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "published_at": "2026-10-30T09:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+      "lead_paragraph": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
     },
     {
       "source": "blog_deepmind",
@@ -238,12 +246,20 @@
       "lead_paragraph": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Speeding up planning decisions with AI",
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "published_at": "2026-10-30T14:18:30+00:00",
+      "source": "blog_huggingface",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published_at": "2026-11-06T14:00:48+00:00",
       "author": "",
-      "lead_paragraph": "Google DeepMind and UK government work together to reduce planning assessment times"
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -266,14 +282,6 @@
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "published_at": "2026-11-04T17:50:10+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "published_at": "2026-11-03T17:15:21+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -305,7 +313,7 @@
       "source": "blog_anthropic",
       "title": "Open call for guest investigators in the life sciences",
       "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "published_at": "2026-11-06T00:32:57+00:00",
+      "published_at": "2026-11-06T10:22:49+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects."
     },
