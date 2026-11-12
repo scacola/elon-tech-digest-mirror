@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-11T01:08:24.173735+00:00",
-  "cutoff": "2026-11-04T01:08:21.670205+00:00",
+  "generated_at": "2026-11-12T02:11:52.679341+00:00",
+  "cutoff": "2026-11-05T02:11:50.464007+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 21
+      "count": 19
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     {
       "source": "blog_huggingface",
@@ -36,6 +36,22 @@
       "published_at": "2026-11-12T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "source": "blog_openai",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "source": "blog_openai",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published_at": "2026-11-11T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
     },
     {
       "source": "blog_openai",
@@ -63,11 +79,27 @@
     },
     {
       "source": "blog_openai",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+    },
+    {
+      "source": "blog_openai",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "published_at": "2026-11-10T07:00:00+00:00",
       "author": "",
       "lead_paragraph": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
     },
     {
       "source": "blog_openai",
@@ -150,52 +182,12 @@
       "lead_paragraph": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
     },
     {
-      "source": "blog_openai",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "published_at": "2026-11-05T02:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "published_at": "2026-11-11T15:00:15+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "published_at": "2026-11-05T00:45:15+00:00",
-      "author": "",
-      "lead_paragraph": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "url": "https://openai.com/index/franklin-templeton",
-      "published_at": "2026-11-05T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
-    },
-    {
-      "source": "blog_openai",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "published_at": "2026-11-04T14:30:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "published_at": "2026-11-04T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "published_at": "2026-11-04T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+      "lead_paragraph": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
     },
     {
       "source": "blog_deepmind",
@@ -226,6 +218,22 @@
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
       "published_at": "2026-11-05T17:05:16+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published_at": "2026-11-11T05:01:16+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "published_at": "2026-11-11T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -274,22 +282,6 @@
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "published_at": "2026-11-06T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "published_at": "2026-11-05T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "published_at": "2026-11-04T17:50:10+00:00",
       "author": "",
       "lead_paragraph": ""
     },
