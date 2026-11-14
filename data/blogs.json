@@ -1,34 +1,50 @@
 {
-  "generated_at": "2026-11-13T01:45:59.830536+00:00",
-  "cutoff": "2026-11-06T01:45:57.733503+00:00",
+  "generated_at": "2026-11-14T01:22:49.648262+00:00",
+  "cutoff": "2026-11-07T01:22:43.964763+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 4
+      "count": 15
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+    },
     {
       "source": "blog_openai",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -166,14 +182,6 @@
       "lead_paragraph": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
     },
     {
-      "source": "blog_openai",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 4 Hydrogen",
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
@@ -207,11 +215,43 @@
     },
     {
       "source": "blog_deepmind",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "published_at": "2026-11-10T11:13:04+00:00",
+      "author": "",
+      "lead_paragraph": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
+    },
+    {
+      "source": "blog_deepmind",
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
       "published_at": "2026-11-09T19:51:47+00:00",
       "author": "",
       "lead_paragraph": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published_at": "2026-11-13T18:00:39+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "published_at": "2026-11-13T17:02:35+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published_at": "2026-11-13T14:05:22+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -263,14 +303,6 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "published_at": "2026-11-09T15:05:57+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "published_at": "2026-11-09T12:34:29+00:00",
@@ -278,44 +310,124 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "published_at": "2026-11-06T14:00:48+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic is endorsing SB 53",
+      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
+      "published_at": "2026-11-13T22:37:05.632000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is endorsing SB 53, the California bill that governs powerful AI systems built by frontier AI developers like Anthropic."
     },
     {
       "source": "blog_anthropic",
-      "title": "Introducing Claude 4",
-      "url": "https://www.anthropic.com/news/claude-4",
-      "published_at": "2026-11-12T21:02:17.838000+00:00",
+      "title": "Understanding and addressing AI harms",
+      "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
+      "published_at": "2026-11-13T22:37:05.631000+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Discover Claude 4's breakthrough AI capabilities. Experience more reliable, interpretable assistance for complex tasks across work and learning."
+      "lead_paragraph": "Anthropic's framework for identifying, classifying, and mitigating potential harms from AI systems to support responsible development."
     },
     {
       "source": "blog_anthropic",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "published_at": "2026-11-12T16:11:50+00:00",
+      "title": "Anthropic update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "published_at": "2026-11-13T22:37:05.627000+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+      "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
     },
     {
       "source": "blog_anthropic",
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "url": "https://www.anthropic.com/news/roadshow-launch",
-      "published_at": "2026-11-10T11:32:16+00:00",
+      "title": "Funding third-party model evaluations",
+      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "published_at": "2026-11-13T22:37:05.626000+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock."
+      "lead_paragraph": "A new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced AI capabilities."
     },
     {
       "source": "blog_anthropic",
-      "title": "Open call for guest investigators in the life sciences",
-      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "published_at": "2026-11-06T10:22:49+00:00",
+      "title": "Protecting the wellbeing of our users",
+      "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
+      "published_at": "2026-11-13T22:37:05.622000+00:00",
       "author": "Anthropic",
-      "lead_paragraph": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects."
+      "lead_paragraph": "New safeguards include a crisis classifier that routes users to 170+ helplines worldwide and models that are far less sycophantic."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "published_at": "2026-11-13T22:37:05.618000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Improving Fable 5's safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "published_at": "2026-11-13T22:37:05.617000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Challenges in red teaming AI systems",
+      "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
+      "published_at": "2026-11-13T22:37:05.608000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "In this post we detail insights from a sample of red teaming approaches that we’ve used to test our AI systems. Through this practice, we’ve begun to gather empirical data about the appropriate tool to reach for in a given situation, and the associated benefits and challenges with each approach. We "
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Anthropic's position on the diffusion rule",
+      "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
+      "published_at": "2026-11-13T22:37:05.607000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic's recommendations for strengthening US export controls on advanced AI chips and model weights to secure America's compute advantage."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Commitments on model deprecation and preservation",
+      "url": "https://www.anthropic.com/news/deprecation-commitments",
+      "published_at": "2026-11-13T22:37:05.607000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic commits to preserving the weights of all publicly released Claude models and interviewing retiring models about their preferences."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Thoughts on America’s AI Action Plan",
+      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "published_at": "2026-11-13T22:37:05.606000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic welcomes the White House plan's infrastructure and procurement provisions and urges stronger chip export controls and transparency standards."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "A framework for AI development transparency",
+      "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
+      "published_at": "2026-11-13T22:37:05.606000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "A targeted approach to increasing transparency in frontier AI development, focusing on safety standards and accountability measures for advanced AI systems."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "U.S. elections readiness",
+      "url": "https://www.anthropic.com/news/us-elections-readiness",
+      "published_at": "2026-11-13T22:37:05.604000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "How Anthropic prepared for the 2024 US elections, from usage policy enforcement to redirecting voting queries to authoritative sources."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Economic Futures Research Fund agenda",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "published_at": "2026-11-13T22:37:05.603000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "published_at": "2026-11-13T22:37:05.598000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing."
     }
   ]
 }

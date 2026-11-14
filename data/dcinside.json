@@ -1,14 +1,14 @@
 {
   "source": "dcinside",
-  "collected_at": "2026-11-13T01:45:57.381780+00:00",
+  "collected_at": "2026-11-14T01:22:43.599910+00:00",
   "gallery": "thesingularity",
   "window": "72h",
   "items": [
     {
       "no": "1524719",
       "title": "밀레니엄 난제 해결했을 때 : 아무도 관심 없음",
-      "recommend": 109,
-      "comments": 36,
+      "recommend": 115,
+      "comments": 37,
       "author": "ㅇㅇ",
       "created_at_raw": "11.12",
       "created_at": "2026-11-12T12:00:00+09:00",
@@ -19,10 +19,24 @@
       ]
     },
     {
+      "no": "1526813",
+      "title": "태초에 용이 있었다",
+      "recommend": 115,
+      "comments": 34,
+      "author": "ㅇㅇ",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1526813",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1525534",
       "title": "AI안경 쓰고 시험보는 만화.manhwa",
-      "recommend": 79,
-      "comments": 30,
+      "recommend": 91,
+      "comments": 32,
       "author": "Black_Lilliana",
       "created_at_raw": "11.12",
       "created_at": "2026-11-12T12:00:00+09:00",
@@ -33,10 +47,24 @@
       ]
     },
     {
+      "no": "1525231",
+      "title": "지금 상황 한짤요약",
+      "recommend": 82,
+      "comments": 37,
+      "author": "CAIVS",
+      "created_at_raw": "11.12",
+      "created_at": "2026-11-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525231",
+      "body_excerpt": "",
+      "tags": [
+        "humor"
+      ]
+    },
+    {
       "no": "1525171",
       "title": "AI 안경 사태.. 그저 연전연승 명언 ㄹㅇ...",
-      "recommend": 77,
-      "comments": 36,
+      "recommend": 82,
+      "comments": 37,
       "author": "ㅇㅇ",
       "created_at_raw": "11.12",
       "created_at": "2026-11-12T12:00:00+09:00",
@@ -44,20 +72,6 @@
       "body_excerpt": "",
       "tags": [
         "ai",
-        "humor"
-      ]
-    },
-    {
-      "no": "1525231",
-      "title": "지금 상황 한짤요약",
-      "recommend": 77,
-      "comments": 35,
-      "author": "CAIVS",
-      "created_at_raw": "11.12",
-      "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525231",
-      "body_excerpt": "",
-      "tags": [
         "humor"
       ]
     },
@@ -90,31 +104,17 @@
       ]
     },
     {
-      "no": "1520114",
-      "title": "추론 혁명 오기 전에 어떻게 견뎠냐고?",
-      "recommend": 65,
-      "comments": 47,
-      "author": "ㅇㅇ",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1520114",
+      "no": "1525140",
+      "title": "GTA6 는 피라미드가 될 것 ㅋㅋ",
+      "recommend": 63,
+      "comments": 19,
+      "author": "초존도초",
+      "created_at_raw": "11.12",
+      "created_at": "2026-11-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525140",
       "body_excerpt": "",
       "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1519390",
-      "title": "정보글 퍼오는 게이들아 진짜 눈물나게 고맙다",
-      "recommend": 62,
-      "comments": 15,
-      "author": "ㅇㅇ",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519390",
-      "body_excerpt": "",
-      "tags": [
-        "general"
+        "humor"
       ]
     },
     {
@@ -132,20 +132,6 @@
       ]
     },
     {
-      "no": "1525140",
-      "title": "GTA6 는 피라미드가 될 것 ㅋㅋ",
-      "recommend": 57,
-      "comments": 19,
-      "author": "초존도초",
-      "created_at_raw": "11.12",
-      "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525140",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
       "no": "1521430",
       "title": "아직 실생활에선 ai 체감 ㅈ도 안된다는게 소름임",
       "recommend": 54,
@@ -160,6 +146,34 @@
       ]
     },
     {
+      "no": "1524639",
+      "title": "세무사 왜 이거 퍼온 애가 없지 feat.당사자근황",
+      "recommend": 54,
+      "comments": 34,
+      "author": "노뱌",
+      "created_at_raw": "11.12",
+      "created_at": "2026-11-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1524639",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1525571",
+      "title": "나 저격 당했는데?",
+      "recommend": 53,
+      "comments": 196,
+      "author": "미짱세용",
+      "created_at_raw": "11.12",
+      "created_at": "2026-11-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525571",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1521483",
       "title": "최근 한달동안 일어난 생명공학 발전",
       "recommend": 53,
@@ -168,6 +182,20 @@
       "created_at_raw": "11.11",
       "created_at": "2026-11-11T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1521483",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1526855",
+      "title": "로건 미친놈이긴 하네",
+      "recommend": 52,
+      "comments": 55,
+      "author": "즉석떡볶이",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1526855",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -188,51 +216,9 @@
       ]
     },
     {
-      "no": "1524639",
-      "title": "세무사 왜 이거 퍼온 애가 없지 feat.당사자근황",
-      "recommend": 51,
-      "comments": 33,
-      "author": "노뱌",
-      "created_at_raw": "11.12",
-      "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1524639",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1525571",
-      "title": "나 저격 당했는데?",
-      "recommend": 50,
-      "comments": 189,
-      "author": "미짱세용",
-      "created_at_raw": "11.12",
-      "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525571",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1519465",
-      "title": "특슬람은 대가리가 꽃밭이야",
-      "recommend": 50,
-      "comments": 38,
-      "author": "지젝은",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519465",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1523029",
       "title": "ai안경 의심사례 또 찾았다 ㅁㅊ",
-      "recommend": 49,
+      "recommend": 50,
       "comments": 43,
       "author": "ㅇㅇ",
       "created_at_raw": "11.12",
@@ -241,6 +227,20 @@
       "body_excerpt": "",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "no": "1528242",
+      "title": "첨단기술 갤러리라는 곳이 있었다고함",
+      "recommend": 49,
+      "comments": 41,
+      "author": "노는사람",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1528242",
+      "body_excerpt": "",
+      "tags": [
+        "general"
       ]
     },
     {
@@ -258,6 +258,20 @@
       ]
     },
     {
+      "no": "1525564",
+      "title": "바이브코딩으로 게임 만들다가 거의 1년 지남",
+      "recommend": 48,
+      "comments": 28,
+      "author": "Deepkoi",
+      "created_at_raw": "11.12",
+      "created_at": "2026-11-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525564",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
       "no": "1521753",
       "title": "어흐......어흐..",
       "recommend": 47,
@@ -272,18 +286,17 @@
       ]
     },
     {
-      "no": "1519138",
-      "title": "속보) 오픈AI 양밀스 증명 업데이트 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
+      "no": "1524706",
+      "title": "오늘 ai안경 논란에서 가장 중요한점",
       "recommend": 47,
-      "comments": 18,
+      "comments": 36,
       "author": "ㅇㅇ",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519138",
+      "created_at_raw": "11.12",
+      "created_at": "2026-11-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1524706",
       "body_excerpt": "",
       "tags": [
-        "ai",
-        "openai"
+        "ai"
       ]
     },
     {
@@ -301,45 +314,17 @@
       ]
     },
     {
-      "no": "1520073",
-      "title": "시골 특붕이 감따고왔다 ㅋㅋ",
-      "recommend": 45,
-      "comments": 43,
-      "author": "ㅇㅇ",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1520073",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1525564",
-      "title": "바이브코딩으로 게임 만들다가 거의 1년 지남",
-      "recommend": 45,
-      "comments": 27,
-      "author": "Deepkoi",
+      "no": "1524911",
+      "title": "어흐..짚쨩도 최고다..",
+      "recommend": 44,
+      "comments": 31,
+      "author": "YouWillNeverKnowWhy",
       "created_at_raw": "11.12",
       "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525564",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1524911",
       "body_excerpt": "",
       "tags": [
         "general"
-      ]
-    },
-    {
-      "no": "1524706",
-      "title": "오늘 ai안경 논란에서 가장 중요한점",
-      "recommend": 44,
-      "comments": 35,
-      "author": "ㅇㅇ",
-      "created_at_raw": "11.12",
-      "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1524706",
-      "body_excerpt": "",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -354,34 +339,6 @@
       "body_excerpt": "",
       "tags": [
         "humor"
-      ]
-    },
-    {
-      "no": "1519536",
-      "title": "이거 좀 웃기네 ㅋㅋㅋㅋ",
-      "recommend": 44,
-      "comments": 5,
-      "author": "ㅇㅇ",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519536",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
-      ]
-    },
-    {
-      "no": "1519571",
-      "title": "로건: Gemini",
-      "recommend": 43,
-      "comments": 26,
-      "author": "SINGULARITY",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519571",
-      "body_excerpt": "",
-      "tags": [
-        "general"
       ]
     },
     {
@@ -401,7 +358,7 @@
     {
       "no": "1525181",
       "title": "\"strawberry에 f가 몇 개야? 검색하지 마.\"",
-      "recommend": 42,
+      "recommend": 43,
       "comments": 18,
       "author": "ㅇㅇ",
       "created_at_raw": "11.12",
@@ -415,8 +372,8 @@
     {
       "no": "1524031",
       "title": "선형만 씨 대거 유입한 특갤 상황",
-      "recommend": 42,
-      "comments": 5,
+      "recommend": 43,
+      "comments": 4,
       "author": "ㅇㅇ",
       "created_at_raw": "11.12",
       "created_at": "2026-11-12T12:00:00+09:00",
@@ -427,31 +384,17 @@
       ]
     },
     {
-      "no": "1524911",
-      "title": "어흐..짚쨩도 최고다..",
+      "no": "1527244",
+      "title": "GPT 6.2 아스트라 펠리컨 자전거",
       "recommend": 41,
       "comments": 31,
-      "author": "YouWillNeverKnowWhy",
-      "created_at_raw": "11.12",
-      "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1524911",
+      "author": "한대남가리뚝스딱스",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1527244",
       "body_excerpt": "",
       "tags": [
-        "general"
-      ]
-    },
-    {
-      "no": "1519214",
-      "title": "변비 뚫린 기분이면 고추 ㅋㅋ",
-      "recommend": 40,
-      "comments": 28,
-      "author": "초존도초",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519214",
-      "body_excerpt": "",
-      "tags": [
-        "humor"
+        "ai"
       ]
     },
     {
@@ -469,14 +412,28 @@
       ]
     },
     {
-      "no": "1519573",
-      "title": "metr이랑 엔트로픽 스탠스 뒤바뀐 게 신기함",
-      "recommend": 40,
-      "comments": 4,
+      "no": "1526958",
+      "title": "젠슨황 날아간 이유 (음모론, 앤트로픽)",
+      "recommend": 39,
+      "comments": 32,
       "author": "ㅇㅇ",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519573",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1526958",
+      "body_excerpt": "",
+      "tags": [
+        "claude"
+      ]
+    },
+    {
+      "no": "1526925",
+      "title": "구글 \"한국 정부에 감사…한국서 구글 지도 출시 기대\"",
+      "recommend": 39,
+      "comments": 19,
+      "author": "chatgpt4o",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1526925",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -500,11 +457,53 @@
       "no": "1524883",
       "title": "\"AI에서 곧 일어날 일은 약간 미친소리처럼 들릴것\"",
       "recommend": 39,
-      "comments": 12,
+      "comments": 13,
       "author": "ㅇㅇ",
       "created_at_raw": "11.12",
       "created_at": "2026-11-12T12:00:00+09:00",
       "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1524883",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1526940",
+      "title": "룬 : ai 기업 연구원들 1년 안에 대체됨",
+      "recommend": 39,
+      "comments": 12,
+      "author": "ㅇㅇ",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1526940",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1525342",
+      "title": "메릴랜드의 한 활동가가 데센 건설 저지",
+      "recommend": 38,
+      "comments": 38,
+      "author": "경고등",
+      "created_at_raw": "11.12",
+      "created_at": "2026-11-12T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525342",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1526878",
+      "title": "구글 AI 기술 총괄 \"이제 시작,,모델 더 있다\"",
+      "recommend": 38,
+      "comments": 30,
+      "author": "ㅇㅇ",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1526878",
       "body_excerpt": "",
       "tags": [
         "ai"
@@ -525,67 +524,23 @@
       ]
     },
     {
-      "no": "1519870",
-      "title": "전 오픈AI 직원 : \"세대에 한번 있을 업적이 벤치마크가 된게 골때림\"",
+      "no": "1527104",
+      "title": "AI 안경 담론의 본질은 시험장 바깥에 있다고 봄",
       "recommend": 38,
-      "comments": 23,
-      "author": "ㅇㅇ",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519870",
-      "body_excerpt": "",
-      "tags": [
-        "ai",
-        "openai"
-      ]
-    },
-    {
-      "no": "1519381",
-      "title": "참고로 지금 페이블5.2는 3개월 전 훈련 끝난 모델임",
-      "recommend": 38,
-      "comments": 17,
-      "author": "초존도초",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519381",
+      "comments": 28,
+      "author": "트라야누스",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1527104",
       "body_excerpt": "",
       "tags": [
         "ai"
       ]
     },
     {
-      "no": "1520090",
-      "title": "앤트로픽 경영진이 교황을 설득했던 이유...jpg",
-      "recommend": 37,
-      "comments": 51,
-      "author": "수류탄이야",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1520090",
-      "body_excerpt": "",
-      "tags": [
-        "claude",
-        "humor"
-      ]
-    },
-    {
-      "no": "1525342",
-      "title": "메릴랜드의 한 활동가가 데센 건설 저지",
-      "recommend": 37,
-      "comments": 38,
-      "author": "경고등",
-      "created_at_raw": "11.12",
-      "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525342",
-      "body_excerpt": "",
-      "tags": [
-        "general"
-      ]
-    },
-    {
       "no": "1523839",
       "title": "AI 2027 저자 전원 \"2027년 초인적 AI 연구원 예측\"",
-      "recommend": 37,
+      "recommend": 38,
       "comments": 18,
       "author": "6974콜맨",
       "created_at_raw": "11.12",
@@ -611,14 +566,28 @@
       ]
     },
     {
-      "no": "1518897",
-      "title": "속보)페이블 5.2 출시!!",
+      "no": "1526996",
+      "title": "엔비디아 내부 상황 \"황 어게인!\"",
       "recommend": 36,
-      "comments": 14,
-      "author": "라익",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1518897",
+      "comments": 32,
+      "author": "제파제파",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1526996",
+      "body_excerpt": "",
+      "tags": [
+        "stocks"
+      ]
+    },
+    {
+      "no": "1526490",
+      "title": "중국 국민의 80% \"데이터 센터 건설을 지지\"",
+      "recommend": 36,
+      "comments": 20,
+      "author": "6974콜맨",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1526490",
       "body_excerpt": "",
       "tags": [
         "general"
@@ -681,39 +650,66 @@
       ]
     },
     {
-      "no": "1519596",
-      "title": "캬ㅑㅑㅑㅑㅑㅑ ㅅㅂ 변비 시원하게 뚫리노",
+      "no": "1521336",
+      "title": "완전 자동화 된 최고 수준 AI 연구원 2027년 11월 달성 예측",
       "recommend": 34,
-      "comments": 32,
+      "comments": 21,
       "author": "초존도초",
-      "created_at_raw": "11.10",
-      "created_at": "2026-11-10T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1519596",
+      "created_at_raw": "11.11",
+      "created_at": "2026-11-11T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1521336",
       "body_excerpt": "",
       "tags": [
-        "humor"
+        "ai"
       ]
     },
     {
-      "no": "1523638",
-      "title": "속보) 오픈AI 직원 트윗 ON",
+      "no": "1527682",
+      "title": "AI 작곡 노래 멜론 차트 1위 달성",
+      "recommend": 34,
+      "comments": 19,
+      "author": "ㅇㅇ",
+      "created_at_raw": "11.13",
+      "created_at": "2026-11-13T12:00:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1527682",
+      "body_excerpt": "",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "no": "1528589",
+      "title": "드와르케시 파텔 : \"초지능 타임라인 크게 수정하게됨\"",
+      "recommend": 34,
+      "comments": 17,
+      "author": "ㅇㅇ",
+      "created_at_raw": "05:47",
+      "created_at": "2026-11-14T05:47:00+09:00",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1528589",
+      "body_excerpt": "",
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "no": "1525650",
+      "title": "“더 쓸 약 없다”던 말기암에서도… 새 약 나온다",
       "recommend": 34,
       "comments": 14,
       "author": "ㅇㅇ",
       "created_at_raw": "11.12",
       "created_at": "2026-11-12T12:00:00+09:00",
-      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1523638",
+      "permalink": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1525650",
       "body_excerpt": "",
       "tags": [
-        "ai",
-        "openai"
+        "general"
       ]
     }
   ],
   "stats": {
     "total": 50,
     "list_pages_failed": 0,
-    "dropped_old": 70,
+    "dropped_old": 116,
     "dropped_unparseable": 0,
     "max_pages_scanned": 5
   }

@@ -1,167 +1,257 @@
 {
-  "generated_at": "2026-11-13T01:46:11.982991+00:00",
-  "cutoff": "2026-11-12T01:46:00.622942+00:00",
+  "generated_at": "2026-11-14T01:23:04.940390+00:00",
+  "cutoff": "2026-11-13T01:22:50.641862+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50465829,
-      "title": "Anthropic IPO",
-      "score": 819,
-      "by": "josephljohnston",
-      "comments": 805,
-      "created_at": "2026-11-12T11:46:41+00:00",
-      "url": "https://ipo.anthropic.com/us/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50465829"
+      "hn_id": 50481187,
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "score": 484,
+      "by": "__vivek",
+      "comments": 382,
+      "created_at": "2026-11-13T10:18:13+00:00",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "discussion_url": "https://news.ycombinator.com/item?id=50481187"
     },
     {
-      "hn_id": 50471431,
-      "title": "Gemini 4 Hydrogen",
-      "score": 463,
-      "by": "dvaplima",
-      "comments": 296,
-      "created_at": "2026-11-12T18:01:48+00:00",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50471431"
+      "hn_id": 50486748,
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "score": 323,
+      "by": "bookofjoe",
+      "comments": 91,
+      "created_at": "2026-11-13T17:30:10+00:00",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "discussion_url": "https://news.ycombinator.com/item?id=50486748"
     },
     {
-      "hn_id": 50472260,
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "score": 303,
-      "by": "jonbaer",
-      "comments": 72,
-      "created_at": "2026-11-12T18:52:01+00:00",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50472260"
-    },
-    {
-      "hn_id": 50468888,
-      "title": "I'm making LLMs work on small and old devices",
-      "score": 278,
-      "by": "mrashad74",
-      "comments": 95,
-      "created_at": "2026-11-12T15:23:10+00:00",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50468888"
-    },
-    {
-      "hn_id": 50474883,
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "score": 167,
-      "by": "firloop",
-      "comments": 46,
-      "created_at": "2026-11-12T21:56:11+00:00",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "discussion_url": "https://news.ycombinator.com/item?id=50474883"
-    },
-    {
-      "hn_id": 50467439,
-      "title": "Libreagi – Save OSS Models",
-      "score": 130,
-      "by": "satuke",
-      "comments": 25,
-      "created_at": "2026-11-12T14:11:58+00:00",
-      "url": "https://libreagi.com/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50467439"
-    },
-    {
-      "hn_id": 50474361,
-      "title": "Foundation Models framework",
-      "score": 126,
-      "by": "kermatt",
-      "comments": 16,
-      "created_at": "2026-11-12T21:13:26+00:00",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50474361"
-    },
-    {
-      "hn_id": 50474311,
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "score": 96,
-      "by": "anigbrowl",
-      "comments": 81,
-      "created_at": "2026-11-12T21:09:49+00:00",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50474311"
-    },
-    {
-      "hn_id": 50471650,
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "score": 75,
-      "by": "miguelrios",
-      "comments": 16,
-      "created_at": "2026-11-12T18:15:48+00:00",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "discussion_url": "https://news.ycombinator.com/item?id=50471650"
-    },
-    {
-      "hn_id": 50473868,
-      "title": "Jensen Huang Third Affair Allegations Revealed",
-      "score": 51,
+      "hn_id": 50481870,
+      "title": "AI is destroying the trust between writers and readers",
+      "score": 310,
       "by": "FinnLobsien",
-      "comments": 32,
-      "created_at": "2026-11-12T20:36:59+00:00",
-      "url": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50473868"
+      "comments": 195,
+      "created_at": "2026-11-13T11:13:46+00:00",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50481870"
     },
     {
-      "hn_id": 50472506,
-      "title": "Vibes Don't Maintain",
-      "score": 41,
-      "by": "dxs",
+      "hn_id": 50477649,
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "score": 256,
+      "by": "sjdh76",
+      "comments": 147,
+      "created_at": "2026-11-13T03:08:08+00:00",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50477649"
+    },
+    {
+      "hn_id": 50487185,
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "score": 214,
+      "by": "halcdev",
+      "comments": 35,
+      "created_at": "2026-11-13T17:55:28+00:00",
+      "url": "https://haddyalchaer.com/jepa",
+      "discussion_url": "https://news.ycombinator.com/item?id=50487185"
+    },
+    {
+      "hn_id": 50488769,
+      "title": "No AI Slop: A Manifesto",
+      "score": 183,
+      "by": "bankombinator",
+      "comments": 99,
+      "created_at": "2026-11-13T19:51:56+00:00",
+      "url": "https://www.slopmanifesto.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50488769"
+    },
+    {
+      "hn_id": 50490593,
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "score": 182,
+      "by": "mmaunder",
+      "comments": 45,
+      "created_at": "2026-11-13T22:04:24+00:00",
+      "url": "https://orcasairband.com/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50490593"
+    },
+    {
+      "hn_id": 50484960,
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "score": 164,
+      "by": "kamaraju",
+      "comments": 163,
+      "created_at": "2026-11-13T15:29:10+00:00",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "discussion_url": "https://news.ycombinator.com/item?id=50484960"
+    },
+    {
+      "hn_id": 50489652,
+      "title": "All US airports are currently ground stopped",
+      "score": 163,
+      "by": "defly",
+      "comments": 31,
+      "created_at": "2026-11-13T21:06:52+00:00",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "discussion_url": "https://news.ycombinator.com/item?id=50489652"
+    },
+    {
+      "hn_id": 50485295,
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "score": 163,
+      "by": "dvaplima",
+      "comments": 72,
+      "created_at": "2026-11-13T15:52:04+00:00",
+      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "discussion_url": "https://news.ycombinator.com/item?id=50485295"
+    },
+    {
+      "hn_id": 50487184,
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "score": 141,
+      "by": "sshah03",
+      "comments": 64,
+      "created_at": "2026-11-13T17:55:23+00:00",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50487184"
+    },
+    {
+      "hn_id": 50488464,
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "score": 94,
+      "by": "gmays",
       "comments": 20,
-      "created_at": "2026-11-12T19:06:29+00:00",
-      "url": "https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50472506"
+      "created_at": "2026-11-13T19:24:47+00:00",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "discussion_url": "https://news.ycombinator.com/item?id=50488464"
     },
     {
-      "hn_id": 50475713,
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "score": 37,
-      "by": "sroussey",
-      "comments": 12,
-      "created_at": "2026-11-12T23:06:17+00:00",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "discussion_url": "https://news.ycombinator.com/item?id=50475713"
+      "hn_id": 50491097,
+      "title": "Claude Meetings",
+      "score": 69,
+      "by": "hmokiguess",
+      "comments": 59,
+      "created_at": "2026-11-13T22:39:15+00:00",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "discussion_url": "https://news.ycombinator.com/item?id=50491097"
     },
     {
-      "hn_id": 50467880,
-      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
-      "score": 32,
-      "by": "ap11071",
-      "comments": 29,
-      "created_at": "2026-11-12T14:31:21+00:00",
-      "url": "https://yourairedlines.com",
-      "discussion_url": "https://news.ycombinator.com/item?id=50467880"
+      "hn_id": 50487469,
+      "title": "Are we just going to ignore that books are destroyed for AI?",
+      "score": 52,
+      "by": "nyxtom",
+      "comments": 45,
+      "created_at": "2026-11-13T18:14:38+00:00",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50487469"
     },
     {
-      "hn_id": 50476586,
-      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "score": 22,
-      "by": "thunderbong",
-      "comments": 2,
-      "created_at": "2026-11-13T00:38:41+00:00",
-      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-      "discussion_url": "https://news.ycombinator.com/item?id=50476586"
+      "hn_id": 50488230,
+      "title": "Ask HN: What is the state of self-hosting email in 2026?",
+      "score": 24,
+      "by": "0o777",
+      "comments": 17,
+      "created_at": "2026-11-13T19:06:06+00:00",
+      "url": "https://news.ycombinator.com/item?id=50488230",
+      "discussion_url": "https://news.ycombinator.com/item?id=50488230"
     },
     {
-      "hn_id": 50472738,
-      "title": "Relate – the agent-native graph database",
-      "score": 20,
-      "by": "jonbaer",
-      "comments": 9,
-      "created_at": "2026-11-12T19:21:00+00:00",
-      "url": "https://relatedb.ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50472738"
-    },
-    {
-      "hn_id": 50476018,
-      "title": "Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive",
-      "score": 10,
-      "by": "hn_acker",
+      "hn_id": 50492450,
+      "title": "Hawaii DOT: All West Coast flights halted by SpaceX debris after FAA ground stop",
+      "score": 21,
+      "by": "taylorfinley",
       "comments": 3,
-      "created_at": "2026-11-12T23:39:35+00:00",
-      "url": "https://www.propublica.org/article/election-challenge-forsyth-county-georgia",
-      "discussion_url": "https://news.ycombinator.com/item?id=50476018"
+      "created_at": "2026-11-14T01:09:52+00:00",
+      "url": "https://www.hawaiinewsnow.com/2026/11/14/dot-all-west-coast-flights-halted-by-spacex-debris-after-faa-ground-stop/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50492450"
+    },
+    {
+      "hn_id": 50491384,
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "score": 16,
+      "by": "brandonb",
+      "comments": 4,
+      "created_at": "2026-11-13T23:02:44+00:00",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50491384"
+    },
+    {
+      "hn_id": 50491067,
+      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+      "score": 14,
+      "by": "samizdis",
+      "comments": 2,
+      "created_at": "2026-11-13T22:37:24+00:00",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50491067"
+    },
+    {
+      "hn_id": 50491757,
+      "title": "0.5B base model trained on 60B tokens rivals Qwen3.5-2B trained on 30T+ tokens",
+      "score": 8,
+      "by": "AZDR",
+      "comments": 2,
+      "created_at": "2026-11-13T23:40:23+00:00",
+      "url": "https://huggingface.co/ArsalanZ/Nenya-2.5B-A0.5B-Base",
+      "discussion_url": "https://news.ycombinator.com/item?id=50491757"
+    },
+    {
+      "hn_id": 50486999,
+      "title": "Beating benchmarks by weight-space optimizing decision models with DSPy",
+      "score": 8,
+      "by": "dbreunig",
+      "comments": 0,
+      "created_at": "2026-11-13T17:43:26+00:00",
+      "url": "https://www.cmpnd.ai/blog/weight-space-programming-dspy.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=50486999"
+    },
+    {
+      "hn_id": 50490870,
+      "title": "Flights halted at airports across US due to air traffic control comms problems",
+      "score": 8,
+      "by": "kelnos",
+      "comments": 1,
+      "created_at": "2026-11-13T22:22:49+00:00",
+      "url": "https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8",
+      "discussion_url": "https://news.ycombinator.com/item?id=50490870"
+    },
+    {
+      "hn_id": 50492456,
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "score": 7,
+      "by": "kaycebasques",
+      "comments": 3,
+      "created_at": "2026-11-14T01:10:22+00:00",
+      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=50492456"
+    },
+    {
+      "hn_id": 50492015,
+      "title": "SpaceX Starship Flight 15 double catch has failed",
+      "score": 6,
+      "by": "PLenz",
+      "comments": 0,
+      "created_at": "2026-11-14T00:10:46+00:00",
+      "url": "https://bsky.app/profile/onemoney.bsky.social/post/3n2a3glt7bk2t",
+      "discussion_url": "https://news.ycombinator.com/item?id=50492015"
+    },
+    {
+      "hn_id": 50490618,
+      "title": "End‑to‑End 4‑Bit Training",
+      "score": 4,
+      "by": "stokedmartin",
+      "comments": 0,
+      "created_at": "2026-11-13T22:06:35+00:00",
+      "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50490618"
+    },
+    {
+      "hn_id": 50492141,
+      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "score": 3,
+      "by": "toppa33",
+      "comments": 0,
+      "created_at": "2026-11-14T00:28:11+00:00",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "discussion_url": "https://news.ycombinator.com/item?id=50492141"
     }
   ]
 }
