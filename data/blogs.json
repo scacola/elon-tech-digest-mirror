@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-15T00:54:40.445883+00:00",
-  "cutoff": "2026-11-08T00:54:34.952633+00:00",
+  "generated_at": "2026-11-16T00:53:51.143725+00:00",
+  "cutoff": "2026-11-09T00:53:45.191087+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 19
+      "count": 21
     },
     {
       "source": "blog_deepmind",
@@ -29,6 +29,22 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published_at": "2026-11-15T22:00:01+00:00",
+      "author": "",
+      "lead_paragraph": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "published_at": "2026-11-15T22:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+    },
     {
       "source": "blog_openai",
       "title": "Introducing ChatGPT Wallet",
