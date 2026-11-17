@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-16T00:53:51.143725+00:00",
-  "cutoff": "2026-11-09T00:53:45.191087+00:00",
+  "generated_at": "2026-11-17T03:32:55.136348+00:00",
+  "cutoff": "2026-11-10T03:32:49.724479+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 21
+      "count": 25
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 10
+      "count": 8
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,78 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+    },
+    {
+      "source": "blog_openai",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "published_at": "2026-11-16T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "published_at": "2026-11-16T06:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_openai",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "published_at": "2026-11-16T06:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+    },
+    {
+      "source": "blog_openai",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+    },
+    {
+      "source": "blog_openai",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
+    },
     {
       "source": "blog_openai",
       "title": "A step toward defining the Standard Model on a lattice",
@@ -158,46 +230,6 @@
       "lead_paragraph": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
     },
     {
-      "source": "blog_openai",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
-    },
-    {
-      "source": "blog_openai",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "published_at": "2026-11-09T19:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "published_at": "2026-11-09T13:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
-    },
-    {
-      "source": "blog_openai",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 4 Hydrogen",
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
@@ -238,12 +270,12 @@
       "lead_paragraph": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "published_at": "2026-11-09T19:51:47+00:00",
+      "source": "blog_huggingface",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "published_at": "2026-11-16T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -302,28 +334,60 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "published_at": "2026-11-16T20:50:34.490000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Singapore office and government MOU | Anthropic",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "published_at": "2026-11-16T20:50:09.800000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption."
     },
     {
-      "source": "blog_huggingface",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "published_at": "2026-11-09T12:34:29+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "published_at": "2026-11-16T20:46:19.203000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "published_at": "2026-11-16T20:46:07.417000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "published_at": "2026-11-16T20:45:52.106000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "published_at": "2026-11-16T20:45:37.815000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "published_at": "2026-11-16T20:44:03.790000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government o"
     },
     {
       "source": "blog_anthropic",
@@ -388,62 +452,6 @@
       "published_at": "2026-11-13T22:37:05.608000+00:00",
       "author": "Anthropic",
       "lead_paragraph": "In this post we detail insights from a sample of red teaming approaches that we’ve used to test our AI systems. Through this practice, we’ve begun to gather empirical data about the appropriate tool to reach for in a given situation, and the associated benefits and challenges with each approach. We "
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic's position on the diffusion rule",
-      "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
-      "published_at": "2026-11-13T22:37:05.607000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic's recommendations for strengthening US export controls on advanced AI chips and model weights to secure America's compute advantage."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Commitments on model deprecation and preservation",
-      "url": "https://www.anthropic.com/news/deprecation-commitments",
-      "published_at": "2026-11-13T22:37:05.607000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic commits to preserving the weights of all publicly released Claude models and interviewing retiring models about their preferences."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Thoughts on America’s AI Action Plan",
-      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
-      "published_at": "2026-11-13T22:37:05.606000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic welcomes the White House plan's infrastructure and procurement provisions and urges stronger chip export controls and transparency standards."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "A framework for AI development transparency",
-      "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
-      "published_at": "2026-11-13T22:37:05.606000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "A targeted approach to increasing transparency in frontier AI development, focusing on safety standards and accountability measures for advanced AI systems."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "U.S. elections readiness",
-      "url": "https://www.anthropic.com/news/us-elections-readiness",
-      "published_at": "2026-11-13T22:37:05.604000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "How Anthropic prepared for the 2024 US elections, from usage policy enforcement to redirecting voting queries to authoritative sources."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Economic Futures Research Fund agenda",
-      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "published_at": "2026-11-13T22:37:05.603000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "published_at": "2026-11-13T22:37:05.598000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing."
     }
   ]
 }
