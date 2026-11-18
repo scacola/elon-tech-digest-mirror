@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-17T03:32:55.136348+00:00",
-  "cutoff": "2026-11-10T03:32:49.724479+00:00",
+  "generated_at": "2026-11-18T02:49:23.275936+00:00",
+  "cutoff": "2026-11-11T02:49:18.335064+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 25
+      "count": 26
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 5
+      "count": 2
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,46 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published_at": "2026-11-17T17:45:00+00:00",
+      "author": "",
+      "lead_paragraph": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+    },
     {
       "source": "blog_openai",
       "title": "Broadening access to AI for scientists",
@@ -55,6 +95,14 @@
     },
     {
       "source": "blog_openai",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "published_at": "2026-11-16T09:30:00+00:00",
+      "author": "",
+      "lead_paragraph": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+    },
+    {
+      "source": "blog_openai",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "published_at": "2026-11-16T09:00:00+00:00",
@@ -71,19 +119,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "published_at": "2026-11-16T06:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_openai",
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "published_at": "2026-11-16T06:00:00+00:00",
       "author": "",
       "lead_paragraph": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "published_at": "2026-11-16T06:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_openai",
@@ -167,6 +215,14 @@
     },
     {
       "source": "blog_openai",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies"
+    },
+    {
+      "source": "blog_openai",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "published_at": "2026-11-12T00:00:00+00:00",
@@ -180,54 +236,6 @@
       "published_at": "2026-11-11T08:00:00+00:00",
       "author": "",
       "lead_paragraph": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    },
-    {
-      "source": "blog_openai",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published_at": "2026-11-10T12:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published_at": "2026-11-10T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "published_at": "2026-11-10T09:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "published_at": "2026-11-10T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "published_at": "2026-11-10T07:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
     },
     {
       "source": "blog_deepmind",
@@ -244,30 +252,6 @@
       "published_at": "2026-11-11T15:00:15+00:00",
       "author": "",
       "lead_paragraph": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "published_at": "2026-11-10T16:03:47+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "published_at": "2026-11-10T12:02:28+00:00",
-      "author": "",
-      "lead_paragraph": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption."
-    },
-    {
-      "source": "blog_deepmind",
-      "title": "Opening the datasets behind our AI weather models",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "published_at": "2026-11-10T11:13:04+00:00",
-      "author": "",
-      "lead_paragraph": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
     },
     {
       "source": "blog_huggingface",
@@ -326,12 +310,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Advancing Claude for Financial Services",
+      "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
+      "published_at": "2026-11-17T17:10:23.887000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Claude for Financial Services adds a native Excel plugin, real-time market connectors, and skills for modeling, comp analysis, and earnings reports."
     },
     {
       "source": "blog_anthropic",
@@ -444,14 +428,6 @@
       "published_at": "2026-11-13T22:37:05.617000+00:00",
       "author": "Anthropic",
       "lead_paragraph": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Challenges in red teaming AI systems",
-      "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
-      "published_at": "2026-11-13T22:37:05.608000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "In this post we detail insights from a sample of red teaming approaches that we’ve used to test our AI systems. Through this practice, we’ve begun to gather empirical data about the appropriate tool to reach for in a given situation, and the associated benefits and challenges with each approach. We "
     }
   ]
 }
