@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-18T02:49:23.275936+00:00",
-  "cutoff": "2026-11-11T02:49:18.335064+00:00",
+  "generated_at": "2026-11-19T02:25:00.490215+00:00",
+  "cutoff": "2026-11-12T02:24:54.424694+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 26
+      "count": 29
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 10
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,62 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "published_at": "2026-11-18T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "published_at": "2026-11-18T06:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
+    },
     {
       "source": "blog_openai",
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -206,36 +262,20 @@
       "lead_paragraph": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
     },
     {
-      "source": "blog_openai",
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "published_at": "2026-11-12T00:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "published_at": "2026-11-18T21:35:43+00:00",
       "author": "",
-      "lead_paragraph": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+      "lead_paragraph": ""
     },
     {
-      "source": "blog_openai",
-      "title": "ChatGPT Ads increases its market presence in 44 countries",
-      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
-      "published_at": "2026-11-12T00:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "published_at": "2026-11-18T18:13:42+00:00",
       "author": "",
-      "lead_paragraph": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies"
-    },
-    {
-      "source": "blog_openai",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
-    },
-    {
-      "source": "blog_openai",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "published_at": "2026-11-11T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+      "lead_paragraph": ""
     },
     {
       "source": "blog_deepmind",
@@ -246,12 +286,44 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "published_at": "2026-11-11T15:00:15+00:00",
+      "source": "blog_huggingface",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "published_at": "2026-11-18T19:54:56+00:00",
       "author": "",
-      "lead_paragraph": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "published_at": "2026-11-18T18:53:43+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "published_at": "2026-11-18T15:00:23+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -294,20 +366,28 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "published_at": "2026-11-18T23:26:25.522000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Today Anthropic, PBC priced its initial public offering of its Class A common stock."
     },
     {
-      "source": "blog_huggingface",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "published_at": "2026-11-11T05:01:16+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "published_at": "2026-11-18T21:55:37.420000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals."
+    },
+    {
+      "source": "blog_anthropic",
+      "title": "Focus areas for The Anthropic Institute",
+      "url": "https://www.anthropic.com/news/anthropic-institute-agenda",
+      "published_at": "2026-11-18T17:12:33.278000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "The Anthropic Institute investigates AI's impact on the world from within a frontier lab. Here are the questions driving its agenda."
     },
     {
       "source": "blog_anthropic",
@@ -404,30 +484,6 @@
       "published_at": "2026-11-13T22:37:05.626000+00:00",
       "author": "Anthropic",
       "lead_paragraph": "A new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced AI capabilities."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Protecting the wellbeing of our users",
-      "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
-      "published_at": "2026-11-13T22:37:05.622000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "New safeguards include a crisis classifier that routes users to 170+ helplines worldwide and models that are far less sycophantic."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "published_at": "2026-11-13T22:37:05.618000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Improving Fable 5's safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "published_at": "2026-11-13T22:37:05.617000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks."
     }
   ]
 }
