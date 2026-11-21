@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T02:09:34.714849+00:00",
-  "cutoff": "2026-11-13T02:09:29.691437+00:00",
+  "generated_at": "2026-11-21T02:03:24.873571+00:00",
+  "cutoff": "2026-11-14T02:03:20.643682+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 31
+      "count": 32
     },
     {
       "source": "blog_deepmind",
@@ -19,16 +19,40 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 15
+      "count": 12
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+    },
     {
       "source": "blog_openai",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -36,22 +60,6 @@
       "published_at": "2026-11-19T08:00:00+00:00",
       "author": "",
       "lead_paragraph": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-    },
-    {
-      "source": "blog_openai",
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
     },
     {
       "source": "blog_openai",
@@ -63,11 +71,27 @@
     },
     {
       "source": "blog_openai",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+    },
+    {
+      "source": "blog_openai",
       "title": "Get started with Daybreak Blue",
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "published_at": "2026-11-19T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
     },
     {
       "source": "blog_openai",
@@ -79,19 +103,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-    },
-    {
-      "source": "blog_openai",
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "published_at": "2026-11-18T08:00:00+00:00",
       "author": "",
       "lead_paragraph": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
     },
     {
       "source": "blog_openai",
@@ -151,19 +175,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
-    },
-    {
-      "source": "blog_openai",
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
       "published_at": "2026-11-17T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
     },
     {
       "source": "blog_openai",
@@ -262,22 +286,6 @@
       "lead_paragraph": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
     },
     {
-      "source": "blog_openai",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "published_at": "2026-11-13T15:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "published_at": "2026-11-13T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
-    },
-    {
       "source": "blog_deepmind",
       "title": "Introducing Gemini 4 Neon",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -290,6 +298,22 @@
       "title": "Genie 4 is now available",
       "url": "https://deepmind.google/blog/genie-4-is-now-available/",
       "published_at": "2026-11-18T18:13:42+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "published_at": "2026-11-20T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -342,28 +366,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "published_at": "2026-11-13T18:00:39+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "published_at": "2026-11-13T17:02:35+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "published_at": "2026-11-13T14:05:22+00:00",
-      "author": "",
-      "lead_paragraph": ""
+      "source": "blog_anthropic",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "published_at": "2026-11-20T12:41:01.161000+00:00",
+      "author": "Anthropic",
+      "lead_paragraph": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares o"
     },
     {
       "source": "blog_anthropic",
@@ -452,38 +460,6 @@
       "published_at": "2026-11-16T20:44:03.790000+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government o"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic is endorsing SB 53",
-      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
-      "published_at": "2026-11-13T22:37:05.632000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic is endorsing SB 53, the California bill that governs powerful AI systems built by frontier AI developers like Anthropic."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Understanding and addressing AI harms",
-      "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
-      "published_at": "2026-11-13T22:37:05.631000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic's framework for identifying, classifying, and mitigating potential harms from AI systems to support responsible development."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published_at": "2026-11-13T22:37:05.627000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Anthropic announces updates to embedding independent evaluators"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Funding third-party model evaluations",
-      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
-      "published_at": "2026-11-13T22:37:05.626000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "A new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced AI capabilities."
     }
   ]
 }
