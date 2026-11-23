@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22T01:04:11.703051+00:00",
-  "cutoff": "2026-11-15T01:04:07.327027+00:00",
+  "generated_at": "2026-11-23T01:30:11.033220+00:00",
+  "cutoff": "2026-11-16T01:29:55.640045+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 32
+      "count": 29
     },
     {
       "source": "blog_deepmind",
@@ -19,7 +19,7 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     {
       "source": "blog_anthropic",
@@ -29,6 +29,14 @@
     }
   ],
   "items": [
+    {
+      "source": "blog_openai",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+    },
     {
       "source": "blog_openai",
       "title": "Combatting adversarial distillation",
@@ -63,11 +71,11 @@
     },
     {
       "source": "blog_openai",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "published_at": "2026-11-19T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+      "lead_paragraph": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
     },
     {
       "source": "blog_openai",
@@ -87,11 +95,11 @@
     },
     {
       "source": "blog_openai",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "published_at": "2026-11-19T00:00:00+00:00",
       "author": "",
-      "lead_paragraph": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+      "lead_paragraph": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
     },
     {
       "source": "blog_openai",
@@ -103,19 +111,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
-    },
-    {
-      "source": "blog_openai",
       "title": "Research acceleration: The jagged frontier",
       "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "published_at": "2026-11-18T08:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    },
+    {
+      "source": "blog_openai",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
     },
     {
       "source": "blog_openai",
@@ -175,19 +183,19 @@
     },
     {
       "source": "blog_openai",
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
-    },
-    {
-      "source": "blog_openai",
       "title": "Introducing OpenAI for Chile",
       "url": "https://openai.com/index/introducing-openai-for-chile",
       "published_at": "2026-11-17T00:00:00+00:00",
       "author": "",
       "lead_paragraph": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+    },
+    {
+      "source": "blog_openai",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
     },
     {
       "source": "blog_openai",
@@ -252,38 +260,6 @@
       "published_at": "2026-11-16T06:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
-    },
-    {
-      "source": "blog_openai",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "published_at": "2026-11-16T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "At Holiday Extras, dots get to work before anyone asks",
-      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "published_at": "2026-11-16T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
-    },
-    {
-      "source": "blog_openai",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "published_at": "2026-11-15T22:00:01+00:00",
-      "author": "",
-      "lead_paragraph": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "published_at": "2026-11-15T22:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
     },
     {
       "source": "blog_deepmind",
@@ -354,14 +330,6 @@
       "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
       "url": "https://huggingface.co/blog/rumble-2-flash",
       "published_at": "2026-11-18T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
-      "published_at": "2026-11-16T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
