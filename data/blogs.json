@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-25T04:02:11.737293+00:00",
-  "cutoff": "2026-11-18T04:02:09.386750+00:00",
+  "generated_at": "2026-11-26T03:26:51.397618+00:00",
+  "cutoff": "2026-11-19T03:26:49.984227+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 22
+      "count": 13
     },
     {
       "source": "blog_deepmind",
       "url": "https://deepmind.google/blog/rss.xml",
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     {
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 4
+      "count": 1
     }
   ],
   "items": [
@@ -134,76 +134,12 @@
       "lead_paragraph": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
     },
     {
-      "source": "blog_openai",
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "published_at": "2026-11-19T00:00:00+00:00",
+      "source": "blog_deepmind",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "published_at": "2026-11-24T13:07:53+00:00",
       "author": "",
-      "lead_paragraph": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
-    },
-    {
-      "source": "blog_openai",
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "published_at": "2026-11-18T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Inside the Codex sandbox",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "published_at": "2026-11-18T06:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+      "lead_paragraph": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
     },
     {
       "source": "blog_deepmind",
@@ -214,18 +150,26 @@
       "lead_paragraph": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
     },
     {
-      "source": "blog_deepmind",
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "published_at": "2026-11-18T21:35:43+00:00",
+      "source": "blog_huggingface",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published_at": "2026-11-25T18:52:55+00:00",
       "author": "",
       "lead_paragraph": ""
     },
     {
-      "source": "blog_deepmind",
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "published_at": "2026-11-18T18:13:42+00:00",
+      "source": "blog_huggingface",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published_at": "2026-11-25T10:22:09+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "published_at": "2026-11-25T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -234,14 +178,6 @@
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
       "published_at": "2026-11-24T16:34:13+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "published_at": "2026-11-23T17:20:37+00:00",
       "author": "",
       "lead_paragraph": ""
     },
@@ -270,60 +206,12 @@
       "lead_paragraph": ""
     },
     {
-      "source": "blog_huggingface",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "published_at": "2026-11-18T19:54:56+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "published_at": "2026-11-18T18:53:43+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "published_at": "2026-11-18T15:00:23+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
       "source": "blog_anthropic",
       "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
       "url": "https://www.anthropic.com/news/ipo-close",
       "published_at": "2026-11-20T12:41:01.161000+00:00",
       "author": "Anthropic",
       "lead_paragraph": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares o"
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "published_at": "2026-11-18T23:26:25.522000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Today Anthropic, PBC priced its initial public offering of its Class A common stock."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "published_at": "2026-11-18T21:55:37.420000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals."
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Focus areas for The Anthropic Institute",
-      "url": "https://www.anthropic.com/news/anthropic-institute-agenda",
-      "published_at": "2026-11-18T17:12:33.278000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "The Anthropic Institute investigates AI's impact on the world from within a frontier lab. Here are the questions driving its agenda."
     }
   ]
 }

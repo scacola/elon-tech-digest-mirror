@@ -1,227 +1,117 @@
 {
-  "generated_at": "2026-11-25T04:02:25.292968+00:00",
-  "cutoff": "2026-11-24T04:02:12.541339+00:00",
+  "generated_at": "2026-11-26T03:27:06.977970+00:00",
+  "cutoff": "2026-11-25T03:26:52.337700+00:00",
   "window_hours": 24,
   "items": [
     {
-      "hn_id": 50627340,
-      "title": "LLM agents work for their parent companies, not for you",
-      "score": 944,
-      "by": "surprisetalk",
-      "comments": 392,
-      "created_at": "2026-11-24T12:40:15+00:00",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50627340"
+      "hn_id": 50638503,
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "score": 340,
+      "by": "arkits",
+      "comments": 77,
+      "created_at": "2026-11-25T04:31:48+00:00",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50638503"
     },
     {
-      "hn_id": 50633922,
-      "title": "Ternary Bonsai 2.5 27B",
-      "score": 375,
-      "by": "b0m",
-      "comments": 127,
-      "created_at": "2026-11-24T20:08:03+00:00",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "discussion_url": "https://news.ycombinator.com/item?id=50633922"
+      "hn_id": 50648050,
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "score": 319,
+      "by": "nb-t",
+      "comments": 147,
+      "created_at": "2026-11-25T21:48:10+00:00",
+      "url": "https://github.com/lsernau/grh-lean",
+      "discussion_url": "https://news.ycombinator.com/item?id=50648050"
     },
     {
-      "hn_id": 50627836,
-      "title": "Anthropic breaks below $83 IPO price",
-      "score": 362,
-      "by": "Betelbuddy",
-      "comments": 715,
-      "created_at": "2026-11-24T13:23:47+00:00",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "discussion_url": "https://news.ycombinator.com/item?id=50627836"
+      "hn_id": 50647673,
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "score": 239,
+      "by": "rmason",
+      "comments": 193,
+      "created_at": "2026-11-25T21:18:02+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "discussion_url": "https://news.ycombinator.com/item?id=50647673"
     },
     {
-      "hn_id": 50630594,
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "score": 271,
-      "by": "louiereederson",
-      "comments": 139,
-      "created_at": "2026-11-24T16:32:17+00:00",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "discussion_url": "https://news.ycombinator.com/item?id=50630594"
-    },
-    {
-      "hn_id": 50630809,
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "score": 235,
-      "by": "weli",
-      "comments": 174,
-      "created_at": "2026-11-24T16:45:44+00:00",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "discussion_url": "https://news.ycombinator.com/item?id=50630809"
-    },
-    {
-      "hn_id": 50634658,
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "score": 204,
-      "by": "acossta",
-      "comments": 61,
-      "created_at": "2026-11-24T21:02:22+00:00",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50634658"
-    },
-    {
-      "hn_id": 50629231,
-      "title": "A training engine for your local model, using your idle compute",
-      "score": 194,
-      "by": "bluepeter",
-      "comments": 64,
-      "created_at": "2026-11-24T15:03:40+00:00",
-      "url": "https://github.com/sous-labs/songe",
-      "discussion_url": "https://news.ycombinator.com/item?id=50629231"
-    },
-    {
-      "hn_id": 50637056,
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "score": 105,
-      "by": "smusamashah",
-      "comments": 16,
-      "created_at": "2026-11-25T00:54:49+00:00",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50637056"
-    },
-    {
-      "hn_id": 50630294,
-      "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-      "score": 88,
-      "by": "tagspace",
-      "comments": 16,
-      "created_at": "2026-11-24T16:11:52+00:00",
-      "url": "https://masondata.ai/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50630294"
-    },
-    {
-      "hn_id": 50634426,
-      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "score": 75,
-      "by": "harshithl1777",
-      "comments": 62,
-      "created_at": "2026-11-24T20:44:15+00:00",
-      "url": "https://news.ycombinator.com/item?id=50634426",
-      "discussion_url": "https://news.ycombinator.com/item?id=50634426"
-    },
-    {
-      "hn_id": 50635698,
-      "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
-      "score": 51,
-      "by": "atlun",
-      "comments": 44,
-      "created_at": "2026-11-24T22:26:41+00:00",
-      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
-      "discussion_url": "https://news.ycombinator.com/item?id=50635698"
-    },
-    {
-      "hn_id": 50637686,
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "score": 37,
-      "by": "gmays",
-      "comments": 7,
-      "created_at": "2026-11-25T02:34:21+00:00",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "discussion_url": "https://news.ycombinator.com/item?id=50637686"
-    },
-    {
-      "hn_id": 50635706,
-      "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
-      "score": 35,
-      "by": "Betelbuddy",
-      "comments": 12,
-      "created_at": "2026-11-24T22:27:19+00:00",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50635706"
-    },
-    {
-      "hn_id": 50632998,
-      "title": "Compiling web applications into verified operations for AI agents",
-      "score": 33,
-      "by": "vahagnb",
-      "comments": 12,
-      "created_at": "2026-11-24T19:12:02+00:00",
-      "url": "https://protocolis.co/paper/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50632998"
-    },
-    {
-      "hn_id": 50627131,
-      "title": "Quit Internet Videos Before AI Perfects Them",
-      "score": 33,
-      "by": "surprisetalk",
-      "comments": 13,
-      "created_at": "2026-11-24T12:20:15+00:00",
-      "url": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects",
-      "discussion_url": "https://news.ycombinator.com/item?id=50627131"
-    },
-    {
-      "hn_id": 50635246,
-      "title": "New York Ban AI Toys for 5 Years",
-      "score": 30,
-      "by": "DeepLogin",
-      "comments": 3,
-      "created_at": "2026-11-24T21:49:50+00:00",
-      "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-      "discussion_url": "https://news.ycombinator.com/item?id=50635246"
-    },
-    {
-      "hn_id": 50634815,
-      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
-      "score": 25,
-      "by": "petethomas",
-      "comments": 2,
-      "created_at": "2026-11-24T21:14:06+00:00",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026",
-      "discussion_url": "https://news.ycombinator.com/item?id=50634815"
-    },
-    {
-      "hn_id": 50634369,
-      "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows",
-      "score": 11,
-      "by": "WillieCubed",
-      "comments": 0,
-      "created_at": "2026-11-24T20:39:15+00:00",
-      "url": "https://claude.com/resources/articles/install-as-app",
-      "discussion_url": "https://news.ycombinator.com/item?id=50634369"
+      "hn_id": 50638478,
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "score": 232,
+      "by": "negura",
+      "comments": 49,
+      "created_at": "2026-11-25T04:27:55+00:00",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "discussion_url": "https://news.ycombinator.com/item?id=50638478"
     },
     {
       "hn_id": 50638220,
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "score": 7,
+      "score": 219,
       "by": "Curiositry",
-      "comments": 1,
+      "comments": 82,
       "created_at": "2026-11-25T03:47:42+00:00",
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "discussion_url": "https://news.ycombinator.com/item?id=50638220"
     },
     {
-      "hn_id": 50637871,
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "score": 5,
-      "by": "ijidak",
-      "comments": 0,
-      "created_at": "2026-11-25T03:01:36+00:00",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50637871"
+      "hn_id": 50649864,
+      "title": "Tell HN: Lots of Ask HNs again",
+      "score": 122,
+      "by": "dang",
+      "comments": 55,
+      "created_at": "2026-11-26T00:43:34+00:00",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "discussion_url": "https://news.ycombinator.com/item?id=50649864"
     },
     {
-      "hn_id": 50637866,
-      "title": "Network Researchers Nail Down Theory of 'Perfect Resilience'",
-      "score": 4,
-      "by": "ibobev",
-      "comments": 0,
-      "created_at": "2026-11-25T03:00:39+00:00",
-      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
-      "discussion_url": "https://news.ycombinator.com/item?id=50637866"
+      "hn_id": 50645074,
+      "title": "Britain's ghost stations",
+      "score": 101,
+      "by": "translocator",
+      "comments": 21,
+      "created_at": "2026-11-25T17:43:46+00:00",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50645074"
     },
     {
-      "hn_id": 50637999,
-      "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang's Return",
-      "score": 3,
-      "by": "TMWNN",
-      "comments": 0,
-      "created_at": "2026-11-25T03:19:41+00:00",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return",
-      "discussion_url": "https://news.ycombinator.com/item?id=50637999"
+      "hn_id": 50645541,
+      "title": "Multiagent coding is the future",
+      "score": 53,
+      "by": "akalin",
+      "comments": 37,
+      "created_at": "2026-11-25T18:20:11+00:00",
+      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50645541"
+    },
+    {
+      "hn_id": 50644909,
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "score": 47,
+      "by": "nephihaha",
+      "comments": 9,
+      "created_at": "2026-11-25T17:27:05+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "discussion_url": "https://news.ycombinator.com/item?id=50644909"
+    },
+    {
+      "hn_id": 50646073,
+      "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
+      "score": 16,
+      "by": "datas",
+      "comments": 7,
+      "created_at": "2026-11-25T19:08:28+00:00",
+      "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
+      "discussion_url": "https://news.ycombinator.com/item?id=50646073"
+    },
+    {
+      "hn_id": 50650842,
+      "title": "Proving a Fixed Upper Bound on Jensen's Affairs",
+      "score": 10,
+      "by": "gmays",
+      "comments": 2,
+      "created_at": "2026-11-26T02:51:40+00:00",
+      "url": "https://bitbanter.com/posts/2026-11-25/proving-a-fixed-upper-bound-on-jensens-affairs/",
+      "discussion_url": "https://news.ycombinator.com/item?id=50650842"
     }
   ]
 }
