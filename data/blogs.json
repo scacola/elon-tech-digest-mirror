@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-26T03:26:51.397618+00:00",
-  "cutoff": "2026-11-19T03:26:49.984227+00:00",
+  "generated_at": "2026-11-27T03:34:28.793298+00:00",
+  "cutoff": "2026-11-20T03:34:27.481334+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 13
+      "count": 10
     },
     {
       "source": "blog_deepmind",
@@ -110,30 +110,6 @@
       "lead_paragraph": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
     },
     {
-      "source": "blog_openai",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
-    },
-    {
-      "source": "blog_openai",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
-    },
-    {
-      "source": "blog_openai",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-    },
-    {
       "source": "blog_deepmind",
       "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
       "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
@@ -148,6 +124,30 @@
       "published_at": "2026-11-23T16:59:40+00:00",
       "author": "",
       "lead_paragraph": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published_at": "2026-11-26T11:37:17+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "published_at": "2026-11-26T05:05:36+00:00",
+      "author": "",
+      "lead_paragraph": ""
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -175,33 +175,9 @@
     },
     {
       "source": "blog_huggingface",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "published_at": "2026-11-24T16:34:13+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals",
       "published_at": "2026-11-23T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "author": "",
-      "lead_paragraph": ""
-    },
-    {
-      "source": "blog_huggingface",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "published_at": "2026-11-20T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
     },
