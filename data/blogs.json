@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T03:34:28.793298+00:00",
-  "cutoff": "2026-11-20T03:34:27.481334+00:00",
+  "generated_at": "2026-11-28T03:11:34.346750+00:00",
+  "cutoff": "2026-11-21T03:11:33.392751+00:00",
   "window_days": 7,
   "attempted": [
     {
       "source": "blog_openai",
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "source": "blog_deepmind",
@@ -19,13 +19,13 @@
       "source": "blog_huggingface",
       "url": "https://huggingface.co/blog/feed.xml",
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     {
       "source": "blog_anthropic",
       "url": "https://www.anthropic.com/sitemap.xml",
       "status": "ok (sitemap+og)",
-      "count": 1
+      "count": 0
     }
   ],
   "items": [
@@ -102,14 +102,6 @@
       "lead_paragraph": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
     },
     {
-      "source": "blog_openai",
-      "title": "Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "published_at": "2026-11-20T10:00:00+00:00",
-      "author": "",
-      "lead_paragraph": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-    },
-    {
       "source": "blog_deepmind",
       "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
       "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
@@ -124,6 +116,14 @@
       "published_at": "2026-11-23T16:59:40+00:00",
       "author": "",
       "lead_paragraph": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+    },
+    {
+      "source": "blog_huggingface",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "author": "",
+      "lead_paragraph": ""
     },
     {
       "source": "blog_huggingface",
@@ -180,14 +180,6 @@
       "published_at": "2026-11-23T00:00:00+00:00",
       "author": "",
       "lead_paragraph": ""
-    },
-    {
-      "source": "blog_anthropic",
-      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-      "url": "https://www.anthropic.com/news/ipo-close",
-      "published_at": "2026-11-20T12:41:01.161000+00:00",
-      "author": "Anthropic",
-      "lead_paragraph": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares o"
     }
   ]
 }
